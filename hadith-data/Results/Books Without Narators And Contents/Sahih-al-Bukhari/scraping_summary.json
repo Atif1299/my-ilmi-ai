@@ -1,0 +1,11 @@
+{
+  "scraping_completed_at": "2025-08-05T20:39:03.240641",
+  "total_books_attempted": 3,
+  "successful_books": 3,
+  "failed_books": 0,
+  "scraped_books": [
+    1,
+    2,
+    3
+  ]
+}

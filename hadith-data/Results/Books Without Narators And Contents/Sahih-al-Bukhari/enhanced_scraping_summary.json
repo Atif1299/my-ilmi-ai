@@ -1,0 +1,14 @@
+{
+  "scraping_completed_at": "2025-08-12T03:01:13.129423",
+  "total_books_attempted": 5,
+  "successful_books": 5,
+  "failed_books": 0,
+  "total_hadiths_missing_english": 0,
+  "scraped_books": [
+    51,
+    52,
+    53,
+    54,
+    55
+  ]
+}

@@ -108,13 +108,7 @@ async def extract_hadith_content(request: QueryRequest):
             # LLM didn't work, use manual extraction
             _, content = extract_narrators_manually(request.query)
         return {"hadith_content": content}
-    except Exception as e:
-        # Fallback to manual extraction
-        try:
-            _, content = extract_narrators_manually(request.query)
-            return {"hadith_content": content}
-        except:
-            return {"hadith_content": request.query}
+    
     except Exception as e:
         # Fallback to manual extraction
         try:
@@ -230,30 +224,32 @@ async def get_hadith_complete_info(request: QueryRequest):
     """
     Complete Analysis: Call individual working functions directly
     """
-    # Step 1: Extract narrators and content with fallback
+    # Step 1: Try direct LLM chain first
     try:
-        narrator_result = await extract_narators(request)
-        narrators = narrator_result.narrators
-        
-        # If no narrators found with LLM, try manual extraction
-        if not narrators or len(narrators) == 0:
-            manual_narrators, manual_content = extract_narrators_manually(request.query)
-            narrators = manual_narrators
-            content = manual_content
-        else:
-            # Get content from the other endpoint
-            try:
-                content_result = await extract_hadith_content(request)
-                content = content_result.hadith_content
-            except:
-                # If content extraction fails, try manual extraction
-                _, manual_content = extract_narrators_manually(request.query)
+        narrators, content = extract_narrators_chain_with_llm(request.query)
+    except Exception:
+        narrators, content = [], ""
+
+    # Step 2: If LLM chain fails → fallback to previous logic
+    if not narrators or not content or content.strip() == "" or content.strip() == request.query.strip():
+        try:
+            narrator_result = await extract_narators(request)
+            narrators = narrator_result.narrators
+
+            if not narrators or len(narrators) == 0:
+                manual_narrators, manual_content = extract_narrators_manually(request.query)
+                narrators = manual_narrators
                 content = manual_content
-                
-    except Exception as e:
-        # Fallback to manual extraction
-        narrators, content = extract_narrators_manually(request.query)
-    
+            else:
+                try:
+                    content_result = await extract_hadith_content(request)
+                    content = content_result.hadith_content
+                except:
+                    _, manual_content = extract_narrators_manually(request.query)
+                    content = manual_content
+        except:
+            narrators, content = extract_narrators_manually(request.query)
+
     # Step 2: Find related ayahs using extracted content
     try:
         search_request = QueryRequest(query=content if content != request.query else request.query)

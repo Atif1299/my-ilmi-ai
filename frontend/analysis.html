@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Complete Hadith Analysis</title>
+    <link rel="stylesheet" href="/static/common.css">
+    <link rel="stylesheet" href="/static/analysis.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="/" class="nav-brand">Islamic Knowledge Explorer ☪</a>
+            <div class="nav-links">
+                <a href="/" class="nav-link">Home</a>
+                <a href="/keywords" class="nav-link">Keywords</a>
+                <!-- <a href="/quran_search" class="nav-link">Quran Search</a> -->
+                <a href="/analysis" class="nav-link">Analysis</a>
+            </div>
+        </div>
+    </nav>
+    <main>
+        <div class="container">
+            <h2>Analyze Hadith Content</h2>
+            <p>Enter a Hadith paragraph in the text area below to perform a complete analysis.</p>
+            <textarea id="hadith-input" placeholder="Enter Hadith text here..."></textarea>
+            <button id="analyze-button">Analyze</button>
+            <div id="results-section" style="display:none;"></div>
+        </div>
+    </main>
+    <script src="/static/analysis.js"></script>
+</body>
+</html>

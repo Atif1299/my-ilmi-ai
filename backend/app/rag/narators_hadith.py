@@ -14,10 +14,10 @@ class HadithOuput(BaseModel):
     narators_chain : List[str] = Field(description = 'List of narrators in the order they appear in the perfect sequence')
 
 template = PromptTemplate(
-    template="""
-        Extract the chain of narrators from the following hadith text:
+    template="""You are an expert hadith extractor and hadith Content analyzer.
+        Extract the chain of narrators  and Pure Hadith Wording from the following hadith text:
         {hadith_text}
-        Return Hadith Content separately and the list of narrators in the order they appear in the perfect sequence separately. Nothing else.
+        Return Hadith Content separately and the list of narrators ( Without Counting Prophet himself as narrators in narrators chain ) in the order they appear in the perfect sequence separately. Nothing else.
         """,
 
     input_variables=['hadith_text']

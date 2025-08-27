@@ -1,0 +1,5762 @@
+[
+  {
+    "letter": "D",
+    "keyword_value": "DAn",
+    "keyword_text": "ض أ ن",
+    "description": "The triliteral root ḍād hamza nūn (ض أ ن) occurs only once in the Quran, as the noun ḍan (ضَّأْن). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 143,
+          "word": 4,
+          "reference": "(6:143:4)"
+        },
+        "transliteration": "l-ḍani",
+        "english_meaning": "the sheep",
+        "arabic_text": "ثَمَانِيَةَ أَزْوَاجٍ مِنَ الضَّأْنِ اثْنَيْنِ وَمِنَ الْمَعْزِ اثْنَيْنِ",
+        "highlighted_word": "الضَّأْنِ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:40:09"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "DbH",
+    "keyword_text": "ض ب ح",
+    "description": "The triliteral root ḍād bā ḥā (ض ب ح) occurs only once in the Quran, as the noun ḍabḥ (ضَبْح). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 100,
+          "verse": 1,
+          "word": 2,
+          "reference": "(100:1:2)"
+        },
+        "transliteration": "ḍabḥan",
+        "english_meaning": "panting",
+        "arabic_text": "وَالْعَادِيَاتِ ضَبْحًا",
+        "highlighted_word": "ضَبْحًا"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:40:12"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "DjE",
+    "keyword_text": "ض ج ع",
+    "description": "The triliteral root ḍād jīm ʿayn (ض ج ع) occurs three times in the Quran as the noun maḍājiʿ (مَضَاجِع). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 154,
+          "word": 62,
+          "reference": "(3:154:62)"
+        },
+        "transliteration": "maḍājiʿihim",
+        "english_meaning": "their places of death",
+        "arabic_text": "قُلْ لَوْ كُنْتُمْ فِي بُيُوتِكُمْ لَبَرَزَ الَّذِينَ كُتِبَ عَلَيْهِمُ الْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ",
+        "highlighted_word": "مَضَاجِعِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 34,
+          "word": 28,
+          "reference": "(4:34:28)"
+        },
+        "transliteration": "l-maḍājiʿi",
+        "english_meaning": "the bed",
+        "arabic_text": "فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ وَاضْرِبُوهُنَّ",
+        "highlighted_word": "الْمَضَاجِعِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 32,
+          "verse": 16,
+          "word": 4,
+          "reference": "(32:16:4)"
+        },
+        "transliteration": "l-maḍājiʿi",
+        "english_meaning": "(their) beds",
+        "arabic_text": "تَتَجَافَىٰ جُنُوبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا",
+        "highlighted_word": "الْمَضَاجِعِ"
+      }
+    ],
+    "total_occurrences": 3,
+    "scraped_at": "2025-08-19 18:40:16"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "DHk",
+    "keyword_text": "ض ح ك",
+    "description": "The triliteral root ḍād ḥā kāf (ض ح ك) occurs 10 times in the Quran, in four derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to laugh",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 82,
+          "word": 1,
+          "reference": "(9:82:1)"
+        },
+        "transliteration": "falyaḍḥakū",
+        "english_meaning": "So let them laugh",
+        "arabic_text": "فَلْيَضْحَكُوا قَلِيلًا وَلْيَبْكُوا كَثِيرًا جَزَاءً بِمَا كَانُوا يَكْسِبُونَ",
+        "highlighted_word": "فَلْيَضْحَكُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 71,
+          "word": 3,
+          "reference": "(11:71:3)"
+        },
+        "transliteration": "faḍaḥikat",
+        "english_meaning": "and she laughed",
+        "arabic_text": "وَامْرَأَتُهُ قَائِمَةٌ فَضَحِكَتْ فَبَشَّرْنَاهَا بِإِسْحَاقَ",
+        "highlighted_word": "فَضَحِكَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 110,
+          "word": 8,
+          "reference": "(23:110:8)"
+        },
+        "transliteration": "taḍḥakūna",
+        "english_meaning": "laugh",
+        "arabic_text": "وَكُنْتُمْ مِنْهُمْ تَضْحَكُونَ",
+        "highlighted_word": "تَضْحَكُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 47,
+          "word": 7,
+          "reference": "(43:47:7)"
+        },
+        "transliteration": "yaḍḥakūna",
+        "english_meaning": "laughed",
+        "arabic_text": "فَلَمَّا جَاءَهُمْ بِآيَاتِنَا إِذَا هُمْ مِنْهَا يَضْحَكُونَ",
+        "highlighted_word": "يَضْحَكُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 60,
+          "word": 1,
+          "reference": "(53:60:1)"
+        },
+        "transliteration": "wataḍḥakūna",
+        "english_meaning": "And you laugh",
+        "arabic_text": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+        "highlighted_word": "وَتَضْحَكُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 83,
+          "verse": 29,
+          "word": 8,
+          "reference": "(83:29:8)"
+        },
+        "transliteration": "yaḍḥakūna",
+        "english_meaning": "laugh",
+        "arabic_text": "إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ",
+        "highlighted_word": "يَضْحَكُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 83,
+          "verse": 34,
+          "word": 6,
+          "reference": "(83:34:6)"
+        },
+        "transliteration": "yaḍḥakūna",
+        "english_meaning": "they will laugh",
+        "arabic_text": "فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ",
+        "highlighted_word": "يَضْحَكُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 43,
+          "word": 3,
+          "reference": "(53:43:3)"
+        },
+        "transliteration": "aḍḥaka",
+        "english_meaning": "makes (one) laugh",
+        "arabic_text": "وَأَنَّهُ هُوَ أَضْحَكَ وَأَبْكَىٰ",
+        "highlighted_word": "أَضْحَكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 19,
+          "word": 2,
+          "reference": "(27:19:2)"
+        },
+        "transliteration": "ḍāḥikan",
+        "english_meaning": "laughing",
+        "arabic_text": "فَتَبَسَّمَ ضَاحِكًا مِنْ قَوْلِهَا",
+        "highlighted_word": "ضَاحِكًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 80,
+          "verse": 39,
+          "word": 1,
+          "reference": "(80:39:1)"
+        },
+        "transliteration": "ḍāḥikatun",
+        "english_meaning": "Laughing",
+        "arabic_text": "ضَاحِكَةٌ مُسْتَبْشِرَةٌ",
+        "highlighted_word": "ضَاحِكَةٌ"
+      }
+    ],
+    "total_occurrences": 10,
+    "scraped_at": "2025-08-19 18:40:20"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "DHw",
+    "keyword_text": "ض ح و",
+    "description": "The triliteral root ḍād ḥā wāw (ض ح و) occurs seven times in the Quran, in two derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to expose",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 119,
+          "word": 6,
+          "reference": "(20:119:6)"
+        },
+        "transliteration": "taḍḥā",
+        "english_meaning": "exposed to the sun's heat",
+        "arabic_text": "وَأَنَّكَ لَا تَظْمَأُ فِيهَا وَلَا تَضْحَىٰ",
+        "highlighted_word": "تَضْحَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 79,
+          "verse": 29,
+          "word": 4,
+          "reference": "(79:29:4)"
+        },
+        "transliteration": "ḍuḥāhā",
+        "english_meaning": "its brightness",
+        "arabic_text": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا",
+        "highlighted_word": "ضُحَاهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 79,
+          "verse": 46,
+          "word": 9,
+          "reference": "(79:46:9)"
+        },
+        "transliteration": "ḍuḥāhā",
+        "english_meaning": "a morning thereof",
+        "arabic_text": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ ضُحَاهَا",
+        "highlighted_word": "ضُحَاهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 91,
+          "verse": 1,
+          "word": 2,
+          "reference": "(91:1:2)"
+        },
+        "transliteration": "waḍuḥāhā",
+        "english_meaning": "and its brightness",
+        "arabic_text": "وَالشَّمْسِ وَضُحَاهَا",
+        "highlighted_word": "وَضُحَاهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 93,
+          "verse": 1,
+          "word": 1,
+          "reference": "(93:1:1)"
+        },
+        "transliteration": "wal-ḍuḥā",
+        "english_meaning": "By the morning brightness",
+        "arabic_text": "وَالضُّحَىٰ",
+        "highlighted_word": "وَالضُّحَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 98,
+          "word": 7,
+          "reference": "(7:98:7)"
+        },
+        "transliteration": "ḍuḥan",
+        "english_meaning": "(in) daylight",
+        "arabic_text": "أَوَأَمِنَ أَهْلُ الْقُرَىٰ أَنْ يَأْتِيَهُمْ بَأْسُنَا ضُحًى وَهُمْ يَلْعَبُونَ",
+        "highlighted_word": "ضُحًى"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 59,
+          "word": 8,
+          "reference": "(20:59:8)"
+        },
+        "transliteration": "ḍuḥan",
+        "english_meaning": "(at) forenoon",
+        "arabic_text": "قَالَ مَوْعِدُكُمْ يَوْمُ الزِّينَةِ وَأَنْ يُحْشَرَ النَّاسُ ضُحًى",
+        "highlighted_word": "ضُحًى"
+      }
+    ],
+    "total_occurrences": 7,
+    "scraped_at": "2025-08-19 18:40:24"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Ddd",
+    "keyword_text": "ض د د",
+    "description": "The triliteral root ḍād dāl dāl (ض د د) occurs only once in the Quran, as the noun ḍidd (ضِدّ). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 82,
+          "word": 6,
+          "reference": "(19:82:6)"
+        },
+        "transliteration": "ḍiddan",
+        "english_meaning": "opponents",
+        "arabic_text": "كَلَّا سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا",
+        "highlighted_word": "ضِدًّا"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:40:27"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Drb",
+    "keyword_text": "ض ر ب",
+    "description": "The triliteral root ḍād rā bā (ض ر ب) occurs 58 times in the Quran, in two derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to strike, to set forth",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 26,
+          "word": 6,
+          "reference": "(2:26:6)"
+        },
+        "transliteration": "yaḍriba",
+        "english_meaning": "set forth",
+        "arabic_text": "إِنَّ اللَّهَ لَا يَسْتَحْيِي أَنْ يَضْرِبَ مَثَلًا مَا بَعُوضَةً فَمَا فَوْقَهَا",
+        "highlighted_word": "يَضْرِبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 60,
+          "word": 6,
+          "reference": "(2:60:6)"
+        },
+        "transliteration": "iḍ'rib",
+        "english_meaning": "Strike",
+        "arabic_text": "وَإِذِ اسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِ فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَ",
+        "highlighted_word": "اضْرِبْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 61,
+          "word": 37,
+          "reference": "(2:61:37)"
+        },
+        "transliteration": "waḍuribat",
+        "english_meaning": "And were struck",
+        "arabic_text": "وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ وَبَاءُوا بِغَضَبٍ مِنَ اللَّهِ",
+        "highlighted_word": "وَضُرِبَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 73,
+          "word": 2,
+          "reference": "(2:73:2)"
+        },
+        "transliteration": "iḍ'ribūhu",
+        "english_meaning": "Strike him",
+        "arabic_text": "فَقُلْنَا اضْرِبُوهُ بِبَعْضِهَا كَذَٰلِكَ يُحْيِي اللَّهُ الْمَوْتَىٰ",
+        "highlighted_word": "اضْرِبُوهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 112,
+          "word": 1,
+          "reference": "(3:112:1)"
+        },
+        "transliteration": "ḍuribat",
+        "english_meaning": "Struck",
+        "arabic_text": "ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا",
+        "highlighted_word": "ضُرِبَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 112,
+          "word": 18,
+          "reference": "(3:112:18)"
+        },
+        "transliteration": "waḍuribat",
+        "english_meaning": "and struck",
+        "arabic_text": "وَبَاءُوا بِغَضَبٍ مِنَ اللَّهِ وَضُرِبَتْ عَلَيْهِمُ الْمَسْكَنَةُ",
+        "highlighted_word": "وَضُرِبَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 156,
+          "word": 11,
+          "reference": "(3:156:11)"
+        },
+        "transliteration": "ḍarabū",
+        "english_meaning": "they traveled",
+        "arabic_text": "إِذَا ضَرَبُوا فِي الْأَرْضِ أَوْ كَانُوا غُزًّى لَوْ كَانُوا عِنْدَنَا مَا مَاتُوا وَمَا قُتِلُوا",
+        "highlighted_word": "ضَرَبُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 34,
+          "word": 29,
+          "reference": "(4:34:29)"
+        },
+        "transliteration": "wa-iḍ'ribūhunna",
+        "english_meaning": "and [finally] strike them",
+        "arabic_text": "فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ وَاضْرِبُوهُنَّ",
+        "highlighted_word": "وَاضْرِبُوهُنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 94,
+          "word": 5,
+          "reference": "(4:94:5)"
+        },
+        "transliteration": "ḍarabtum",
+        "english_meaning": "you go forth",
+        "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا ضَرَبْتُمْ فِي سَبِيلِ اللَّهِ فَتَبَيَّنُوا",
+        "highlighted_word": "ضَرَبْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 101,
+          "word": 2,
+          "reference": "(4:101:2)"
+        },
+        "transliteration": "ḍarabtum",
+        "english_meaning": "you travel",
+        "arabic_text": "وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَقْصُرُوا مِنَ الصَّلَاةِ",
+        "highlighted_word": "ضَرَبْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 106,
+          "word": 22,
+          "reference": "(5:106:22)"
+        },
+        "transliteration": "ḍarabtum",
+        "english_meaning": "(are) travel(ing)",
+        "arabic_text": "إِنْ أَنْتُمْ ضَرَبْتُمْ فِي الْأَرْضِ فَأَصَابَتْكُمْ مُصِيبَةُ الْمَوْتِ",
+        "highlighted_word": "ضَرَبْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 160,
+          "word": 13,
+          "reference": "(7:160:13)"
+        },
+        "transliteration": "iḍ'rib",
+        "english_meaning": "Strike",
+        "arabic_text": "وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ إِذِ اسْتَسْقَاهُ قَوْمُهُ أَنِ اضْرِبْ بِعَصَاكَ الْحَجَرَ",
+        "highlighted_word": "اضْرِبْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 12,
+          "word": 17,
+          "reference": "(8:12:17)"
+        },
+        "transliteration": "fa-iḍ'ribū",
+        "english_meaning": "so strike",
+        "arabic_text": "فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ",
+        "highlighted_word": "فَاضْرِبُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 12,
+          "word": 20,
+          "reference": "(8:12:20)"
+        },
+        "transliteration": "wa-iḍ'ribū",
+        "english_meaning": "and strike",
+        "arabic_text": "وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ",
+        "highlighted_word": "وَاضْرِبُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 50,
+          "word": 8,
+          "reference": "(8:50:8)"
+        },
+        "transliteration": "yaḍribūna",
+        "english_meaning": "striking",
+        "arabic_text": "وَلَوْ تَرَىٰ إِذْ يَتَوَفَّى الَّذِينَ كَفَرُوا الْمَلَائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ",
+        "highlighted_word": "يَضْرِبُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 17,
+          "word": 24,
+          "reference": "(13:17:24)"
+        },
+        "transliteration": "yaḍribu",
+        "english_meaning": "sets forth",
+        "arabic_text": "كَذَٰلِكَ يَضْرِبُ اللَّهُ الْحَقَّ وَالْبَاطِلَ",
+        "highlighted_word": "يَضْرِبُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 17,
+          "word": 40,
+          "reference": "(13:17:40)"
+        },
+        "transliteration": "yaḍribu",
+        "english_meaning": "Allah sets forth",
+        "arabic_text": "كَذَٰلِكَ يَضْرِبُ اللَّهُ الْأَمْثَالَ",
+        "highlighted_word": "يَضْرِبُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 24,
+          "word": 4,
+          "reference": "(14:24:4)"
+        },
+        "transliteration": "ḍaraba",
+        "english_meaning": "Allah sets forth",
+        "arabic_text": "أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ",
+        "highlighted_word": "ضَرَبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 25,
+          "word": 7,
+          "reference": "(14:25:7)"
+        },
+        "transliteration": "wayaḍribu",
+        "english_meaning": "And Allah sets forth",
+        "arabic_text": "وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+        "highlighted_word": "وَيَضْرِبُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 45,
+          "word": 12,
+          "reference": "(14:45:12)"
+        },
+        "transliteration": "waḍarabnā",
+        "english_meaning": "and We put forth",
+        "arabic_text": "وَتَبَيَّنَ لَكُمْ كَيْفَ فَعَلْنَا بِهِمْ وَضَرَبْنَا لَكُمُ الْأَمْثَالَ",
+        "highlighted_word": "وَضَرَبْنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 74,
+          "word": 2,
+          "reference": "(16:74:2)"
+        },
+        "transliteration": "taḍribū",
+        "english_meaning": "put forth",
+        "arabic_text": "فَلَا تَضْرِبُوا لِلَّهِ الْأَمْثَالَ إِنَّ اللَّهَ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+        "highlighted_word": "تَضْرِبُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 75,
+          "word": 1,
+          "reference": "(16:75:1)"
+        },
+        "transliteration": "ḍaraba",
+        "english_meaning": "Allah sets forth",
+        "arabic_text": "ضَرَبَ اللَّهُ مَثَلًا عَبْدًا مَمْلُوكًا لَا يَقْدِرُ عَلَىٰ شَيْءٍ",
+        "highlighted_word": "ضَرَبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 76,
+          "word": 1,
+          "reference": "(16:76:1)"
+        },
+        "transliteration": "waḍaraba",
+        "english_meaning": "And Allah sets forth",
+        "arabic_text": "وَضَرَبَ اللَّهُ مَثَلًا رَجُلَيْنِ أَحَدُهُمَا أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَيْءٍ",
+        "highlighted_word": "وَضَرَبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 112,
+          "word": 1,
+          "reference": "(16:112:1)"
+        },
+        "transliteration": "waḍaraba",
+        "english_meaning": "And Allah sets forth",
+        "arabic_text": "وَضَرَبَ اللَّهُ مَثَلًا قَرْيَةً كَانَتْ آمِنَةً مُطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا",
+        "highlighted_word": "وَضَرَبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 48,
+          "word": 3,
+          "reference": "(17:48:3)"
+        },
+        "transliteration": "ḍarabū",
+        "english_meaning": "they put forth",
+        "arabic_text": "انْظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+        "highlighted_word": "ضَرَبُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 11,
+          "word": 1,
+          "reference": "(18:11:1)"
+        },
+        "transliteration": "faḍarabnā",
+        "english_meaning": "So We cast",
+        "arabic_text": "فَضَرَبْنَا عَلَىٰ آذَانِهِمْ فِي الْكَهْفِ سِنِينَ عَدَدًا",
+        "highlighted_word": "فَضَرَبْنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 32,
+          "word": 1,
+          "reference": "(18:32:1)"
+        },
+        "transliteration": "wa-iḍ'rib",
+        "english_meaning": "And set forth",
+        "arabic_text": "وَاضْرِبْ لَهُمْ مَثَلًا رَجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ مِنْ أَعْنَابٍ",
+        "highlighted_word": "وَاضْرِبْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 45,
+          "word": 1,
+          "reference": "(18:45:1)"
+        },
+        "transliteration": "wa-iḍ'rib",
+        "english_meaning": "And present",
+        "arabic_text": "وَاضْرِبْ لَهُمْ مَثَلَ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنْزَلْنَاهُ مِنَ السَّمَاءِ",
+        "highlighted_word": "وَاضْرِبْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 77,
+          "word": 8,
+          "reference": "(20:77:8)"
+        },
+        "transliteration": "fa-iḍ'rib",
+        "english_meaning": "and strike",
+        "arabic_text": "أَنْ أَسْرِ بِعِبَادِي فَاضْرِبْ لَهُمْ طَرِيقًا فِي الْبَحْرِ يَبَسًا",
+        "highlighted_word": "فَاضْرِبْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 73,
+          "word": 3,
+          "reference": "(22:73:3)"
+        },
+        "transliteration": "ḍuriba",
+        "english_meaning": "Is set forth",
+        "arabic_text": "يَا أَيُّهَا النَّاسُ ضُرِبَ مَثَلٌ فَاسْتَمِعُوا لَهُ",
+        "highlighted_word": "ضُرِبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 31,
+          "word": 15,
+          "reference": "(24:31:15)"
+        },
+        "transliteration": "walyaḍrib'na",
+        "english_meaning": "And let them draw",
+        "arabic_text": "وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ",
+        "highlighted_word": "وَلْيَضْرِبْنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 31,
+          "word": 64,
+          "reference": "(24:31:64)"
+        },
+        "transliteration": "yaḍrib'na",
+        "english_meaning": "let them stamp",
+        "arabic_text": "وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِنْ زِينَتِهِنَّ",
+        "highlighted_word": "يَضْرِبْنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 35,
+          "word": 41,
+          "reference": "(24:35:41)"
+        },
+        "transliteration": "wayaḍribu",
+        "english_meaning": "And Allah sets forth",
+        "arabic_text": "وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "highlighted_word": "وَيَضْرِبُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 9,
+          "word": 3,
+          "reference": "(25:9:3)"
+        },
+        "transliteration": "ḍarabū",
+        "english_meaning": "they set forth",
+        "arabic_text": "انْظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+        "highlighted_word": "ضَرَبُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 39,
+          "word": 2,
+          "reference": "(25:39:2)"
+        },
+        "transliteration": "ḍarabnā",
+        "english_meaning": "We have set forth",
+        "arabic_text": "وَكُلًّا ضَرَبْنَا لَهُ الْأَمْثَالَ وَكُلًّا تَبَّرْنَا تَتْبِيرًا",
+        "highlighted_word": "ضَرَبْنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 63,
+          "word": 5,
+          "reference": "(26:63:5)"
+        },
+        "transliteration": "iḍ'rib",
+        "english_meaning": "Strike",
+        "arabic_text": "فَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنِ اضْرِبْ بِعَصَاكَ الْبَحْرَ",
+        "highlighted_word": "اضْرِبْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 43,
+          "word": 3,
+          "reference": "(29:43:3)"
+        },
+        "transliteration": "naḍribuhā",
+        "english_meaning": "We set forth",
+        "arabic_text": "وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ وَمَا يَعْقِلُهَا إِلَّا الْعَالِمُونَ",
+        "highlighted_word": "نَضْرِبُهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 28,
+          "word": 1,
+          "reference": "(30:28:1)"
+        },
+        "transliteration": "ḍaraba",
+        "english_meaning": "He sets forth",
+        "arabic_text": "ضَرَبَ لَكُمْ مَثَلًا مِنْ أَنْفُسِكُمْ",
+        "highlighted_word": "ضَرَبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 58,
+          "word": 2,
+          "reference": "(30:58:2)"
+        },
+        "transliteration": "ḍarabnā",
+        "english_meaning": "We (have) set forth",
+        "arabic_text": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَٰذَا الْقُرْآنِ مِنْ كُلِّ مَثَلٍ",
+        "highlighted_word": "ضَرَبْنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 13,
+          "word": 1,
+          "reference": "(36:13:1)"
+        },
+        "transliteration": "wa-iḍ'rib",
+        "english_meaning": "And set forth",
+        "arabic_text": "وَاضْرِبْ لَهُمْ مَثَلًا أَصْحَابَ الْقَرْيَةِ إِذْ جَاءَهَا الْمُرْسَلُونَ",
+        "highlighted_word": "وَاضْرِبْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 78,
+          "word": 1,
+          "reference": "(36:78:1)"
+        },
+        "transliteration": "waḍaraba",
+        "english_meaning": "And he sets forth",
+        "arabic_text": "وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ",
+        "highlighted_word": "وَضَرَبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 44,
+          "word": 4,
+          "reference": "(38:44:4)"
+        },
+        "transliteration": "fa-iḍ'rib",
+        "english_meaning": "and strike",
+        "arabic_text": "وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِبْ بِهِ وَلَا تَحْنَثْ",
+        "highlighted_word": "فَاضْرِبْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 27,
+          "word": 2,
+          "reference": "(39:27:2)"
+        },
+        "transliteration": "ḍarabnā",
+        "english_meaning": "We have set forth",
+        "arabic_text": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَٰذَا الْقُرْآنِ مِنْ كُلِّ مَثَلٍ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+        "highlighted_word": "ضَرَبْنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 29,
+          "word": 1,
+          "reference": "(39:29:1)"
+        },
+        "transliteration": "ḍaraba",
+        "english_meaning": "Allah sets forth",
+        "arabic_text": "ضَرَبَ اللَّهُ مَثَلًا رَجُلًا فِيهِ شُرَكَاءُ مُتَشَاكِسُونَ",
+        "highlighted_word": "ضَرَبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 5,
+          "word": 1,
+          "reference": "(43:5:1)"
+        },
+        "transliteration": "afanaḍribu",
+        "english_meaning": "Then should We take away",
+        "arabic_text": "أَفَنَضْرِبُ عَنْكُمُ الذِّكْرَ صَفْحًا أَنْ كُنْتُمْ قَوْمًا مُسْرِفِينَ",
+        "highlighted_word": "أَفَنَضْرِبُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 17,
+          "word": 5,
+          "reference": "(43:17:5)"
+        },
+        "transliteration": "ḍaraba",
+        "english_meaning": "he sets up",
+        "arabic_text": "وَإِذَا بُشِّرَ أَحَدُهُمْ بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًا ظَلَّ وَجْهُهُ مُسْوَدًّا",
+        "highlighted_word": "ضَرَبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 57,
+          "word": 2,
+          "reference": "(43:57:2)"
+        },
+        "transliteration": "ḍuriba",
+        "english_meaning": "is presented",
+        "arabic_text": "وَلَمَّا ضُرِبَ ابْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ",
+        "highlighted_word": "ضُرِبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 58,
+          "word": 7,
+          "reference": "(43:58:7)"
+        },
+        "transliteration": "ḍarabūhu",
+        "english_meaning": "they present it",
+        "arabic_text": "وَقَالُوا أَآلِهَتُنَا خَيْرٌ أَمْ هُوَ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًا",
+        "highlighted_word": "ضَرَبُوهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 3,
+          "word": 15,
+          "reference": "(47:3:15)"
+        },
+        "transliteration": "yaḍribu",
+        "english_meaning": "Allah presents",
+        "arabic_text": "كَذَٰلِكَ يَضْرِبُ اللَّهُ لِلنَّاسِ أَمْثَالَهُمْ",
+        "highlighted_word": "يَضْرِبُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 27,
+          "word": 5,
+          "reference": "(47:27:5)"
+        },
+        "transliteration": "yaḍribūna",
+        "english_meaning": "striking",
+        "arabic_text": "فَكَيْفَ إِذَا تَوَفَّتْهُمُ الْمَلَائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ",
+        "highlighted_word": "يَضْرِبُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 57,
+          "verse": 13,
+          "word": 16,
+          "reference": "(57:13:16)"
+        },
+        "transliteration": "faḍuriba",
+        "english_meaning": "Then will be put up",
+        "arabic_text": "فَضُرِبَ بَيْنَهُمْ بِسُورٍ لَهُ بَابٌ بَاطِنُهُ فِيهِ الرَّحْمَةُ",
+        "highlighted_word": "فَضُرِبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 59,
+          "verse": 21,
+          "word": 15,
+          "reference": "(59:21:15)"
+        },
+        "transliteration": "naḍribuhā",
+        "english_meaning": "We present them",
+        "arabic_text": "وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+        "highlighted_word": "نَضْرِبُهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 66,
+          "verse": 10,
+          "word": 1,
+          "reference": "(66:10:1)"
+        },
+        "transliteration": "ḍaraba",
+        "english_meaning": "Presents",
+        "arabic_text": "ضَرَبَ اللَّهُ مَثَلًا لِلَّذِينَ كَفَرُوا امْرَأَتَ نُوحٍ وَامْرَأَتَ لُوطٍ",
+        "highlighted_word": "ضَرَبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 66,
+          "verse": 11,
+          "word": 1,
+          "reference": "(66:11:1)"
+        },
+        "transliteration": "waḍaraba",
+        "english_meaning": "And presents",
+        "arabic_text": "وَضَرَبَ اللَّهُ مَثَلًا لِلَّذِينَ آمَنُوا امْرَأَتَ فِرْعَوْنَ",
+        "highlighted_word": "وَضَرَبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 73,
+          "verse": 20,
+          "word": 37,
+          "reference": "(73:20:37)"
+        },
+        "transliteration": "yaḍribūna",
+        "english_meaning": "traveling",
+        "arabic_text": "وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللَّهِ",
+        "highlighted_word": "يَضْرِبُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 273,
+          "word": 9,
+          "reference": "(2:273:9)"
+        },
+        "transliteration": "ḍarban",
+        "english_meaning": "(to) move about",
+        "arabic_text": "لِلْفُقَرَاءِ الَّذِينَ أُحْصِرُوا فِي سَبِيلِ اللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِي الْأَرْضِ",
+        "highlighted_word": "ضَرْبًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 93,
+          "word": 3,
+          "reference": "(37:93:3)"
+        },
+        "transliteration": "ḍarban",
+        "english_meaning": "striking",
+        "arabic_text": "فَرَاغَ عَلَيْهِمْ ضَرْبًا بِالْيَمِينِ",
+        "highlighted_word": "ضَرْبًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 4,
+          "word": 5,
+          "reference": "(47:4:5)"
+        },
+        "transliteration": "faḍarba",
+        "english_meaning": "then strike",
+        "arabic_text": "فَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ",
+        "highlighted_word": "فَضَرْبَ"
+      }
+    ],
+    "total_occurrences": 58,
+    "scraped_at": "2025-08-19 18:40:31"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Drr",
+    "keyword_text": "ض ر ر",
+    "description": "The triliteral root ḍād rā rā (ض ر ر) occurs 74 times in the Quran, in 11 derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to harm",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 102,
+          "word": 54,
+          "reference": "(2:102:54)"
+        },
+        "transliteration": "yaḍurruhum",
+        "english_meaning": "harms them",
+        "arabic_text": "وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ",
+        "highlighted_word": "يَضُرُّهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 111,
+          "word": 2,
+          "reference": "(3:111:2)"
+        },
+        "transliteration": "yaḍurrūkum",
+        "english_meaning": "will they harm you",
+        "arabic_text": "لَنْ يَضُرُّوكُمْ إِلَّا أَذًى وَإِنْ يُقَاتِلُوكُمْ يُوَلُّوكُمُ الْأَدْبَارَ",
+        "highlighted_word": "يَضُرُّوكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 120,
+          "word": 14,
+          "reference": "(3:120:14)"
+        },
+        "transliteration": "yaḍurrukum",
+        "english_meaning": "will harm you",
+        "arabic_text": "وَإِنْ تَصْبِرُوا وَتَتَّقُوا لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْئًا",
+        "highlighted_word": "يَضُرُّكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 144,
+          "word": 22,
+          "reference": "(3:144:22)"
+        },
+        "transliteration": "yaḍurra",
+        "english_meaning": "will he harm",
+        "arabic_text": "وَمَنْ يَنْقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَنْ يَضُرَّ اللَّهَ شَيْئًا",
+        "highlighted_word": "يَضُرَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 176,
+          "word": 9,
+          "reference": "(3:176:9)"
+        },
+        "transliteration": "yaḍurrū",
+        "english_meaning": "will harm",
+        "arabic_text": "إِنَّهُمْ لَنْ يَضُرُّوا اللَّهَ شَيْئًا",
+        "highlighted_word": "يَضُرُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 177,
+          "word": 7,
+          "reference": "(3:177:7)"
+        },
+        "transliteration": "yaḍurrū",
+        "english_meaning": "will they harm",
+        "arabic_text": "إِنَّ الَّذِينَ اشْتَرَوُا الْكُفْرَ بِالْإِيمَانِ لَنْ يَضُرُّوا اللَّهَ شَيْئًا",
+        "highlighted_word": "يَضُرُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 113,
+          "word": 16,
+          "reference": "(4:113:16)"
+        },
+        "transliteration": "yaḍurrūnaka",
+        "english_meaning": "they will harm you",
+        "arabic_text": "وَمَا يُضِلُّونَ إِلَّا أَنْفُسَهُمْ وَمَا يَضُرُّونَكَ مِنْ شَيْءٍ",
+        "highlighted_word": "يَضُرُّونَكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 42,
+          "word": 16,
+          "reference": "(5:42:16)"
+        },
+        "transliteration": "yaḍurrūka",
+        "english_meaning": "will they harm you",
+        "arabic_text": "وَإِنْ تُعْرِضْ عَنْهُمْ فَلَنْ يَضُرُّوكَ شَيْئًا",
+        "highlighted_word": "يَضُرُّوكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 105,
+          "word": 7,
+          "reference": "(5:105:7)"
+        },
+        "transliteration": "yaḍurrukum",
+        "english_meaning": "will harm you",
+        "arabic_text": "عَلَيْكُمْ أَنْفُسَكُمْ لَا يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ",
+        "highlighted_word": "يَضُرُّكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 71,
+          "word": 10,
+          "reference": "(6:71:10)"
+        },
+        "transliteration": "yaḍurrunā",
+        "english_meaning": "harms us",
+        "arabic_text": "قُلْ أَنَدْعُو مِنْ دُونِ اللَّهِ مَا لَا يَنْفَعُنَا وَلَا يَضُرُّنَا",
+        "highlighted_word": "يَضُرُّنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 39,
+          "word": 10,
+          "reference": "(9:39:10)"
+        },
+        "transliteration": "taḍurrūhu",
+        "english_meaning": "you can harm Him",
+        "arabic_text": "وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ شَيْئًا",
+        "highlighted_word": "تَضُرُّوهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 18,
+          "word": 7,
+          "reference": "(10:18:7)"
+        },
+        "transliteration": "yaḍurruhum",
+        "english_meaning": "harm them",
+        "arabic_text": "وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ",
+        "highlighted_word": "يَضُرُّهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 106,
+          "word": 10,
+          "reference": "(10:106:10)"
+        },
+        "transliteration": "yaḍurruka",
+        "english_meaning": "harm you",
+        "arabic_text": "وَلَا تَدْعُ مِنْ دُونِ اللَّهِ مَا لَا يَنْفَعُكَ وَلَا يَضُرُّكَ",
+        "highlighted_word": "يَضُرُّكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 57,
+          "word": 14,
+          "reference": "(11:57:14)"
+        },
+        "transliteration": "taḍurrūnahu",
+        "english_meaning": "you will harm Him",
+        "arabic_text": "وَيَسْتَخْلِفُ رَبِّي قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّونَهُ شَيْئًا",
+        "highlighted_word": "تَضُرُّونَهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 66,
+          "word": 11,
+          "reference": "(21:66:11)"
+        },
+        "transliteration": "yaḍurrukum",
+        "english_meaning": "harms you",
+        "arabic_text": "قَالَ أَفَتَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَنْفَعُكُمْ شَيْئًا وَلَا يَضُرُّكُمْ",
+        "highlighted_word": "يَضُرُّكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 12,
+          "word": 7,
+          "reference": "(22:12:7)"
+        },
+        "transliteration": "yaḍurruhu",
+        "english_meaning": "harms him",
+        "arabic_text": "يَدْعُو مِنْ دُونِ اللَّهِ مَا لَا يَضُرُّهُ وَمَا لَا يَنْفَعُهُ",
+        "highlighted_word": "يَضُرُّهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 55,
+          "word": 9,
+          "reference": "(25:55:9)"
+        },
+        "transliteration": "yaḍurruhum",
+        "english_meaning": "harms them",
+        "arabic_text": "وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَنْفَعُهُمْ وَلَا يَضُرُّهُمْ",
+        "highlighted_word": "يَضُرُّهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 73,
+          "word": 4,
+          "reference": "(26:73:4)"
+        },
+        "transliteration": "yaḍurrūna",
+        "english_meaning": "they harm (you)",
+        "arabic_text": "أَوْ يَنْفَعُونَكُمْ أَوْ يَضُرُّونَ",
+        "highlighted_word": "يَضُرُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 32,
+          "word": 17,
+          "reference": "(47:32:17)"
+        },
+        "transliteration": "yaḍurrū",
+        "english_meaning": "will they harm",
+        "arabic_text": "وَشَاقُّوا الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَىٰ لَنْ يَضُرُّوا اللَّهَ شَيْئًا",
+        "highlighted_word": "يَضُرُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 233,
+          "word": 23,
+          "reference": "(2:233:23)"
+        },
+        "transliteration": "tuḍārra",
+        "english_meaning": "made to suffer",
+        "arabic_text": "لَا تُضَارَّ وَالِدَةٌ بِوَلَدِهَا وَلَا مَوْلُودٌ لَهُ بِوَلَدِهِ",
+        "highlighted_word": "تُضَارَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 282,
+          "word": 112,
+          "reference": "(2:282:112)"
+        },
+        "transliteration": "yuḍārra",
+        "english_meaning": "(should) be harmed",
+        "arabic_text": "وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ وَلَا يُضَارَّ كَاتِبٌ وَلَا شَهِيدٌ",
+        "highlighted_word": "يُضَارَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 65,
+          "verse": 6,
+          "word": 8,
+          "reference": "(65:6:8)"
+        },
+        "transliteration": "tuḍārrūhunna",
+        "english_meaning": "harm them",
+        "arabic_text": "وَلَا تُضَارُّوهُنَّ لِتُضَيِّقُوا عَلَيْهِنَّ",
+        "highlighted_word": "تُضَارُّوهُنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 126,
+          "word": 25,
+          "reference": "(2:126:25)"
+        },
+        "transliteration": "aḍṭarruhu",
+        "english_meaning": "I will force him",
+        "arabic_text": "وَمَنْ كَفَرَ فَأُمَتِّعُهُ قَلِيلًا ثُمَّ أَضْطَرُّهُ إِلَىٰ عَذَابِ النَّارِ",
+        "highlighted_word": "أَضْطَرُّهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 173,
+          "word": 14,
+          "reference": "(2:173:14)"
+        },
+        "transliteration": "uḍ'ṭurra",
+        "english_meaning": "(is) forced by necessity",
+        "arabic_text": "فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَا إِثْمَ عَلَيْهِ",
+        "highlighted_word": "اضْطُرَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 3,
+          "word": 52,
+          "reference": "(5:3:52)"
+        },
+        "transliteration": "uḍ'ṭurra",
+        "english_meaning": "(is) forced",
+        "arabic_text": "فَمَنِ اضْطُرَّ فِي مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِإِثْمٍ فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+        "highlighted_word": "اضْطُرَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 119,
+          "word": 18,
+          "reference": "(6:119:18)"
+        },
+        "transliteration": "uḍ'ṭurir'tum",
+        "english_meaning": "you are compelled",
+        "arabic_text": "وَقَدْ فَصَّلَ لَكُمْ مَا حَرَّمَ عَلَيْكُمْ إِلَّا مَا اضْطُرِرْتُمْ إِلَيْهِ",
+        "highlighted_word": "اضْطُرِرْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 145,
+          "word": 31,
+          "reference": "(6:145:31)"
+        },
+        "transliteration": "uḍ'ṭurra",
+        "english_meaning": "(is) compelled",
+        "arabic_text": "فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَحِيمٌ",
+        "highlighted_word": "اضْطُرَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 115,
+          "word": 14,
+          "reference": "(16:115:14)"
+        },
+        "transliteration": "uḍ'ṭurra",
+        "english_meaning": "(is) forced",
+        "arabic_text": "فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+        "highlighted_word": "اضْطُرَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 31,
+          "verse": 24,
+          "word": 4,
+          "reference": "(31:24:4)"
+        },
+        "transliteration": "naḍṭarruhum",
+        "english_meaning": "We will force them",
+        "arabic_text": "نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍ",
+        "highlighted_word": "نَضْطَرُّهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 76,
+          "word": 10,
+          "reference": "(5:76:10)"
+        },
+        "transliteration": "ḍarran",
+        "english_meaning": "any harm",
+        "arabic_text": "قُلْ أَتَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّا وَلَا نَفْعًا",
+        "highlighted_word": "ضَرًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 188,
+          "word": 7,
+          "reference": "(7:188:7)"
+        },
+        "transliteration": "ḍarran",
+        "english_meaning": "(power to) harm",
+        "arabic_text": "قُلْ لَا أَمْلِكُ لِنَفْسِي نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَاءَ اللَّهُ",
+        "highlighted_word": "ضَرًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 49,
+          "word": 5,
+          "reference": "(10:49:5)"
+        },
+        "transliteration": "ḍarran",
+        "english_meaning": "(for) any harm",
+        "arabic_text": "قُلْ لَا أَمْلِكُ لِنَفْسِي ضَرًّا وَلَا نَفْعًا إِلَّا مَا شَاءَ اللَّهُ",
+        "highlighted_word": "ضَرًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 16,
+          "word": 18,
+          "reference": "(13:16:18)"
+        },
+        "transliteration": "ḍarran",
+        "english_meaning": "(to) harm",
+        "arabic_text": "قُلْ أَفَاتَّخَذْتُمْ مِنْ دُونِهِ أَوْلِيَاءَ لَا يَمْلِكُونَ لِأَنْفُسِهِمْ نَفْعًا وَلَا ضَرًّا",
+        "highlighted_word": "ضَرًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 89,
+          "word": 10,
+          "reference": "(20:89:10)"
+        },
+        "transliteration": "ḍarran",
+        "english_meaning": "any harm",
+        "arabic_text": "أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا",
+        "highlighted_word": "ضَرًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 13,
+          "word": 3,
+          "reference": "(22:13:3)"
+        },
+        "transliteration": "ḍarruhu",
+        "english_meaning": "his harm",
+        "arabic_text": "يَدْعُو لَمَنْ ضَرُّهُ أَقْرَبُ مِنْ نَفْعِهِ",
+        "highlighted_word": "ضَرُّهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 3,
+          "word": 13,
+          "reference": "(25:3:13)"
+        },
+        "transliteration": "ḍarran",
+        "english_meaning": "any harm",
+        "arabic_text": "وَلَا يَمْلِكُونَ لِأَنْفُسِهِمْ ضَرًّا وَلَا نَفْعًا",
+        "highlighted_word": "ضَرًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 42,
+          "word": 8,
+          "reference": "(34:42:8)"
+        },
+        "transliteration": "ḍarran",
+        "english_meaning": "to harm",
+        "arabic_text": "فَالْيَوْمَ لَا يَمْلِكُ بَعْضُكُمْ لِبَعْضٍ نَفْعًا وَلَا ضَرًّا",
+        "highlighted_word": "ضَرًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 11,
+          "word": 27,
+          "reference": "(48:11:27)"
+        },
+        "transliteration": "ḍarran",
+        "english_meaning": "harm",
+        "arabic_text": "قُلْ فَمَنْ يَمْلِكُ لَكُمْ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًا",
+        "highlighted_word": "ضَرًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 72,
+          "verse": 21,
+          "word": 6,
+          "reference": "(72:21:6)"
+        },
+        "transliteration": "ḍarran",
+        "english_meaning": "any harm",
+        "arabic_text": "قُلْ إِنِّي لَا أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا",
+        "highlighted_word": "ضَرًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 17,
+          "word": 4,
+          "reference": "(6:17:4)"
+        },
+        "transliteration": "biḍurrin",
+        "english_meaning": "with affliction",
+        "arabic_text": "وَإِنْ يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ",
+        "highlighted_word": "بِضُرٍّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 12,
+          "word": 4,
+          "reference": "(10:12:4)"
+        },
+        "transliteration": "l-ḍuru",
+        "english_meaning": "the affliction",
+        "arabic_text": "وَإِذَا مَسَّ الْإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ أَوْ قَاعِدًا أَوْ قَائِمًا",
+        "highlighted_word": "الضُّرُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 12,
+          "word": 14,
+          "reference": "(10:12:14)"
+        },
+        "transliteration": "ḍurrahu",
+        "english_meaning": "his affliction",
+        "arabic_text": "فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُ مَرَّ كَأَنْ لَمْ يَدْعُنَا إِلَىٰ ضُرٍّ مَسَّهُ",
+        "highlighted_word": "ضُرَّهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 12,
+          "word": 20,
+          "reference": "(10:12:20)"
+        },
+        "transliteration": "ḍurrin",
+        "english_meaning": "(the) affliction",
+        "arabic_text": "فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُ مَرَّ كَأَنْ لَمْ يَدْعُنَا إِلَىٰ ضُرٍّ مَسَّهُ",
+        "highlighted_word": "ضُرٍّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 107,
+          "word": 4,
+          "reference": "(10:107:4)"
+        },
+        "transliteration": "biḍurrin",
+        "english_meaning": "with adversity",
+        "arabic_text": "وَإِنْ يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ",
+        "highlighted_word": "بِضُرٍّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 88,
+          "word": 9,
+          "reference": "(12:88:9)"
+        },
+        "transliteration": "l-ḍuru",
+        "english_meaning": "the adversity",
+        "arabic_text": "فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوا يَا أَيُّهَا الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ",
+        "highlighted_word": "الضُّرُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 53,
+          "word": 10,
+          "reference": "(16:53:10)"
+        },
+        "transliteration": "l-ḍuru",
+        "english_meaning": "the adversity",
+        "arabic_text": "وَمَا بِكُمْ مِنْ نِعْمَةٍ فَمِنَ اللَّهِ ثُمَّ إِذَا مَسَّكُمُ الضُّرُّ فَإِلَيْهِ تَجْأَرُونَ",
+        "highlighted_word": "الضُّرُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 54,
+          "word": 4,
+          "reference": "(16:54:4)"
+        },
+        "transliteration": "l-ḍura",
+        "english_meaning": "the adversity",
+        "arabic_text": "ثُمَّ إِذَا كَشَفَ الضُّرَّ عَنْكُمْ إِذَا فَرِيقٌ مِنْكُمْ بِرَبِّهِمْ يُشْرِكُونَ",
+        "highlighted_word": "الضُّرَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 56,
+          "word": 10,
+          "reference": "(17:56:10)"
+        },
+        "transliteration": "l-ḍuri",
+        "english_meaning": "the misfortunes",
+        "arabic_text": "فَلَا يَمْلِكُونَ كَشْفَ الضُّرِّ عَنْكُمْ وَلَا تَحْوِيلًا",
+        "highlighted_word": "الضُّرِّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 67,
+          "word": 3,
+          "reference": "(17:67:3)"
+        },
+        "transliteration": "l-ḍuru",
+        "english_meaning": "the hardship",
+        "arabic_text": "وَإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَنْ تَدْعُونَ إِلَّا إِيَّاهُ",
+        "highlighted_word": "الضُّرُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 83,
+          "word": 7,
+          "reference": "(21:83:7)"
+        },
+        "transliteration": "l-ḍuru",
+        "english_meaning": "the adversity",
+        "arabic_text": "وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ",
+        "highlighted_word": "الضُّرُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 84,
+          "word": 7,
+          "reference": "(21:84:7)"
+        },
+        "transliteration": "ḍurrin",
+        "english_meaning": "(the) adversity",
+        "arabic_text": "فَاسْتَجَبْنَا لَهُ فَكَشَفْنَا مَا بِهِ مِنْ ضُرٍّ وَآتَيْنَاهُ أَهْلَهُ",
+        "highlighted_word": "ضُرٍّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 75,
+          "word": 7,
+          "reference": "(23:75:7)"
+        },
+        "transliteration": "ḍurrin",
+        "english_meaning": "(the) hardship",
+        "arabic_text": "وَلَوْ رَحِمْنَاهُمْ وَكَشَفْنَا مَا بِهِمْ مِنْ ضُرٍّ لَلَجُّوا فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+        "highlighted_word": "ضُرٍّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 33,
+          "word": 4,
+          "reference": "(30:33:4)"
+        },
+        "transliteration": "ḍurrun",
+        "english_meaning": "hardship",
+        "arabic_text": "وَإِذَا مَسَّ النَّاسَ ضُرٌّ دَعَوْا رَبَّهُمْ مُنِيبِينَ إِلَيْهِ",
+        "highlighted_word": "ضُرٌّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 23,
+          "word": 8,
+          "reference": "(36:23:8)"
+        },
+        "transliteration": "biḍurrin",
+        "english_meaning": "any harm",
+        "arabic_text": "إِنْ يُرِدْنِ الرَّحْمَٰنُ بِضُرٍّ لَا تُغْنِ عَنِّي شَفَاعَتُهُمْ شَيْئًا",
+        "highlighted_word": "بِضُرٍّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 8,
+          "word": 4,
+          "reference": "(39:8:4)"
+        },
+        "transliteration": "ḍurrun",
+        "english_meaning": "adversity",
+        "arabic_text": "وَإِذَا مَسَّ الْإِنْسَانَ ضُرٌّ دَعَا رَبَّهُ مُنِيبًا إِلَيْهِ",
+        "highlighted_word": "ضُرٌّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 38,
+          "word": 19,
+          "reference": "(39:38:19)"
+        },
+        "transliteration": "biḍurrin",
+        "english_meaning": "harm",
+        "arabic_text": "إِنْ أَرَادَنِيَ اللَّهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ",
+        "highlighted_word": "بِضُرٍّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 38,
+          "word": 23,
+          "reference": "(39:38:23)"
+        },
+        "transliteration": "ḍurrihi",
+        "english_meaning": "(of) harm (from) Him",
+        "arabic_text": "إِنْ أَرَادَنِيَ اللَّهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ",
+        "highlighted_word": "ضُرِّهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 49,
+          "word": 4,
+          "reference": "(39:49:4)"
+        },
+        "transliteration": "ḍurrun",
+        "english_meaning": "adversity",
+        "arabic_text": "فَإِذَا مَسَّ الْإِنْسَانَ ضُرٌّ دَعَانَا",
+        "highlighted_word": "ضُرٌّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 177,
+          "word": 43,
+          "reference": "(2:177:43)"
+        },
+        "transliteration": "wal-ḍarāi",
+        "english_meaning": "and [the] hardship",
+        "arabic_text": "وَالصَّابِرِينَ فِي الْبَأْسَاءِ وَالضَّرَّاءِ وَحِينَ الْبَأْسِ",
+        "highlighted_word": "وَالضَّرَّاءِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 214,
+          "word": 15,
+          "reference": "(2:214:15)"
+        },
+        "transliteration": "wal-ḍarāu",
+        "english_meaning": "and [the] hardship",
+        "arabic_text": "مَسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا",
+        "highlighted_word": "وَالضَّرَّاءُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 134,
+          "word": 5,
+          "reference": "(3:134:5)"
+        },
+        "transliteration": "wal-ḍarāi",
+        "english_meaning": "and (in) the hardship",
+        "arabic_text": "الَّذِينَ يُنْفِقُونَ فِي السَّرَّاءِ وَالضَّرَّاءِ وَالْكَاظِمِينَ الْغَيْظَ",
+        "highlighted_word": "وَالضَّرَّاءِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 42,
+          "word": 9,
+          "reference": "(6:42:9)"
+        },
+        "transliteration": "wal-ḍarāi",
+        "english_meaning": "and hardship",
+        "arabic_text": "وَلَقَدْ أَرْسَلْنَا إِلَىٰ أُمَمٍ مِنْ قَبْلِكَ فَأَخَذْنَاهُمْ بِالْبَأْسَاءِ وَالضَّرَّاءِ",
+        "highlighted_word": "وَالضَّرَّاءِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 94,
+          "word": 11,
+          "reference": "(7:94:11)"
+        },
+        "transliteration": "wal-ḍarāi",
+        "english_meaning": "and hardship",
+        "arabic_text": "إِلَّا أَخَذْنَا أَهْلَهَا بِالْبَأْسَاءِ وَالضَّرَّاءِ",
+        "highlighted_word": "وَالضَّرَّاءِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 95,
+          "word": 12,
+          "reference": "(7:95:12)"
+        },
+        "transliteration": "l-ḍarāu",
+        "english_meaning": "the adversity",
+        "arabic_text": "وَقَالُوا قَدْ مَسَّ آبَاءَنَا الضَّرَّاءُ وَالسَّرَّاءُ فَأَخَذْنَاهُمْ بَغْتَةً",
+        "highlighted_word": "الضَّرَّاءُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 21,
+          "word": 7,
+          "reference": "(10:21:7)"
+        },
+        "transliteration": "ḍarrāa",
+        "english_meaning": "adversity",
+        "arabic_text": "وَإِذَا أَذَقْنَا النَّاسَ رَحْمَةً مِنْ بَعْدِ ضَرَّاءَ مَسَّتْهُمْ إِذَا لَهُمْ مَكْرٌ فِي آيَاتِنَا",
+        "highlighted_word": "ضَرَّاءَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 10,
+          "word": 5,
+          "reference": "(11:10:5)"
+        },
+        "transliteration": "ḍarrāa",
+        "english_meaning": "hardship",
+        "arabic_text": "وَلَئِنْ أَذَقْنَاهُ نَعْمَاءَ بَعْدَ ضَرَّاءَ مَسَّتْهُ لَيَقُولَنَّ ذَهَبَ السَّيِّئَاتُ عَنِّي",
+        "highlighted_word": "ضَرَّاءَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 50,
+          "word": 7,
+          "reference": "(41:50:7)"
+        },
+        "transliteration": "ḍarrāa",
+        "english_meaning": "an adversity",
+        "arabic_text": "وَلَئِنْ أَذَقْنَاهُ رَحْمَةً مِنَّا مِنْ بَعْدِ ضَرَّاءَ مَسَّتْهُ لَيَقُولَنَّ هَٰذَا لِي",
+        "highlighted_word": "ضَرَّاءَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 95,
+          "word": 8,
+          "reference": "(4:95:8)"
+        },
+        "transliteration": "l-ḍarari",
+        "english_meaning": "[the] disabled",
+        "arabic_text": "لَا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُولِي الضَّرَرِ",
+        "highlighted_word": "الضَّرَرِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 62,
+          "word": 3,
+          "reference": "(27:62:3)"
+        },
+        "transliteration": "l-muḍ'ṭara",
+        "english_meaning": "(to) the distressed one",
+        "arabic_text": "أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ",
+        "highlighted_word": "الْمُضْطَرَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 102,
+          "word": 45,
+          "reference": "(2:102:45)"
+        },
+        "transliteration": "biḍārrīna",
+        "english_meaning": "at all [be those who] harm",
+        "arabic_text": "وَمَا هُمْ بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ",
+        "highlighted_word": "بِضَارِّينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 58,
+          "verse": 10,
+          "word": 9,
+          "reference": "(58:10:9)"
+        },
+        "transliteration": "biḍārrihim",
+        "english_meaning": "he (can) harm them",
+        "arabic_text": "وَلَيْسَ بِضَارِّهِمْ شَيْئًا إِلَّا بِإِذْنِ اللَّهِ",
+        "highlighted_word": "بِضَارِّهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 231,
+          "word": 13,
+          "reference": "(2:231:13)"
+        },
+        "transliteration": "ḍirāran",
+        "english_meaning": "(to) hurt",
+        "arabic_text": "وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِتَعْتَدُوا",
+        "highlighted_word": "ضِرَارًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 107,
+          "word": 4,
+          "reference": "(9:107:4)"
+        },
+        "transliteration": "ḍirāran",
+        "english_meaning": "(for causing) harm",
+        "arabic_text": "وَالَّذِينَ اتَّخَذُوا مَسْجِدًا ضِرَارًا وَكُفْرًا وَتَفْرِيقًا بَيْنَ الْمُؤْمِنِينَ",
+        "highlighted_word": "ضِرَارًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 12,
+          "word": 82,
+          "reference": "(4:12:82)"
+        },
+        "transliteration": "muḍārrin",
+        "english_meaning": "(being) harmful",
+        "arabic_text": "مِنْ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ",
+        "highlighted_word": "مُضَارٍّ"
+      }
+    ],
+    "total_occurrences": 74,
+    "scraped_at": "2025-08-19 18:40:38"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "DrE",
+    "keyword_text": "ض ر ع",
+    "description": "The triliteral root ḍād rā ʿayn (ض ر ع) occurs eight times in the Quran, in four derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to humble",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 43,
+          "word": 5,
+          "reference": "(6:43:5)"
+        },
+        "transliteration": "taḍarraʿū",
+        "english_meaning": "they humbled themselves",
+        "arabic_text": "فَلَوْلَا إِذْ جَاءَهُمْ بَأْسُنَا تَضَرَّعُوا وَلَٰكِنْ قَسَتْ قُلُوبُهُمْ",
+        "highlighted_word": "تَضَرَّعُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 42,
+          "word": 11,
+          "reference": "(6:42:11)"
+        },
+        "transliteration": "yataḍarraʿūna",
+        "english_meaning": "humble themselves",
+        "arabic_text": "فَأَخَذْنَاهُمْ بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَتَضَرَّعُونَ",
+        "highlighted_word": "يَتَضَرَّعُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 94,
+          "word": 13,
+          "reference": "(7:94:13)"
+        },
+        "transliteration": "yaḍḍarraʿūna",
+        "english_meaning": "(become) humble",
+        "arabic_text": "إِلَّا أَخَذْنَا أَهْلَهَا بِالْبَأْسَاءِ وَالضَّرَّاءِ لَعَلَّهُمْ يَضَّرَّعُونَ",
+        "highlighted_word": "يَضَّرَّعُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 76,
+          "word": 8,
+          "reference": "(23:76:8)"
+        },
+        "transliteration": "yataḍarraʿūna",
+        "english_meaning": "they supplicate humbly",
+        "arabic_text": "وَلَقَدْ أَخَذْنَاهُمْ بِالْعَذَابِ فَمَا اسْتَكَانُوا لِرَبِّهِمْ وَمَا يَتَضَرَّعُونَ",
+        "highlighted_word": "يَتَضَرَّعُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 88,
+          "verse": 6,
+          "word": 6,
+          "reference": "(88:6:6)"
+        },
+        "transliteration": "ḍarīʿin",
+        "english_meaning": "a bitter thorny plant",
+        "arabic_text": "لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ",
+        "highlighted_word": "ضَرِيعٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 63,
+          "word": 9,
+          "reference": "(6:63:9)"
+        },
+        "transliteration": "taḍarruʿan",
+        "english_meaning": "humbly",
+        "arabic_text": "تَدْعُونَهُ تَضَرُّعًا وَخُفْيَةً",
+        "highlighted_word": "تَضَرُّعًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 55,
+          "word": 3,
+          "reference": "(7:55:3)"
+        },
+        "transliteration": "taḍarruʿan",
+        "english_meaning": "humbly",
+        "arabic_text": "ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ",
+        "highlighted_word": "تَضَرُّعًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 205,
+          "word": 5,
+          "reference": "(7:205:5)"
+        },
+        "transliteration": "taḍarruʿan",
+        "english_meaning": "humbly",
+        "arabic_text": "وَاذْكُرْ رَبَّكَ فِي نَفْسِكَ تَضَرُّعًا وَخِيفَةً",
+        "highlighted_word": "تَضَرُّعًا"
+      }
+    ],
+    "total_occurrences": 8,
+    "scraped_at": "2025-08-19 18:40:46"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "DEf",
+    "keyword_text": "ض ع ف",
+    "description": "The triliteral root ḍād ʿayn fā (ض ع ف) occurs 52 times in the Quran, in 11 derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to weaken",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 146,
+          "word": 16,
+          "reference": "(3:146:16)"
+        },
+        "transliteration": "ḍaʿufū",
+        "english_meaning": "they weakened",
+        "arabic_text": "وَمَا ضَعُفُوا وَمَا اسْتَكَانُوا وَاللَّهُ يُحِبُّ الصَّابِرِينَ",
+        "highlighted_word": "ضَعُفُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 73,
+          "word": 26,
+          "reference": "(22:73:26)"
+        },
+        "transliteration": "ḍaʿufa",
+        "english_meaning": "So weak",
+        "arabic_text": "ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ",
+        "highlighted_word": "ضَعُفَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 245,
+          "word": 8,
+          "reference": "(2:245:8)"
+        },
+        "transliteration": "fayuḍāʿifahu",
+        "english_meaning": "so (that) He multiplies it",
+        "arabic_text": "فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً",
+        "highlighted_word": "فَيُضَاعِفَهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 261,
+          "word": 19,
+          "reference": "(2:261:19)"
+        },
+        "transliteration": "yuḍāʿifu",
+        "english_meaning": "gives manifold",
+        "arabic_text": "وَاللَّهُ يُضَاعِفُ لِمَنْ يَشَاءُ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+        "highlighted_word": "يُضَاعِفُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 40,
+          "word": 10,
+          "reference": "(4:40:10)"
+        },
+        "transliteration": "yuḍāʿif'hā",
+        "english_meaning": "He doubles it",
+        "arabic_text": "وَإِنْ تَكُ حَسَنَةً يُضَاعِفْهَا وَيُؤْتِ مِنْ لَدُنْهُ أَجْرًا عَظِيمًا",
+        "highlighted_word": "يُضَاعِفْهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 20,
+          "word": 15,
+          "reference": "(11:20:15)"
+        },
+        "transliteration": "yuḍāʿafu",
+        "english_meaning": "And will be doubled",
+        "arabic_text": "يُضَاعَفُ لَهُمُ الْعَذَابُ مَا كَانُوا يَسْتَطِيعُونَ السَّمْعَ",
+        "highlighted_word": "يُضَاعَفُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 69,
+          "word": 1,
+          "reference": "(25:69:1)"
+        },
+        "transliteration": "yuḍāʿaf",
+        "english_meaning": "Will be doubled",
+        "arabic_text": "يُضَاعَفْ لَهُ الْعَذَابُ يَوْمَ الْقِيَامَةِ وَيَخْلُدْ فِيهِ مُهَانًا",
+        "highlighted_word": "يُضَاعَفْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 30,
+          "word": 8,
+          "reference": "(33:30:8)"
+        },
+        "transliteration": "yuḍāʿaf",
+        "english_meaning": "will be doubled",
+        "arabic_text": "مَنْ يَأْتِ مِنْكُنَّ بِفَاحِشَةٍ مُبَيِّنَةٍ يُضَاعَفْ لَهَا الْعَذَابُ ضِعْفَيْنِ",
+        "highlighted_word": "يُضَاعَفْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 57,
+          "verse": 11,
+          "word": 8,
+          "reference": "(57:11:8)"
+        },
+        "transliteration": "fayuḍāʿifahu",
+        "english_meaning": "so He will multiply it",
+        "arabic_text": "مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ وَلَهُ أَجْرٌ كَرِيمٌ",
+        "highlighted_word": "فَيُضَاعِفَهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 57,
+          "verse": 18,
+          "word": 8,
+          "reference": "(57:18:8)"
+        },
+        "transliteration": "yuḍāʿafu",
+        "english_meaning": "it will be multiplied",
+        "arabic_text": "وَأَقْرَضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعَفُ لَهُمْ وَلَهُمْ أَجْرٌ كَرِيمٌ",
+        "highlighted_word": "يُضَاعَفُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 64,
+          "verse": 17,
+          "word": 6,
+          "reference": "(64:17:6)"
+        },
+        "transliteration": "yuḍāʿif'hu",
+        "english_meaning": "He will multiply it",
+        "arabic_text": "إِنْ تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ",
+        "highlighted_word": "يُضَاعِفْهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 75,
+          "word": 8,
+          "reference": "(7:75:8)"
+        },
+        "transliteration": "us'tuḍ'ʿifū",
+        "english_meaning": "were oppressed",
+        "arabic_text": "قَالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُوا مِنْ قَوْمِهِ لِلَّذِينَ اسْتُضْعِفُوا لِمَنْ آمَنَ مِنْهُمْ أَتَعْلَمُونَ أَنَّ صَالِحًا مُرْسَلٌ مِنْ رَبِّهِ",
+        "highlighted_word": "اسْتُضْعِفُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 137,
+          "word": 5,
+          "reference": "(7:137:5)"
+        },
+        "transliteration": "yus'taḍʿafūna",
+        "english_meaning": "considered weak",
+        "arabic_text": "وَأَوْرَثْنَا الْقَوْمَ الَّذِينَ كَانُوا يُسْتَضْعَفُونَ مَشَارِقَ الْأَرْضِ وَمَغَارِبَهَا الَّتِي بَارَكْنَا فِيهَا",
+        "highlighted_word": "يُسْتَضْعَفُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 150,
+          "word": 28,
+          "reference": "(7:150:28)"
+        },
+        "transliteration": "is'taḍʿafūnī",
+        "english_meaning": "considered me weak",
+        "arabic_text": "إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا يَقْتُلُونَنِي",
+        "highlighted_word": "اسْتَضْعَفُونِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 4,
+          "word": 9,
+          "reference": "(28:4:9)"
+        },
+        "transliteration": "yastaḍʿifu",
+        "english_meaning": "oppressing",
+        "arabic_text": "وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَائِفَةً مِنْهُمْ",
+        "highlighted_word": "يَسْتَضْعِفُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 5,
+          "word": 6,
+          "reference": "(28:5:6)"
+        },
+        "transliteration": "us'tuḍ'ʿifū",
+        "english_meaning": "were oppressed",
+        "arabic_text": "وَنُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ",
+        "highlighted_word": "اسْتُضْعِفُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 31,
+          "word": 26,
+          "reference": "(34:31:26)"
+        },
+        "transliteration": "us'tuḍ'ʿifū",
+        "english_meaning": "were oppressed",
+        "arabic_text": "يَقُولُ الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَرُوا لَوْلَا أَنْتُمْ لَكُنَّا مُؤْمِنِينَ",
+        "highlighted_word": "اسْتُضْعِفُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 32,
+          "word": 5,
+          "reference": "(34:32:5)"
+        },
+        "transliteration": "us'tuḍ'ʿifū",
+        "english_meaning": "who were oppressed",
+        "arabic_text": "قَالَ الَّذِينَ اسْتَكْبَرُوا لِلَّذِينَ اسْتُضْعِفُوا أَنَحْنُ صَدَدْنَاكُمْ",
+        "highlighted_word": "اسْتُضْعِفُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 33,
+          "word": 3,
+          "reference": "(34:33:3)"
+        },
+        "transliteration": "us'tuḍ'ʿifū",
+        "english_meaning": "were oppressed",
+        "arabic_text": "وَقَالَ الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَرُوا بَلْ مَكْرُ اللَّيْلِ وَالنَّهَارِ",
+        "highlighted_word": "اسْتُضْعِفُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 75,
+          "word": 24,
+          "reference": "(19:75:24)"
+        },
+        "transliteration": "wa-aḍʿafu",
+        "english_meaning": "and weaker",
+        "arabic_text": "فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَكَانًا وَأَضْعَفُ جُنْدًا",
+        "highlighted_word": "وَأَضْعَفُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 72,
+          "verse": 24,
+          "word": 8,
+          "reference": "(72:24:8)"
+        },
+        "transliteration": "aḍʿafu",
+        "english_meaning": "(is) weaker",
+        "arabic_text": "فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+        "highlighted_word": "أَضْعَفُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 245,
+          "word": 10,
+          "reference": "(2:245:10)"
+        },
+        "transliteration": "aḍʿāfan",
+        "english_meaning": "manifolds",
+        "arabic_text": "فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً",
+        "highlighted_word": "أَضْعَافًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 265,
+          "word": 18,
+          "reference": "(2:265:18)"
+        },
+        "transliteration": "ḍiʿ'fayni",
+        "english_meaning": "double",
+        "arabic_text": "كَمَثَلِ جَنَّةٍ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَآتَتْ أُكُلَهَا ضِعْفَيْنِ",
+        "highlighted_word": "ضِعْفَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 130,
+          "word": 7,
+          "reference": "(3:130:7)"
+        },
+        "transliteration": "aḍʿāfan",
+        "english_meaning": "doubled",
+        "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا الرِّبَا أَضْعَافًا مُضَاعَفَةً",
+        "highlighted_word": "أَضْعَافًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 38,
+          "word": 37,
+          "reference": "(7:38:37)"
+        },
+        "transliteration": "ḍiʿ'fun",
+        "english_meaning": "(is) a double",
+        "arabic_text": "قَالَ لِكُلٍّ ضِعْفٌ وَلَٰكِنْ لَا تَعْلَمُونَ",
+        "highlighted_word": "ضِعْفٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 75,
+          "word": 3,
+          "reference": "(17:75:3)"
+        },
+        "transliteration": "ḍiʿ'fa",
+        "english_meaning": "double",
+        "arabic_text": "إِذًا لَأَذَقْنَاكَ ضِعْفَ الْحَيَاةِ",
+        "highlighted_word": "ضِعْفَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 75,
+          "word": 5,
+          "reference": "(17:75:5)"
+        },
+        "transliteration": "waḍiʿ'fa",
+        "english_meaning": "and double",
+        "arabic_text": "وَضِعْفَ الْمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَيْنَا نَصِيرًا",
+        "highlighted_word": "وَضِعْفَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 68,
+          "word": 3,
+          "reference": "(33:68:3)"
+        },
+        "transliteration": "ḍiʿ'fayni",
+        "english_meaning": "double",
+        "arabic_text": "رَبَّنَا آتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْنًا كَبِيرًا",
+        "highlighted_word": "ضِعْفَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 38,
+          "word": 32,
+          "reference": "(7:38:32)"
+        },
+        "transliteration": "ḍiʿ'fan",
+        "english_meaning": "double",
+        "arabic_text": "رَبَّنَا هَٰؤُلَاءِ أَضَلُّونَا فَآتِهِمْ عَذَابًا ضِعْفًا مِنَ النَّارِ",
+        "highlighted_word": "ضِعْفًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 30,
+          "word": 11,
+          "reference": "(33:30:11)"
+        },
+        "transliteration": "ḍiʿ'fayni",
+        "english_meaning": "two fold",
+        "arabic_text": "مَنْ يَأْتِ مِنْكُنَّ بِفَاحِشَةٍ مُبَيِّنَةٍ يُضَاعَفْ لَهَا الْعَذَابُ ضِعْفَيْنِ",
+        "highlighted_word": "ضِعْفَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 37,
+          "word": 17,
+          "reference": "(34:37:17)"
+        },
+        "transliteration": "l-ḍiʿ'fi",
+        "english_meaning": "two-fold",
+        "arabic_text": "فَأُولَٰئِكَ لَهُمْ جَزَاءُ الضِّعْفِ بِمَا عَمِلُوا وَهُمْ فِي الْغُرُفَاتِ آمِنُونَ",
+        "highlighted_word": "الضِّعْفِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 61,
+          "word": 9,
+          "reference": "(38:61:9)"
+        },
+        "transliteration": "ḍiʿ'fan",
+        "english_meaning": "double",
+        "arabic_text": "قَالُوا رَبَّنَا مَنْ قَدَّمَ لَنَا هَٰذَا فَزِدْهُ عَذَابًا ضِعْفًا فِي النَّارِ",
+        "highlighted_word": "ضِعْفًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 66,
+          "word": 8,
+          "reference": "(8:66:8)"
+        },
+        "transliteration": "ḍaʿfan",
+        "english_meaning": "(there) is weakness",
+        "arabic_text": "الْآنَ خَفَّفَ اللَّهُ عَنْكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا",
+        "highlighted_word": "ضَعْفًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 54,
+          "word": 5,
+          "reference": "(30:54:5)"
+        },
+        "transliteration": "ḍaʿfin",
+        "english_meaning": "weakness",
+        "arabic_text": "اللَّهُ الَّذِي خَلَقَكُمْ مِنْ ضَعْفٍ",
+        "highlighted_word": "ضَعْفٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 54,
+          "word": 10,
+          "reference": "(30:54:10)"
+        },
+        "transliteration": "ḍaʿfin",
+        "english_meaning": "weakness",
+        "arabic_text": "ثُمَّ جَعَلَ مِنْ بَعْدِ ضَعْفٍ قُوَّةً",
+        "highlighted_word": "ضَعْفٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 54,
+          "word": 17,
+          "reference": "(30:54:17)"
+        },
+        "transliteration": "ḍaʿfan",
+        "english_meaning": "weakness",
+        "arabic_text": "ثُمَّ جَعَلَ مِنْ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً",
+        "highlighted_word": "ضَعْفًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 282,
+          "word": 42,
+          "reference": "(2:282:42)"
+        },
+        "transliteration": "ḍaʿīfan",
+        "english_meaning": "weak",
+        "arabic_text": "فَإِنْ كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَنْ يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ",
+        "highlighted_word": "ضَعِيفًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 28,
+          "word": 8,
+          "reference": "(4:28:8)"
+        },
+        "transliteration": "ḍaʿīfan",
+        "english_meaning": "weak",
+        "arabic_text": "يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ عَنْكُمْ وَخُلِقَ الْإِنْسَانُ ضَعِيفًا",
+        "highlighted_word": "ضَعِيفًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 76,
+          "word": 20,
+          "reference": "(4:76:20)"
+        },
+        "transliteration": "ḍaʿīfan",
+        "english_meaning": "weak",
+        "arabic_text": "فَقَاتِلُوا أَوْلِيَاءَ الشَّيْطَانِ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا",
+        "highlighted_word": "ضَعِيفًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 91,
+          "word": 3,
+          "reference": "(9:91:3)"
+        },
+        "transliteration": "l-ḍuʿafāi",
+        "english_meaning": "the weak",
+        "arabic_text": "لَيْسَ عَلَى الضُّعَفَاءِ وَلَا عَلَى الْمَرْضَىٰ وَلَا عَلَى الَّذِينَ لَا يَجِدُونَ مَا يُنْفِقُونَ حَرَجٌ",
+        "highlighted_word": "الضُّعَفَاءِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 91,
+          "word": 11,
+          "reference": "(11:91:11)"
+        },
+        "transliteration": "ḍaʿīfan",
+        "english_meaning": "weak",
+        "arabic_text": "مَا نَفْقَهُ كَثِيرًا مِمَّا تَقُولُ وَإِنَّا لَنَرَاكَ فِينَا ضَعِيفًا",
+        "highlighted_word": "ضَعِيفًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 21,
+          "word": 5,
+          "reference": "(14:21:5)"
+        },
+        "transliteration": "l-ḍuʿafāu",
+        "english_meaning": "the weak",
+        "arabic_text": "فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا",
+        "highlighted_word": "الضُّعَفَاءُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 47,
+          "word": 6,
+          "reference": "(40:47:6)"
+        },
+        "transliteration": "l-ḍuʿafāu",
+        "english_meaning": "the weak",
+        "arabic_text": "فَيَقُولُ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا",
+        "highlighted_word": "الضُّعَفَاءُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 266,
+          "word": 23,
+          "reference": "(2:266:23)"
+        },
+        "transliteration": "ḍuʿafāu",
+        "english_meaning": "(are) weak",
+        "arabic_text": "لَهُ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَأَصَابَهُ الْكِبَرُ وَلَهُ ذُرِّيَّةٌ ضُعَفَاءُ",
+        "highlighted_word": "ضُعَفَاءُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 130,
+          "word": 8,
+          "reference": "(3:130:8)"
+        },
+        "transliteration": "muḍāʿafatan",
+        "english_meaning": "multiplied",
+        "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا الرِّبَا أَضْعَافًا مُضَاعَفَةً",
+        "highlighted_word": "مُضَاعَفَةً"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 9,
+          "word": 8,
+          "reference": "(4:9:8)"
+        },
+        "transliteration": "ḍiʿāfan",
+        "english_meaning": "weak",
+        "arabic_text": "وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْ",
+        "highlighted_word": "ضِعَافًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 39,
+          "word": 22,
+          "reference": "(30:39:22)"
+        },
+        "transliteration": "l-muḍ'ʿifūna",
+        "english_meaning": "(will) get manifold",
+        "arabic_text": "وَمَا آتَيْتُمْ مِنْ زَكَاةٍ تُرِيدُونَ وَجْهَ اللَّهِ فَأُولَٰئِكَ هُمُ الْمُضْعِفُونَ",
+        "highlighted_word": "الْمُضْعِفُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 75,
+          "word": 8,
+          "reference": "(4:75:8)"
+        },
+        "transliteration": "wal-mus'taḍʿafīna",
+        "english_meaning": "and (for) those who are weak",
+        "arabic_text": "وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ",
+        "highlighted_word": "وَالْمُسْتَضْعَفِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 97,
+          "word": 12,
+          "reference": "(4:97:12)"
+        },
+        "transliteration": "mus'taḍʿafīna",
+        "english_meaning": "oppressed",
+        "arabic_text": "قَالُوا فِيمَ كُنْتُمْ قَالُوا كُنَّا مُسْتَضْعَفِينَ فِي الْأَرْضِ",
+        "highlighted_word": "مُسْتَضْعَفِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 98,
+          "word": 2,
+          "reference": "(4:98:2)"
+        },
+        "transliteration": "l-mus'taḍʿafīna",
+        "english_meaning": "the oppressed",
+        "arabic_text": "إِلَّا الْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ",
+        "highlighted_word": "الْمُسْتَضْعَفِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 127,
+          "word": 25,
+          "reference": "(4:127:25)"
+        },
+        "transliteration": "wal-mus'taḍʿafīna",
+        "english_meaning": "and the ones who are weak",
+        "arabic_text": "وَالْمُسْتَضْعَفِينَ مِنَ الْوِلْدَانِ وَأَنْ تَقُومُوا لِلْيَتَامَىٰ بِالْقِسْطِ",
+        "highlighted_word": "وَالْمُسْتَضْعَفِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 26,
+          "word": 5,
+          "reference": "(8:26:5)"
+        },
+        "transliteration": "mus'taḍʿafūna",
+        "english_meaning": "(and) deemed weak",
+        "arabic_text": "وَاذْكُرُوا إِذْ أَنْتُمْ قَلِيلٌ مُسْتَضْعَفُونَ فِي الْأَرْضِ",
+        "highlighted_word": "مُسْتَضْعَفُونَ"
+      }
+    ],
+    "total_occurrences": 52,
+    "scraped_at": "2025-08-19 18:40:49"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Dgv",
+    "keyword_text": "ض غ ث",
+    "description": "The triliteral root ḍād ghayn thā (ض غ ث) occurs three times in the Quran as the noun ḍigh'th (ضِغْث). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 44,
+          "word": 2,
+          "reference": "(12:44:2)"
+        },
+        "transliteration": "aḍghāthu",
+        "english_meaning": "Confused",
+        "arabic_text": "قَالُوا أَضْغَاثُ أَحْلَامٍ وَمَا نَحْنُ بِتَأْوِيلِ الْأَحْلَامِ بِعَالِمِينَ",
+        "highlighted_word": "أَضْغَاثُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 5,
+          "word": 3,
+          "reference": "(21:5:3)"
+        },
+        "transliteration": "aḍghāthu",
+        "english_meaning": "Muddled",
+        "arabic_text": "بَلْ قَالُوا أَضْغَاثُ أَحْلَامٍ بَلِ افْتَرَاهُ بَلْ هُوَ شَاعِرٌ",
+        "highlighted_word": "أَضْغَاثُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 44,
+          "word": 3,
+          "reference": "(38:44:3)"
+        },
+        "transliteration": "ḍigh'than",
+        "english_meaning": "a bunch",
+        "arabic_text": "وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِبْ بِهِ وَلَا تَحْنَثْ",
+        "highlighted_word": "ضِغْثًا"
+      }
+    ],
+    "total_occurrences": 3,
+    "scraped_at": "2025-08-19 18:40:56"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Dgn",
+    "keyword_text": "ض غ ن",
+    "description": "The triliteral root ḍād ghayn nūn (ض غ ن) occurs twice in the Quran as the noun aḍghān (أَضْغَٰن). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 29,
+          "word": 11,
+          "reference": "(47:29:11)"
+        },
+        "transliteration": "aḍghānahum",
+        "english_meaning": "their hatred",
+        "arabic_text": "أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ أَنْ لَنْ يُخْرِجَ اللَّهُ أَضْغَانَهُمْ",
+        "highlighted_word": "أَضْغَانَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 37,
+          "word": 6,
+          "reference": "(47:37:6)"
+        },
+        "transliteration": "aḍghānakum",
+        "english_meaning": "your hatred",
+        "arabic_text": "إِنْ يَسْأَلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا وَيُخْرِجْ أَضْغَانَكُمْ",
+        "highlighted_word": "أَضْغَانَكُمْ"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 18:41:00"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "DfdE",
+    "keyword_text": "ض ف د ع",
+    "description": "The quadriliteral root ḍād fā dāl ʿayn (ض ف د ع) occurs only once in the Quran, as the noun ḍafādiʿ (ضَّفَادِع). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 133,
+          "word": 6,
+          "reference": "(7:133:6)"
+        },
+        "transliteration": "wal-ḍafādiʿa",
+        "english_meaning": "and the frogs",
+        "arabic_text": "فَأَرْسَلْنَا عَلَيْهِمُ الطُّوفَانَ وَالْجَرَادَ وَالْقُمَّلَ وَالضَّفَادِعَ",
+        "highlighted_word": "وَالضَّفَادِعَ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:41:04"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Dll",
+    "keyword_text": "ض ل ل",
+    "description": "The triliteral root ḍād lām lām (ض ل ل) occurs 191 times in the Quran, in eight derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to go astray, to err, to lose",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 108,
+          "word": 16,
+          "reference": "(2:108:16)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "he went astray (from)",
+        "arabic_text": "وَمَنْ يَتَبَدَّلِ الْكُفْرَ بِالْإِيمَانِ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 282,
+          "word": 67,
+          "reference": "(2:282:67)"
+        },
+        "transliteration": "taḍilla",
+        "english_meaning": "[she] errs",
+        "arabic_text": "أَنْ تَضِلَّ إِحْدَاهُمَا فَتُذَكِّرَ إِحْدَاهُمَا الْأُخْرَىٰ",
+        "highlighted_word": "تَضِلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 44,
+          "word": 13,
+          "reference": "(4:44:13)"
+        },
+        "transliteration": "taḍillū",
+        "english_meaning": "you stray",
+        "arabic_text": "يَشْتَرُونَ الضَّلَالَةَ وَيُرِيدُونَ أَنْ تَضِلُّوا السَّبِيلَ",
+        "highlighted_word": "تَضِلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 116,
+          "word": 18,
+          "reference": "(4:116:18)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "he lost (the) way",
+        "arabic_text": "وَمَنْ يُشْرِكْ بِاللَّهِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 136,
+          "word": 26,
+          "reference": "(4:136:26)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "he (has) lost (the) way",
+        "arabic_text": "وَمَنْ يَكْفُرْ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الْآخِرِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 167,
+          "word": 9,
+          "reference": "(4:167:9)"
+        },
+        "transliteration": "ḍallū",
+        "english_meaning": "they have strayed",
+        "arabic_text": "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ قَدْ ضَلُّوا ضَلَالًا بَعِيدًا",
+        "highlighted_word": "ضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 176,
+          "word": 46,
+          "reference": "(4:176:46)"
+        },
+        "transliteration": "taḍillū",
+        "english_meaning": "you go astray",
+        "arabic_text": "يُبَيِّنُ اللَّهُ لَكُمْ أَنْ تَضِلُّوا وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "highlighted_word": "تَضِلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 12,
+          "word": 43,
+          "reference": "(5:12:43)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "he strayed",
+        "arabic_text": "فَمَنْ كَفَرَ بَعْدَ ذَٰلِكَ مِنْكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 77,
+          "word": 15,
+          "reference": "(5:77:15)"
+        },
+        "transliteration": "ḍallū",
+        "english_meaning": "who went astray",
+        "arabic_text": "وَلَا تَتَّبِعُوا أَهْوَاءَ قَوْمٍ قَدْ ضَلُّوا مِنْ قَبْلُ",
+        "highlighted_word": "ضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 77,
+          "word": 20,
+          "reference": "(5:77:20)"
+        },
+        "transliteration": "waḍallū",
+        "english_meaning": "and they have strayed",
+        "arabic_text": "وَأَضَلُّوا كَثِيرًا وَضَلُّوا عَنْ سَوَاءِ السَّبِيلِ",
+        "highlighted_word": "وَضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 105,
+          "word": 9,
+          "reference": "(5:105:9)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "(have gone) astray",
+        "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنْفُسَكُمْ لَا يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 24,
+          "word": 6,
+          "reference": "(6:24:6)"
+        },
+        "transliteration": "waḍalla",
+        "english_meaning": "And lost",
+        "arabic_text": "انْظُرْ كَيْفَ كَذَبُوا عَلَىٰ أَنْفُسِهِمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+        "highlighted_word": "وَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 56,
+          "word": 16,
+          "reference": "(6:56:16)"
+        },
+        "transliteration": "ḍalaltu",
+        "english_meaning": "I would go astray",
+        "arabic_text": "قُلْ لَا أَتَّبِعُ أَهْوَاءَكُمْ قَدْ ضَلَلْتُ إِذًا وَمَا أَنَا مِنَ الْمُهْتَدِينَ",
+        "highlighted_word": "ضَلَلْتُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 94,
+          "word": 25,
+          "reference": "(6:94:25)"
+        },
+        "transliteration": "waḍalla",
+        "english_meaning": "and is lost",
+        "arabic_text": "لَقَدْ تَقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنْكُمْ مَا كُنْتُمْ تَزْعُمُونَ",
+        "highlighted_word": "وَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 117,
+          "word": 6,
+          "reference": "(6:117:6)"
+        },
+        "transliteration": "yaḍillu",
+        "english_meaning": "strays",
+        "arabic_text": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَنْ يَضِلُّ عَنْ سَبِيلِهِ",
+        "highlighted_word": "يَضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 140,
+          "word": 17,
+          "reference": "(6:140:17)"
+        },
+        "transliteration": "ḍallū",
+        "english_meaning": "they have gone astray",
+        "arabic_text": "قَدْ ضَلُّوا وَمَا كَانُوا مُهْتَدِينَ",
+        "highlighted_word": "ضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 37,
+          "word": 30,
+          "reference": "(7:37:30)"
+        },
+        "transliteration": "ḍallū",
+        "english_meaning": "They strayed",
+        "arabic_text": "قَالُوا ضَلُّوا عَنَّا وَشَهِدُوا عَلَىٰ أَنْفُسِهِمْ أَنَّهُمْ كَانُوا كَافِرِينَ",
+        "highlighted_word": "ضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 53,
+          "word": 34,
+          "reference": "(7:53:34)"
+        },
+        "transliteration": "waḍalla",
+        "english_meaning": "and strayed",
+        "arabic_text": "قَدْ خَسِرُوا أَنْفُسَهُمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+        "highlighted_word": "وَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 149,
+          "word": 8,
+          "reference": "(7:149:8)"
+        },
+        "transliteration": "ḍallū",
+        "english_meaning": "gone astray",
+        "arabic_text": "وَلَمَّا سُقِطَ فِي أَيْدِيهِمْ وَرَأَوْا أَنَّهُمْ قَدْ ضَلُّوا قَالُوا لَئِنْ لَمْ يَرْحَمْنَا رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+        "highlighted_word": "ضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 37,
+          "word": 6,
+          "reference": "(9:37:6)"
+        },
+        "transliteration": "yuḍallu",
+        "english_meaning": "are led astray",
+        "arabic_text": "إِنَّمَا النَّسِيءُ زِيَادَةٌ فِي الْكُفْرِ يُضَلُّ بِهِ الَّذِينَ كَفَرُوا",
+        "highlighted_word": "يُضَلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 30,
+          "word": 12,
+          "reference": "(10:30:12)"
+        },
+        "transliteration": "waḍalla",
+        "english_meaning": "and will be lost",
+        "arabic_text": "وَرُدُّوا إِلَى اللَّهِ مَوْلَاهُمُ الْحَقِّ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+        "highlighted_word": "وَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 108,
+          "word": 15,
+          "reference": "(10:108:15)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "goes astray",
+        "arabic_text": "فَمَنِ اهْتَدَىٰ فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَنْ ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 108,
+          "word": 17,
+          "reference": "(10:108:17)"
+        },
+        "transliteration": "yaḍillu",
+        "english_meaning": "he strays",
+        "arabic_text": "فَمَنِ اهْتَدَىٰ فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَنْ ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا",
+        "highlighted_word": "يَضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 21,
+          "word": 5,
+          "reference": "(11:21:5)"
+        },
+        "transliteration": "waḍalla",
+        "english_meaning": "and lost",
+        "arabic_text": "أُولَٰئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+        "highlighted_word": "وَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 87,
+          "word": 6,
+          "reference": "(16:87:6)"
+        },
+        "transliteration": "waḍalla",
+        "english_meaning": "and (is) lost",
+        "arabic_text": "وَأَلْقَوْا إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+        "highlighted_word": "وَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 125,
+          "word": 17,
+          "reference": "(16:125:17)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "has strayed",
+        "arabic_text": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 15,
+          "word": 7,
+          "reference": "(17:15:7)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "goes astray",
+        "arabic_text": "مَنِ اهْتَدَىٰ فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَنْ ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 15,
+          "word": 9,
+          "reference": "(17:15:9)"
+        },
+        "transliteration": "yaḍillu",
+        "english_meaning": "he goes astray",
+        "arabic_text": "مَنِ اهْتَدَىٰ فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَنْ ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا",
+        "highlighted_word": "يَضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 48,
+          "word": 6,
+          "reference": "(17:48:6)"
+        },
+        "transliteration": "faḍallū",
+        "english_meaning": "but they have gone astray",
+        "arabic_text": "انْظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+        "highlighted_word": "فَضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 67,
+          "word": 6,
+          "reference": "(17:67:6)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "lost",
+        "arabic_text": "وَإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَنْ تَدْعُونَ إِلَّا إِيَّاهُ",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 104,
+          "word": 2,
+          "reference": "(18:104:2)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "is lost",
+        "arabic_text": "الَّذِينَ ضَلَّ سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 52,
+          "word": 8,
+          "reference": "(20:52:8)"
+        },
+        "transliteration": "yaḍillu",
+        "english_meaning": "errs",
+        "arabic_text": "قَالَ عِلْمُهَا عِنْدَ رَبِّي فِي كِتَابٍ لَا يَضِلُّ رَبِّي وَلَا يَنْسَى",
+        "highlighted_word": "يَضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 92,
+          "word": 7,
+          "reference": "(20:92:7)"
+        },
+        "transliteration": "ḍallū",
+        "english_meaning": "going astray",
+        "arabic_text": "قَالَ يَا هَارُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوا",
+        "highlighted_word": "ضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 123,
+          "word": 16,
+          "reference": "(20:123:16)"
+        },
+        "transliteration": "yaḍillu",
+        "english_meaning": "he will go astray",
+        "arabic_text": "فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي هُدًى فَمَنِ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ",
+        "highlighted_word": "يَضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 9,
+          "word": 6,
+          "reference": "(25:9:6)"
+        },
+        "transliteration": "faḍallū",
+        "english_meaning": "but they have gone astray",
+        "arabic_text": "انْظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+        "highlighted_word": "فَضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 17,
+          "word": 15,
+          "reference": "(25:17:15)"
+        },
+        "transliteration": "ḍallū",
+        "english_meaning": "went astray",
+        "arabic_text": "أَأَنْتُمْ أَضْلَلْتُمْ عِبَادِي هَٰؤُلَاءِ أَمْ هُمْ ضَلُّوا السَّبِيلَ",
+        "highlighted_word": "ضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 92,
+          "word": 10,
+          "reference": "(27:92:10)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "goes astray",
+        "arabic_text": "وَمَنْ ضَلَّ فَقُلْ إِنَّمَا أَنَا مِنَ الْمُنْذِرِينَ",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 75,
+          "word": 13,
+          "reference": "(28:75:13)"
+        },
+        "transliteration": "waḍalla",
+        "english_meaning": "and (will be) lost",
+        "arabic_text": "فَعَلِمُوا أَنَّ الْحَقَّ لِلَّهِ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+        "highlighted_word": "وَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 32,
+          "verse": 10,
+          "word": 3,
+          "reference": "(32:10:3)"
+        },
+        "transliteration": "ḍalalnā",
+        "english_meaning": "we are lost",
+        "arabic_text": "وَقَالُوا أَإِذَا ضَلَلْنَا فِي الْأَرْضِ أَإِنَّا لَفِي خَلْقٍ جَدِيدٍ",
+        "highlighted_word": "ضَلَلْنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 36,
+          "word": 22,
+          "reference": "(33:36:22)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "he (has) strayed",
+        "arabic_text": "وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينًا",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 50,
+          "word": 3,
+          "reference": "(34:50:3)"
+        },
+        "transliteration": "ḍalaltu",
+        "english_meaning": "I err",
+        "arabic_text": "قُلْ إِنْ ضَلَلْتُ فَإِنَّمَا أَضِلُّ عَلَىٰ نَفْسِي",
+        "highlighted_word": "ضَلَلْتُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 50,
+          "word": 5,
+          "reference": "(34:50:5)"
+        },
+        "transliteration": "aḍillu",
+        "english_meaning": "I will err",
+        "arabic_text": "قُلْ إِنْ ضَلَلْتُ فَإِنَّمَا أَضِلُّ عَلَىٰ نَفْسِي",
+        "highlighted_word": "أَضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 71,
+          "word": 2,
+          "reference": "(37:71:2)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "went astray",
+        "arabic_text": "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ الْأَوَّلِينَ",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 26,
+          "word": 20,
+          "reference": "(38:26:20)"
+        },
+        "transliteration": "yaḍillūna",
+        "english_meaning": "go astray",
+        "arabic_text": "إِنَّ الَّذِينَ يَضِلُّونَ عَنْ سَبِيلِ اللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ",
+        "highlighted_word": "يَضِلُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 41,
+          "word": 11,
+          "reference": "(39:41:11)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "goes astray",
+        "arabic_text": "فَمَنِ اهْتَدَىٰ فَلِنَفْسِهِ وَمَنْ ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 41,
+          "word": 13,
+          "reference": "(39:41:13)"
+        },
+        "transliteration": "yaḍillu",
+        "english_meaning": "he strays",
+        "arabic_text": "فَمَنِ اهْتَدَىٰ فَلِنَفْسِهِ وَمَنْ ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا",
+        "highlighted_word": "يَضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 74,
+          "word": 5,
+          "reference": "(40:74:5)"
+        },
+        "transliteration": "ḍallū",
+        "english_meaning": "They have departed",
+        "arabic_text": "قَالُوا ضَلُّوا عَنَّا بَلْ لَمْ نَكُنْ نَدْعُو مِنْ قَبْلُ شَيْئًا",
+        "highlighted_word": "ضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 48,
+          "word": 1,
+          "reference": "(41:48:1)"
+        },
+        "transliteration": "waḍalla",
+        "english_meaning": "And lost",
+        "arabic_text": "وَضَلَّ عَنْهُمْ مَا كَانُوا يَدْعُونَ مِنْ قَبْلُ وَظَنُّوا مَا لَهُمْ مِنْ مَحِيصٍ",
+        "highlighted_word": "وَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 46,
+          "verse": 28,
+          "word": 11,
+          "reference": "(46:28:11)"
+        },
+        "transliteration": "ḍallū",
+        "english_meaning": "they were lost",
+        "arabic_text": "بَلْ ضَلُّوا عَنْهُمْ وَذَٰلِكَ إِفْكُهُمْ",
+        "highlighted_word": "ضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 2,
+          "word": 2,
+          "reference": "(53:2:2)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "has strayed",
+        "arabic_text": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 30,
+          "word": 10,
+          "reference": "(53:30:10)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "strays",
+        "arabic_text": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِمَنِ اهْتَدَىٰ",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 60,
+          "verse": 1,
+          "word": 46,
+          "reference": "(60:1:46)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "he has strayed",
+        "arabic_text": "وَمَنْ يَفْعَلْهُ مِنْكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 68,
+          "verse": 7,
+          "word": 6,
+          "reference": "(68:7:6)"
+        },
+        "transliteration": "ḍalla",
+        "english_meaning": "has strayed",
+        "arabic_text": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
+        "highlighted_word": "ضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 26,
+          "word": 29,
+          "reference": "(2:26:29)"
+        },
+        "transliteration": "yuḍillu",
+        "english_meaning": "He lets go astray",
+        "arabic_text": "يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا",
+        "highlighted_word": "يُضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 26,
+          "word": 36,
+          "reference": "(2:26:36)"
+        },
+        "transliteration": "yuḍillu",
+        "english_meaning": "He lets go astray",
+        "arabic_text": "وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ",
+        "highlighted_word": "يُضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 69,
+          "word": 7,
+          "reference": "(3:69:7)"
+        },
+        "transliteration": "yuḍillūnakum",
+        "english_meaning": "they could lead you astray",
+        "arabic_text": "وَدَّتْ طَائِفَةٌ مِنْ أَهْلِ الْكِتَابِ لَوْ يُضِلُّونَكُمْ",
+        "highlighted_word": "يُضِلُّونَكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 69,
+          "word": 9,
+          "reference": "(3:69:9)"
+        },
+        "transliteration": "yuḍillūna",
+        "english_meaning": "they lead astray",
+        "arabic_text": "وَمَا يُضِلُّونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ",
+        "highlighted_word": "يُضِلُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 60,
+          "word": 28,
+          "reference": "(4:60:28)"
+        },
+        "transliteration": "yuḍillahum",
+        "english_meaning": "mislead them",
+        "arabic_text": "وَيُرِيدُ الشَّيْطَانُ أَنْ يُضِلَّهُمْ ضَلَالًا بَعِيدًا",
+        "highlighted_word": "يُضِلَّهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 88,
+          "word": 14,
+          "reference": "(4:88:14)"
+        },
+        "transliteration": "aḍalla",
+        "english_meaning": "is let astray",
+        "arabic_text": "أَتُرِيدُونَ أَنْ تَهْدُوا مَنْ أَضَلَّ اللَّهُ",
+        "highlighted_word": "أَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 88,
+          "word": 17,
+          "reference": "(4:88:17)"
+        },
+        "transliteration": "yuḍ'lili",
+        "english_meaning": "is let astray",
+        "arabic_text": "وَمَنْ يُضْلِلِ اللَّهُ فَلَنْ تَجِدَ لَهُ سَبِيلًا",
+        "highlighted_word": "يُضْلِلِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 113,
+          "word": 10,
+          "reference": "(4:113:10)"
+        },
+        "transliteration": "yuḍillūka",
+        "english_meaning": "mislead you",
+        "arabic_text": "لَهَمَّتْ طَائِفَةٌ مِنْهُمْ أَنْ يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّا أَنْفُسَهُمْ",
+        "highlighted_word": "يُضِلُّوكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 113,
+          "word": 12,
+          "reference": "(4:113:12)"
+        },
+        "transliteration": "yuḍillūna",
+        "english_meaning": "they mislead",
+        "arabic_text": "لَهَمَّتْ طَائِفَةٌ مِنْهُمْ أَنْ يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّا أَنْفُسَهُمْ",
+        "highlighted_word": "يُضِلُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 119,
+          "word": 1,
+          "reference": "(4:119:1)"
+        },
+        "transliteration": "wala-uḍillannahum",
+        "english_meaning": "And I will surely mislead them",
+        "arabic_text": "وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَآمُرَنَّهُمْ فَلَيُبَتِّكُنَّ آذَانَ الْأَنْعَامِ",
+        "highlighted_word": "وَلَأُضِلَّنَّهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 143,
+          "word": 11,
+          "reference": "(4:143:11)"
+        },
+        "transliteration": "yuḍ'lili",
+        "english_meaning": "has been lead astray",
+        "arabic_text": "وَمَنْ يُضْلِلِ اللَّهُ فَلَنْ تَجِدَ لَهُ سَبِيلًا",
+        "highlighted_word": "يُضْلِلِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 77,
+          "word": 18,
+          "reference": "(5:77:18)"
+        },
+        "transliteration": "wa-aḍallū",
+        "english_meaning": "and they misled",
+        "arabic_text": "وَلَا تَتَّبِعُوا أَهْوَاءَ قَوْمٍ قَدْ ضَلُّوا مِنْ قَبْلُ وَأَضَلُّوا",
+        "highlighted_word": "وَأَضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 39,
+          "word": 11,
+          "reference": "(6:39:11)"
+        },
+        "transliteration": "yuḍ'lil'hu",
+        "english_meaning": "He lets him go astray",
+        "arabic_text": "مَنْ يَشَإِ اللَّهُ يُضْلِلْهُ وَمَنْ يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+        "highlighted_word": "يُضْلِلْهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 116,
+          "word": 7,
+          "reference": "(6:116:7)"
+        },
+        "transliteration": "yuḍillūka",
+        "english_meaning": "they will mislead you",
+        "arabic_text": "وَإِنْ تُطِعْ أَكْثَرَ مَنْ فِي الْأَرْضِ يُضِلُّوكَ عَنْ سَبِيلِ اللَّهِ",
+        "highlighted_word": "يُضِلُّوكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 119,
+          "word": 22,
+          "reference": "(6:119:22)"
+        },
+        "transliteration": "layuḍillūna",
+        "english_meaning": "surely lead astray",
+        "arabic_text": "وَإِنَّ كَثِيرًا لَيُضِلُّونَ بِأَهْوَائِهِمْ بِغَيْرِ عِلْمٍ",
+        "highlighted_word": "لَيُضِلُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 125,
+          "word": 12,
+          "reference": "(6:125:12)"
+        },
+        "transliteration": "yuḍillahu",
+        "english_meaning": "He lets him go astray",
+        "arabic_text": "وَمَنْ يُرِدْ أَنْ يُضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقًا حَرَجًا",
+        "highlighted_word": "يُضِلَّهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 144,
+          "word": 31,
+          "reference": "(6:144:31)"
+        },
+        "transliteration": "liyuḍilla",
+        "english_meaning": "to mislead",
+        "arabic_text": "فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا لِيُضِلَّ النَّاسَ بِغَيْرِ عِلْمٍ",
+        "highlighted_word": "لِيُضِلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 38,
+          "word": 29,
+          "reference": "(7:38:29)"
+        },
+        "transliteration": "aḍallūnā",
+        "english_meaning": "misled us",
+        "arabic_text": "رَبَّنَا هَٰؤُلَاءِ أَضَلُّونَا فَآتِهِمْ عَذَابًا ضِعْفًا مِنَ النَّارِ",
+        "highlighted_word": "أَضَلُّونَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 155,
+          "word": 27,
+          "reference": "(7:155:27)"
+        },
+        "transliteration": "tuḍillu",
+        "english_meaning": "You let go astray",
+        "arabic_text": "إِنْ هِيَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَنْ تَشَاءُ وَتَهْدِي مَنْ تَشَاءُ",
+        "highlighted_word": "تُضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 178,
+          "word": 7,
+          "reference": "(7:178:7)"
+        },
+        "transliteration": "yuḍ'lil",
+        "english_meaning": "He lets go astray",
+        "arabic_text": "مَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِي وَمَنْ يُضْلِلْ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+        "highlighted_word": "يُضْلِلْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 186,
+          "word": 2,
+          "reference": "(7:186:2)"
+        },
+        "transliteration": "yuḍ'lili",
+        "english_meaning": "(is) let go astray",
+        "arabic_text": "مَنْ يُضْلِلِ اللَّهُ فَلَا هَادِيَ لَهُ وَيَذَرُهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+        "highlighted_word": "يُضْلِلِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 115,
+          "word": 4,
+          "reference": "(9:115:4)"
+        },
+        "transliteration": "liyuḍilla",
+        "english_meaning": "that He lets go astray",
+        "arabic_text": "وَمَا كَانَ اللَّهُ لِيُضِلَّ قَوْمًا بَعْدَ إِذْ هَدَاهُمْ حَتَّىٰ يُبَيِّنَ لَهُمْ مَا يَتَّقُونَ",
+        "highlighted_word": "لِيُضِلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 88,
+          "word": 14,
+          "reference": "(10:88:14)"
+        },
+        "transliteration": "liyuḍillū",
+        "english_meaning": "That they may lead astray",
+        "arabic_text": "رَبَّنَا لِيُضِلُّوا عَنْ سَبِيلِكَ",
+        "highlighted_word": "لِيُضِلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 27,
+          "word": 13,
+          "reference": "(13:27:13)"
+        },
+        "transliteration": "yuḍillu",
+        "english_meaning": "lets go astray",
+        "arabic_text": "قُلْ إِنَّ اللَّهَ يُضِلُّ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ أَنَابَ",
+        "highlighted_word": "يُضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 33,
+          "word": 34,
+          "reference": "(13:33:34)"
+        },
+        "transliteration": "yuḍ'lili",
+        "english_meaning": "(by) Allah",
+        "arabic_text": "وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
+        "highlighted_word": "يُضْلِلِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 4,
+          "word": 10,
+          "reference": "(14:4:10)"
+        },
+        "transliteration": "fayuḍillu",
+        "english_meaning": "Then Allah lets go astray",
+        "arabic_text": "فَيُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+        "highlighted_word": "فَيُضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 27,
+          "word": 12,
+          "reference": "(14:27:12)"
+        },
+        "transliteration": "wayuḍillu",
+        "english_meaning": "And Allah lets go astray",
+        "arabic_text": "وَيُضِلُّ اللَّهُ الظَّالِمِينَ وَيَفْعَلُ اللَّهُ مَا يَشَاءُ",
+        "highlighted_word": "وَيُضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 30,
+          "word": 4,
+          "reference": "(14:30:4)"
+        },
+        "transliteration": "liyuḍillū",
+        "english_meaning": "so that they mislead",
+        "arabic_text": "وَجَعَلُوا لِلَّهِ أَنْدَادًا لِيُضِلُّوا عَنْ سَبِيلِهِ",
+        "highlighted_word": "لِيُضِلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 36,
+          "word": 3,
+          "reference": "(14:36:3)"
+        },
+        "transliteration": "aḍlalna",
+        "english_meaning": "have led astray",
+        "arabic_text": "رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًا مِنَ النَّاسِ",
+        "highlighted_word": "أَضْلَلْنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 25,
+          "word": 9,
+          "reference": "(16:25:9)"
+        },
+        "transliteration": "yuḍillūnahum",
+        "english_meaning": "they misled [them]",
+        "arabic_text": "وَمِنْ أَوْزَارِ الَّذِينَ يُضِلُّونَهُمْ بِغَيْرِ عِلْمٍ",
+        "highlighted_word": "يُضِلُّونَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 37,
+          "word": 10,
+          "reference": "(16:37:10)"
+        },
+        "transliteration": "yuḍillu",
+        "english_meaning": "He lets go astray",
+        "arabic_text": "إِنْ تَحْرِصْ عَلَىٰ هُدَاهُمْ فَإِنَّ اللَّهَ لَا يَهْدِي مَنْ يُضِلُّ",
+        "highlighted_word": "يُضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 93,
+          "word": 8,
+          "reference": "(16:93:8)"
+        },
+        "transliteration": "yuḍillu",
+        "english_meaning": "He lets go astray",
+        "arabic_text": "وَلَٰكِنْ يُضِلُّ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ",
+        "highlighted_word": "يُضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 97,
+          "word": 7,
+          "reference": "(17:97:7)"
+        },
+        "transliteration": "yuḍ'lil",
+        "english_meaning": "He lets go astray",
+        "arabic_text": "وَمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُمْ أَوْلِيَاءَ مِنْ دُونِهِ",
+        "highlighted_word": "يُضْلِلْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 17,
+          "word": 29,
+          "reference": "(18:17:29)"
+        },
+        "transliteration": "yuḍ'lil",
+        "english_meaning": "He lets go astray",
+        "arabic_text": "مَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُ وَلِيًّا مُرْشِدًا",
+        "highlighted_word": "يُضْلِلْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 79,
+          "word": 1,
+          "reference": "(20:79:1)"
+        },
+        "transliteration": "wa-aḍalla",
+        "english_meaning": "And led astray",
+        "arabic_text": "وَأَضَلَّ فِرْعَوْنُ قَوْمَهُ وَمَا هَدَىٰ",
+        "highlighted_word": "وَأَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 85,
+          "word": 8,
+          "reference": "(20:85:8)"
+        },
+        "transliteration": "wa-aḍallahumu",
+        "english_meaning": "and has led them astray",
+        "arabic_text": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنْ بَعْدِكَ وَأَضَلَّهُمُ السَّامِرِيُّ",
+        "highlighted_word": "وَأَضَلَّهُمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 4,
+          "word": 7,
+          "reference": "(22:4:7)"
+        },
+        "transliteration": "yuḍilluhu",
+        "english_meaning": "will misguide him",
+        "arabic_text": "كُتِبَ عَلَيْهِ أَنَّهُ مَنْ تَوَلَّاهُ فَأَنَّهُ يُضِلُّهُ وَيَهْدِيهِ إِلَىٰ عَذَابِ السَّعِيرِ",
+        "highlighted_word": "يُضِلُّهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 9,
+          "word": 3,
+          "reference": "(22:9:3)"
+        },
+        "transliteration": "liyuḍilla",
+        "english_meaning": "to mislead",
+        "arabic_text": "ثَانِيَ عِطْفِهِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ",
+        "highlighted_word": "لِيُضِلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 17,
+          "word": 10,
+          "reference": "(25:17:10)"
+        },
+        "transliteration": "aḍlaltum",
+        "english_meaning": "[you] mislead",
+        "arabic_text": "أَأَنْتُمْ أَضْلَلْتُمْ عِبَادِي هَٰؤُلَاءِ أَمْ هُمْ ضَلُّوا السَّبِيلَ",
+        "highlighted_word": "أَضْلَلْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 29,
+          "word": 2,
+          "reference": "(25:29:2)"
+        },
+        "transliteration": "aḍallanī",
+        "english_meaning": "he led me astray",
+        "arabic_text": "لَقَدْ أَضَلَّنِي عَنِ الذِّكْرِ بَعْدَ إِذْ جَاءَنِي",
+        "highlighted_word": "أَضَلَّنِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 42,
+          "word": 3,
+          "reference": "(25:42:3)"
+        },
+        "transliteration": "layuḍillunā",
+        "english_meaning": "[surely] misled us",
+        "arabic_text": "إِنْ كَادَ لَيُضِلُّنَا عَنْ آلِهَتِنَا لَوْلَا أَنْ صَبَرْنَا عَلَيْهَا",
+        "highlighted_word": "لَيُضِلُّنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 99,
+          "word": 2,
+          "reference": "(26:99:2)"
+        },
+        "transliteration": "aḍallanā",
+        "english_meaning": "misguided us",
+        "arabic_text": "وَمَا أَضَلَّنَا إِلَّا الْمُجْرِمُونَ",
+        "highlighted_word": "أَضَلَّنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 29,
+          "word": 11,
+          "reference": "(30:29:11)"
+        },
+        "transliteration": "aḍalla",
+        "english_meaning": "Allah has let go astray",
+        "arabic_text": "فَمَنْ يَهْدِي مَنْ أَضَلَّ اللَّهُ",
+        "highlighted_word": "أَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 31,
+          "verse": 6,
+          "word": 7,
+          "reference": "(31:6:7)"
+        },
+        "transliteration": "liyuḍilla",
+        "english_meaning": "to mislead",
+        "arabic_text": "وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ",
+        "highlighted_word": "لِيُضِلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 67,
+          "word": 7,
+          "reference": "(33:67:7)"
+        },
+        "transliteration": "fa-aḍallūnā",
+        "english_meaning": "and they misled us",
+        "arabic_text": "إِنَّا أَطَعْنَا سَادَتَنَا وَكُبَرَاءَنَا فَأَضَلُّونَا السَّبِيلَا",
+        "highlighted_word": "فَأَضَلُّونَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 8,
+          "word": 10,
+          "reference": "(35:8:10)"
+        },
+        "transliteration": "yuḍillu",
+        "english_meaning": "lets go astray",
+        "arabic_text": "فَإِنَّ اللَّهَ يُضِلُّ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ",
+        "highlighted_word": "يُضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 62,
+          "word": 2,
+          "reference": "(36:62:2)"
+        },
+        "transliteration": "aḍalla",
+        "english_meaning": "he led astray",
+        "arabic_text": "وَلَقَدْ أَضَلَّ مِنْكُمْ جِبِلًّا كَثِيرًا أَفَلَمْ تَكُونُوا تَعْقِلُونَ",
+        "highlighted_word": "أَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 26,
+          "word": 14,
+          "reference": "(38:26:14)"
+        },
+        "transliteration": "fayuḍillaka",
+        "english_meaning": "for it will lead you astray",
+        "arabic_text": "وَلَا تَتَّبِعِ الْهَوَىٰ فَيُضِلَّكَ عَنْ سَبِيلِ اللَّهِ",
+        "highlighted_word": "فَيُضِلَّكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 8,
+          "word": 24,
+          "reference": "(39:8:24)"
+        },
+        "transliteration": "liyuḍilla",
+        "english_meaning": "to mislead",
+        "arabic_text": "وَجَعَلَ لِلَّهِ أَنْدَادًا لِيُضِلَّ عَنْ سَبِيلِهِ",
+        "highlighted_word": "لِيُضِلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 23,
+          "word": 29,
+          "reference": "(39:23:29)"
+        },
+        "transliteration": "yuḍ'lili",
+        "english_meaning": "Allah lets go astray",
+        "arabic_text": "وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
+        "highlighted_word": "يُضْلِلِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 36,
+          "word": 10,
+          "reference": "(39:36:10)"
+        },
+        "transliteration": "yuḍ'lili",
+        "english_meaning": "Allah lets go astray",
+        "arabic_text": "وَيُخَوِّفُونَكَ بِالَّذِينَ مِنْ دُونِهِ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
+        "highlighted_word": "يُضْلِلِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 33,
+          "word": 11,
+          "reference": "(40:33:11)"
+        },
+        "transliteration": "yuḍ'lili",
+        "english_meaning": "Allah lets go astray",
+        "arabic_text": "مَا لَكُمْ مِنَ اللَّهِ مِنْ عَاصِمٍ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
+        "highlighted_word": "يُضْلِلِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 34,
+          "word": 25,
+          "reference": "(40:34:25)"
+        },
+        "transliteration": "yuḍillu",
+        "english_meaning": "Allah lets go astray",
+        "arabic_text": "كَذَٰلِكَ يُضِلُّ اللَّهُ مَنْ هُوَ مُسْرِفٌ مُرْتَابٌ",
+        "highlighted_word": "يُضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 74,
+          "word": 15,
+          "reference": "(40:74:15)"
+        },
+        "transliteration": "yuḍillu",
+        "english_meaning": "Allah lets go astray",
+        "arabic_text": "كَذَٰلِكَ يُضِلُّ اللَّهُ الْكَافِرِينَ",
+        "highlighted_word": "يُضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 29,
+          "word": 7,
+          "reference": "(41:29:7)"
+        },
+        "transliteration": "aḍallānā",
+        "english_meaning": "misled us",
+        "arabic_text": "رَبَّنَا أَرِنَا اللَّذَيْنِ أَضَلَّانَا مِنَ الْجِنِّ وَالْإِنْسِ",
+        "highlighted_word": "أَضَلَّانَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 44,
+          "word": 2,
+          "reference": "(42:44:2)"
+        },
+        "transliteration": "yuḍ'lili",
+        "english_meaning": "Allah lets go astray",
+        "arabic_text": "وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ وَلِيٍّ مِنْ بَعْدِهِ",
+        "highlighted_word": "يُضْلِلِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 46,
+          "word": 11,
+          "reference": "(42:46:11)"
+        },
+        "transliteration": "yuḍ'lili",
+        "english_meaning": "Allah lets go astray",
+        "arabic_text": "وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ سَبِيلٍ",
+        "highlighted_word": "يُضْلِلِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 45,
+          "verse": 23,
+          "word": 6,
+          "reference": "(45:23:6)"
+        },
+        "transliteration": "wa-aḍallahu",
+        "english_meaning": "and Allah lets him go astray",
+        "arabic_text": "أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ عَلَىٰ عِلْمٍ",
+        "highlighted_word": "وَأَضَلَّهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 1,
+          "word": 7,
+          "reference": "(47:1:7)"
+        },
+        "transliteration": "aḍalla",
+        "english_meaning": "He will cause to be lost",
+        "arabic_text": "الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ أَضَلَّ أَعْمَالَهُمْ",
+        "highlighted_word": "أَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 4,
+          "word": 37,
+          "reference": "(47:4:37)"
+        },
+        "transliteration": "yuḍilla",
+        "english_meaning": "He will cause to be lost",
+        "arabic_text": "وَالَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ فَلَنْ يُضِلَّ أَعْمَالَهُمْ",
+        "highlighted_word": "يُضِلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 8,
+          "word": 5,
+          "reference": "(47:8:5)"
+        },
+        "transliteration": "wa-aḍalla",
+        "english_meaning": "and He will cause to be lost",
+        "arabic_text": "وَالَّذِينَ كَفَرُوا فَتَعْسًا لَهُمْ وَأَضَلَّ أَعْمَالَهُمْ",
+        "highlighted_word": "وَأَضَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 71,
+          "verse": 24,
+          "word": 2,
+          "reference": "(71:24:2)"
+        },
+        "transliteration": "aḍallū",
+        "english_meaning": "they have led astray",
+        "arabic_text": "وَقَدْ أَضَلُّوا كَثِيرًا وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا",
+        "highlighted_word": "أَضَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 71,
+          "verse": 27,
+          "word": 4,
+          "reference": "(71:27:4)"
+        },
+        "transliteration": "yuḍillū",
+        "english_meaning": "they will mislead",
+        "arabic_text": "إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا",
+        "highlighted_word": "يُضِلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 74,
+          "verse": 31,
+          "word": 40,
+          "reference": "(74:31:40)"
+        },
+        "transliteration": "yuḍillu",
+        "english_meaning": "does let go astray",
+        "arabic_text": "كَذَٰلِكَ يُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ",
+        "highlighted_word": "يُضِلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 60,
+          "word": 24,
+          "reference": "(5:60:24)"
+        },
+        "transliteration": "wa-aḍallu",
+        "english_meaning": "and farthest astray",
+        "arabic_text": "أُولَٰئِكَ شَرٌّ مَكَانًا وَأَضَلُّ عَنْ سَوَاءِ السَّبِيلِ",
+        "highlighted_word": "وَأَضَلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 179,
+          "word": 27,
+          "reference": "(7:179:27)"
+        },
+        "transliteration": "aḍallu",
+        "english_meaning": "(are) more astray",
+        "arabic_text": "أُولَٰئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ أُولَٰئِكَ هُمُ الْغَافِلُونَ",
+        "highlighted_word": "أَضَلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 72,
+          "word": 10,
+          "reference": "(17:72:10)"
+        },
+        "transliteration": "wa-aḍallu",
+        "english_meaning": "and more astray",
+        "arabic_text": "وَمَنْ كَانَ فِي هَٰذِهِ أَعْمَىٰ فَهُوَ فِي الْآخِرَةِ أَعْمَىٰ وَأَضَلُّ سَبِيلًا",
+        "highlighted_word": "وَأَضَلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 34,
+          "word": 10,
+          "reference": "(25:34:10)"
+        },
+        "transliteration": "wa-aḍallu",
+        "english_meaning": "and most astray",
+        "arabic_text": "أُولَٰئِكَ شَرٌّ مَكَانًا وَأَضَلُّ سَبِيلًا",
+        "highlighted_word": "وَأَضَلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 42,
+          "word": 16,
+          "reference": "(25:42:16)"
+        },
+        "transliteration": "aḍallu",
+        "english_meaning": "(is) more astray",
+        "arabic_text": "وَسَوْفَ يَعْلَمُونَ حِينَ يَرَوْنَ الْعَذَابَ مَنْ أَضَلُّ سَبِيلًا",
+        "highlighted_word": "أَضَلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 44,
+          "word": 14,
+          "reference": "(25:44:14)"
+        },
+        "transliteration": "aḍallu",
+        "english_meaning": "(are) more astray",
+        "arabic_text": "إِنْ هُمْ إِلَّا كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ سَبِيلًا",
+        "highlighted_word": "أَضَلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 50,
+          "word": 10,
+          "reference": "(28:50:10)"
+        },
+        "transliteration": "aḍallu",
+        "english_meaning": "(is) more astray",
+        "arabic_text": "وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنَ اللَّهِ",
+        "highlighted_word": "أَضَلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 52,
+          "word": 12,
+          "reference": "(41:52:12)"
+        },
+        "transliteration": "aḍallu",
+        "english_meaning": "(is) more astray",
+        "arabic_text": "مَنْ أَضَلُّ مِمَّنْ هُوَ فِي شِقَاقٍ بَعِيدٍ",
+        "highlighted_word": "أَضَلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 46,
+          "verse": 5,
+          "word": 2,
+          "reference": "(46:5:2)"
+        },
+        "transliteration": "aḍallu",
+        "english_meaning": "(is) more astray",
+        "arabic_text": "وَمَنْ أَضَلُّ مِمَّنْ يَدْعُو مِنْ دُونِ اللَّهِ مَنْ لَا يَسْتَجِيبُ لَهُ إِلَىٰ يَوْمِ الْقِيَامَةِ",
+        "highlighted_word": "أَضَلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 164,
+          "word": 24,
+          "reference": "(3:164:24)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "(the) error",
+        "arabic_text": "وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 60,
+          "word": 29,
+          "reference": "(4:60:29)"
+        },
+        "transliteration": "ḍalālan",
+        "english_meaning": "astray",
+        "arabic_text": "وَيُرِيدُ الشَّيْطَانُ أَنْ يُضِلَّهُمْ ضَلَالًا بَعِيدًا",
+        "highlighted_word": "ضَلَالًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 116,
+          "word": 19,
+          "reference": "(4:116:19)"
+        },
+        "transliteration": "ḍalālan",
+        "english_meaning": "straying",
+        "arabic_text": "وَمَنْ يُشْرِكْ بِاللَّهِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا",
+        "highlighted_word": "ضَلَالًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 136,
+          "word": 27,
+          "reference": "(4:136:27)"
+        },
+        "transliteration": "ḍalālan",
+        "english_meaning": "straying",
+        "arabic_text": "وَمَنْ يَكْفُرْ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الْآخِرِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا",
+        "highlighted_word": "ضَلَالًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 167,
+          "word": 10,
+          "reference": "(4:167:10)"
+        },
+        "transliteration": "ḍalālan",
+        "english_meaning": "straying",
+        "arabic_text": "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ قَدْ ضَلُّوا ضَلَالًا بَعِيدًا",
+        "highlighted_word": "ضَلَالًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 74,
+          "word": 13,
+          "reference": "(6:74:13)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "إِنِّي أَرَاكَ وَقَوْمَكَ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 60,
+          "word": 8,
+          "reference": "(7:60:8)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "قَالَ الْمَلَأُ مِنْ قَوْمِهِ إِنَّا لَنَرَاكَ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 32,
+          "word": 9,
+          "reference": "(10:32:9)"
+        },
+        "transliteration": "l-ḍalālu",
+        "english_meaning": "the error",
+        "arabic_text": "فَذَٰلِكُمُ اللَّهُ رَبُّكُمُ الْحَقُّ فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ",
+        "highlighted_word": "الضَّلَالُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 8,
+          "word": 14,
+          "reference": "(12:8:14)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "an error",
+        "arabic_text": "إِنَّ أَبَانَا لَفِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 30,
+          "word": 17,
+          "reference": "(12:30:17)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "an error",
+        "arabic_text": "تُرَاوِدُ فَتَاهَا عَنْ نَفْسِهِ قَدْ شَغَفَهَا حُبًّا إِنَّا لَنَرَاهَا فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 95,
+          "word": 5,
+          "reference": "(12:95:5)"
+        },
+        "transliteration": "ḍalālika",
+        "english_meaning": "your error",
+        "arabic_text": "قَالُوا تَاللَّهِ إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ",
+        "highlighted_word": "ضَلَالِكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 14,
+          "word": 27,
+          "reference": "(13:14:27)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "وَمَا دُعَاءُ الْكَافِرِينَ إِلَّا فِي ضَلَالٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 3,
+          "word": 15,
+          "reference": "(14:3:15)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "(are) far astray",
+        "arabic_text": "وَيَبْغُونَهَا عِوَجًا أُولَٰئِكَ فِي ضَلَالٍ بَعِيدٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 18,
+          "word": 21,
+          "reference": "(14:18:21)"
+        },
+        "transliteration": "l-ḍalālu",
+        "english_meaning": "(is) the straying",
+        "arabic_text": "لَا يَقْدِرُونَ مِمَّا كَسَبُوا عَلَىٰ شَيْءٍ ذَٰلِكَ هُوَ الضَّلَالُ الْبَعِيدُ",
+        "highlighted_word": "الضَّلَالُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 38,
+          "word": 10,
+          "reference": "(19:38:10)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "لَٰكِنِ الظَّالِمُونَ الْيَوْمَ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 54,
+          "word": 7,
+          "reference": "(21:54:7)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "an error",
+        "arabic_text": "قَالَ لَقَدْ كُنْتُمْ أَنْتُمْ وَآبَاؤُكُمْ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 12,
+          "word": 13,
+          "reference": "(22:12:13)"
+        },
+        "transliteration": "l-ḍalālu",
+        "english_meaning": "(is) the straying",
+        "arabic_text": "ذَٰلِكَ هُوَ الضَّلَالُ الْبَعِيدُ",
+        "highlighted_word": "الضَّلَالُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 97,
+          "word": 5,
+          "reference": "(26:97:5)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "تَاللَّهِ إِنْ كُنَّا لَفِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 85,
+          "word": 18,
+          "reference": "(28:85:18)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "an error",
+        "arabic_text": "قُلْ رَبِّي أَعْلَمُ مَنْ جَاءَ بِالْهُدَىٰ وَمَنْ هُوَ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 31,
+          "verse": 11,
+          "word": 13,
+          "reference": "(31:11:13)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "بَلِ الظَّالِمُونَ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 36,
+          "word": 23,
+          "reference": "(33:36:23)"
+        },
+        "transliteration": "ḍalālan",
+        "english_meaning": "(into) error",
+        "arabic_text": "وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينًا",
+        "highlighted_word": "ضَلَالًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 8,
+          "word": 15,
+          "reference": "(34:8:15)"
+        },
+        "transliteration": "wal-ḍalāli",
+        "english_meaning": "and error",
+        "arabic_text": "بَلِ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ فِي الْعَذَابِ وَالضَّلَالِ الْبَعِيدِ",
+        "highlighted_word": "وَالضَّلَالِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 24,
+          "word": 16,
+          "reference": "(34:24:16)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 24,
+          "word": 4,
+          "reference": "(36:24:4)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "an error",
+        "arabic_text": "إِنِّي إِذًا لَفِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 47,
+          "word": 23,
+          "reference": "(36:47:23)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "an error",
+        "arabic_text": "أَنُطْعِمُ مَنْ لَوْ يَشَاءُ اللَّهُ أَطْعَمَهُ إِنْ أَنْتُمْ إِلَّا فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 22,
+          "word": 19,
+          "reference": "(39:22:19)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "فَوَيْلٌ لِلْقَاسِيَةِ قُلُوبُهُمْ مِنْ ذِكْرِ اللَّهِ أُولَٰئِكَ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 25,
+          "word": 19,
+          "reference": "(40:25:19)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "وَمَا كَيْدُ الْكَافِرِينَ إِلَّا فِي ضَلَالٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 50,
+          "word": 16,
+          "reference": "(40:50:16)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "وَمَا دُعَاءُ الْكَافِرِينَ إِلَّا فِي ضَلَالٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 18,
+          "word": 21,
+          "reference": "(42:18:21)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "أَلَا إِنَّ الَّذِينَ يُمَارُونَ فِي السَّاعَةِ لَفِي ضَلَالٍ بَعِيدٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 40,
+          "word": 10,
+          "reference": "(43:40:10)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "an error",
+        "arabic_text": "أَفَأَنْتَ تُسْمِعُ الصُّمَّ أَوْ تَهْدِي الْعُمْيَ وَمَنْ كَانَ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 46,
+          "verse": 32,
+          "word": 17,
+          "reference": "(46:32:17)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "وَلَيْسَ لَهُ مِنْ دُونِهِ أَوْلِيَاءُ أُولَٰئِكَ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 50,
+          "verse": 27,
+          "word": 9,
+          "reference": "(50:27:9)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "قَالَ قَرِينُهُ رَبَّنَا مَا أَطْغَيْتُهُ وَلَٰكِنْ كَانَ فِي ضَلَالٍ بَعِيدٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 54,
+          "verse": 24,
+          "word": 9,
+          "reference": "(54:24:9)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "فَقَالُوا أَبَشَرًا مِنَّا وَاحِدًا نَتَّبِعُهُ إِنَّا إِذًا لَفِي ضَلَالٍ وَسُعُرٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 54,
+          "verse": 47,
+          "word": 4,
+          "reference": "(54:47:4)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "an error",
+        "arabic_text": "إِنَّ الْمُجْرِمِينَ فِي ضَلَالٍ وَسُعُرٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 62,
+          "verse": 2,
+          "word": 20,
+          "reference": "(62:2:20)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "an error",
+        "arabic_text": "وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 67,
+          "verse": 9,
+          "word": 17,
+          "reference": "(67:9:17)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللَّهُ مِنْ شَيْءٍ إِنْ أَنْتُمْ إِلَّا فِي ضَلَالٍ كَبِيرٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 67,
+          "verse": 29,
+          "word": 12,
+          "reference": "(67:29:12)"
+        },
+        "transliteration": "ḍalālin",
+        "english_meaning": "error",
+        "arabic_text": "فَسَتَعْلَمُونَ مَنْ هُوَ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "ضَلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 71,
+          "verse": 24,
+          "word": 8,
+          "reference": "(71:24:8)"
+        },
+        "transliteration": "ḍalālan",
+        "english_meaning": "(in) error",
+        "arabic_text": "وَقَدْ أَضَلُّوا كَثِيرًا وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا",
+        "highlighted_word": "ضَلَالًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 16,
+          "word": 4,
+          "reference": "(2:16:4)"
+        },
+        "transliteration": "l-ḍalālata",
+        "english_meaning": "[the] astraying",
+        "arabic_text": "أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ فَمَا رَبِحَتْ تِجَارَتُهُمْ",
+        "highlighted_word": "الضَّلَالَةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 175,
+          "word": 4,
+          "reference": "(2:175:4)"
+        },
+        "transliteration": "l-ḍalālata",
+        "english_meaning": "[the] astraying",
+        "arabic_text": "أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ وَالْعَذَابَ بِالْمَغْفِرَةِ",
+        "highlighted_word": "الضَّلَالَةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 44,
+          "word": 10,
+          "reference": "(4:44:10)"
+        },
+        "transliteration": "l-ḍalālata",
+        "english_meaning": "[the] error",
+        "arabic_text": "يَشْتَرُونَ الضَّلَالَةَ وَيُرِيدُونَ أَنْ تَضِلُّوا السَّبِيلَ",
+        "highlighted_word": "الضَّلَالَةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 30,
+          "word": 6,
+          "reference": "(7:30:6)"
+        },
+        "transliteration": "l-ḍalālatu",
+        "english_meaning": "the astraying",
+        "arabic_text": "فَرِيقًا هَدَىٰ وَفَرِيقًا حَقَّ عَلَيْهِمُ الضَّلَالَةُ",
+        "highlighted_word": "الضَّلَالَةُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 61,
+          "word": 5,
+          "reference": "(7:61:5)"
+        },
+        "transliteration": "ḍalālatun",
+        "english_meaning": "error",
+        "arabic_text": "قَالَ يَا قَوْمِ لَيْسَ بِي ضَلَالَةٌ وَلَٰكِنِّي رَسُولٌ مِنْ رَبِّ الْعَالَمِينَ",
+        "highlighted_word": "ضَلَالَةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 36,
+          "word": 20,
+          "reference": "(16:36:20)"
+        },
+        "transliteration": "l-ḍalālatu",
+        "english_meaning": "the straying",
+        "arabic_text": "فَمِنْهُمْ مَنْ هَدَى اللَّهُ وَمِنْهُمْ مَنْ حَقَّتْ عَلَيْهِ الضَّلَالَةُ",
+        "highlighted_word": "الضَّلَالَةُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 75,
+          "word": 5,
+          "reference": "(19:75:5)"
+        },
+        "transliteration": "l-ḍalālati",
+        "english_meaning": "[the] error",
+        "arabic_text": "قُلْ مَنْ كَانَ فِي الضَّلَالَةِ فَلْيَمْدُدْ لَهُ الرَّحْمَٰنُ مَدًّا",
+        "highlighted_word": "الضَّلَالَةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 81,
+          "word": 6,
+          "reference": "(27:81:6)"
+        },
+        "transliteration": "ḍalālatihim",
+        "english_meaning": "their error",
+        "arabic_text": "وَمَا أَنْتَ بِهَادِي الْعُمْيِ عَنْ ضَلَالَتِهِمْ",
+        "highlighted_word": "ضَلَالَتِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 53,
+          "word": 6,
+          "reference": "(30:53:6)"
+        },
+        "transliteration": "ḍalālatihim",
+        "english_meaning": "their error",
+        "arabic_text": "وَمَا أَنْتَ بِهَادِ الْعُمْيِ عَنْ ضَلَالَتِهِمْ",
+        "highlighted_word": "ضَلَالَتِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 1,
+          "verse": 7,
+          "word": 9,
+          "reference": "(1:7:9)"
+        },
+        "transliteration": "l-ḍālīna",
+        "english_meaning": "(of) those who go astray",
+        "arabic_text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+        "highlighted_word": "الضَّالِّينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 198,
+          "word": 26,
+          "reference": "(2:198:26)"
+        },
+        "transliteration": "l-ḍālīna",
+        "english_meaning": "those who went astray",
+        "arabic_text": "وَاذْكُرُوهُ كَمَا هَدَاكُمْ وَإِنْ كُنْتُمْ مِنْ قَبْلِهِ لَمِنَ الضَّالِّينَ",
+        "highlighted_word": "الضَّالِّينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 90,
+          "word": 14,
+          "reference": "(3:90:14)"
+        },
+        "transliteration": "l-ḍālūna",
+        "english_meaning": "(are) those who have gone astray",
+        "arabic_text": "لَنْ تُقْبَلَ تَوْبَتُهُمْ وَأُولَٰئِكَ هُمُ الضَّالُّونَ",
+        "highlighted_word": "الضَّالُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 15,
+          "verse": 56,
+          "word": 8,
+          "reference": "(15:56:8)"
+        },
+        "transliteration": "l-ḍālūna",
+        "english_meaning": "those who are astray",
+        "arabic_text": "قَالَ وَمَنْ يَقْنَطُ مِنْ رَحْمَةِ رَبِّهِ إِلَّا الضَّالُّونَ",
+        "highlighted_word": "الضَّالُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 20,
+          "word": 6,
+          "reference": "(26:20:6)"
+        },
+        "transliteration": "l-ḍālīna",
+        "english_meaning": "those who are astray",
+        "arabic_text": "قَالَ فَعَلْتُهَا إِذًا وَأَنَا مِنَ الضَّالِّينَ",
+        "highlighted_word": "الضَّالِّينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 86,
+          "word": 6,
+          "reference": "(26:86:6)"
+        },
+        "transliteration": "l-ḍālīna",
+        "english_meaning": "those astray",
+        "arabic_text": "وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ",
+        "highlighted_word": "الضَّالِّينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 69,
+          "word": 4,
+          "reference": "(37:69:4)"
+        },
+        "transliteration": "ḍāllīna",
+        "english_meaning": "astray",
+        "arabic_text": "إِنَّهُمْ أَلْفَوْا آبَاءَهُمْ ضَالِّينَ",
+        "highlighted_word": "ضَالِّينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 51,
+          "word": 4,
+          "reference": "(56:51:4)"
+        },
+        "transliteration": "l-ḍālūna",
+        "english_meaning": "O those astray",
+        "arabic_text": "ثُمَّ إِنَّكُمْ أَيُّهَا الضَّالُّونَ الْمُكَذِّبُونَ",
+        "highlighted_word": "الضَّالُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 68,
+          "verse": 26,
+          "word": 5,
+          "reference": "(68:26:5)"
+        },
+        "transliteration": "laḍāllūna",
+        "english_meaning": "(are) surely lost",
+        "arabic_text": "فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ",
+        "highlighted_word": "لَضَالُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 83,
+          "verse": 32,
+          "word": 6,
+          "reference": "(83:32:6)"
+        },
+        "transliteration": "laḍāllūna",
+        "english_meaning": "surely have gone astray",
+        "arabic_text": "وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ",
+        "highlighted_word": "لَضَالُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 93,
+          "verse": 7,
+          "word": 2,
+          "reference": "(93:7:2)"
+        },
+        "transliteration": "ḍāllan",
+        "english_meaning": "lost",
+        "arabic_text": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+        "highlighted_word": "ضَالًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 77,
+          "word": 18,
+          "reference": "(6:77:18)"
+        },
+        "transliteration": "l-ḍālīna",
+        "english_meaning": "who went astray",
+        "arabic_text": "فَلَمَّا أَفَلَ قَالَ لَئِنْ لَمْ يَهْدِنِي رَبِّي لَأَكُونَنَّ مِنَ الْقَوْمِ الضَّالِّينَ",
+        "highlighted_word": "الضَّالِّينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 106,
+          "word": 8,
+          "reference": "(23:106:8)"
+        },
+        "transliteration": "ḍāllīna",
+        "english_meaning": "astray",
+        "arabic_text": "قَالُوا رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًا ضَالِّينَ",
+        "highlighted_word": "ضَالِّينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 92,
+          "word": 6,
+          "reference": "(56:92:6)"
+        },
+        "transliteration": "l-ḍālīna",
+        "english_meaning": "the astray",
+        "arabic_text": "وَأَمَّا إِنْ كَانَ مِنَ الْمُكَذِّبِينَ الضَّالِّينَ",
+        "highlighted_word": "الضَّالِّينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 105,
+          "verse": 2,
+          "word": 5,
+          "reference": "(105:2:5)"
+        },
+        "transliteration": "taḍlīlin",
+        "english_meaning": "astray",
+        "arabic_text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+        "highlighted_word": "تَضْلِيلٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 51,
+          "word": 12,
+          "reference": "(18:51:12)"
+        },
+        "transliteration": "l-muḍilīna",
+        "english_meaning": "the misleaders",
+        "arabic_text": "وَمَا كُنْتُ مُتَّخِذَ الْمُضِلِّينَ عَضُدًا",
+        "highlighted_word": "الْمُضِلِّينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 15,
+          "word": 37,
+          "reference": "(28:15:37)"
+        },
+        "transliteration": "muḍillun",
+        "english_meaning": "one who misleads",
+        "arabic_text": "قَالَ هَٰذَا مِنْ عَمَلِ الشَّيْطَانِ إِنَّهُ عَدُوٌّ مُضِلٌّ مُبِينٌ",
+        "highlighted_word": "مُضِلٌّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 37,
+          "word": 7,
+          "reference": "(39:37:7)"
+        },
+        "transliteration": "muḍillin",
+        "english_meaning": "misleader",
+        "arabic_text": "وَمَنْ يَهْدِ اللَّهُ فَمَا لَهُ مِنْ مُضِلٍّ أَلَيْسَ اللَّهُ بِعَزِيزٍ ذِي انْتِقَامٍ",
+        "highlighted_word": "مُضِلٍّ"
+      }
+    ],
+    "total_occurrences": 191,
+    "scraped_at": "2025-08-19 18:41:07"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Dmr",
+    "keyword_text": "ض م ر",
+    "description": "The triliteral root ḍād mīm rā (ض م ر) occurs only once in the Quran, as the active participle ḍāmir (ضَامِر). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Active participle",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 27,
+          "word": 9,
+          "reference": "(22:27:9)"
+        },
+        "transliteration": "ḍāmirin",
+        "english_meaning": "lean camel",
+        "arabic_text": "وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ",
+        "highlighted_word": "ضَامِرٍ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:41:21"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Dmm",
+    "keyword_text": "ض م م",
+    "description": "The triliteral root ḍād mīm mīm (ض م م) occurs twice in the Quran as the form I verb uḍ'mum (ٱضْمُمْ). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form I)",
+    "meaning": "to draw (near)",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 22,
+          "word": 1,
+          "reference": "(20:22:1)"
+        },
+        "transliteration": "wa-uḍ'mum",
+        "english_meaning": "And draw near",
+        "arabic_text": "وَاضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ",
+        "highlighted_word": "وَاضْمُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 32,
+          "word": 10,
+          "reference": "(28:32:10)"
+        },
+        "transliteration": "wa-uḍ'mum",
+        "english_meaning": "And draw",
+        "arabic_text": "وَاضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ الرَّهْبِ",
+        "highlighted_word": "وَاضْمُمْ"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 18:41:24"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Dnk",
+    "keyword_text": "ض ن ك",
+    "description": "The triliteral root ḍād nūn kāf (ض ن ك) occurs only once in the Quran, as the adjective ḍank (ضَنك). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Adjective",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 124,
+          "word": 8,
+          "reference": "(20:124:8)"
+        },
+        "transliteration": "ḍankan",
+        "english_meaning": "straitened",
+        "arabic_text": "وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا",
+        "highlighted_word": "ضَنْكًا"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:41:28"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Dnn",
+    "keyword_text": "ض ن ن",
+    "description": "The triliteral root ḍād nūn nūn (ض ن ن) occurs only once in the Quran, as the noun ḍanīn (ضَنِين). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 81,
+          "verse": 24,
+          "word": 5,
+          "reference": "(81:24:5)"
+        },
+        "transliteration": "biḍanīnin",
+        "english_meaning": "a withholder",
+        "arabic_text": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+        "highlighted_word": "بِضَنِينٍ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:41:31"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "DhA",
+    "keyword_text": "ض ه أ",
+    "description": "The triliteral root ḍād hā hamza (ض ه أ) occurs only once in the Quran, as the form III verb yuḍāhi-u (يُضَٰهِـُٔ). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form III)",
+    "meaning": "to imitate",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 30,
+          "word": 14,
+          "reference": "(9:30:14)"
+        },
+        "transliteration": "yuḍāhiūna",
+        "english_meaning": "they imitate",
+        "arabic_text": "يُضَاهِئُونَ قَوْلَ الَّذِينَ كَفَرُوا مِنْ قَبْلُ",
+        "highlighted_word": "يُضَاهِئُونَ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:41:35"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "DwA",
+    "keyword_text": "ض و أ",
+    "description": "The triliteral root ḍād wāw hamza (ض و أ) occurs six times in the Quran, in two derived forms:",
+    "word_type": "Verb (form IV)",
+    "meaning": "to light, to flash, to glow",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 17,
+          "word": 7,
+          "reference": "(2:17:7)"
+        },
+        "transliteration": "aḍāat",
+        "english_meaning": "it illuminated",
+        "arabic_text": "فَلَمَّا أَضَاءَتْ مَا حَوْلَهُ ذَهَبَ اللَّهُ بِنُورِهِمْ",
+        "highlighted_word": "أَضَاءَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 20,
+          "word": 6,
+          "reference": "(2:20:6)"
+        },
+        "transliteration": "aḍāa",
+        "english_meaning": "it flashes",
+        "arabic_text": "يَكَادُ الْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ كُلَّمَا أَضَاءَ لَهُمْ مَشَوْا فِيهِ",
+        "highlighted_word": "أَضَاءَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 35,
+          "word": 28,
+          "reference": "(24:35:28)"
+        },
+        "transliteration": "yuḍīu",
+        "english_meaning": "glow",
+        "arabic_text": "يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ",
+        "highlighted_word": "يُضِيءُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 5,
+          "word": 5,
+          "reference": "(10:5:5)"
+        },
+        "transliteration": "ḍiyāan",
+        "english_meaning": "a shining light",
+        "arabic_text": "هُوَ الَّذِي جَعَلَ الشَّمْسَ ضِيَاءً وَالْقَمَرَ نُورًا",
+        "highlighted_word": "ضِيَاءً"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 48,
+          "word": 6,
+          "reference": "(21:48:6)"
+        },
+        "transliteration": "waḍiyāan",
+        "english_meaning": "and a light",
+        "arabic_text": "وَلَقَدْ آتَيْنَا مُوسَىٰ وَهَارُونَ الْفُرْقَانَ وَضِيَاءً وَذِكْرًا لِلْمُتَّقِينَ",
+        "highlighted_word": "وَضِيَاءً"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 71,
+          "word": 17,
+          "reference": "(28:71:17)"
+        },
+        "transliteration": "biḍiyāin",
+        "english_meaning": "light",
+        "arabic_text": "مَنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ بِضِيَاءٍ أَفَلَا تَسْمَعُونَ",
+        "highlighted_word": "بِضِيَاءٍ"
+      }
+    ],
+    "total_occurrences": 6,
+    "scraped_at": "2025-08-19 18:41:38"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Dyr",
+    "keyword_text": "ض ي ر",
+    "description": "The triliteral root ḍād yā rā (ض ي ر) occurs only once in the Quran, as the noun ḍayr (ضَيْر). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 50,
+          "word": 3,
+          "reference": "(26:50:3)"
+        },
+        "transliteration": "ḍayra",
+        "english_meaning": "harm",
+        "arabic_text": "قَالُوا لَا ضَيْرَ إِنَّا إِلَىٰ رَبِّنَا مُنْقَلِبُونَ",
+        "highlighted_word": "ضَيْرَ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:41:42"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Dyz",
+    "keyword_text": "ض ي ز",
+    "description": "The triliteral root ḍād yā zāy (ض ي ز) occurs only once in the Quran, as the adjective ḍīzā (ضِيزَىٰٓ). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Adjective",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 22,
+          "word": 4,
+          "reference": "(53:22:4)"
+        },
+        "transliteration": "ḍīzā",
+        "english_meaning": "unfair",
+        "arabic_text": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰ",
+        "highlighted_word": "ضِيزَىٰ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:41:45"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "DyE",
+    "keyword_text": "ض ي ع",
+    "description": "The triliteral root ḍād yā ʿayn (ض ي ع) occurs 10 times in the Quran as the form IV verb aḍāʿu (أَضَاعُ). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form IV)",
+    "meaning": "to let go waste, to neglect",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 143,
+          "word": 39,
+          "reference": "(2:143:39)"
+        },
+        "transliteration": "liyuḍīʿa",
+        "english_meaning": "let go waste",
+        "arabic_text": "وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَحِيمٌ",
+        "highlighted_word": "لِيُضِيعَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 171,
+          "word": 9,
+          "reference": "(3:171:9)"
+        },
+        "transliteration": "yuḍīʿu",
+        "english_meaning": "let go waste",
+        "arabic_text": "يَسْتَبْشِرُونَ بِنِعْمَةٍ مِنَ اللَّهِ وَفَضْلٍ وَأَنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُؤْمِنِينَ",
+        "highlighted_word": "يُضِيعُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 195,
+          "word": 6,
+          "reference": "(3:195:6)"
+        },
+        "transliteration": "uḍīʿu",
+        "english_meaning": "(let go) waste",
+        "arabic_text": "فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ",
+        "highlighted_word": "أُضِيعُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 170,
+          "word": 8,
+          "reference": "(7:170:8)"
+        },
+        "transliteration": "nuḍīʿu",
+        "english_meaning": "[We] let go waste",
+        "arabic_text": "إِنَّا لَا نُضِيعُ أَجْرَ الْمُصْلِحِينَ",
+        "highlighted_word": "نُضِيعُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 120,
+          "word": 50,
+          "reference": "(9:120:50)"
+        },
+        "transliteration": "yuḍīʿu",
+        "english_meaning": "allow to be lost",
+        "arabic_text": "إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+        "highlighted_word": "يُضِيعُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 115,
+          "word": 5,
+          "reference": "(11:115:5)"
+        },
+        "transliteration": "yuḍīʿu",
+        "english_meaning": "let go waste",
+        "arabic_text": "وَاصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+        "highlighted_word": "يُضِيعُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 56,
+          "word": 15,
+          "reference": "(12:56:15)"
+        },
+        "transliteration": "nuḍīʿu",
+        "english_meaning": "We let go waste",
+        "arabic_text": "نُصِيبُ بِرَحْمَتِنَا مَنْ نَشَاءُ وَلَا نُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+        "highlighted_word": "نُضِيعُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 90,
+          "word": 21,
+          "reference": "(12:90:21)"
+        },
+        "transliteration": "yuḍīʿu",
+        "english_meaning": "let go waste",
+        "arabic_text": "إِنَّهُ مَنْ يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+        "highlighted_word": "يُضِيعُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 30,
+          "word": 8,
+          "reference": "(18:30:8)"
+        },
+        "transliteration": "nuḍīʿu",
+        "english_meaning": "will not let go waste",
+        "arabic_text": "إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا",
+        "highlighted_word": "نُضِيعُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 59,
+          "word": 5,
+          "reference": "(19:59:5)"
+        },
+        "transliteration": "aḍāʿū",
+        "english_meaning": "who neglected",
+        "arabic_text": "فَخَلَفَ مِنْ بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلَاةَ وَاتَّبَعُوا الشَّهَوَاتِ",
+        "highlighted_word": "أَضَاعُوا"
+      }
+    ],
+    "total_occurrences": 10,
+    "scraped_at": "2025-08-19 18:41:49"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Dyf",
+    "keyword_text": "ض ي ف",
+    "description": "The triliteral root ḍād yā fā (ض ي ف) occurs six times in the Quran, in two derived forms:",
+    "word_type": "Verb (form II)",
+    "meaning": "to offer hospitality",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 77,
+          "word": 11,
+          "reference": "(18:77:11)"
+        },
+        "transliteration": "yuḍayyifūhumā",
+        "english_meaning": "offer them hospitality",
+        "arabic_text": "اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَنْ يُضَيِّفُوهُمَا",
+        "highlighted_word": "يُضَيِّفُوهُمَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 78,
+          "word": 22,
+          "reference": "(11:78:22)"
+        },
+        "transliteration": "ḍayfī",
+        "english_meaning": "my guests",
+        "arabic_text": "فَاتَّقُوا اللَّهَ وَلَا تُخْزُونِ فِي ضَيْفِي أَلَيْسَ مِنْكُمْ رَجُلٌ رَشِيدٌ",
+        "highlighted_word": "ضَيْفِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 15,
+          "verse": 51,
+          "word": 3,
+          "reference": "(15:51:3)"
+        },
+        "transliteration": "ḍayfi",
+        "english_meaning": "(the) guests",
+        "arabic_text": "وَنَبِّئْهُمْ عَنْ ضَيْفِ إِبْرَاهِيمَ",
+        "highlighted_word": "ضَيْفِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 15,
+          "verse": 68,
+          "word": 4,
+          "reference": "(15:68:4)"
+        },
+        "transliteration": "ḍayfī",
+        "english_meaning": "(are) my guests",
+        "arabic_text": "قَالَ إِنَّ هَٰؤُلَاءِ ضَيْفِي فَلَا تَفْضَحُونِ",
+        "highlighted_word": "ضَيْفِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 51,
+          "verse": 24,
+          "word": 4,
+          "reference": "(51:24:4)"
+        },
+        "transliteration": "ḍayfi",
+        "english_meaning": "(of the) guests",
+        "arabic_text": "هَلْ أَتَاكَ حَدِيثُ ضَيْفِ إِبْرَاهِيمَ الْمُكْرَمِينَ",
+        "highlighted_word": "ضَيْفِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 54,
+          "verse": 37,
+          "word": 4,
+          "reference": "(54:37:4)"
+        },
+        "transliteration": "ḍayfihi",
+        "english_meaning": "his guests",
+        "arabic_text": "وَلَقَدْ رَاوَدُوهُ عَنْ ضَيْفِهِ فَطَمَسْنَا أَعْيُنَهُمْ",
+        "highlighted_word": "ضَيْفِهِ"
+      }
+    ],
+    "total_occurrences": 6,
+    "scraped_at": "2025-08-19 18:41:53"
+  },
+  {
+    "letter": "D",
+    "keyword_value": "Dyq",
+    "keyword_text": "ض ي ق",
+    "description": "The triliteral root ḍād yā qāf (ض ي ق) occurs 13 times in the Quran, in five derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to straiten",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 25,
+          "word": 16,
+          "reference": "(9:25:16)"
+        },
+        "transliteration": "waḍāqat",
+        "english_meaning": "and (was) straitened",
+        "arabic_text": "وَضَاقَتْ عَلَيْكُمُ الْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُمْ مُدْبِرِينَ",
+        "highlighted_word": "وَضَاقَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 118,
+          "word": 7,
+          "reference": "(9:118:7)"
+        },
+        "transliteration": "ḍāqat",
+        "english_meaning": "(was) straitened",
+        "arabic_text": "حَتَّىٰ إِذَا ضَاقَتْ عَلَيْهِمُ الْأَرْضُ بِمَا رَحُبَتْ",
+        "highlighted_word": "ضَاقَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 118,
+          "word": 12,
+          "reference": "(9:118:12)"
+        },
+        "transliteration": "waḍāqat",
+        "english_meaning": "And (was) straitened",
+        "arabic_text": "وَضَاقَتْ عَلَيْهِمْ أَنْفُسُهُمْ",
+        "highlighted_word": "وَضَاقَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 77,
+          "word": 7,
+          "reference": "(11:77:7)"
+        },
+        "transliteration": "waḍāqa",
+        "english_meaning": "and felt straitened",
+        "arabic_text": "وَلَمَّا جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا",
+        "highlighted_word": "وَضَاقَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 15,
+          "verse": 97,
+          "word": 4,
+          "reference": "(15:97:4)"
+        },
+        "transliteration": "yaḍīqu",
+        "english_meaning": "(is) straitened",
+        "arabic_text": "وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ",
+        "highlighted_word": "يَضِيقُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 13,
+          "word": 1,
+          "reference": "(26:13:1)"
+        },
+        "transliteration": "wayaḍīqu",
+        "english_meaning": "And straitens",
+        "arabic_text": "وَيَضِيقُ صَدْرِي وَلَا يَنْطَلِقُ لِسَانِي فَأَرْسِلْ إِلَىٰ هَارُونَ",
+        "highlighted_word": "وَيَضِيقُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 33,
+          "word": 8,
+          "reference": "(29:33:8)"
+        },
+        "transliteration": "waḍāqa",
+        "english_meaning": "and felt straitened",
+        "arabic_text": "وَلَمَّا أَنْ جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا",
+        "highlighted_word": "وَضَاقَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 65,
+          "verse": 6,
+          "word": 9,
+          "reference": "(65:6:9)"
+        },
+        "transliteration": "lituḍayyiqū",
+        "english_meaning": "to distress",
+        "arabic_text": "وَلَا تُضَارُّوهُنَّ لِتُضَيِّقُوا عَلَيْهِنَّ",
+        "highlighted_word": "لِتُضَيِّقُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 127,
+          "word": 12,
+          "reference": "(16:127:12)"
+        },
+        "transliteration": "ḍayqin",
+        "english_meaning": "distress",
+        "arabic_text": "وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِمَّا يَمْكُرُونَ",
+        "highlighted_word": "ضَيْقٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 70,
+          "word": 7,
+          "reference": "(27:70:7)"
+        },
+        "transliteration": "ḍayqin",
+        "english_meaning": "distress",
+        "arabic_text": "وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُنْ فِي ضَيْقٍ مِمَّا يَمْكُرُونَ",
+        "highlighted_word": "ضَيْقٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 13,
+          "word": 5,
+          "reference": "(25:13:5)"
+        },
+        "transliteration": "ḍayyiqan",
+        "english_meaning": "narrow",
+        "arabic_text": "وَإِذَا أُلْقُوا مِنْهَا مَكَانًا ضَيِّقًا مُقَرَّنِينَ دَعَوْا هُنَالِكَ ثُبُورًا",
+        "highlighted_word": "ضَيِّقًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 125,
+          "word": 15,
+          "reference": "(6:125:15)"
+        },
+        "transliteration": "ḍayyiqan",
+        "english_meaning": "tight",
+        "arabic_text": "وَمَنْ يُرِدْ أَنْ يُضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقًا حَرَجًا",
+        "highlighted_word": "ضَيِّقًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 12,
+          "word": 7,
+          "reference": "(11:12:7)"
+        },
+        "transliteration": "waḍāiqun",
+        "english_meaning": "and straitened",
+        "arabic_text": "فَلَعَلَّكَ تَارِكٌ بَعْضَ مَا يُوحَىٰ إِلَيْكَ وَضَائِقٌ بِهِ صَدْرُكَ",
+        "highlighted_word": "وَضَائِقٌ"
+      }
+    ],
+    "total_occurrences": 13,
+    "scraped_at": "2025-08-19 18:41:56"
+  }
+]

@@ -1,0 +1,154 @@
+{
+  "total_keywords": 807,
+  "total_occurrences": 23691,
+  "letters_processed": 11,
+  "keywords_by_letter": {
+    "f": {
+      "count": 72,
+      "total_occurrences": 1127
+    },
+    "g": {
+      "count": 50,
+      "total_occurrences": 901
+    },
+    "H": {
+      "count": 98,
+      "total_occurrences": 2157
+    },
+    "h": {
+      "count": 39,
+      "total_occurrences": 612
+    },
+    "k": {
+      "count": 61,
+      "total_occurrences": 3839
+    },
+    "m": {
+      "count": 67,
+      "total_occurrences": 1393
+    },
+    "n": {
+      "count": 105,
+      "total_occurrences": 2877
+    },
+    "q": {
+      "count": 80,
+      "total_occurrences": 4081
+    },
+    "r": {
+      "count": 87,
+      "total_occurrences": 3290
+    },
+    "w": {
+      "count": 77,
+      "total_occurrences": 1823
+    },
+    "x": {
+      "count": 71,
+      "total_occurrences": 1591
+    }
+  },
+  "top_keywords": [
+    {
+      "keyword": "ق و ل",
+      "letter": "q",
+      "occurrences": 1722
+    },
+    {
+      "keyword": "ك و ن",
+      "letter": "k",
+      "occurrences": 1390
+    },
+    {
+      "keyword": "ر ب ب",
+      "letter": "r",
+      "occurrences": 980
+    },
+    {
+      "keyword": "ق و م",
+      "letter": "q",
+      "occurrences": 660
+    },
+    {
+      "keyword": "ك ف ر",
+      "letter": "k",
+      "occurrences": 525
+    },
+    {
+      "keyword": "ر س ل",
+      "letter": "r",
+      "occurrences": 513
+    },
+    {
+      "keyword": "ك ل ل",
+      "letter": "k",
+      "occurrences": 377
+    },
+    {
+      "keyword": "ر ح م",
+      "letter": "r",
+      "occurrences": 339
+    },
+    {
+      "keyword": "ر أ ي",
+      "letter": "r",
+      "occurrences": 328
+    },
+    {
+      "keyword": "ك ت ب",
+      "letter": "k",
+      "occurrences": 319
+    },
+    {
+      "keyword": "ه د ي",
+      "letter": "h",
+      "occurrences": 316
+    },
+    {
+      "keyword": "ن ف س",
+      "letter": "n",
+      "occurrences": 298
+    },
+    {
+      "keyword": "ق ب ل",
+      "letter": "q",
+      "occurrences": 294
+    },
+    {
+      "keyword": "ن ز ل",
+      "letter": "n",
+      "occurrences": 293
+    },
+    {
+      "keyword": "ح ق ق",
+      "letter": "H",
+      "occurrences": 287
+    },
+    {
+      "keyword": "ك ذ ب",
+      "letter": "k",
+      "occurrences": 282
+    },
+    {
+      "keyword": "خ ل ق",
+      "letter": "x",
+      "occurrences": 261
+    },
+    {
+      "keyword": "و ق ي",
+      "letter": "w",
+      "occurrences": 258
+    },
+    {
+      "keyword": "ن و س",
+      "letter": "n",
+      "occurrences": 241
+    },
+    {
+      "keyword": "غ ف ر",
+      "letter": "g",
+      "occurrences": 234
+    }
+  ],
+  "generation_time": "2025-08-20T17:18:43.404455"
+}

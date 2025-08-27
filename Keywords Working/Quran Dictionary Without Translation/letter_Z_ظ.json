@@ -1,0 +1,5870 @@
+[
+  {
+    "letter": "Z",
+    "keyword_value": "ZEn",
+    "keyword_text": "ظ ع ن",
+    "description": "The triliteral root ẓā ʿayn nūn (ظ ع ن) occurs only once in the Quran, as the noun ẓaʿn (ظَعْن). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 80,
+          "word": 15,
+          "reference": "(16:80:15)"
+        },
+        "transliteration": "ẓaʿnikum",
+        "english_meaning": "(of) your travel",
+        "arabic_text": "تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ",
+        "highlighted_word": "ظَعْنِكُمْ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:44:40"
+  },
+  {
+    "letter": "Z",
+    "keyword_value": "Zfr",
+    "keyword_text": "ظ ف ر",
+    "description": "The triliteral root ẓā fā rā (ظ ف ر) occurs twice in the Quran, in two derived forms:",
+    "word_type": "Verb (form IV)",
+    "meaning": "to give victory",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 24,
+          "word": 13,
+          "reference": "(48:24:13)"
+        },
+        "transliteration": "aẓfarakum",
+        "english_meaning": "He gave you victory",
+        "arabic_text": "وَهُوَ الَّذِي كَفَّ أَيْدِيَهُمْ عَنْكُمْ وَأَيْدِيَكُمْ عَنْهُمْ بِبَطْنِ مَكَّةَ مِنْ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ",
+        "highlighted_word": "أَظْفَرَكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 146,
+          "word": 7,
+          "reference": "(6:146:7)"
+        },
+        "transliteration": "ẓufurin",
+        "english_meaning": "claws",
+        "arabic_text": "وَعَلَى الَّذِينَ هَادُوا حَرَّمْنَا كُلَّ ذِي ظُفُرٍ",
+        "highlighted_word": "ظُفُرٍ"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 18:44:44"
+  },
+  {
+    "letter": "Z",
+    "keyword_value": "Zll",
+    "keyword_text": "ظ ل ل",
+    "description": "The triliteral root ẓā lām lām (ظ ل ل) occurs 33 times in the Quran, in five derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to continue, to remain",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 15,
+          "verse": 14,
+          "word": 7,
+          "reference": "(15:14:7)"
+        },
+        "transliteration": "faẓallū",
+        "english_meaning": "and they were to continue",
+        "arabic_text": "وَلَوْ فَتَحْنَا عَلَيْهِمْ بَابًا مِنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرُجُونَ",
+        "highlighted_word": "فَظَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 58,
+          "word": 5,
+          "reference": "(16:58:5)"
+        },
+        "transliteration": "ẓalla",
+        "english_meaning": "turns",
+        "arabic_text": "وَإِذَا بُشِّرَ أَحَدُهُمْ بِالْأُنْثَىٰ ظَلَّ وَجْهُهُ مُسْوَدًّا",
+        "highlighted_word": "ظَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 97,
+          "word": 20,
+          "reference": "(20:97:20)"
+        },
+        "transliteration": "ẓalta",
+        "english_meaning": "you have remained",
+        "arabic_text": "وَانْظُرْ إِلَىٰ إِلَٰهِكَ الَّذِي ظَلْتَ عَلَيْهِ عَاكِفًا",
+        "highlighted_word": "ظَلْتَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 4,
+          "word": 8,
+          "reference": "(26:4:8)"
+        },
+        "transliteration": "faẓallat",
+        "english_meaning": "so would bend",
+        "arabic_text": "فَظَلَّتْ أَعْنَاقُهُمْ لَهَا خَاضِعِينَ",
+        "highlighted_word": "فَظَلَّتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 71,
+          "word": 4,
+          "reference": "(26:71:4)"
+        },
+        "transliteration": "fanaẓallu",
+        "english_meaning": "so we will remain",
+        "arabic_text": "قَالُوا نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَاكِفِينَ",
+        "highlighted_word": "فَنَظَلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 51,
+          "word": 6,
+          "reference": "(30:51:6)"
+        },
+        "transliteration": "laẓallū",
+        "english_meaning": "certainly they continue",
+        "arabic_text": "وَلَئِنْ أَرْسَلْنَا رِيحًا فَرَأَوْهُ مُصْفَرًّا لَظَلُّوا مِنْ بَعْدِهِ يَكْفُرُونَ",
+        "highlighted_word": "لَظَلُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 33,
+          "word": 5,
+          "reference": "(42:33:5)"
+        },
+        "transliteration": "fayaẓlalna",
+        "english_meaning": "then they would remain",
+        "arabic_text": "إِنْ يَشَأْ يُسْكِنِ الرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِ",
+        "highlighted_word": "فَيَظْلَلْنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 17,
+          "word": 8,
+          "reference": "(43:17:8)"
+        },
+        "transliteration": "ẓalla",
+        "english_meaning": "becomes",
+        "arabic_text": "وَإِذَا بُشِّرَ أَحَدُهُمْ بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًا ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ كَظِيمٌ",
+        "highlighted_word": "ظَلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 65,
+          "word": 5,
+          "reference": "(56:65:5)"
+        },
+        "transliteration": "faẓaltum",
+        "english_meaning": "then you would remain",
+        "arabic_text": "لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ",
+        "highlighted_word": "فَظَلْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 57,
+          "word": 1,
+          "reference": "(2:57:1)"
+        },
+        "transliteration": "waẓallalnā",
+        "english_meaning": "And We shaded",
+        "arabic_text": "وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ وَأَنْزَلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ",
+        "highlighted_word": "وَظَلَّلْنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 160,
+          "word": 26,
+          "reference": "(7:160:26)"
+        },
+        "transliteration": "waẓallalnā",
+        "english_meaning": "And We shaded",
+        "arabic_text": "وَظَلَّلْنَا عَلَيْهِمُ الْغَمَامَ وَأَنْزَلْنَا عَلَيْهِمُ الْمَنَّ وَالسَّلْوَىٰ",
+        "highlighted_word": "وَظَلَّلْنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 57,
+          "word": 19,
+          "reference": "(4:57:19)"
+        },
+        "transliteration": "ẓillan",
+        "english_meaning": "(in the) shade",
+        "arabic_text": "لَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا",
+        "highlighted_word": "ظِلًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 15,
+          "word": 9,
+          "reference": "(13:15:9)"
+        },
+        "transliteration": "waẓilāluhum",
+        "english_meaning": "and (so do) their shadows",
+        "arabic_text": "وَلِلَّهِ يَسْجُدُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا وَظِلَالُهُمْ بِالْغُدُوِّ وَالْآصَالِ",
+        "highlighted_word": "وَظِلَالُهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 35,
+          "word": 12,
+          "reference": "(13:35:12)"
+        },
+        "transliteration": "waẓilluhā",
+        "english_meaning": "and its shade",
+        "arabic_text": "تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ أُكُلُهَا دَائِمٌ وَظِلُّهَا",
+        "highlighted_word": "وَظِلُّهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 48,
+          "word": 10,
+          "reference": "(16:48:10)"
+        },
+        "transliteration": "ẓilāluhu",
+        "english_meaning": "their shadows",
+        "arabic_text": "يَتَفَيَّأُ ظِلَالُهُ عَنِ الْيَمِينِ وَالشَّمَائِلِ سُجَّدًا لِلَّهِ",
+        "highlighted_word": "ظِلَالُهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 81,
+          "word": 6,
+          "reference": "(16:81:6)"
+        },
+        "transliteration": "ẓilālan",
+        "english_meaning": "shades",
+        "arabic_text": "وَاللَّهُ جَعَلَ لَكُمْ مِمَّا خَلَقَ ظِلَالًا",
+        "highlighted_word": "ظِلَالًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 45,
+          "word": 7,
+          "reference": "(25:45:7)"
+        },
+        "transliteration": "l-ẓila",
+        "english_meaning": "the shadow",
+        "arabic_text": "أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ الظِّلَّ وَلَوْ شَاءَ لَجَعَلَهُ سَاكِنًا",
+        "highlighted_word": "الظِّلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 24,
+          "word": 6,
+          "reference": "(28:24:6)"
+        },
+        "transliteration": "l-ẓili",
+        "english_meaning": "the shade",
+        "arabic_text": "فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰ إِلَى الظِّلِّ",
+        "highlighted_word": "الظِّلِّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 21,
+          "word": 2,
+          "reference": "(35:21:2)"
+        },
+        "transliteration": "l-ẓilu",
+        "english_meaning": "the shade",
+        "arabic_text": "وَلَا الظِّلُّ وَلَا الْحَرُورُ",
+        "highlighted_word": "الظِّلُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 56,
+          "word": 4,
+          "reference": "(36:56:4)"
+        },
+        "transliteration": "ẓilālin",
+        "english_meaning": "shades",
+        "arabic_text": "هُمْ وَأَزْوَاجُهُمْ فِي ظِلَالٍ عَلَى الْأَرَائِكِ مُتَّكِئُونَ",
+        "highlighted_word": "ظِلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 30,
+          "word": 1,
+          "reference": "(56:30:1)"
+        },
+        "transliteration": "waẓillin",
+        "english_meaning": "And shade",
+        "arabic_text": "وَظِلٍّ مَمْدُودٍ",
+        "highlighted_word": "وَظِلٍّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 43,
+          "word": 1,
+          "reference": "(56:43:1)"
+        },
+        "transliteration": "waẓillin",
+        "english_meaning": "And a shade",
+        "arabic_text": "وَظِلٍّ مِنْ يَحْمُومٍ",
+        "highlighted_word": "وَظِلٍّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 76,
+          "verse": 14,
+          "word": 3,
+          "reference": "(76:14:3)"
+        },
+        "transliteration": "ẓilāluhā",
+        "english_meaning": "(are) its shades",
+        "arabic_text": "وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا",
+        "highlighted_word": "ظِلَالُهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 77,
+          "verse": 30,
+          "word": 3,
+          "reference": "(77:30:3)"
+        },
+        "transliteration": "ẓillin",
+        "english_meaning": "a shadow",
+        "arabic_text": "انْطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ",
+        "highlighted_word": "ظِلٍّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 77,
+          "verse": 41,
+          "word": 4,
+          "reference": "(77:41:4)"
+        },
+        "transliteration": "ẓilālin",
+        "english_meaning": "shades",
+        "arabic_text": "إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ",
+        "highlighted_word": "ظِلَالٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 57,
+          "word": 20,
+          "reference": "(4:57:20)"
+        },
+        "transliteration": "ẓalīlan",
+        "english_meaning": "thick",
+        "arabic_text": "لَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا",
+        "highlighted_word": "ظَلِيلًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 77,
+          "verse": 31,
+          "word": 2,
+          "reference": "(77:31:2)"
+        },
+        "transliteration": "ẓalīlin",
+        "english_meaning": "cool shade",
+        "arabic_text": "لَا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ",
+        "highlighted_word": "ظَلِيلٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 210,
+          "word": 8,
+          "reference": "(2:210:8)"
+        },
+        "transliteration": "ẓulalin",
+        "english_meaning": "(the) shadows",
+        "arabic_text": "هَلْ يَنْظُرُونَ إِلَّا أَنْ يَأْتِيَهُمُ اللَّهُ فِي ظُلَلٍ مِنَ الْغَمَامِ",
+        "highlighted_word": "ظُلَلٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 171,
+          "word": 6,
+          "reference": "(7:171:6)"
+        },
+        "transliteration": "ẓullatun",
+        "english_meaning": "a canopy",
+        "arabic_text": "وَإِذْ نَتَقْنَا الْجَبَلَ فَوْقَهُمْ كَأَنَّهُ ظُلَّةٌ",
+        "highlighted_word": "ظُلَّةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 189,
+          "word": 5,
+          "reference": "(26:189:5)"
+        },
+        "transliteration": "l-ẓulati",
+        "english_meaning": "(of) the shadow",
+        "arabic_text": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ",
+        "highlighted_word": "الظُّلَّةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 31,
+          "verse": 32,
+          "word": 4,
+          "reference": "(31:32:4)"
+        },
+        "transliteration": "kal-ẓulali",
+        "english_meaning": "like canopies",
+        "arabic_text": "وَإِذَا غَشِيَهُمْ مَوْجٌ كَالظُّلَلِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ",
+        "highlighted_word": "كَالظُّلَلِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 16,
+          "word": 4,
+          "reference": "(39:16:4)"
+        },
+        "transliteration": "ẓulalun",
+        "english_meaning": "coverings",
+        "arabic_text": "لَهُمْ مِنْ فَوْقِهِمْ ظُلَلٌ مِنَ النَّارِ",
+        "highlighted_word": "ظُلَلٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 16,
+          "word": 9,
+          "reference": "(39:16:9)"
+        },
+        "transliteration": "ẓulalun",
+        "english_meaning": "coverings",
+        "arabic_text": "وَمِنْ تَحْتِهِمْ ظُلَلٌ ذَٰلِكَ يُخَوِّفُ اللَّهُ بِهِ عِبَادَهُ",
+        "highlighted_word": "ظُلَلٌ"
+      }
+    ],
+    "total_occurrences": 33,
+    "scraped_at": "2025-08-19 18:44:48"
+  },
+  {
+    "letter": "Z",
+    "keyword_value": "Zlm",
+    "keyword_text": "ظ ل م",
+    "description": "The triliteral root ẓā lām mīm (ظ ل م) occurs 315 times in the Quran, in 12 derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to oppress, to wrong",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 54,
+          "word": 7,
+          "reference": "(2:54:7)"
+        },
+        "transliteration": "ẓalamtum",
+        "english_meaning": "[you] have wronged",
+        "arabic_text": "يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِاتِّخَاذِكُمُ الْعِجْلَ",
+        "highlighted_word": "ظَلَمْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 57,
+          "word": 14,
+          "reference": "(2:57:14)"
+        },
+        "transliteration": "ẓalamūnā",
+        "english_meaning": "they wronged Us",
+        "arabic_text": "وَمَا ظَلَمُونَا وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "ظَلَمُونَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 57,
+          "word": 18,
+          "reference": "(2:57:18)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "doing wrong",
+        "arabic_text": "وَمَا ظَلَمُونَا وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 59,
+          "word": 3,
+          "reference": "(2:59:3)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلًا غَيْرَ الَّذِي قِيلَ لَهُمْ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 59,
+          "word": 12,
+          "reference": "(2:59:12)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "فَأَنْزَلْنَا عَلَى الَّذِينَ ظَلَمُوا رِجْزًا مِنَ السَّمَاءِ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 150,
+          "word": 22,
+          "reference": "(2:150:22)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِي",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 165,
+          "word": 20,
+          "reference": "(2:165:20)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "وَلَوْ يَرَى الَّذِينَ ظَلَمُوا إِذْ يَرَوْنَ الْعَذَابَ أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 231,
+          "word": 19,
+          "reference": "(2:231:19)"
+        },
+        "transliteration": "ẓalama",
+        "english_meaning": "he wronged",
+        "arabic_text": "وَمَنْ يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُ",
+        "highlighted_word": "ظَلَمَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 272,
+          "word": 28,
+          "reference": "(2:272:28)"
+        },
+        "transliteration": "tuẓ'lamūna",
+        "english_meaning": "be wronged",
+        "arabic_text": "وَمَا تُنْفِقُوا مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ وَأَنْتُمْ لَا تُظْلَمُونَ",
+        "highlighted_word": "تُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 279,
+          "word": 15,
+          "reference": "(2:279:15)"
+        },
+        "transliteration": "taẓlimūna",
+        "english_meaning": "wrong",
+        "arabic_text": "وَإِنْ تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَالِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ",
+        "highlighted_word": "تَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 279,
+          "word": 17,
+          "reference": "(2:279:17)"
+        },
+        "transliteration": "tuẓ'lamūna",
+        "english_meaning": "you will be wronged",
+        "arabic_text": "وَإِنْ تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَالِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ",
+        "highlighted_word": "تُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 281,
+          "word": 15,
+          "reference": "(2:281:15)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "will be wronged",
+        "arabic_text": "ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 25,
+          "word": 15,
+          "reference": "(3:25:15)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "be wronged",
+        "arabic_text": "وَوُفِّيَتْ كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 117,
+          "word": 15,
+          "reference": "(3:117:15)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "who wronged",
+        "arabic_text": "كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوا أَنْفُسَهُمْ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 117,
+          "word": 19,
+          "reference": "(3:117:19)"
+        },
+        "transliteration": "ẓalamahumu",
+        "english_meaning": "(has) wronged them",
+        "arabic_text": "وَمَا ظَلَمَهُمُ اللَّهُ وَلَٰكِنْ أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "ظَلَمَهُمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 117,
+          "word": 23,
+          "reference": "(3:117:23)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "they wronged",
+        "arabic_text": "وَمَا ظَلَمَهُمُ اللَّهُ وَلَٰكِنْ أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 135,
+          "word": 6,
+          "reference": "(3:135:6)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنْفُسَهُمْ ذَكَرُوا اللَّهَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 161,
+          "word": 21,
+          "reference": "(3:161:21)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "be wronged",
+        "arabic_text": "ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 40,
+          "word": 4,
+          "reference": "(4:40:4)"
+        },
+        "transliteration": "yaẓlimu",
+        "english_meaning": "wrong",
+        "arabic_text": "إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ",
+        "highlighted_word": "يَظْلِمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 49,
+          "word": 13,
+          "reference": "(4:49:13)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "they will be wronged",
+        "arabic_text": "بَلِ اللَّهُ يُزَكِّي مَنْ يَشَاءُ وَلَا يُظْلَمُونَ فَتِيلًا",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 64,
+          "word": 12,
+          "reference": "(4:64:12)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "they wronged",
+        "arabic_text": "وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا اللَّهَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 77,
+          "word": 47,
+          "reference": "(4:77:47)"
+        },
+        "transliteration": "tuẓ'lamūna",
+        "english_meaning": "you will be wronged",
+        "arabic_text": "قُلْ مَتَاعُ الدُّنْيَا قَلِيلٌ وَالْآخِرَةُ خَيْرٌ لِمَنِ اتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا",
+        "highlighted_word": "تُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 110,
+          "word": 5,
+          "reference": "(4:110:5)"
+        },
+        "transliteration": "yaẓlim",
+        "english_meaning": "wrongs",
+        "arabic_text": "وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَحِيمًا",
+        "highlighted_word": "يَظْلِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 124,
+          "word": 15,
+          "reference": "(4:124:15)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "they will be wronged",
+        "arabic_text": "فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 148,
+          "word": 10,
+          "reference": "(4:148:10)"
+        },
+        "transliteration": "ẓulima",
+        "english_meaning": "has been wronged",
+        "arabic_text": "لَا يُحِبُّ اللَّهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَنْ ظُلِمَ",
+        "highlighted_word": "ظُلِمَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 168,
+          "word": 4,
+          "reference": "(4:168:4)"
+        },
+        "transliteration": "waẓalamū",
+        "english_meaning": "and did wrong",
+        "arabic_text": "إِنَّ الَّذِينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنِ اللَّهُ لِيَغْفِرَ لَهُمْ",
+        "highlighted_word": "وَظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 45,
+          "word": 5,
+          "reference": "(6:45:5)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "did wrong",
+        "arabic_text": "فَقُطِعَ دَابِرُ الْقَوْمِ الَّذِينَ ظَلَمُوا وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 160,
+          "word": 16,
+          "reference": "(6:160:16)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "(be) wronged",
+        "arabic_text": "وَمَنْ جَاءَ بِالسَّيِّئَةِ فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 9,
+          "word": 11,
+          "reference": "(7:9:11)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "(doing) injustice",
+        "arabic_text": "فَأُولَٰئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ بِمَا كَانُوا بِآيَاتِنَا يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 23,
+          "word": 3,
+          "reference": "(7:23:3)"
+        },
+        "transliteration": "ẓalamnā",
+        "english_meaning": "we have wronged",
+        "arabic_text": "قَالَا رَبَّنَا ظَلَمْنَا أَنْفُسَنَا",
+        "highlighted_word": "ظَلَمْنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 103,
+          "word": 10,
+          "reference": "(7:103:10)"
+        },
+        "transliteration": "faẓalamū",
+        "english_meaning": "But they were unjust",
+        "arabic_text": "ثُمَّ بَعَثْنَا مِنْ بَعْدِهِمْ مُوسَىٰ بِآيَاتِنَا إِلَىٰ فِرْعَوْنَ وَمَلَئِهِ فَظَلَمُوا بِهَا",
+        "highlighted_word": "فَظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 160,
+          "word": 39,
+          "reference": "(7:160:39)"
+        },
+        "transliteration": "ẓalamūnā",
+        "english_meaning": "they wronged Us",
+        "arabic_text": "وَمَا ظَلَمُونَا وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "ظَلَمُونَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 160,
+          "word": 43,
+          "reference": "(7:160:43)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "doing wrong",
+        "arabic_text": "وَمَا ظَلَمُونَا وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 162,
+          "word": 3,
+          "reference": "(7:162:3)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "فَبَدَّلَ الَّذِينَ ظَلَمُوا مِنْهُمْ قَوْلًا غَيْرَ الَّذِي قِيلَ لَهُمْ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 162,
+          "word": 17,
+          "reference": "(7:162:17)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "doing wrong",
+        "arabic_text": "فَأَرْسَلْنَا عَلَيْهِمْ رِجْزًا مِنَ السَّمَاءِ بِمَا كَانُوا يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 165,
+          "word": 13,
+          "reference": "(7:165:13)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "وَأَخَذْنَا الَّذِينَ ظَلَمُوا بِعَذَابٍ بَئِيسٍ بِمَا كَانُوا يَفْسُقُونَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 177,
+          "word": 9,
+          "reference": "(7:177:9)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "wrong",
+        "arabic_text": "سَاءَ مَثَلًا الْقَوْمُ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَأَنْفُسَهُمْ كَانُوا يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 25,
+          "word": 6,
+          "reference": "(8:25:6)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "do wrong",
+        "arabic_text": "وَاتَّقُوا فِتْنَةً لَا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنْكُمْ خَاصَّةً",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 60,
+          "word": 33,
+          "reference": "(8:60:33)"
+        },
+        "transliteration": "tuẓ'lamūna",
+        "english_meaning": "be wronged",
+        "arabic_text": "وَمَا تُنْفِقُوا مِنْ شَيْءٍ فِي سَبِيلِ اللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنْتُمْ لَا تُظْلَمُونَ",
+        "highlighted_word": "تُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 36,
+          "word": 23,
+          "reference": "(9:36:23)"
+        },
+        "transliteration": "taẓlimū",
+        "english_meaning": "wrong",
+        "arabic_text": "ذَٰلِكَ الدِّينُ الْقَيِّمُ فَلَا تَظْلِمُوا فِيهِنَّ أَنْفُسَكُمْ",
+        "highlighted_word": "تَظْلِمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 70,
+          "word": 22,
+          "reference": "(9:70:22)"
+        },
+        "transliteration": "liyaẓlimahum",
+        "english_meaning": "to wrong them",
+        "arabic_text": "فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "لِيَظْلِمَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 70,
+          "word": 26,
+          "reference": "(9:70:26)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "doing wrong",
+        "arabic_text": "فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 13,
+          "word": 7,
+          "reference": "(10:13:7)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "they wronged",
+        "arabic_text": "وَلَقَدْ أَهْلَكْنَا الْقُرُونَ مِنْ قَبْلِكُمْ لَمَّا ظَلَمُوا",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 44,
+          "word": 4,
+          "reference": "(10:44:4)"
+        },
+        "transliteration": "yaẓlimu",
+        "english_meaning": "wrong",
+        "arabic_text": "إِنَّ اللَّهَ لَا يَظْلِمُ النَّاسَ شَيْئًا وَلَٰكِنَّ النَّاسَ أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 44,
+          "word": 10,
+          "reference": "(10:44:10)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "wrong themselves",
+        "arabic_text": "إِنَّ اللَّهَ لَا يَظْلِمُ النَّاسَ شَيْئًا وَلَٰكِنَّ النَّاسَ أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 47,
+          "word": 12,
+          "reference": "(10:47:12)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "be wronged",
+        "arabic_text": "فَإِذَا جَاءَ رَسُولُهُمْ قُضِيَ بَيْنَهُمْ بِالْقِسْطِ وَهُمْ لَا يُظْلَمُونَ",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 52,
+          "word": 4,
+          "reference": "(10:52:4)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا ذُوقُوا عَذَابَ الْخُلْدِ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 54,
+          "word": 5,
+          "reference": "(10:54:5)"
+        },
+        "transliteration": "ẓalamat",
+        "english_meaning": "(that) wronged",
+        "arabic_text": "وَلَوْ أَنَّ لِكُلِّ نَفْسٍ ظَلَمَتْ مَا فِي الْأَرْضِ لَافْتَدَتْ بِهِ",
+        "highlighted_word": "ظَلَمَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 54,
+          "word": 21,
+          "reference": "(10:54:21)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "(be) wronged",
+        "arabic_text": "وَقُضِيَ بَيْنَهُمْ بِالْقِسْطِ وَهُمْ لَا يُظْلَمُونَ",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 37,
+          "word": 9,
+          "reference": "(11:37:9)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "وَاصْنَعِ الْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 67,
+          "word": 3,
+          "reference": "(11:67:3)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 94,
+          "word": 13,
+          "reference": "(11:94:13)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "وَأَخَذَتِ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 101,
+          "word": 2,
+          "reference": "(11:101:2)"
+        },
+        "transliteration": "ẓalamnāhum",
+        "english_meaning": "We wronged them",
+        "arabic_text": "وَمَا ظَلَمْنَاهُمْ وَلَٰكِنْ ظَلَمُوا أَنْفُسَهُمْ",
+        "highlighted_word": "ظَلَمْنَاهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 101,
+          "word": 4,
+          "reference": "(11:101:4)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "they wronged",
+        "arabic_text": "وَمَا ظَلَمْنَاهُمْ وَلَٰكِنْ ظَلَمُوا أَنْفُسَهُمْ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 113,
+          "word": 5,
+          "reference": "(11:113:5)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "do wrong",
+        "arabic_text": "وَلَا تَرْكَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّكُمُ النَّارُ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 116,
+          "word": 21,
+          "reference": "(11:116:21)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "did wrong",
+        "arabic_text": "وَاتَّبَعَ الَّذِينَ ظَلَمُوا مَا أُتْرِفُوا فِيهِ وَكَانُوا مُجْرِمِينَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 44,
+          "word": 8,
+          "reference": "(14:44:8)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "did wrong",
+        "arabic_text": "فَيَقُولُ الَّذِينَ ظَلَمُوا رَبَّنَا أَخِّرْنَا إِلَىٰ أَجَلٍ قَرِيبٍ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 45,
+          "word": 5,
+          "reference": "(14:45:5)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "وَسَكَنْتُمْ فِي مَسَاكِنِ الَّذِينَ ظَلَمُوا أَنْفُسَهُمْ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 33,
+          "word": 17,
+          "reference": "(16:33:17)"
+        },
+        "transliteration": "ẓalamahumu",
+        "english_meaning": "wronged them",
+        "arabic_text": "وَمَا ظَلَمَهُمُ اللَّهُ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "ظَلَمَهُمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 33,
+          "word": 22,
+          "reference": "(16:33:22)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "wronging",
+        "arabic_text": "وَمَا ظَلَمَهُمُ اللَّهُ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 41,
+          "word": 8,
+          "reference": "(16:41:8)"
+        },
+        "transliteration": "ẓulimū",
+        "english_meaning": "they were wronged",
+        "arabic_text": "وَالَّذِينَ هَاجَرُوا فِي اللَّهِ مِنْ بَعْدِ مَا ظُلِمُوا لَنُبَوِّئَنَّهُمْ فِي الدُّنْيَا حَسَنَةً",
+        "highlighted_word": "ظُلِمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 85,
+          "word": 4,
+          "reference": "(16:85:4)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "وَإِذَا رَأَى الَّذِينَ ظَلَمُوا الْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 111,
+          "word": 15,
+          "reference": "(16:111:15)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "be wronged",
+        "arabic_text": "وَتُوَفَّىٰ كُلُّ نَفْسٍ مَا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 118,
+          "word": 11,
+          "reference": "(16:118:11)"
+        },
+        "transliteration": "ẓalamnāhum",
+        "english_meaning": "We wronged them",
+        "arabic_text": "وَمَا ظَلَمْنَاهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "ظَلَمْنَاهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 118,
+          "word": 15,
+          "reference": "(16:118:15)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "wrong",
+        "arabic_text": "وَمَا ظَلَمْنَاهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 59,
+          "word": 15,
+          "reference": "(17:59:15)"
+        },
+        "transliteration": "faẓalamū",
+        "english_meaning": "but they wronged",
+        "arabic_text": "وَآتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَمُوا بِهَا",
+        "highlighted_word": "فَظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 71,
+          "word": 14,
+          "reference": "(17:71:14)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "they will be wronged",
+        "arabic_text": "فَأُولَٰئِكَ يَقْرَءُونَ كِتَابَهُمْ وَلَا يُظْلَمُونَ فَتِيلًا",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 33,
+          "word": 6,
+          "reference": "(18:33:6)"
+        },
+        "transliteration": "taẓlim",
+        "english_meaning": "did wrong",
+        "arabic_text": "كِلْتَا الْجَنَّتَيْنِ آتَتْ أُكُلَهَا وَلَمْ تَظْلِمْ مِنْهُ شَيْئًا",
+        "highlighted_word": "تَظْلِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 49,
+          "word": 25,
+          "reference": "(18:49:25)"
+        },
+        "transliteration": "yaẓlimu",
+        "english_meaning": "deals unjustly",
+        "arabic_text": "وَوَجَدُوا مَا عَمِلُوا حَاضِرًا وَلَا يَظْلِمُ رَبُّكَ أَحَدًا",
+        "highlighted_word": "يَظْلِمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 59,
+          "word": 5,
+          "reference": "(18:59:5)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "they wronged",
+        "arabic_text": "وَتِلْكَ الْقُرَىٰ أَهْلَكْنَاهُمْ لَمَّا ظَلَمُوا وَجَعَلْنَا لِمَهْلِكِهِمْ مَوْعِدًا",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 87,
+          "word": 4,
+          "reference": "(18:87:4)"
+        },
+        "transliteration": "ẓalama",
+        "english_meaning": "wrongs",
+        "arabic_text": "قَالَ أَمَّا مَنْ ظَلَمَ فَسَوْفَ نُعَذِّبُهُ",
+        "highlighted_word": "ظَلَمَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 60,
+          "word": 11,
+          "reference": "(19:60:11)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "they will be wronged",
+        "arabic_text": "فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ شَيْئًا",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 3,
+          "word": 6,
+          "reference": "(21:3:6)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "[they] wronged",
+        "arabic_text": "وَأَسَرُّوا النَّجْوَى الَّذِينَ ظَلَمُوا هَلْ هَٰذَا إِلَّا بَشَرٌ مِثْلُكُمْ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 47,
+          "word": 7,
+          "reference": "(21:47:7)"
+        },
+        "transliteration": "tuẓ'lamu",
+        "english_meaning": "will be wronged",
+        "arabic_text": "وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْئًا",
+        "highlighted_word": "تُظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 39,
+          "word": 5,
+          "reference": "(22:39:5)"
+        },
+        "transliteration": "ẓulimū",
+        "english_meaning": "were wronged",
+        "arabic_text": "أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا",
+        "highlighted_word": "ظُلِمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 27,
+          "word": 30,
+          "reference": "(23:27:30)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "وَلَا تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا إِنَّهُمْ مُغْرَقُونَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 62,
+          "word": 12,
+          "reference": "(23:62:12)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "be wronged",
+        "arabic_text": "وَلَدَيْنَا كِتَابٌ يَنْطِقُ بِالْحَقِّ وَهُمْ لَا يُظْلَمُونَ",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 19,
+          "word": 11,
+          "reference": "(25:19:11)"
+        },
+        "transliteration": "yaẓlim",
+        "english_meaning": "does wrong",
+        "arabic_text": "وَمَنْ يَظْلِمْ مِنْكُمْ نُذِقْهُ عَذَابًا كَبِيرًا",
+        "highlighted_word": "يَظْلِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 227,
+          "word": 13,
+          "reference": "(26:227:13)"
+        },
+        "transliteration": "ẓulimū",
+        "english_meaning": "they were wronged",
+        "arabic_text": "وَذَكَرُوا اللَّهَ كَثِيرًا وَانْتَصَرُوا مِنْ بَعْدِ مَا ظُلِمُوا",
+        "highlighted_word": "ظُلِمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 227,
+          "word": 16,
+          "reference": "(26:227:16)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "have wronged",
+        "arabic_text": "وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنْقَلَبٍ يَنْقَلِبُونَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 11,
+          "word": 3,
+          "reference": "(27:11:3)"
+        },
+        "transliteration": "ẓalama",
+        "english_meaning": "wrongs",
+        "arabic_text": "إِلَّا مَنْ ظَلَمَ ثُمَّ بَدَّلَ حُسْنًا بَعْدَ سُوءٍ فَإِنِّي غَفُورٌ رَحِيمٌ",
+        "highlighted_word": "ظَلَمَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 44,
+          "word": 21,
+          "reference": "(27:44:21)"
+        },
+        "transliteration": "ẓalamtu",
+        "english_meaning": "[I] have wronged",
+        "arabic_text": "قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ",
+        "highlighted_word": "ظَلَمْتُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 52,
+          "word": 5,
+          "reference": "(27:52:5)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "they wronged",
+        "arabic_text": "فَتِلْكَ بُيُوتُهُمْ خَاوِيَةً بِمَا ظَلَمُوا",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 85,
+          "word": 5,
+          "reference": "(27:85:5)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "they wronged",
+        "arabic_text": "وَوَقَعَ الْقَوْلُ عَلَيْهِمْ بِمَا ظَلَمُوا فَهُمْ لَا يَنْطِقُونَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 16,
+          "word": 4,
+          "reference": "(28:16:4)"
+        },
+        "transliteration": "ẓalamtu",
+        "english_meaning": "[I] have wronged",
+        "arabic_text": "قَالَ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَغَفَرَ لَهُ",
+        "highlighted_word": "ظَلَمْتُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 40,
+          "word": 24,
+          "reference": "(29:40:24)"
+        },
+        "transliteration": "liyaẓlimahum",
+        "english_meaning": "to wrong them",
+        "arabic_text": "وَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "لِيَظْلِمَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 40,
+          "word": 28,
+          "reference": "(29:40:28)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "doing wrong",
+        "arabic_text": "وَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 46,
+          "word": 11,
+          "reference": "(29:46:11)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "(do) wrong",
+        "arabic_text": "وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 9,
+          "word": 28,
+          "reference": "(30:9:28)"
+        },
+        "transliteration": "liyaẓlimahum",
+        "english_meaning": "to wrong them",
+        "arabic_text": "فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "لِيَظْلِمَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 9,
+          "word": 32,
+          "reference": "(30:9:32)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "(doing) wrong",
+        "arabic_text": "فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 29,
+          "word": 4,
+          "reference": "(30:29:4)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "do wrong",
+        "arabic_text": "بَلِ اتَّبَعَ الَّذِينَ ظَلَمُوا أَهْوَاءَهُمْ بِغَيْرِ عِلْمٍ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 57,
+          "word": 5,
+          "reference": "(30:57:5)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "فَيَوْمَئِذٍ لَا يَنْفَعُ الَّذِينَ ظَلَمُوا مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 19,
+          "word": 6,
+          "reference": "(34:19:6)"
+        },
+        "transliteration": "waẓalamū",
+        "english_meaning": "And they wronged",
+        "arabic_text": "فَقَالُوا رَبَّنَا بَاعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوا أَنْفُسَهُمْ",
+        "highlighted_word": "وَظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 42,
+          "word": 11,
+          "reference": "(34:42:11)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "who wronged",
+        "arabic_text": "وَنَقُولُ لِلَّذِينَ ظَلَمُوا ذُوقُوا عَذَابَ النَّارِ الَّتِي كُنْتُمْ بِهَا تُكَذِّبُونَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 54,
+          "word": 3,
+          "reference": "(36:54:3)"
+        },
+        "transliteration": "tuẓ'lamu",
+        "english_meaning": "will be wronged",
+        "arabic_text": "فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئًا وَلَا تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ",
+        "highlighted_word": "تُظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 22,
+          "word": 3,
+          "reference": "(37:22:3)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 24,
+          "word": 3,
+          "reference": "(38:24:3)"
+        },
+        "transliteration": "ẓalamaka",
+        "english_meaning": "he has wronged you",
+        "arabic_text": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِ",
+        "highlighted_word": "ظَلَمَكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 47,
+          "word": 4,
+          "reference": "(39:47:4)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "did wrong",
+        "arabic_text": "وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا مَا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لَافْتَدَوْا بِهِ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 51,
+          "word": 6,
+          "reference": "(39:51:6)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "have wronged",
+        "arabic_text": "وَالَّذِينَ ظَلَمُوا مِنْ هَٰؤُلَاءِ سَيُصِيبُهُمْ سَيِّئَاتُ مَا كَسَبُوا",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 69,
+          "word": 15,
+          "reference": "(39:69:15)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "will not be wronged",
+        "arabic_text": "وَقُضِيَ بَيْنَهُمْ بِالْحَقِّ وَهُمْ لَا يُظْلَمُونَ",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 42,
+          "word": 5,
+          "reference": "(42:42:5)"
+        },
+        "transliteration": "yaẓlimūna",
+        "english_meaning": "oppress",
+        "arabic_text": "إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَظْلِمُونَ النَّاسَ",
+        "highlighted_word": "يَظْلِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 39,
+          "word": 5,
+          "reference": "(43:39:5)"
+        },
+        "transliteration": "ẓalamtum",
+        "english_meaning": "you have wronged",
+        "arabic_text": "وَلَنْ يَنْفَعَكُمُ الْيَوْمَ إِذْ ظَلَمْتُمْ أَنَّكُمْ فِي الْعَذَابِ مُشْتَرِكُونَ",
+        "highlighted_word": "ظَلَمْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 65,
+          "word": 7,
+          "reference": "(43:65:7)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "wronged",
+        "arabic_text": "فَوَيْلٌ لِلَّذِينَ ظَلَمُوا مِنْ عَذَابِ يَوْمٍ أَلِيمٍ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 76,
+          "word": 2,
+          "reference": "(43:76:2)"
+        },
+        "transliteration": "ẓalamnāhum",
+        "english_meaning": "We wronged them",
+        "arabic_text": "وَمَا ظَلَمْنَاهُمْ وَلَٰكِنْ كَانُوا هُمُ الظَّالِمِينَ",
+        "highlighted_word": "ظَلَمْنَاهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 45,
+          "verse": 22,
+          "word": 13,
+          "reference": "(45:22:13)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "will not be wronged",
+        "arabic_text": "وَلِتُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 46,
+          "verse": 12,
+          "word": 14,
+          "reference": "(46:12:14)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "do wrong",
+        "arabic_text": "لِيُنْذِرَ الَّذِينَ ظَلَمُوا وَبُشْرَىٰ لِلْمُحْسِنِينَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 46,
+          "verse": 19,
+          "word": 9,
+          "reference": "(46:19:9)"
+        },
+        "transliteration": "yuẓ'lamūna",
+        "english_meaning": "will not be wronged",
+        "arabic_text": "وَلِكُلٍّ دَرَجَاتٌ مِمَّا عَمِلُوا وَلِيُوَفِّيَهُمْ أَعْمَالَهُمْ وَهُمْ لَا يُظْلَمُونَ",
+        "highlighted_word": "يُظْلَمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 51,
+          "verse": 59,
+          "word": 3,
+          "reference": "(51:59:3)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "do wrong",
+        "arabic_text": "فَإِنَّ لِلَّذِينَ ظَلَمُوا ذَنُوبًا مِثْلَ ذَنُوبِ أَصْحَابِهِمْ فَلَا يَسْتَعْجِلُونِ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 52,
+          "verse": 47,
+          "word": 3,
+          "reference": "(52:47:3)"
+        },
+        "transliteration": "ẓalamū",
+        "english_meaning": "do wrong",
+        "arabic_text": "وَإِنَّ لِلَّذِينَ ظَلَمُوا عَذَابًا دُونَ ذَٰلِكَ",
+        "highlighted_word": "ظَلَمُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 65,
+          "verse": 1,
+          "word": 32,
+          "reference": "(65:1:32)"
+        },
+        "transliteration": "ẓalama",
+        "english_meaning": "he has wronged",
+        "arabic_text": "وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَقَدْ ظَلَمَ نَفْسَهُ",
+        "highlighted_word": "ظَلَمَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 20,
+          "word": 11,
+          "reference": "(2:20:11)"
+        },
+        "transliteration": "aẓlama",
+        "english_meaning": "it darkens",
+        "arabic_text": "كُلَّمَا أَضَاءَ لَهُمْ مَشَوْا فِيهِ وَإِذَا أَظْلَمَ عَلَيْهِمْ قَامُوا",
+        "highlighted_word": "أَظْلَمَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 114,
+          "word": 2,
+          "reference": "(2:114:2)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more unjust",
+        "arabic_text": "وَمَنْ أَظْلَمُ مِمَّنْ مَنَعَ مَسَاجِدَ اللَّهِ أَنْ يُذْكَرَ فِيهَا اسْمُهُ",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 140,
+          "word": 19,
+          "reference": "(2:140:19)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more unjust",
+        "arabic_text": "وَمَنْ أَظْلَمُ مِمَّنْ كَتَمَ شَهَادَةً عِنْدَهُ مِنَ اللَّهِ",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 21,
+          "word": 2,
+          "reference": "(6:21:2)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more unjust",
+        "arabic_text": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 93,
+          "word": 2,
+          "reference": "(6:93:2)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more unjust",
+        "arabic_text": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ قَالَ أُوحِيَ إِلَيَّ",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 144,
+          "word": 25,
+          "reference": "(6:144:25)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more unjust",
+        "arabic_text": "فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا لِيُضِلَّ النَّاسَ بِغَيْرِ عِلْمٍ",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 157,
+          "word": 19,
+          "reference": "(6:157:19)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more unjust",
+        "arabic_text": "فَمَنْ أَظْلَمُ مِمَّنْ كَذَّبَ بِآيَاتِ اللَّهِ وَصَدَفَ عَنْهَا",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 37,
+          "word": 2,
+          "reference": "(7:37:2)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more unjust",
+        "arabic_text": "فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 17,
+          "word": 2,
+          "reference": "(10:17:2)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more wrong",
+        "arabic_text": "فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 18,
+          "word": 2,
+          "reference": "(11:18:2)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more unjust",
+        "arabic_text": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أُولَٰئِكَ يُعْرَضُونَ عَلَىٰ رَبِّهِمْ",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 15,
+          "word": 13,
+          "reference": "(18:15:13)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more wrong",
+        "arabic_text": "لَوْلَا يَأْتُونَ عَلَيْهِمْ بِسُلْطَانٍ بَيِّنٍ فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 57,
+          "word": 2,
+          "reference": "(18:57:2)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more wrong",
+        "arabic_text": "وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ فَأَعْرَضَ عَنْهَا",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 68,
+          "word": 2,
+          "reference": "(29:68:2)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more unjust",
+        "arabic_text": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِالْحَقِّ لَمَّا جَاءَهُ",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 32,
+          "verse": 22,
+          "word": 2,
+          "reference": "(32:22:2)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more unjust",
+        "arabic_text": "وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ ثُمَّ أَعْرَضَ عَنْهَا",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 32,
+          "word": 2,
+          "reference": "(39:32:2)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more unjust",
+        "arabic_text": "فَمَنْ أَظْلَمُ مِمَّنْ كَذَبَ عَلَى اللَّهِ وَكَذَّبَ بِالصِّدْقِ إِذْ جَاءَهُ",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 52,
+          "word": 8,
+          "reference": "(53:52:8)"
+        },
+        "transliteration": "aẓlama",
+        "english_meaning": "more unjust",
+        "arabic_text": "وَقَوْمَ نُوحٍ مِنْ قَبْلُ إِنَّهُمْ كَانُوا هُمْ أَظْلَمَ وَأَطْغَىٰ",
+        "highlighted_word": "أَظْلَمَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 61,
+          "verse": 7,
+          "word": 2,
+          "reference": "(61:7:2)"
+        },
+        "transliteration": "aẓlamu",
+        "english_meaning": "(is) more wrong",
+        "arabic_text": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ وَهُوَ يُدْعَىٰ إِلَى الْإِسْلَامِ",
+        "highlighted_word": "أَظْلَمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 97,
+          "word": 5,
+          "reference": "(4:97:5)"
+        },
+        "transliteration": "ẓālimī",
+        "english_meaning": "(while) they (were) wronging",
+        "arabic_text": "إِنَّ الَّذِينَ تَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنْفُسِهِمْ",
+        "highlighted_word": "ظَالِمِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 28,
+          "word": 4,
+          "reference": "(16:28:4)"
+        },
+        "transliteration": "ẓālimī",
+        "english_meaning": "(while) wronging",
+        "arabic_text": "الَّذِينَ تَتَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنْفُسِهِمْ",
+        "highlighted_word": "ظَالِمِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 182,
+          "word": 8,
+          "reference": "(3:182:8)"
+        },
+        "transliteration": "biẓallāmin",
+        "english_meaning": "unjust",
+        "arabic_text": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِلْعَبِيدِ",
+        "highlighted_word": "بِظَلَّامٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 51,
+          "word": 8,
+          "reference": "(8:51:8)"
+        },
+        "transliteration": "biẓallāmin",
+        "english_meaning": "unjust",
+        "arabic_text": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِلْعَبِيدِ",
+        "highlighted_word": "بِظَلَّامٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 10,
+          "word": 8,
+          "reference": "(22:10:8)"
+        },
+        "transliteration": "biẓallāmin",
+        "english_meaning": "unjust",
+        "arabic_text": "ذَٰلِكَ بِمَا قَدَّمَتْ يَدَاكَ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِلْعَبِيدِ",
+        "highlighted_word": "بِظَلَّامٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 46,
+          "word": 10,
+          "reference": "(41:46:10)"
+        },
+        "transliteration": "biẓallāmin",
+        "english_meaning": "unjust",
+        "arabic_text": "مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ وَمَنْ أَسَاءَ فَعَلَيْهَا وَمَا رَبُّكَ بِظَلَّامٍ لِلْعَبِيدِ",
+        "highlighted_word": "بِظَلَّامٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 50,
+          "verse": 29,
+          "word": 7,
+          "reference": "(50:29:7)"
+        },
+        "transliteration": "biẓallāmin",
+        "english_meaning": "unjust",
+        "arabic_text": "مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَا أَنَا بِظَلَّامٍ لِلْعَبِيدِ",
+        "highlighted_word": "بِظَلَّامٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 108,
+          "word": 10,
+          "reference": "(3:108:10)"
+        },
+        "transliteration": "ẓul'man",
+        "english_meaning": "injustice",
+        "arabic_text": "تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِلْعَالَمِينَ",
+        "highlighted_word": "ظُلْمًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 10,
+          "word": 6,
+          "reference": "(4:10:6)"
+        },
+        "transliteration": "ẓul'man",
+        "english_meaning": "wrongfully",
+        "arabic_text": "إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا",
+        "highlighted_word": "ظُلْمًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 30,
+          "word": 5,
+          "reference": "(4:30:5)"
+        },
+        "transliteration": "waẓul'man",
+        "english_meaning": "and injustice",
+        "arabic_text": "وَمَنْ يَفْعَلْ ذَٰلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا",
+        "highlighted_word": "وَظُلْمًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 153,
+          "word": 22,
+          "reference": "(4:153:22)"
+        },
+        "transliteration": "biẓul'mihim",
+        "english_meaning": "for their wrongdoing",
+        "arabic_text": "فَقَالُوا أَرِنَا اللَّهَ جَهْرَةً فَأَخَذَتْهُمُ الصَّاعِقَةُ بِظُلْمِهِمْ",
+        "highlighted_word": "بِظُلْمِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 160,
+          "word": 1,
+          "reference": "(4:160:1)"
+        },
+        "transliteration": "fabiẓul'min",
+        "english_meaning": "Then for (the) wrongdoing",
+        "arabic_text": "فَبِظُلْمٍ مِنَ الَّذِينَ هَادُوا حَرَّمْنَا عَلَيْهِمْ طَيِّبَاتٍ أُحِلَّتْ لَهُمْ",
+        "highlighted_word": "فَبِظُلْمٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 39,
+          "word": 5,
+          "reference": "(5:39:5)"
+        },
+        "transliteration": "ẓul'mihi",
+        "english_meaning": "his wrongdoing",
+        "arabic_text": "فَمَنْ تَابَ مِنْ بَعْدِ ظُلْمِهِ وَأَصْلَحَ فَإِنَّ اللَّهَ يَتُوبُ عَلَيْهِ",
+        "highlighted_word": "ظُلْمِهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 82,
+          "word": 6,
+          "reference": "(6:82:6)"
+        },
+        "transliteration": "biẓul'min",
+        "english_meaning": "with wrong",
+        "arabic_text": "الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ أُولَٰئِكَ لَهُمُ الْأَمْنُ",
+        "highlighted_word": "بِظُلْمٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 131,
+          "word": 8,
+          "reference": "(6:131:8)"
+        },
+        "transliteration": "biẓul'min",
+        "english_meaning": "for (their) wrongdoing",
+        "arabic_text": "ذَٰلِكَ أَنْ لَمْ يَكُنْ رَبُّكَ مُهْلِكَ الْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَافِلُونَ",
+        "highlighted_word": "بِظُلْمٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 117,
+          "word": 6,
+          "reference": "(11:117:6)"
+        },
+        "transliteration": "biẓul'min",
+        "english_meaning": "unjustly",
+        "arabic_text": "وَمَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا مُصْلِحُونَ",
+        "highlighted_word": "بِظُلْمٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 6,
+          "word": 16,
+          "reference": "(13:6:16)"
+        },
+        "transliteration": "ẓul'mihim",
+        "english_meaning": "their wrongdoing",
+        "arabic_text": "وَإِنَّ رَبَّكَ لَذُو مَغْفِرَةٍ لِلنَّاسِ عَلَىٰ ظُلْمِهِمْ",
+        "highlighted_word": "ظُلْمِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 61,
+          "word": 5,
+          "reference": "(16:61:5)"
+        },
+        "transliteration": "biẓul'mihim",
+        "english_meaning": "for their wrongdoing",
+        "arabic_text": "وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِظُلْمِهِمْ مَا تَرَكَ عَلَيْهَا مِنْ دَابَّةٍ",
+        "highlighted_word": "بِظُلْمِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 111,
+          "word": 9,
+          "reference": "(20:111:9)"
+        },
+        "transliteration": "ẓul'man",
+        "english_meaning": "wrongdoing",
+        "arabic_text": "وَعَنَتِ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا",
+        "highlighted_word": "ظُلْمًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 112,
+          "word": 9,
+          "reference": "(20:112:9)"
+        },
+        "transliteration": "ẓul'man",
+        "english_meaning": "injustice",
+        "arabic_text": "وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَلَا هَضْمًا",
+        "highlighted_word": "ظُلْمًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 25,
+          "word": 21,
+          "reference": "(22:25:21)"
+        },
+        "transliteration": "biẓul'min",
+        "english_meaning": "(or) wrongdoing",
+        "arabic_text": "وَمَنْ يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ نُذِقْهُ مِنْ عَذَابٍ أَلِيمٍ",
+        "highlighted_word": "بِظُلْمٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 4,
+          "word": 15,
+          "reference": "(25:4:15)"
+        },
+        "transliteration": "ẓul'man",
+        "english_meaning": "an injustice",
+        "arabic_text": "فَقَدْ جَاءُوا ظُلْمًا وَزُورًا",
+        "highlighted_word": "ظُلْمًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 14,
+          "word": 5,
+          "reference": "(27:14:5)"
+        },
+        "transliteration": "ẓul'man",
+        "english_meaning": "(out of) injustice",
+        "arabic_text": "وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا وَعُلُوًّا",
+        "highlighted_word": "ظُلْمًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 31,
+          "verse": 13,
+          "word": 13,
+          "reference": "(31:13:13)"
+        },
+        "transliteration": "laẓul'mun",
+        "english_meaning": "(is) surely an injustice",
+        "arabic_text": "يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ",
+        "highlighted_word": "لَظُلْمٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 17,
+          "word": 8,
+          "reference": "(40:17:8)"
+        },
+        "transliteration": "ẓul'ma",
+        "english_meaning": "injustice",
+        "arabic_text": "الْيَوْمَ تُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ لَا ظُلْمَ الْيَوْمَ",
+        "highlighted_word": "ظُلْمَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 31,
+          "word": 13,
+          "reference": "(40:31:13)"
+        },
+        "transliteration": "ẓul'man",
+        "english_meaning": "injustice",
+        "arabic_text": "وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِلْعِبَادِ",
+        "highlighted_word": "ظُلْمًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 41,
+          "word": 4,
+          "reference": "(42:41:4)"
+        },
+        "transliteration": "ẓul'mihi",
+        "english_meaning": "he has been wronged",
+        "arabic_text": "وَلَمَنِ انْتَصَرَ بَعْدَ ظُلْمِهِ فَأُولَٰئِكَ مَا عَلَيْهِمْ مِنْ سَبِيلٍ",
+        "highlighted_word": "ظُلْمِهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 17,
+          "word": 15,
+          "reference": "(2:17:15)"
+        },
+        "transliteration": "ẓulumātin",
+        "english_meaning": "darkness[es]",
+        "arabic_text": "ذَهَبَ اللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي ظُلُمَاتٍ لَا يُبْصِرُونَ",
+        "highlighted_word": "ظُلُمَاتٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 19,
+          "word": 6,
+          "reference": "(2:19:6)"
+        },
+        "transliteration": "ẓulumātun",
+        "english_meaning": "darkness[es]",
+        "arabic_text": "أَوْ كَصَيِّبٍ مِنَ السَّمَاءِ فِيهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌ",
+        "highlighted_word": "ظُلُمَاتٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 257,
+          "word": 7,
+          "reference": "(2:257:7)"
+        },
+        "transliteration": "l-ẓulumāti",
+        "english_meaning": "[the] darkness",
+        "arabic_text": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
+        "highlighted_word": "الظُّلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 257,
+          "word": 18,
+          "reference": "(2:257:18)"
+        },
+        "transliteration": "l-ẓulumāti",
+        "english_meaning": "[the] darkness",
+        "arabic_text": "يُخْرِجُونَهُمْ مِنَ النُّورِ إِلَى الظُّلُمَاتِ",
+        "highlighted_word": "الظُّلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 16,
+          "word": 11,
+          "reference": "(5:16:11)"
+        },
+        "transliteration": "l-ẓulumāti",
+        "english_meaning": "the darknessess",
+        "arabic_text": "وَيُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِهِ",
+        "highlighted_word": "الظُّلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 1,
+          "word": 8,
+          "reference": "(6:1:8)"
+        },
+        "transliteration": "l-ẓulumāti",
+        "english_meaning": "the darkness[es]",
+        "arabic_text": "الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَجَعَلَ الظُّلُمَاتِ وَالنُّورَ",
+        "highlighted_word": "الظُّلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 39,
+          "word": 7,
+          "reference": "(6:39:7)"
+        },
+        "transliteration": "l-ẓulumāti",
+        "english_meaning": "the darkness[es]",
+        "arabic_text": "وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا صُمٌّ وَبُكْمٌ فِي الظُّلُمَاتِ",
+        "highlighted_word": "الظُّلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 59,
+          "word": 22,
+          "reference": "(6:59:22)"
+        },
+        "transliteration": "ẓulumāti",
+        "english_meaning": "the darkness[es]",
+        "arabic_text": "وَلَا حَبَّةٍ فِي ظُلُمَاتِ الْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِي كِتَابٍ مُبِينٍ",
+        "highlighted_word": "ظُلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 63,
+          "word": 5,
+          "reference": "(6:63:5)"
+        },
+        "transliteration": "ẓulumāti",
+        "english_meaning": "darkness[es]",
+        "arabic_text": "قُلْ مَنْ يُنَجِّيكُمْ مِنْ ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ تَدْعُونَهُ تَضَرُّعًا وَخُفْيَةً",
+        "highlighted_word": "ظُلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 97,
+          "word": 9,
+          "reference": "(6:97:9)"
+        },
+        "transliteration": "ẓulumāti",
+        "english_meaning": "the darkness[es]",
+        "arabic_text": "وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ",
+        "highlighted_word": "ظُلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 122,
+          "word": 15,
+          "reference": "(6:122:15)"
+        },
+        "transliteration": "l-ẓulumāti",
+        "english_meaning": "the darknesses",
+        "arabic_text": "كَمَنْ مَثَلُهُ فِي الظُّلُمَاتِ لَيْسَ بِخَارِجٍ مِنْهَا",
+        "highlighted_word": "الظُّلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 16,
+          "word": 27,
+          "reference": "(13:16:27)"
+        },
+        "transliteration": "l-ẓulumātu",
+        "english_meaning": "the darkness[es]",
+        "arabic_text": "قُلْ هَلْ يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ أَمْ هَلْ تَسْتَوِي الظُّلُمَاتُ وَالنُّورُ",
+        "highlighted_word": "الظُّلُمَاتُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 1,
+          "word": 8,
+          "reference": "(14:1:8)"
+        },
+        "transliteration": "l-ẓulumāti",
+        "english_meaning": "the darkness[es]",
+        "arabic_text": "كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
+        "highlighted_word": "الظُّلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 5,
+          "word": 9,
+          "reference": "(14:5:9)"
+        },
+        "transliteration": "l-ẓulumāti",
+        "english_meaning": "the darkness[es]",
+        "arabic_text": "أَنْ أَخْرِجْ قَوْمَكَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
+        "highlighted_word": "الظُّلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 87,
+          "word": 13,
+          "reference": "(21:87:13)"
+        },
+        "transliteration": "l-ẓulumāti",
+        "english_meaning": "the darkness(es)",
+        "arabic_text": "فَنَادَىٰ فِي الظُّلُمَاتِ أَنْ لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ",
+        "highlighted_word": "الظُّلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 40,
+          "word": 2,
+          "reference": "(24:40:2)"
+        },
+        "transliteration": "kaẓulumātin",
+        "english_meaning": "(is) like (the) darkness[es]",
+        "arabic_text": "أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ مِنْ فَوْقِهِ مَوْجٌ",
+        "highlighted_word": "كَظُلُمَاتٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 63,
+          "word": 4,
+          "reference": "(27:63:4)"
+        },
+        "transliteration": "ẓulumāti",
+        "english_meaning": "(the) darkness[es]",
+        "arabic_text": "أَمَّنْ يَهْدِيكُمْ فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ",
+        "highlighted_word": "ظُلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 43,
+          "word": 8,
+          "reference": "(33:43:8)"
+        },
+        "transliteration": "l-ẓulumāti",
+        "english_meaning": "the darkness[es]",
+        "arabic_text": "هُوَ الَّذِي يُصَلِّي عَلَيْكُمْ وَمَلَائِكَتُهُ لِيُخْرِجَكُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
+        "highlighted_word": "الظُّلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 20,
+          "word": 2,
+          "reference": "(35:20:2)"
+        },
+        "transliteration": "l-ẓulumātu",
+        "english_meaning": "the darkness[es]",
+        "arabic_text": "وَلَا الظُّلُمَاتُ وَلَا النُّورُ",
+        "highlighted_word": "الظُّلُمَاتُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 6,
+          "word": 24,
+          "reference": "(39:6:24)"
+        },
+        "transliteration": "ẓulumātin",
+        "english_meaning": "darkness[es]",
+        "arabic_text": "يَخْلُقُكُمْ فِي بُطُونِ أُمَّهَاتِكُمْ خَلْقًا مِنْ بَعْدِ خَلْقٍ فِي ظُلُمَاتٍ ثَلَاثٍ",
+        "highlighted_word": "ظُلُمَاتٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 57,
+          "verse": 9,
+          "word": 10,
+          "reference": "(57:9:10)"
+        },
+        "transliteration": "l-ẓulumāti",
+        "english_meaning": "the darkness[es]",
+        "arabic_text": "هُوَ الَّذِي يُنَزِّلُ عَلَىٰ عَبْدِهِ آيَاتٍ بَيِّنَاتٍ لِيُخْرِجَكُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
+        "highlighted_word": "الظُّلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 65,
+          "verse": 11,
+          "word": 13,
+          "reference": "(65:11:13)"
+        },
+        "transliteration": "l-ẓulumāti",
+        "english_meaning": "the darkness[es]",
+        "arabic_text": "لِيُخْرِجَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
+        "highlighted_word": "الظُّلُمَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 40,
+          "word": 14,
+          "reference": "(24:40:14)"
+        },
+        "transliteration": "ẓulumātun",
+        "english_meaning": "darkness[es]",
+        "arabic_text": "مِنْ فَوْقِهِ سَحَابٌ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ",
+        "highlighted_word": "ظُلُمَاتٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 34,
+          "word": 14,
+          "reference": "(14:34:14)"
+        },
+        "transliteration": "laẓalūmun",
+        "english_meaning": "(is) surely unjust",
+        "arabic_text": "وَإِنْ تَعُدُّوا نِعْمَتَ اللَّهِ لَا تُحْصُوهَا إِنَّ الْإِنْسَانَ لَظَلُومٌ كَفَّارٌ",
+        "highlighted_word": "لَظَلُومٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 72,
+          "word": 17,
+          "reference": "(33:72:17)"
+        },
+        "transliteration": "ẓalūman",
+        "english_meaning": "unjust",
+        "arabic_text": "وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنْسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولًا",
+        "highlighted_word": "ظَلُومًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 35,
+          "word": 18,
+          "reference": "(2:35:18)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 51,
+          "word": 12,
+          "reference": "(2:51:12)"
+        },
+        "transliteration": "ẓālimūna",
+        "english_meaning": "(were) wrongdoers",
+        "arabic_text": "ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ",
+        "highlighted_word": "ظَالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 92,
+          "word": 11,
+          "reference": "(2:92:11)"
+        },
+        "transliteration": "ẓālimūna",
+        "english_meaning": "(were) wrongdoers",
+        "arabic_text": "ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ",
+        "highlighted_word": "ظَالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 95,
+          "word": 9,
+          "reference": "(2:95:9)"
+        },
+        "transliteration": "bil-ẓālimīna",
+        "english_meaning": "of the wrongdoers",
+        "arabic_text": "وَلَنْ يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+        "highlighted_word": "بِالظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 124,
+          "word": 19,
+          "reference": "(2:124:19)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "(to) the wrongdoers",
+        "arabic_text": "قَالَ وَمِنْ ذُرِّيَّتِي قَالَ لَا يَنَالُ عَهْدِي الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 145,
+          "word": 32,
+          "reference": "(2:145:32)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "إِنَّكَ إِذًا لَمِنَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 193,
+          "word": 15,
+          "reference": "(2:193:15)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the oppressors",
+        "arabic_text": "فَإِنِ انْتَهَوْا فَلَا عُدْوَانَ إِلَّا عَلَى الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 229,
+          "word": 46,
+          "reference": "(2:229:46)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "(are) the wrongdoers",
+        "arabic_text": "وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 246,
+          "word": 54,
+          "reference": "(2:246:54)"
+        },
+        "transliteration": "bil-ẓālimīna",
+        "english_meaning": "of the wrongdoers",
+        "arabic_text": "تَوَلَّوْا إِلَّا قَلِيلًا مِنْهُمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+        "highlighted_word": "بِالظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 254,
+          "word": 21,
+          "reference": "(2:254:21)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "(are) the wrongdoers",
+        "arabic_text": "وَالْكَافِرُونَ هُمُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 270,
+          "word": 13,
+          "reference": "(2:270:13)"
+        },
+        "transliteration": "lilẓẓālimīna",
+        "english_meaning": "for the wrongdoers",
+        "arabic_text": "وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ",
+        "highlighted_word": "لِلظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 57,
+          "word": 11,
+          "reference": "(3:57:11)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَيُوَفِّيهِمْ أُجُورَهُمْ وَاللَّهُ لَا يُحِبُّ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 94,
+          "word": 11,
+          "reference": "(3:94:11)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "(are) the wrongdoers",
+        "arabic_text": "فَمَنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ مِنْ بَعْدِ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 128,
+          "word": 12,
+          "reference": "(3:128:12)"
+        },
+        "transliteration": "ẓālimūna",
+        "english_meaning": "(are) wrongdoers",
+        "arabic_text": "أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَالِمُونَ",
+        "highlighted_word": "ظَالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 140,
+          "word": 24,
+          "reference": "(3:140:24)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَيَتَّخِذَ مِنْكُمْ شُهَدَاءَ وَاللَّهُ لَا يُحِبُّ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 151,
+          "word": 19,
+          "reference": "(3:151:19)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "[of] the wrongdoers",
+        "arabic_text": "وَمَأْوَاهُمُ النَّارُ وَبِئْسَ مَثْوَى الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 192,
+          "word": 9,
+          "reference": "(3:192:9)"
+        },
+        "transliteration": "lilẓẓālimīna",
+        "english_meaning": "for the wrongdoers",
+        "arabic_text": "رَبَّنَا إِنَّكَ مَنْ تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ",
+        "highlighted_word": "لِلظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 29,
+          "word": 13,
+          "reference": "(5:29:13)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "(of) the wrong-doers",
+        "arabic_text": "فَتَكُونَ مِنْ أَصْحَابِ النَّارِ وَذَٰلِكَ جَزَاءُ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 45,
+          "word": 31,
+          "reference": "(5:45:31)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "(are) the wrongdoers",
+        "arabic_text": "وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 72,
+          "word": 31,
+          "reference": "(5:72:31)"
+        },
+        "transliteration": "lilẓẓālimīna",
+        "english_meaning": "for the wrongdoers",
+        "arabic_text": "وَمَأْوَاهُ النَّارُ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ",
+        "highlighted_word": "لِلظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 107,
+          "word": 26,
+          "reference": "(5:107:26)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "لَشَهَادَتُنَا أَحَقُّ مِنْ شَهَادَتِهِمَا وَمَا اعْتَدَيْنَا إِنَّا إِذًا لَمِنَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 21,
+          "word": 14,
+          "reference": "(6:21:14)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 33,
+          "word": 11,
+          "reference": "(6:33:11)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ الظَّالِمِينَ بِآيَاتِ اللَّهِ يَجْحَدُونَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 52,
+          "word": 25,
+          "reference": "(6:52:25)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَمَا مِنْ حِسَابِكَ عَلَيْهِمْ مِنْ شَيْءٍ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 58,
+          "word": 14,
+          "reference": "(6:58:14)"
+        },
+        "transliteration": "bil-ẓālimīna",
+        "english_meaning": "of the wrongdoers",
+        "arabic_text": "وَاللَّهُ أَعْلَمُ بِالظَّالِمِينَ",
+        "highlighted_word": "بِالظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 93,
+          "word": 26,
+          "reference": "(6:93:26)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَلَوْ تَرَىٰ إِذِ الظَّالِمُونَ فِي غَمَرَاتِ الْمَوْتِ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 129,
+          "word": 4,
+          "reference": "(6:129:4)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَكَذَٰلِكَ نُوَلِّي بَعْضَ الظَّالِمِينَ بَعْضًا بِمَا كَانُوا يَكْسِبُونَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 135,
+          "word": 18,
+          "reference": "(6:135:18)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَسَوْفَ تَعْلَمُونَ مَنْ تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 5,
+          "word": 12,
+          "reference": "(7:5:12)"
+        },
+        "transliteration": "ẓālimīna",
+        "english_meaning": "wrongdoers",
+        "arabic_text": "فَمَا كَانَ دَعْوَاهُمْ إِذْ جَاءَهُمْ بَأْسُنَا إِلَّا أَنْ قَالُوا إِنَّا كُنَّا ظَالِمِينَ",
+        "highlighted_word": "ظَالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 19,
+          "word": 16,
+          "reference": "(7:19:16)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 41,
+          "word": 10,
+          "reference": "(7:41:10)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَمِنْ فَوْقِهِمْ غَوَاشٍ وَكَذَٰلِكَ نَجْزِي الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 44,
+          "word": 28,
+          "reference": "(7:44:28)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَأَذَّنَ مُؤَذِّنٌ بَيْنَهُمْ أَنْ لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 148,
+          "word": 22,
+          "reference": "(7:148:22)"
+        },
+        "transliteration": "ẓālimīna",
+        "english_meaning": "wrongdoers",
+        "arabic_text": "اتَّخَذُوهُ وَكَانُوا ظَالِمِينَ",
+        "highlighted_word": "ظَالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 54,
+          "word": 17,
+          "reference": "(8:54:17)"
+        },
+        "transliteration": "ẓālimīna",
+        "english_meaning": "wrongdoers",
+        "arabic_text": "وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَكُلٌّ كَانُوا ظَالِمِينَ",
+        "highlighted_word": "ظَالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 23,
+          "word": 19,
+          "reference": "(9:23:19)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "(are) the wrongdoers",
+        "arabic_text": "وَمَنْ يَتَوَلَّهُمْ مِنْكُمْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 47,
+          "word": 17,
+          "reference": "(9:47:17)"
+        },
+        "transliteration": "bil-ẓālimīna",
+        "english_meaning": "of the wrongdoers",
+        "arabic_text": "وَفِيكُمْ سَمَّاعُونَ لَهُمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+        "highlighted_word": "بِالظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 39,
+          "word": 19,
+          "reference": "(10:39:19)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "(of) the wrongdoers",
+        "arabic_text": "فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 106,
+          "word": 16,
+          "reference": "(10:106:16)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَإِنْ فَعَلْتَ فَإِنَّكَ إِذًا مِنَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 18,
+          "word": 23,
+          "reference": "(11:18:23)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "هَٰؤُلَاءِ الَّذِينَ كَذَبُوا عَلَىٰ رَبِّهِمْ أَلَا لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 31,
+          "word": 31,
+          "reference": "(11:31:31)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "اللَّهُ أَعْلَمُ بِمَا فِي أَنْفُسِهِمْ إِنِّي إِذًا لَمِنَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 83,
+          "word": 7,
+          "reference": "(11:83:7)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "مُسَوَّمَةً عِنْدَ رَبِّكَ وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 23,
+          "word": 23,
+          "reference": "(12:23:23)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "قَالَ مَعَاذَ اللَّهِ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 75,
+          "word": 11,
+          "reference": "(12:75:11)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "مَنْ وُجِدَ فِي رَحْلِهِ فَهُوَ جَزَاؤُهُ كَذَٰلِكَ نَجْزِي الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 79,
+          "word": 13,
+          "reference": "(12:79:13)"
+        },
+        "transliteration": "laẓālimūna",
+        "english_meaning": "surely (would be) wrongdoers",
+        "arabic_text": "قَالَ مَعَاذَ اللَّهِ أَنْ نَأْخُذَ إِلَّا مَنْ وَجَدْنَا مَتَاعَنَا عِنْدَهُ إِنَّا إِذًا لَظَالِمُونَ",
+        "highlighted_word": "لَظَالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 13,
+          "word": 16,
+          "reference": "(14:13:16)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَأَوْحَىٰ إِلَيْهِمْ رَبُّهُمْ لَنُهْلِكَنَّ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 22,
+          "word": 41,
+          "reference": "(14:22:41)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "إِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 27,
+          "word": 14,
+          "reference": "(14:27:14)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَيُضِلُّ اللَّهُ الظَّالِمِينَ وَيَفْعَلُ اللَّهُ مَا يَشَاءُ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 42,
+          "word": 7,
+          "reference": "(14:42:7)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا عَمَّا يَعْمَلُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 15,
+          "verse": 78,
+          "word": 5,
+          "reference": "(15:78:5)"
+        },
+        "transliteration": "laẓālimīna",
+        "english_meaning": "surely wrongdoers",
+        "arabic_text": "وَإِنْ كَانَ أَصْحَابُ الْأَيْكَةِ لَظَالِمِينَ",
+        "highlighted_word": "لَظَالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 113,
+          "word": 9,
+          "reference": "(16:113:9)"
+        },
+        "transliteration": "ẓālimūna",
+        "english_meaning": "(were) wrongdoers",
+        "arabic_text": "فَكَذَّبُوهُ فَأَخَذَهُمُ الْعَذَابُ وَهُمْ ظَالِمُونَ",
+        "highlighted_word": "ظَالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 47,
+          "word": 14,
+          "reference": "(17:47:14)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "إِذْ يَقُولُ الظَّالِمُونَ إِنْ تَتَّبِعُونَ إِلَّا رَجُلًا مَسْحُورًا",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 82,
+          "word": 11,
+          "reference": "(17:82:11)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 99,
+          "word": 21,
+          "reference": "(17:99:21)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَجَعَلَ لَهُمْ أَجَلًا لَا رَيْبَ فِيهِ فَأَبَى الظَّالِمُونَ إِلَّا كُفُورًا",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 29,
+          "word": 13,
+          "reference": "(18:29:13)"
+        },
+        "transliteration": "lilẓẓālimīna",
+        "english_meaning": "for the wrongdoers",
+        "arabic_text": "إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا",
+        "highlighted_word": "لِلظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 35,
+          "word": 4,
+          "reference": "(18:35:4)"
+        },
+        "transliteration": "ẓālimun",
+        "english_meaning": "(was) unjust",
+        "arabic_text": "وَدَخَلَ جَنَّتَهُ وَهُوَ ظَالِمٌ لِنَفْسِهِ",
+        "highlighted_word": "ظَالِمٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 50,
+          "word": 25,
+          "reference": "(18:50:25)"
+        },
+        "transliteration": "lilẓẓālimīna",
+        "english_meaning": "for the wrongdoers",
+        "arabic_text": "وَهُمْ لَكُمْ عَدُوٌّ بِئْسَ لِلظَّالِمِينَ بَدَلًا",
+        "highlighted_word": "لِلظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 38,
+          "word": 7,
+          "reference": "(19:38:7)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "لَٰكِنِ الظَّالِمُونَ الْيَوْمَ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 72,
+          "word": 6,
+          "reference": "(19:72:6)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "ثُمَّ نُنَجِّي الَّذِينَ اتَّقَوْا وَنَذَرُ الظَّالِمِينَ فِيهَا جِثِيًّا",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 14,
+          "word": 5,
+          "reference": "(21:14:5)"
+        },
+        "transliteration": "ẓālimīna",
+        "english_meaning": "wrongdoers",
+        "arabic_text": "قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا ظَالِمِينَ",
+        "highlighted_word": "ظَالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 29,
+          "word": 13,
+          "reference": "(21:29:13)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ كَذَٰلِكَ نَجْزِي الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 46,
+          "word": 11,
+          "reference": "(21:46:11)"
+        },
+        "transliteration": "ẓālimīna",
+        "english_meaning": "wrongdoers",
+        "arabic_text": "لَيَقُولُنَّ يَا وَيْلَنَا إِنَّا كُنَّا ظَالِمِينَ",
+        "highlighted_word": "ظَالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 59,
+          "word": 8,
+          "reference": "(21:59:8)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "قَالُوا مَنْ فَعَلَ هَٰذَا بِآلِهَتِنَا إِنَّهُ لَمِنَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 64,
+          "word": 7,
+          "reference": "(21:64:7)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "(are) the wrongdoers",
+        "arabic_text": "فَرَجَعُوا إِلَىٰ أَنْفُسِهِمْ فَقَالُوا إِنَّكُمْ أَنْتُمُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 87,
+          "word": 23,
+          "reference": "(21:87:23)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 97,
+          "word": 19,
+          "reference": "(21:97:19)"
+        },
+        "transliteration": "ẓālimīna",
+        "english_meaning": "wrongdoers",
+        "arabic_text": "يَا وَيْلَنَا قَدْ كُنَّا فِي غَفْلَةٍ مِنْ هَٰذَا بَلْ كُنَّا ظَالِمِينَ",
+        "highlighted_word": "ظَالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 53,
+          "word": 13,
+          "reference": "(22:53:13)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَإِنَّ الظَّالِمِينَ لَفِي شِقَاقٍ بَعِيدٍ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 71,
+          "word": 16,
+          "reference": "(22:71:16)"
+        },
+        "transliteration": "lilẓẓālimīna",
+        "english_meaning": "(will be) for the wrongdoers",
+        "arabic_text": "وَمَا لَيْسَ لَهُمْ بِهِ عِلْمٌ وَمَا لِلظَّالِمِينَ مِنْ نَصِيرٍ",
+        "highlighted_word": "لِلظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 107,
+          "word": 7,
+          "reference": "(23:107:7)"
+        },
+        "transliteration": "ẓālimūna",
+        "english_meaning": "(would be) wrongdoers",
+        "arabic_text": "رَبَّنَا أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَالِمُونَ",
+        "highlighted_word": "ظَالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 50,
+          "word": 16,
+          "reference": "(24:50:16)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "(are) the wrongdoers",
+        "arabic_text": "بَلْ أُولَٰئِكَ هُمُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 8,
+          "word": 12,
+          "reference": "(25:8:12)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَقَالَ الظَّالِمُونَ إِنْ تَتَّبِعُونَ إِلَّا رَجُلًا مَسْحُورًا",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 27,
+          "word": 3,
+          "reference": "(25:27:3)"
+        },
+        "transliteration": "l-ẓālimu",
+        "english_meaning": "the wrongdoer",
+        "arabic_text": "وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَىٰ يَدَيْهِ يَقُولُ يَا لَيْتَنِي اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا",
+        "highlighted_word": "الظَّالِمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 37,
+          "word": 11,
+          "reference": "(25:37:11)"
+        },
+        "transliteration": "lilẓẓālimīna",
+        "english_meaning": "for the wrongdoers",
+        "arabic_text": "وَأَعْتَدْنَا لِلظَّالِمِينَ عَذَابًا أَلِيمًا",
+        "highlighted_word": "لِلظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 209,
+          "word": 4,
+          "reference": "(26:209:4)"
+        },
+        "transliteration": "ẓālimīna",
+        "english_meaning": "unjust",
+        "arabic_text": "ذِكْرَىٰ وَمَا كُنَّا ظَالِمِينَ",
+        "highlighted_word": "ظَالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 37,
+          "word": 18,
+          "reference": "(28:37:18)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَمَنْ تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 40,
+          "word": 10,
+          "reference": "(28:40:10)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "(of) the wrongdoers",
+        "arabic_text": "فَنَبَذْنَاهُمْ فِي الْيَمِّ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 59,
+          "word": 20,
+          "reference": "(28:59:20)"
+        },
+        "transliteration": "ẓālimūna",
+        "english_meaning": "(were) wrongdoers",
+        "arabic_text": "وَمَا كُنَّا مُهْلِكِي الْقُرَىٰ إِلَّا وَأَهْلُهَا ظَالِمُونَ",
+        "highlighted_word": "ظَالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 14,
+          "word": 16,
+          "reference": "(29:14:16)"
+        },
+        "transliteration": "ẓālimūna",
+        "english_meaning": "(were) wrongdoers",
+        "arabic_text": "فَأَخَذَهُمُ الطُّوفَانُ وَهُمْ ظَالِمُونَ",
+        "highlighted_word": "ظَالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 31,
+          "word": 15,
+          "reference": "(29:31:15)"
+        },
+        "transliteration": "ẓālimīna",
+        "english_meaning": "wrongdoers",
+        "arabic_text": "إِنَّا مُهْلِكُو أَهْلِ هَٰذِهِ الْقَرْيَةِ إِنَّ أَهْلَهَا كَانُوا ظَالِمِينَ",
+        "highlighted_word": "ظَالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 49,
+          "word": 14,
+          "reference": "(29:49:14)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 31,
+          "verse": 11,
+          "word": 11,
+          "reference": "(31:11:11)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "بَلِ الظَّالِمُونَ فِي ضَلَالٍ مُبِينٍ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 31,
+          "word": 15,
+          "reference": "(34:31:15)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَلَوْ تَرَىٰ إِذِ الظَّالِمُونَ مَوْقُوفُونَ عِنْدَ رَبِّهِمْ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 32,
+          "word": 9,
+          "reference": "(35:32:9)"
+        },
+        "transliteration": "ẓālimun",
+        "english_meaning": "(is he) who wrongs",
+        "arabic_text": "فَمِنْهُمْ ظَالِمٌ لِنَفْسِهِ وَمِنْهُمْ مُقْتَصِدٌ وَمِنْهُمْ سَابِقٌ بِالْخَيْرَاتِ",
+        "highlighted_word": "ظَالِمٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 37,
+          "word": 23,
+          "reference": "(35:37:23)"
+        },
+        "transliteration": "lilẓẓālimīna",
+        "english_meaning": "(is) for the wrongdoers",
+        "arabic_text": "وَجَاءَكُمُ النَّذِيرُ فَذُوقُوا فَمَا لِلظَّالِمِينَ مِنْ نَصِيرٍ",
+        "highlighted_word": "لِلظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 40,
+          "word": 29,
+          "reference": "(35:40:29)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "بَلْ إِنْ يَعِدُ الظَّالِمُونَ بَعْضُهُمْ بَعْضًا إِلَّا غُرُورًا",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 63,
+          "word": 4,
+          "reference": "(37:63:4)"
+        },
+        "transliteration": "lilẓẓālimīna",
+        "english_meaning": "for the wrongdoers",
+        "arabic_text": "إِنَّا جَعَلْنَاهَا فِتْنَةً لِلظَّالِمِينَ",
+        "highlighted_word": "لِلظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 113,
+          "word": 8,
+          "reference": "(37:113:8)"
+        },
+        "transliteration": "waẓālimun",
+        "english_meaning": "and unjust",
+        "arabic_text": "وَمِنْ ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِنَفْسِهِ مُبِينٌ",
+        "highlighted_word": "وَظَالِمٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 24,
+          "word": 9,
+          "reference": "(39:24:9)"
+        },
+        "transliteration": "lilẓẓālimīna",
+        "english_meaning": "to the wrongdoers",
+        "arabic_text": "وَقِيلَ لِلظَّالِمِينَ ذُوقُوا مَا كُنْتُمْ تَكْسِبُونَ",
+        "highlighted_word": "لِلظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 18,
+          "word": 10,
+          "reference": "(40:18:10)"
+        },
+        "transliteration": "lilẓẓālimīna",
+        "english_meaning": "for the wrongdoers",
+        "arabic_text": "مَا لِلظَّالِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ",
+        "highlighted_word": "لِلظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 52,
+          "word": 4,
+          "reference": "(40:52:4)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "يَوْمَ لَا يَنْفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ وَلَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 8,
+          "word": 13,
+          "reference": "(42:8:13)"
+        },
+        "transliteration": "wal-ẓālimūna",
+        "english_meaning": "And the wrongdoers",
+        "arabic_text": "وَالظَّالِمُونَ مَا لَهُمْ مِنْ وَلِيٍّ وَلَا نَصِيرٍ",
+        "highlighted_word": "وَالظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 21,
+          "word": 19,
+          "reference": "(42:21:19)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَلَوْلَا كَلِمَةُ الْفَصْلِ لَقُضِيَ بَيْنَهُمْ وَإِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 22,
+          "word": 2,
+          "reference": "(42:22:2)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "تَرَى الظَّالِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا وَهُوَ وَاقِعٌ بِهِمْ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 40,
+          "word": 14,
+          "reference": "(42:40:14)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ إِنَّهُ لَا يُحِبُّ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 44,
+          "word": 11,
+          "reference": "(42:44:11)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَتَرَى الظَّالِمِينَ لَمَّا رَأَوُا الْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّ مِنْ سَبِيلٍ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 45,
+          "word": 24,
+          "reference": "(42:45:24)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "أَلَا إِنَّ الظَّالِمِينَ فِي عَذَابٍ مُقِيمٍ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 76,
+          "word": 6,
+          "reference": "(43:76:6)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "wrongdoers",
+        "arabic_text": "وَمَا ظَلَمْنَاهُمْ وَلَٰكِنْ كَانُوا هُمُ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 45,
+          "verse": 19,
+          "word": 9,
+          "reference": "(45:19:9)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَإِنَّ الظَّالِمِينَ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ وَاللَّهُ وَلِيُّ الْمُتَّقِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 49,
+          "verse": 11,
+          "word": 39,
+          "reference": "(49:11:39)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "(are) the wrongdoers",
+        "arabic_text": "وَمَنْ لَمْ يَتُبْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 59,
+          "verse": 17,
+          "word": 10,
+          "reference": "(59:17:10)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "(of) the wrongdoers",
+        "arabic_text": "فَكَانَ عَاقِبَتَهُمَا أَنَّهُمَا فِي النَّارِ خَالِدَيْنِ فِيهَا وَذَٰلِكَ جَزَاءُ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 60,
+          "verse": 9,
+          "word": 21,
+          "reference": "(60:9:21)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "(are) the wrongdoers",
+        "arabic_text": "وَمَنْ يَتَوَلَّهُمْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 62,
+          "verse": 7,
+          "word": 9,
+          "reference": "(62:7:9)"
+        },
+        "transliteration": "bil-ẓālimīna",
+        "english_meaning": "of the wrongdoers",
+        "arabic_text": "وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+        "highlighted_word": "بِالظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 68,
+          "verse": 29,
+          "word": 6,
+          "reference": "(68:29:6)"
+        },
+        "transliteration": "ẓālimīna",
+        "english_meaning": "wrongdoers",
+        "arabic_text": "قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ",
+        "highlighted_word": "ظَالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 71,
+          "verse": 24,
+          "word": 6,
+          "reference": "(71:24:6)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَقَدْ أَضَلُّوا كَثِيرًا وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 71,
+          "verse": 28,
+          "word": 13,
+          "reference": "(71:28:13)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 76,
+          "verse": 31,
+          "word": 6,
+          "reference": "(76:31:6)"
+        },
+        "transliteration": "wal-ẓālimīna",
+        "english_meaning": "but (for) the wrongdoers",
+        "arabic_text": "يُدْخِلُ مَنْ يَشَاءُ فِي رَحْمَتِهِ وَالظَّالِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًا",
+        "highlighted_word": "وَالظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 258,
+          "word": 43,
+          "reference": "(2:258:43)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "(who are) [the] wrongdoers",
+        "arabic_text": "فَبُهِتَ الَّذِي كَفَرَ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 86,
+          "word": 18,
+          "reference": "(3:86:18)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "[the] wrongdoers",
+        "arabic_text": "وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 75,
+          "word": 20,
+          "reference": "(4:75:20)"
+        },
+        "transliteration": "l-ẓālimi",
+        "english_meaning": "[the] oppressor(s)",
+        "arabic_text": "رَبَّنَا أَخْرِجْنَا مِنْ هَٰذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا",
+        "highlighted_word": "الظَّالِمِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 51,
+          "word": 22,
+          "reference": "(5:51:22)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoing",
+        "arabic_text": "وَمَنْ يَتَوَلَّهُمْ مِنْكُمْ فَإِنَّهُ مِنْهُمْ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 47,
+          "word": 14,
+          "reference": "(6:47:14)"
+        },
+        "transliteration": "l-ẓālimūna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "هَلْ يُهْلَكُ إِلَّا الْقَوْمُ الظَّالِمُونَ",
+        "highlighted_word": "الظَّالِمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 68,
+          "word": 23,
+          "reference": "(6:68:23)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَلَا تَقْعُدْ بَعْدَ الذِّكْرَىٰ مَعَ الْقَوْمِ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 144,
+          "word": 40,
+          "reference": "(6:144:40)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoing",
+        "arabic_text": "إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 47,
+          "word": 13,
+          "reference": "(7:47:13)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "قَالُوا رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 150,
+          "word": 39,
+          "reference": "(7:150:39)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "(who are) wrongdoing",
+        "arabic_text": "فَلَا تُشْمِتْ بِيَ الْأَعْدَاءَ وَلَا تَجْعَلْنِي مَعَ الْقَوْمِ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 19,
+          "word": 24,
+          "reference": "(9:19:24)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "لَا يَسْتَوُونَ عِنْدَ اللَّهِ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 109,
+          "word": 27,
+          "reference": "(9:109:27)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoing people",
+        "arabic_text": "فَانْهَارَ بِهِ فِي نَارِ جَهَنَّمَ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 85,
+          "word": 10,
+          "reference": "(10:85:10)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَقَالُوا عَلَى اللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلْقَوْمِ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 44,
+          "word": 17,
+          "reference": "(11:44:17)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَاسْتَوَتْ عَلَى الْجُودِيِّ وَقِيلَ بُعْدًا لِلْقَوْمِ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 28,
+          "word": 15,
+          "reference": "(23:28:15)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَقُلِ الْحَمْدُ لِلَّهِ الَّذِي نَجَّانَا مِنَ الْقَوْمِ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 41,
+          "word": 8,
+          "reference": "(23:41:8)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَأَخَذَتْهُمُ الصَّيْحَةُ بِالْحَقِّ فَجَعَلْنَاهُمْ غُثَاءً فَبُعْدًا لِلْقَوْمِ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 94,
+          "word": 6,
+          "reference": "(23:94:6)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 10,
+          "word": 8,
+          "reference": "(26:10:8)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "(who are) wrongdoers",
+        "arabic_text": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰ أَنِ ائْتِ الْقَوْمَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 21,
+          "word": 10,
+          "reference": "(28:21:10)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَخَرَجَ مِنْهَا خَائِفًا يَتَرَقَّبُ قَالَ رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 25,
+          "word": 26,
+          "reference": "(28:25:26)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "قَالَ لَا تَخَفْ نَجَوْتَ مِنَ الْقَوْمِ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 50,
+          "word": 23,
+          "reference": "(28:50:23)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 46,
+          "verse": 10,
+          "word": 24,
+          "reference": "(46:10:24)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "فَآمَنَ وَاسْتَكْبَرْتُمْ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 61,
+          "verse": 7,
+          "word": 16,
+          "reference": "(61:7:16)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "[the] wrongdoers",
+        "arabic_text": "وَهُوَ يُدْعَىٰ إِلَى الْإِسْلَامِ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 62,
+          "verse": 5,
+          "word": 23,
+          "reference": "(62:5:23)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 66,
+          "verse": 11,
+          "word": 24,
+          "reference": "(66:11:24)"
+        },
+        "transliteration": "l-ẓālimīna",
+        "english_meaning": "the wrongdoers",
+        "arabic_text": "وَنَجِّنِي مِنْ فِرْعَوْنَ وَعَمَلِهِ وَنَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
+        "highlighted_word": "الظَّالِمِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 102,
+          "word": 8,
+          "reference": "(11:102:8)"
+        },
+        "transliteration": "ẓālimatun",
+        "english_meaning": "(are) doing wrong",
+        "arabic_text": "وَكَذَٰلِكَ أَخْذُ رَبِّكَ إِذَا أَخَذَ الْقُرَىٰ وَهِيَ ظَالِمَةٌ",
+        "highlighted_word": "ظَالِمَةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 11,
+          "word": 6,
+          "reference": "(21:11:6)"
+        },
+        "transliteration": "ẓālimatan",
+        "english_meaning": "unjust",
+        "arabic_text": "وَكَمْ قَصَمْنَا مِنْ قَرْيَةٍ كَانَتْ ظَالِمَةً وَأَنْشَأْنَا بَعْدَهَا قَوْمًا آخَرِينَ",
+        "highlighted_word": "ظَالِمَةً"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 45,
+          "word": 6,
+          "reference": "(22:45:6)"
+        },
+        "transliteration": "ẓālimatun",
+        "english_meaning": "was doing wrong",
+        "arabic_text": "فَكَأَيِّنْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ",
+        "highlighted_word": "ظَالِمَةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 48,
+          "word": 7,
+          "reference": "(22:48:7)"
+        },
+        "transliteration": "ẓālimatun",
+        "english_meaning": "(was) doing wrong",
+        "arabic_text": "وَكَأَيِّنْ مِنْ قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِيَ ظَالِمَةٌ",
+        "highlighted_word": "ظَالِمَةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 33,
+          "word": 11,
+          "reference": "(17:33:11)"
+        },
+        "transliteration": "maẓlūman",
+        "english_meaning": "wrongfully",
+        "arabic_text": "وَمَنْ قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا",
+        "highlighted_word": "مَظْلُومًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 27,
+          "word": 21,
+          "reference": "(10:27:21)"
+        },
+        "transliteration": "muẓ'liman",
+        "english_meaning": "the darkness (of) night",
+        "arabic_text": "كَأَنَّمَا أُغْشِيَتْ وُجُوهُهُمْ قِطَعًا مِنَ اللَّيْلِ مُظْلِمًا",
+        "highlighted_word": "مُظْلِمًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 37,
+          "word": 9,
+          "reference": "(36:37:9)"
+        },
+        "transliteration": "muẓ'limūna",
+        "english_meaning": "(are) those in darkness",
+        "arabic_text": "وَآيَةٌ لَهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ فَإِذَا هُمْ مُظْلِمُونَ",
+        "highlighted_word": "مُظْلِمُونَ"
+      }
+    ],
+    "total_occurrences": 315,
+    "scraped_at": "2025-08-19 18:44:53"
+  },
+  {
+    "letter": "Z",
+    "keyword_value": "ZmA",
+    "keyword_text": "ظ م أ",
+    "description": "The triliteral root ẓā mīm hamza (ظ م أ) occurs three times in the Quran, in three derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to suffer from thirst",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 119,
+          "word": 3,
+          "reference": "(20:119:3)"
+        },
+        "transliteration": "taẓma-u",
+        "english_meaning": "will suffer from thirst",
+        "arabic_text": "وَأَنَّكَ لَا تَظْمَأُ فِيهَا وَلَا تَضْحَىٰ",
+        "highlighted_word": "تَظْمَأُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 120,
+          "word": 23,
+          "reference": "(9:120:23)"
+        },
+        "transliteration": "ẓama-on",
+        "english_meaning": "thirst",
+        "arabic_text": "ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌ وَلَا نَصَبٌ",
+        "highlighted_word": "ظَمَأٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 39,
+          "word": 7,
+          "reference": "(24:39:7)"
+        },
+        "transliteration": "l-ẓamānu",
+        "english_meaning": "the thirsty one",
+        "arabic_text": "كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً",
+        "highlighted_word": "الظَّمْآنُ"
+      }
+    ],
+    "total_occurrences": 3,
+    "scraped_at": "2025-08-19 18:45:15"
+  },
+  {
+    "letter": "Z",
+    "keyword_value": "Znn",
+    "keyword_text": "ظ ن ن",
+    "description": "The triliteral root ẓā nūn nūn (ظ ن ن) occurs 69 times in the Quran, in three derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to think, to assume, to guess",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 46,
+          "word": 2,
+          "reference": "(2:46:2)"
+        },
+        "transliteration": "yaẓunnūna",
+        "english_meaning": "believe",
+        "arabic_text": "الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلَاقُو رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَاجِعُونَ",
+        "highlighted_word": "يَظُنُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 78,
+          "word": 11,
+          "reference": "(2:78:11)"
+        },
+        "transliteration": "yaẓunnūna",
+        "english_meaning": "guess",
+        "arabic_text": "لَا يَعْلَمُونَ الْكِتَابَ إِلَّا أَمَانِيَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ",
+        "highlighted_word": "يَظُنُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 230,
+          "word": 20,
+          "reference": "(2:230:20)"
+        },
+        "transliteration": "ẓannā",
+        "english_meaning": "they believe",
+        "arabic_text": "فَلَا جُنَاحَ عَلَيْهِمَا أَنْ يَتَرَاجَعَا إِنْ ظَنَّا أَنْ يُقِيمَا حُدُودَ اللَّهِ",
+        "highlighted_word": "ظَنَّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 249,
+          "word": 45,
+          "reference": "(2:249:45)"
+        },
+        "transliteration": "yaẓunnūna",
+        "english_meaning": "were certain",
+        "arabic_text": "قَالَ الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلَاقُو اللَّهِ كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللَّهِ",
+        "highlighted_word": "يَظُنُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 154,
+          "word": 16,
+          "reference": "(3:154:16)"
+        },
+        "transliteration": "yaẓunnūna",
+        "english_meaning": "thinking",
+        "arabic_text": "يَظُنُّونَ بِاللَّهِ غَيْرَ الْحَقِّ ظَنَّ الْجَاهِلِيَّةِ",
+        "highlighted_word": "يَظُنُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 66,
+          "word": 12,
+          "reference": "(7:66:12)"
+        },
+        "transliteration": "lanaẓunnuka",
+        "english_meaning": "[we] think you",
+        "arabic_text": "إِنَّا لَنَرَاكَ فِي سَفَاهَةٍ وَإِنَّا لَنَظُنُّكَ مِنَ الْكَاذِبِينَ",
+        "highlighted_word": "لَنَظُنُّكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 171,
+          "word": 7,
+          "reference": "(7:171:7)"
+        },
+        "transliteration": "waẓannū",
+        "english_meaning": "and they thought",
+        "arabic_text": "وَإِذْ نَتَقْنَا الْجَبَلَ فَوْقَهُمْ كَأَنَّهُ ظُلَّةٌ وَظَنُّوا أَنَّهُ وَاقِعٌ بِهِمْ",
+        "highlighted_word": "وَظَنُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 118,
+          "word": 15,
+          "reference": "(9:118:15)"
+        },
+        "transliteration": "waẓannū",
+        "english_meaning": "and they were certain",
+        "arabic_text": "وَظَنُّوا أَنْ لَا مَلْجَأَ مِنَ اللَّهِ إِلَّا إِلَيْهِ",
+        "highlighted_word": "وَظَنُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 22,
+          "word": 26,
+          "reference": "(10:22:26)"
+        },
+        "transliteration": "waẓannū",
+        "english_meaning": "and they assume",
+        "arabic_text": "وَجَاءَهُمُ الْمَوْجُ مِنْ كُلِّ مَكَانٍ وَظَنُّوا أَنَّهُمْ أُحِيطَ بِهِمْ",
+        "highlighted_word": "وَظَنُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 24,
+          "word": 23,
+          "reference": "(10:24:23)"
+        },
+        "transliteration": "waẓanna",
+        "english_meaning": "and think",
+        "arabic_text": "وَظَنَّ أَهْلُهَا أَنَّهُمْ قَادِرُونَ عَلَيْهَا أَتَاهَا أَمْرُنَا",
+        "highlighted_word": "وَظَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 27,
+          "word": 28,
+          "reference": "(11:27:28)"
+        },
+        "transliteration": "naẓunnukum",
+        "english_meaning": "we think you",
+        "arabic_text": "وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِنْ فَضْلٍ بَلْ نَظُنُّكُمْ كَاذِبِينَ",
+        "highlighted_word": "نَظُنُّكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 42,
+          "word": 3,
+          "reference": "(12:42:3)"
+        },
+        "transliteration": "ẓanna",
+        "english_meaning": "he thought",
+        "arabic_text": "وَقَالَ لِلَّذِي ظَنَّ أَنَّهُ نَاجٍ مِنْهُمَا اذْكُرْنِي عِنْدَ رَبِّكَ",
+        "highlighted_word": "ظَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 110,
+          "word": 5,
+          "reference": "(12:110:5)"
+        },
+        "transliteration": "waẓannū",
+        "english_meaning": "and thought",
+        "arabic_text": "وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا جَاءَهُمْ نَصْرُنَا",
+        "highlighted_word": "وَظَنُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 52,
+          "word": 5,
+          "reference": "(17:52:5)"
+        },
+        "transliteration": "wataẓunnūna",
+        "english_meaning": "and you will think",
+        "arabic_text": "وَتَظُنُّونَ إِنْ لَبِثْتُمْ إِلَّا قَلِيلًا",
+        "highlighted_word": "وَتَظُنُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 101,
+          "word": 16,
+          "reference": "(17:101:16)"
+        },
+        "transliteration": "la-aẓunnuka",
+        "english_meaning": "[I] think you",
+        "arabic_text": "فَقَالَ لَهُ فِرْعَوْنُ إِنِّي لَأَظُنُّكَ يَا مُوسَىٰ مَسْحُورًا",
+        "highlighted_word": "لَأَظُنُّكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 102,
+          "word": 13,
+          "reference": "(17:102:13)"
+        },
+        "transliteration": "la-aẓunnuka",
+        "english_meaning": "[I] surely think you",
+        "arabic_text": "وَإِنِّي لَأَظُنُّكَ يَا فِرْعَوْنُ مَثْبُورًا",
+        "highlighted_word": "لَأَظُنُّكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 35,
+          "word": 8,
+          "reference": "(18:35:8)"
+        },
+        "transliteration": "aẓunnu",
+        "english_meaning": "I think",
+        "arabic_text": "قَالَ مَا أَظُنُّ أَنْ تَبِيدَ هَٰذِهِ أَبَدًا",
+        "highlighted_word": "أَظُنُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 36,
+          "word": 2,
+          "reference": "(18:36:2)"
+        },
+        "transliteration": "aẓunnu",
+        "english_meaning": "I think",
+        "arabic_text": "وَمَا أَظُنُّ السَّاعَةَ قَائِمَةً وَلَئِنْ رُدِدْتُ إِلَىٰ رَبِّي لَأَجِدَنَّ خَيْرًا مِنْهَا مُنْقَلَبًا",
+        "highlighted_word": "أَظُنُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 53,
+          "word": 4,
+          "reference": "(18:53:4)"
+        },
+        "transliteration": "faẓannū",
+        "english_meaning": "and they (will be) certain",
+        "arabic_text": "وَرَأَى الْمُجْرِمُونَ النَّارَ فَظَنُّوا أَنَّهُمْ مُوَاقِعُوهَا",
+        "highlighted_word": "فَظَنُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 87,
+          "word": 6,
+          "reference": "(21:87:6)"
+        },
+        "transliteration": "faẓanna",
+        "english_meaning": "and thought",
+        "arabic_text": "وَذَا النُّونِ إِذْ ذَهَبَ مُغَاضِبًا فَظَنَّ أَنْ لَنْ نَقْدِرَ عَلَيْهِ",
+        "highlighted_word": "فَظَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 15,
+          "word": 3,
+          "reference": "(22:15:3)"
+        },
+        "transliteration": "yaẓunnu",
+        "english_meaning": "thinks",
+        "arabic_text": "مَنْ كَانَ يَظُنُّ أَنْ لَنْ يَنْصُرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى السَّمَاءِ",
+        "highlighted_word": "يَظُنُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 12,
+          "word": 4,
+          "reference": "(24:12:4)"
+        },
+        "transliteration": "ẓanna",
+        "english_meaning": "think",
+        "arabic_text": "لَوْلَا إِذْ سَمِعْتُمُوهُ ظَنَّ الْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بِأَنْفُسِهِمْ خَيْرًا",
+        "highlighted_word": "ظَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 186,
+          "word": 7,
+          "reference": "(26:186:7)"
+        },
+        "transliteration": "naẓunnuka",
+        "english_meaning": "we think you",
+        "arabic_text": "وَمَا أَنْتَ إِلَّا بَشَرٌ مِثْلُنَا وَإِنْ نَظُنُّكَ لَمِنَ الْكَاذِبِينَ",
+        "highlighted_word": "نَظُنُّكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 38,
+          "word": 25,
+          "reference": "(28:38:25)"
+        },
+        "transliteration": "la-aẓunnuhu",
+        "english_meaning": "[I] think that he",
+        "arabic_text": "لَعَلِّي أَطَّلِعُ إِلَىٰ إِلَٰهِ مُوسَىٰ وَإِنِّي لَأَظُنُّهُ مِنَ الْكَاذِبِينَ",
+        "highlighted_word": "لَأَظُنُّهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 39,
+          "word": 8,
+          "reference": "(28:39:8)"
+        },
+        "transliteration": "waẓannū",
+        "english_meaning": "and they thought",
+        "arabic_text": "وَظَنُّوا أَنَّهُمْ إِلَيْنَا لَا يُرْجَعُونَ",
+        "highlighted_word": "وَظَنُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 10,
+          "word": 14,
+          "reference": "(33:10:14)"
+        },
+        "transliteration": "wataẓunnūna",
+        "english_meaning": "and you assumed",
+        "arabic_text": "وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ وَتَظُنُّونَ بِاللَّهِ الظُّنُونَا",
+        "highlighted_word": "وَتَظُنُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 24,
+          "word": 24,
+          "reference": "(38:24:24)"
+        },
+        "transliteration": "waẓanna",
+        "english_meaning": "And became certain",
+        "arabic_text": "وَظَنَّ دَاوُودُ أَنَّمَا فَتَنَّاهُ فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًا وَأَنَابَ",
+        "highlighted_word": "وَظَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 37,
+          "word": 8,
+          "reference": "(40:37:8)"
+        },
+        "transliteration": "la-aẓunnuhu",
+        "english_meaning": "[I] surely think him",
+        "arabic_text": "فَأَطَّلِعَ إِلَىٰ إِلَٰهِ مُوسَىٰ وَإِنِّي لَأَظُنُّهُ كَاذِبًا",
+        "highlighted_word": "لَأَظُنُّهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 22,
+          "word": 13,
+          "reference": "(41:22:13)"
+        },
+        "transliteration": "ẓanantum",
+        "english_meaning": "you assumed",
+        "arabic_text": "وَلَٰكِنْ ظَنَنْتُمْ أَنَّ اللَّهَ لَا يَعْلَمُ كَثِيرًا مِمَّا تَعْمَلُونَ",
+        "highlighted_word": "ظَنَنْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 23,
+          "word": 4,
+          "reference": "(41:23:4)"
+        },
+        "transliteration": "ẓanantum",
+        "english_meaning": "you assumed",
+        "arabic_text": "وَذَٰلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنْتُمْ بِرَبِّكُمْ أَرْدَاكُمْ",
+        "highlighted_word": "ظَنَنْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 48,
+          "word": 8,
+          "reference": "(41:48:8)"
+        },
+        "transliteration": "waẓannū",
+        "english_meaning": "and they (will) be certain",
+        "arabic_text": "وَظَنُّوا مَا لَهُمْ مِنْ مَحِيصٍ",
+        "highlighted_word": "وَظَنُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 50,
+          "word": 13,
+          "reference": "(41:50:13)"
+        },
+        "transliteration": "aẓunnu",
+        "english_meaning": "I think",
+        "arabic_text": "وَمَا أَظُنُّ السَّاعَةَ قَائِمَةً وَلَئِنْ رُجِعْتُ إِلَىٰ رَبِّي إِنَّ لِي عِنْدَهُ لَلْحُسْنَىٰ",
+        "highlighted_word": "أَظُنُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 45,
+          "verse": 24,
+          "word": 21,
+          "reference": "(45:24:21)"
+        },
+        "transliteration": "yaẓunnūna",
+        "english_meaning": "guess",
+        "arabic_text": "وَمَا لَهُمْ بِذَٰلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا يَظُنُّونَ",
+        "highlighted_word": "يَظُنُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 45,
+          "verse": 32,
+          "word": 17,
+          "reference": "(45:32:17)"
+        },
+        "transliteration": "naẓunnu",
+        "english_meaning": "we think",
+        "arabic_text": "إِنْ نَظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ",
+        "highlighted_word": "نَظُنُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 12,
+          "word": 2,
+          "reference": "(48:12:2)"
+        },
+        "transliteration": "ẓanantum",
+        "english_meaning": "you thought",
+        "arabic_text": "بَلْ ظَنَنْتُمْ أَنْ لَنْ يَنْقَلِبَ الرَّسُولُ وَالْمُؤْمِنُونَ إِلَىٰ أَهْلِيهِمْ أَبَدًا",
+        "highlighted_word": "ظَنَنْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 12,
+          "word": 15,
+          "reference": "(48:12:15)"
+        },
+        "transliteration": "waẓanantum",
+        "english_meaning": "And you assumed",
+        "arabic_text": "وَظَنَنْتُمْ ظَنَّ السَّوْءِ وَكُنْتُمْ قَوْمًا بُورًا",
+        "highlighted_word": "وَظَنَنْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 59,
+          "verse": 2,
+          "word": 14,
+          "reference": "(59:2:14)"
+        },
+        "transliteration": "ẓanantum",
+        "english_meaning": "you think",
+        "arabic_text": "مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ",
+        "highlighted_word": "ظَنَنْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 59,
+          "verse": 2,
+          "word": 17,
+          "reference": "(59:2:17)"
+        },
+        "transliteration": "waẓannū",
+        "english_meaning": "and they thought",
+        "arabic_text": "مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ",
+        "highlighted_word": "وَظَنُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 69,
+          "verse": 20,
+          "word": 2,
+          "reference": "(69:20:2)"
+        },
+        "transliteration": "ẓanantu",
+        "english_meaning": "was certain",
+        "arabic_text": "إِنِّي ظَنَنْتُ أَنِّي مُلَاقٍ حِسَابِيَهْ",
+        "highlighted_word": "ظَنَنْتُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 72,
+          "verse": 5,
+          "word": 2,
+          "reference": "(72:5:2)"
+        },
+        "transliteration": "ẓanannā",
+        "english_meaning": "thought",
+        "arabic_text": "وَأَنَّا ظَنَنَّا أَنْ لَنْ تَقُولَ الْإِنْسُ وَالْجِنُّ عَلَى اللَّهِ كَذِبًا",
+        "highlighted_word": "ظَنَنَّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 72,
+          "verse": 7,
+          "word": 2,
+          "reference": "(72:7:2)"
+        },
+        "transliteration": "ẓannū",
+        "english_meaning": "thought",
+        "arabic_text": "وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنْتُمْ أَنْ لَنْ يَبْعَثَ اللَّهُ أَحَدًا",
+        "highlighted_word": "ظَنُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 72,
+          "verse": 7,
+          "word": 4,
+          "reference": "(72:7:4)"
+        },
+        "transliteration": "ẓanantum",
+        "english_meaning": "you thought",
+        "arabic_text": "وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنْتُمْ أَنْ لَنْ يَبْعَثَ اللَّهُ أَحَدًا",
+        "highlighted_word": "ظَنَنْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 72,
+          "verse": 12,
+          "word": 2,
+          "reference": "(72:12:2)"
+        },
+        "transliteration": "ẓanannā",
+        "english_meaning": "[we] have become certain",
+        "arabic_text": "وَأَنَّا ظَنَنَّا أَنْ لَنْ نُعْجِزَ اللَّهَ فِي الْأَرْضِ وَلَنْ نُعْجِزَهُ هَرَبًا",
+        "highlighted_word": "ظَنَنَّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 75,
+          "verse": 25,
+          "word": 1,
+          "reference": "(75:25:1)"
+        },
+        "transliteration": "taẓunnu",
+        "english_meaning": "Thinking",
+        "arabic_text": "تَظُنُّ أَنْ يُفْعَلَ بِهَا فَاقِرَةٌ",
+        "highlighted_word": "تَظُنُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 75,
+          "verse": 28,
+          "word": 1,
+          "reference": "(75:28:1)"
+        },
+        "transliteration": "waẓanna",
+        "english_meaning": "And he is certain",
+        "arabic_text": "وَظَنَّ أَنَّهُ الْفِرَاقُ",
+        "highlighted_word": "وَظَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 83,
+          "verse": 4,
+          "word": 2,
+          "reference": "(83:4:2)"
+        },
+        "transliteration": "yaẓunnu",
+        "english_meaning": "think",
+        "arabic_text": "أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُمْ مَبْعُوثُونَ",
+        "highlighted_word": "يَظُنُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 84,
+          "verse": 14,
+          "word": 2,
+          "reference": "(84:14:2)"
+        },
+        "transliteration": "ẓanna",
+        "english_meaning": "(had) thought",
+        "arabic_text": "إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ",
+        "highlighted_word": "ظَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 154,
+          "word": 20,
+          "reference": "(3:154:20)"
+        },
+        "transliteration": "ẓanna",
+        "english_meaning": "(the) thought",
+        "arabic_text": "يَظُنُّونَ بِاللَّهِ غَيْرَ الْحَقِّ ظَنَّ الْجَاهِلِيَّةِ",
+        "highlighted_word": "ظَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 157,
+          "word": 31,
+          "reference": "(4:157:31)"
+        },
+        "transliteration": "l-ẓani",
+        "english_meaning": "(of) assumption",
+        "arabic_text": "مَا لَهُمْ بِهِ مِنْ عِلْمٍ إِلَّا اتِّبَاعَ الظَّنِّ وَمَا قَتَلُوهُ يَقِينًا",
+        "highlighted_word": "الظَّنِّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 116,
+          "word": 14,
+          "reference": "(6:116:14)"
+        },
+        "transliteration": "l-ẓana",
+        "english_meaning": "[the] assumption",
+        "arabic_text": "إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ",
+        "highlighted_word": "الظَّنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 148,
+          "word": 33,
+          "reference": "(6:148:33)"
+        },
+        "transliteration": "l-ẓana",
+        "english_meaning": "the assumption",
+        "arabic_text": "إِنْ تَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ أَنْتُمْ إِلَّا تَخْرُصُونَ",
+        "highlighted_word": "الظَّنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 36,
+          "word": 5,
+          "reference": "(10:36:5)"
+        },
+        "transliteration": "ẓannan",
+        "english_meaning": "assumption",
+        "arabic_text": "وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلَّا ظَنًّا",
+        "highlighted_word": "ظَنًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 36,
+          "word": 7,
+          "reference": "(10:36:7)"
+        },
+        "transliteration": "l-ẓana",
+        "english_meaning": "the assumption",
+        "arabic_text": "وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا",
+        "highlighted_word": "الظَّنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 60,
+          "word": 2,
+          "reference": "(10:60:2)"
+        },
+        "transliteration": "ẓannu",
+        "english_meaning": "(will be the) assumption",
+        "arabic_text": "وَمَا ظَنُّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ يَوْمَ الْقِيَامَةِ",
+        "highlighted_word": "ظَنُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 66,
+          "word": 21,
+          "reference": "(10:66:21)"
+        },
+        "transliteration": "l-ẓana",
+        "english_meaning": "the assumption",
+        "arabic_text": "إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ",
+        "highlighted_word": "الظَّنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 10,
+          "word": 16,
+          "reference": "(33:10:16)"
+        },
+        "transliteration": "l-ẓunūnā",
+        "english_meaning": "the assumptions",
+        "arabic_text": "وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ وَتَظُنُّونَ بِاللَّهِ الظُّنُونَا",
+        "highlighted_word": "الظُّنُونَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 20,
+          "word": 5,
+          "reference": "(34:20:5)"
+        },
+        "transliteration": "ẓannahu",
+        "english_meaning": "his assumption",
+        "arabic_text": "وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُ",
+        "highlighted_word": "ظَنَّهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 87,
+          "word": 2,
+          "reference": "(37:87:2)"
+        },
+        "transliteration": "ẓannukum",
+        "english_meaning": "(do) you think",
+        "arabic_text": "فَمَا ظَنُّكُمْ بِرَبِّ الْعَالَمِينَ",
+        "highlighted_word": "ظَنُّكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 27,
+          "word": 9,
+          "reference": "(38:27:9)"
+        },
+        "transliteration": "ẓannu",
+        "english_meaning": "(is the) assumption",
+        "arabic_text": "ذَٰلِكَ ظَنُّ الَّذِينَ كَفَرُوا فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنَ النَّارِ",
+        "highlighted_word": "ظَنُّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 23,
+          "word": 2,
+          "reference": "(41:23:2)"
+        },
+        "transliteration": "ẓannukumu",
+        "english_meaning": "(was) your assumption",
+        "arabic_text": "وَذَٰلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنْتُمْ بِرَبِّكُمْ أَرْدَاكُمْ",
+        "highlighted_word": "ظَنُّكُمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 45,
+          "verse": 32,
+          "word": 19,
+          "reference": "(45:32:19)"
+        },
+        "transliteration": "ẓannan",
+        "english_meaning": "an assumption",
+        "arabic_text": "قُلْتُمْ مَا نَدْرِي مَا السَّاعَةُ إِنْ نَظُنُّ إِلَّا ظَنًّا",
+        "highlighted_word": "ظَنًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 6,
+          "word": 8,
+          "reference": "(48:6:8)"
+        },
+        "transliteration": "ẓanna",
+        "english_meaning": "an assumption",
+        "arabic_text": "الظَّانِّينَ بِاللَّهِ ظَنَّ السَّوْءِ عَلَيْهِمْ دَائِرَةُ السَّوْءِ",
+        "highlighted_word": "ظَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 12,
+          "word": 16,
+          "reference": "(48:12:16)"
+        },
+        "transliteration": "ẓanna",
+        "english_meaning": "an assumption",
+        "arabic_text": "وَظَنَنْتُمْ ظَنَّ السَّوْءِ وَكُنْتُمْ قَوْمًا بُورًا",
+        "highlighted_word": "ظَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 49,
+          "verse": 12,
+          "word": 7,
+          "reference": "(49:12:7)"
+        },
+        "transliteration": "l-ẓani",
+        "english_meaning": "the assumption",
+        "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ",
+        "highlighted_word": "الظَّنِّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 49,
+          "verse": 12,
+          "word": 10,
+          "reference": "(49:12:10)"
+        },
+        "transliteration": "l-ẓani",
+        "english_meaning": "assumption",
+        "arabic_text": "إِنَّ بَعْضَ الظَّنِّ إِثْمٌ",
+        "highlighted_word": "الظَّنِّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 23,
+          "word": 17,
+          "reference": "(53:23:17)"
+        },
+        "transliteration": "l-ẓana",
+        "english_meaning": "assumption",
+        "arabic_text": "إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنْفُسُ",
+        "highlighted_word": "الظَّنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 28,
+          "word": 9,
+          "reference": "(53:28:9)"
+        },
+        "transliteration": "l-ẓana",
+        "english_meaning": "assumption",
+        "arabic_text": "وَمَا لَهُمْ بِهِ مِنْ عِلْمٍ إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ",
+        "highlighted_word": "الظَّنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 28,
+          "word": 11,
+          "reference": "(53:28:11)"
+        },
+        "transliteration": "l-ẓana",
+        "english_meaning": "the assumption",
+        "arabic_text": "وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا",
+        "highlighted_word": "الظَّنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 6,
+          "word": 6,
+          "reference": "(48:6:6)"
+        },
+        "transliteration": "l-ẓānīna",
+        "english_meaning": "who assume",
+        "arabic_text": "الظَّانِّينَ بِاللَّهِ ظَنَّ السَّوْءِ عَلَيْهِمْ دَائِرَةُ السَّوْءِ",
+        "highlighted_word": "الظَّانِّينَ"
+      }
+    ],
+    "total_occurrences": 69,
+    "scraped_at": "2025-08-19 18:45:19"
+  },
+  {
+    "letter": "Z",
+    "keyword_value": "Zhr",
+    "keyword_text": "ظ ه ر",
+    "description": "The triliteral root ẓā hā rā (ظ ه ر) occurs 59 times in the Quran, in 10 derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to appear, to become manifest",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 151,
+          "word": 26,
+          "reference": "(6:151:26)"
+        },
+        "transliteration": "ẓahara",
+        "english_meaning": "(is) apparent",
+        "arabic_text": "وَلَا تَقْرَبُوا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ",
+        "highlighted_word": "ظَهَرَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 33,
+          "word": 7,
+          "reference": "(7:33:7)"
+        },
+        "transliteration": "ẓahara",
+        "english_meaning": "(is) apparent",
+        "arabic_text": "قُلْ إِنَّمَا حَرَّمَ رَبِّيَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ",
+        "highlighted_word": "ظَهَرَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 8,
+          "word": 3,
+          "reference": "(9:8:3)"
+        },
+        "transliteration": "yaẓharū",
+        "english_meaning": "they gain dominance",
+        "arabic_text": "كَيْفَ وَإِنْ يَظْهَرُوا عَلَيْكُمْ لَا يَرْقُبُوا فِيكُمْ إِلًّا وَلَا ذِمَّةً",
+        "highlighted_word": "يَظْهَرُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 48,
+          "word": 12,
+          "reference": "(9:48:12)"
+        },
+        "transliteration": "waẓahara",
+        "english_meaning": "and became manifest",
+        "arabic_text": "حَتَّىٰ جَاءَ الْحَقُّ وَظَهَرَ أَمْرُ اللَّهِ وَهُمْ كَارِهُونَ",
+        "highlighted_word": "وَظَهَرَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 20,
+          "word": 3,
+          "reference": "(18:20:3)"
+        },
+        "transliteration": "yaẓharū",
+        "english_meaning": "they come to know",
+        "arabic_text": "إِنَّهُمْ إِنْ يَظْهَرُوا عَلَيْكُمْ يَرْجُمُوكُمْ أَوْ يُعِيدُوكُمْ فِي مِلَّتِهِمْ",
+        "highlighted_word": "يَظْهَرُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 97,
+          "word": 4,
+          "reference": "(18:97:4)"
+        },
+        "transliteration": "yaẓharūhu",
+        "english_meaning": "scale it",
+        "arabic_text": "فَمَا اسْطَاعُوا أَنْ يَظْهَرُوهُ وَمَا اسْتَطَاعُوا لَهُ نَقْبًا",
+        "highlighted_word": "يَظْهَرُوهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 31,
+          "word": 13,
+          "reference": "(24:31:13)"
+        },
+        "transliteration": "ẓahara",
+        "english_meaning": "is apparent",
+        "arabic_text": "وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا",
+        "highlighted_word": "ظَهَرَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 31,
+          "word": 59,
+          "reference": "(24:31:59)"
+        },
+        "transliteration": "yaẓharū",
+        "english_meaning": "aware",
+        "arabic_text": "أَوِ الطِّفْلِ الَّذِينَ لَمْ يَظْهَرُوا عَلَىٰ عَوْرَاتِ النِّسَاءِ",
+        "highlighted_word": "يَظْهَرُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 41,
+          "word": 1,
+          "reference": "(30:41:1)"
+        },
+        "transliteration": "ẓahara",
+        "english_meaning": "Has appeared",
+        "arabic_text": "ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ",
+        "highlighted_word": "ظَهَرَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 33,
+          "word": 17,
+          "reference": "(43:33:17)"
+        },
+        "transliteration": "yaẓharūna",
+        "english_meaning": "they mount",
+        "arabic_text": "لَجَعَلْنَا لِمَنْ يَكْفُرُ بِالرَّحْمَٰنِ لِبُيُوتِهِمْ سُقُفًا مِنْ فِضَّةٍ وَمَعَارِجَ عَلَيْهَا يَظْهَرُونَ",
+        "highlighted_word": "يَظْهَرُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 4,
+          "word": 11,
+          "reference": "(9:4:11)"
+        },
+        "transliteration": "yuẓāhirū",
+        "english_meaning": "they have supported",
+        "arabic_text": "ثُمَّ لَمْ يَنْقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا",
+        "highlighted_word": "يُظَاهِرُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 4,
+          "word": 13,
+          "reference": "(33:4:13)"
+        },
+        "transliteration": "tuẓāhirūna",
+        "english_meaning": "you declare unlawful",
+        "arabic_text": "وَمَا جَعَلَ أَزْوَاجَكُمُ اللَّائِي تُظَاهِرُونَ مِنْهُنَّ أُمَّهَاتِكُمْ",
+        "highlighted_word": "تُظَاهِرُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 26,
+          "word": 3,
+          "reference": "(33:26:3)"
+        },
+        "transliteration": "ẓāharūhum",
+        "english_meaning": "backed them",
+        "arabic_text": "وَأَنْزَلَ الَّذِينَ ظَاهَرُوهُمْ مِنْ أَهْلِ الْكِتَابِ مِنْ صَيَاصِيهِمْ",
+        "highlighted_word": "ظَاهَرُوهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 58,
+          "verse": 2,
+          "word": 2,
+          "reference": "(58:2:2)"
+        },
+        "transliteration": "yuẓāhirūna",
+        "english_meaning": "pronounce zihar",
+        "arabic_text": "الَّذِينَ يُظَاهِرُونَ مِنْكُمْ مِنْ نِسَائِهِمْ مَا هُنَّ أُمَّهَاتِهِمْ",
+        "highlighted_word": "يُظَاهِرُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 58,
+          "verse": 3,
+          "word": 2,
+          "reference": "(58:3:2)"
+        },
+        "transliteration": "yuẓāhirūna",
+        "english_meaning": "pronounce zihar",
+        "arabic_text": "وَالَّذِينَ يُظَاهِرُونَ مِنْ نِسَائِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا فَتَحْرِيرُ رَقَبَةٍ مِنْ قَبْلِ أَنْ يَتَمَاسَّا",
+        "highlighted_word": "يُظَاهِرُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 60,
+          "verse": 9,
+          "word": 12,
+          "reference": "(60:9:12)"
+        },
+        "transliteration": "waẓāharū",
+        "english_meaning": "and support",
+        "arabic_text": "وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَىٰ إِخْرَاجِكُمْ",
+        "highlighted_word": "وَظَاهَرُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 33,
+          "word": 8,
+          "reference": "(9:33:8)"
+        },
+        "transliteration": "liyuẓ'hirahu",
+        "english_meaning": "to manifest it",
+        "arabic_text": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ",
+        "highlighted_word": "لِيُظْهِرَهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 48,
+          "word": 22,
+          "reference": "(28:48:22)"
+        },
+        "transliteration": "taẓāharā",
+        "english_meaning": "supporting each other",
+        "arabic_text": "قَالُوا سِحْرَانِ تَظَاهَرَا وَقَالُوا إِنَّا بِكُلٍّ كَافِرُونَ",
+        "highlighted_word": "تَظَاهَرَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 18,
+          "word": 8,
+          "reference": "(30:18:8)"
+        },
+        "transliteration": "tuẓ'hirūna",
+        "english_meaning": "you are at noon",
+        "arabic_text": "وَلَهُ الْحَمْدُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ",
+        "highlighted_word": "تُظْهِرُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 26,
+          "word": 15,
+          "reference": "(40:26:15)"
+        },
+        "transliteration": "yuẓ'hira",
+        "english_meaning": "he may cause to appear",
+        "arabic_text": "إِنِّي أَخَافُ أَنْ يُبَدِّلَ دِينَكُمْ أَوْ أَنْ يُظْهِرَ فِي الْأَرْضِ الْفَسَادَ",
+        "highlighted_word": "يُظْهِرَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 28,
+          "word": 8,
+          "reference": "(48:28:8)"
+        },
+        "transliteration": "liyuẓ'hirahu",
+        "english_meaning": "that He (may) make it prevail",
+        "arabic_text": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ",
+        "highlighted_word": "لِيُظْهِرَهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 61,
+          "verse": 9,
+          "word": 8,
+          "reference": "(61:9:8)"
+        },
+        "transliteration": "liyuẓ'hirahu",
+        "english_meaning": "to make it prevail",
+        "arabic_text": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ",
+        "highlighted_word": "لِيُظْهِرَهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 66,
+          "verse": 3,
+          "word": 11,
+          "reference": "(66:3:11)"
+        },
+        "transliteration": "wa-aẓharahu",
+        "english_meaning": "and made it apparent",
+        "arabic_text": "فَلَمَّا نَبَّأَتْ بِهِ وَأَظْهَرَهُ اللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُ",
+        "highlighted_word": "وَأَظْهَرَهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 72,
+          "verse": 26,
+          "word": 4,
+          "reference": "(72:26:4)"
+        },
+        "transliteration": "yuẓ'hiru",
+        "english_meaning": "He reveals",
+        "arabic_text": "عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا",
+        "highlighted_word": "يُظْهِرُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 85,
+          "word": 11,
+          "reference": "(2:85:11)"
+        },
+        "transliteration": "taẓāharūna",
+        "english_meaning": "you support one another",
+        "arabic_text": "تَظَاهَرُونَ عَلَيْهِمْ بِالْإِثْمِ وَالْعُدْوَانِ",
+        "highlighted_word": "تَظَاهَرُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 66,
+          "verse": 4,
+          "word": 9,
+          "reference": "(66:4:9)"
+        },
+        "transliteration": "taẓāharā",
+        "english_meaning": "you backup each other",
+        "arabic_text": "وَإِنْ تَظَاهَرَا عَلَيْهِ فَإِنَّ اللَّهَ هُوَ مَوْلَاهُ وَجِبْرِيلُ",
+        "highlighted_word": "تَظَاهَرَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 101,
+          "word": 19,
+          "reference": "(2:101:19)"
+        },
+        "transliteration": "ẓuhūrihim",
+        "english_meaning": "their backs",
+        "arabic_text": "نَبَذَ فَرِيقٌ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ كِتَابَ اللَّهِ وَرَاءَ ظُهُورِهِمْ",
+        "highlighted_word": "ظُهُورِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 189,
+          "word": 15,
+          "reference": "(2:189:15)"
+        },
+        "transliteration": "ẓuhūrihā",
+        "english_meaning": "their backs",
+        "arabic_text": "وَلَيْسَ الْبِرُّ بِأَنْ تَأْتُوا الْبُيُوتَ مِنْ ظُهُورِهَا",
+        "highlighted_word": "ظُهُورِهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 187,
+          "word": 14,
+          "reference": "(3:187:14)"
+        },
+        "transliteration": "ẓuhūrihim",
+        "english_meaning": "their backs",
+        "arabic_text": "فَنَبَذُوهُ وَرَاءَ ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا",
+        "highlighted_word": "ظُهُورِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 31,
+          "word": 22,
+          "reference": "(6:31:22)"
+        },
+        "transliteration": "ẓuhūrihim",
+        "english_meaning": "their backs",
+        "arabic_text": "وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ أَلَا سَاءَ مَا يَزِرُونَ",
+        "highlighted_word": "ظُهُورِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 94,
+          "word": 12,
+          "reference": "(6:94:12)"
+        },
+        "transliteration": "ẓuhūrikum",
+        "english_meaning": "your backs",
+        "arabic_text": "وَتَرَكْتُمْ مَا خَوَّلْنَاكُمْ وَرَاءَ ظُهُورِكُمْ",
+        "highlighted_word": "ظُهُورِكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 138,
+          "word": 14,
+          "reference": "(6:138:14)"
+        },
+        "transliteration": "ẓuhūruhā",
+        "english_meaning": "(are) their backs",
+        "arabic_text": "وَأَنْعَامٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَامٌ لَا يَذْكُرُونَ اسْمَ اللَّهِ عَلَيْهَا",
+        "highlighted_word": "ظُهُورُهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 146,
+          "word": 17,
+          "reference": "(6:146:17)"
+        },
+        "transliteration": "ẓuhūruhumā",
+        "english_meaning": "their backs",
+        "arabic_text": "حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَا إِلَّا مَا حَمَلَتْ ظُهُورُهُمَا",
+        "highlighted_word": "ظُهُورُهُمَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 172,
+          "word": 8,
+          "reference": "(7:172:8)"
+        },
+        "transliteration": "ẓuhūrihim",
+        "english_meaning": "their loins",
+        "arabic_text": "وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ ذُرِّيَّتَهُمْ",
+        "highlighted_word": "ظُهُورِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 35,
+          "word": 11,
+          "reference": "(9:35:11)"
+        },
+        "transliteration": "waẓuhūruhum",
+        "english_meaning": "and their backs",
+        "arabic_text": "فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ",
+        "highlighted_word": "وَظُهُورُهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 39,
+          "word": 13,
+          "reference": "(21:39:13)"
+        },
+        "transliteration": "ẓuhūrihim",
+        "english_meaning": "their backs",
+        "arabic_text": "حِينَ لَا يَكُفُّونَ عَنْ وُجُوهِهِمُ النَّارَ وَلَا عَنْ ظُهُورِهِمْ",
+        "highlighted_word": "ظُهُورِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 45,
+          "word": 10,
+          "reference": "(35:45:10)"
+        },
+        "transliteration": "ẓahrihā",
+        "english_meaning": "its back",
+        "arabic_text": "وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُوا مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِنْ دَابَّةٍ",
+        "highlighted_word": "ظَهْرِهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 33,
+          "word": 8,
+          "reference": "(42:33:8)"
+        },
+        "transliteration": "ẓahrihi",
+        "english_meaning": "its back",
+        "arabic_text": "إِنْ يَشَأْ يُسْكِنِ الرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِ",
+        "highlighted_word": "ظَهْرِهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 13,
+          "word": 3,
+          "reference": "(43:13:3)"
+        },
+        "transliteration": "ẓuhūrihi",
+        "english_meaning": "their backs",
+        "arabic_text": "لِتَسْتَوُوا عَلَىٰ ظُهُورِهِ ثُمَّ تَذْكُرُوا نِعْمَةَ رَبِّكُمْ إِذَا اسْتَوَيْتُمْ عَلَيْهِ",
+        "highlighted_word": "ظُهُورِهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 84,
+          "verse": 10,
+          "word": 6,
+          "reference": "(84:10:6)"
+        },
+        "transliteration": "ẓahrihi",
+        "english_meaning": "his back",
+        "arabic_text": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ",
+        "highlighted_word": "ظَهْرِهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 94,
+          "verse": 3,
+          "word": 3,
+          "reference": "(94:3:3)"
+        },
+        "transliteration": "ẓahraka",
+        "english_meaning": "your back",
+        "arabic_text": "الَّذِي أَنْقَضَ ظَهْرَكَ",
+        "highlighted_word": "ظَهْرَكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 92,
+          "word": 10,
+          "reference": "(11:92:10)"
+        },
+        "transliteration": "ẓih'riyyan",
+        "english_meaning": "backs",
+        "arabic_text": "أَرَهْطِي أَعَزُّ عَلَيْكُمْ مِنَ اللَّهِ وَاتَّخَذْتُمُوهُ وَرَاءَكُمْ ظِهْرِيًّا",
+        "highlighted_word": "ظِهْرِيًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 17,
+          "word": 8,
+          "reference": "(28:17:8)"
+        },
+        "transliteration": "ẓahīran",
+        "english_meaning": "a supporter",
+        "arabic_text": "قَالَ رَبِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرًا لِلْمُجْرِمِينَ",
+        "highlighted_word": "ظَهِيرًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 86,
+          "word": 14,
+          "reference": "(28:86:14)"
+        },
+        "transliteration": "ẓahīran",
+        "english_meaning": "an assistant",
+        "arabic_text": "فَلَا تَكُونَنَّ ظَهِيرًا لِلْكَافِرِينَ",
+        "highlighted_word": "ظَهِيرًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 22,
+          "word": 26,
+          "reference": "(34:22:26)"
+        },
+        "transliteration": "ẓahīrin",
+        "english_meaning": "supporter",
+        "arabic_text": "وَمَا لَهُمْ فِيهِمَا مِنْ شِرْكٍ وَمَا لَهُ مِنْهُمْ مِنْ ظَهِيرٍ",
+        "highlighted_word": "ظَهِيرٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 66,
+          "verse": 4,
+          "word": 21,
+          "reference": "(66:4:21)"
+        },
+        "transliteration": "ẓahīrun",
+        "english_meaning": "(are his) assistants",
+        "arabic_text": "وَالْمَلَائِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ",
+        "highlighted_word": "ظَهِيرٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 88,
+          "word": 19,
+          "reference": "(17:88:19)"
+        },
+        "transliteration": "ẓahīran",
+        "english_meaning": "assistants",
+        "arabic_text": "لَا يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا",
+        "highlighted_word": "ظَهِيرًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 55,
+          "word": 14,
+          "reference": "(25:55:14)"
+        },
+        "transliteration": "ẓahīran",
+        "english_meaning": "a helper",
+        "arabic_text": "وَكَانَ الْكَافِرُ عَلَىٰ رَبِّهِ ظَهِيرًا",
+        "highlighted_word": "ظَهِيرًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 58,
+          "word": 23,
+          "reference": "(24:58:23)"
+        },
+        "transliteration": "l-ẓahīrati",
+        "english_meaning": "noon",
+        "arabic_text": "وَحِينَ تَضَعُونَ ثِيَابَكُمْ مِنَ الظَّهِيرَةِ وَمِنْ بَعْدِ صَلَاةِ الْعِشَاءِ",
+        "highlighted_word": "الظَّهِيرَةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 120,
+          "word": 2,
+          "reference": "(6:120:2)"
+        },
+        "transliteration": "ẓāhira",
+        "english_meaning": "open",
+        "arabic_text": "وَذَرُوا ظَاهِرَ الْإِثْمِ وَبَاطِنَهُ",
+        "highlighted_word": "ظَاهِرَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 33,
+          "word": 22,
+          "reference": "(13:33:22)"
+        },
+        "transliteration": "biẓāhirin",
+        "english_meaning": "of the apparent",
+        "arabic_text": "أَمْ تُنَبِّئُونَهُ بِمَا لَا يَعْلَمُ فِي الْأَرْضِ أَمْ بِظَاهِرٍ مِنَ الْقَوْلِ",
+        "highlighted_word": "بِظَاهِرٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 22,
+          "word": 28,
+          "reference": "(18:22:28)"
+        },
+        "transliteration": "ẓāhiran",
+        "english_meaning": "obvious",
+        "arabic_text": "فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَاءً ظَاهِرًا",
+        "highlighted_word": "ظَاهِرًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 7,
+          "word": 2,
+          "reference": "(30:7:2)"
+        },
+        "transliteration": "ẓāhiran",
+        "english_meaning": "(the) apparent",
+        "arabic_text": "يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ الْآخِرَةِ هُمْ غَافِلُونَ",
+        "highlighted_word": "ظَاهِرًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 29,
+          "word": 5,
+          "reference": "(40:29:5)"
+        },
+        "transliteration": "ẓāhirīna",
+        "english_meaning": "dominant",
+        "arabic_text": "يَا قَوْمِ لَكُمُ الْمُلْكُ الْيَوْمَ ظَاهِرِينَ فِي الْأَرْضِ",
+        "highlighted_word": "ظَاهِرِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 57,
+          "verse": 3,
+          "word": 4,
+          "reference": "(57:3:4)"
+        },
+        "transliteration": "wal-ẓāhiru",
+        "english_meaning": "and the Apparent",
+        "arabic_text": "هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "highlighted_word": "وَالظَّاهِرُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 57,
+          "verse": 13,
+          "word": 24,
+          "reference": "(57:13:24)"
+        },
+        "transliteration": "waẓāhiruhu",
+        "english_meaning": "but its exterior",
+        "arabic_text": "بَاطِنُهُ فِيهِ الرَّحْمَةُ وَظَاهِرُهُ مِنْ قِبَلِهِ الْعَذَابُ",
+        "highlighted_word": "وَظَاهِرُهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 61,
+          "verse": 14,
+          "word": 35,
+          "reference": "(61:14:35)"
+        },
+        "transliteration": "ẓāhirīna",
+        "english_meaning": "dominant",
+        "arabic_text": "فَأَيَّدْنَا الَّذِينَ آمَنُوا عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا ظَاهِرِينَ",
+        "highlighted_word": "ظَاهِرِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 31,
+          "verse": 20,
+          "word": 16,
+          "reference": "(31:20:16)"
+        },
+        "transliteration": "ẓāhiratan",
+        "english_meaning": "apparent",
+        "arabic_text": "وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً",
+        "highlighted_word": "ظَاهِرَةً"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 18,
+          "word": 9,
+          "reference": "(34:18:9)"
+        },
+        "transliteration": "ẓāhiratan",
+        "english_meaning": "visible",
+        "arabic_text": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ الْقُرَى الَّتِي بَارَكْنَا فِيهَا قُرًى ظَاهِرَةً",
+        "highlighted_word": "ظَاهِرَةً"
+      }
+    ],
+    "total_occurrences": 59,
+    "scraped_at": "2025-08-19 18:45:26"
+  }
+]

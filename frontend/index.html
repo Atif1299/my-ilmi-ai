@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Islamic Knowledge Explorer</title>
+    <link rel="stylesheet" href="/static/common.css?v=1.1">
+    <link rel="stylesheet" href="/static/home.css?v=1.1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="/" class="nav-brand">Islamic Knowledge Explorer ☪</a>
+            <div class="nav-links">
+                <a href="/" class="nav-link">Home</a>
+                <a href="/keywords" class="nav-link">Keywords</a>
+                <!-- <a href="/quran_search" class="nav-link">Quran Search</a> -->
+                <a href="/analysis" class="nav-link">Analysis</a>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <header>
+                <p>Analyze Hadith, Find related Quranic Ayahs<br>Explore textual connections.</p>
+        </header>
+        <main>
+            <div class="input-section">
+                <textarea id="hadith-input" placeholder="For example: 'The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended...'"></textarea>
+            </div>
+            <div class="actions">
+                <h3>Select an Analysis to Perform:</h3>
+                <div class="buttons-container">
+                    <div class="buttons-row">
+                        <button id="complete-analysis"><i class="fas fa-chart-line"></i> Complete Analysis</button>
+                        <button id="find-ayahs"><i class="fas fa-book-open"></i> Find Related Ayahs</button>
+                        <button id="extract-narrators"><i class="fas fa-users"></i> Extract Narrators</button>
+                        <button id="extract-content"><i class="fas fa-file-text"></i> Extract Content</button>
+                    </div>
+                    <div class="buttons-row">
+                        <button id="analyze-keywords"><i class="fas fa-key"></i> Ayahs by Keywords Search</button>
+                        <button id="highlight-keywords"><i class="fas fa-highlighter"></i> Highlight Keywords in Content</button>
+                    </div>
+                </div>
+            </div>
+            <div id="results-section" class="results-section" style="display: none;">
+                <!-- Results will be displayed here -->
+            </div>
+        </main>
+        <footer>
+            <p>Developed with ❤ by NexusBerry Training & Solutions</p>
+        </footer>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>

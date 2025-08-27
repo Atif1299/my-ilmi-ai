@@ -1,0 +1,3153 @@
+[
+  {
+    "letter": "v",
+    "keyword_value": "vbt",
+    "keyword_text": "ث ب ت",
+    "description": "The triliteral root thā bā tā (ث ب ت) occurs 18 times in the Quran, in six derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to be firm",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 45,
+          "word": 7,
+          "reference": "(8:45:7)"
+        },
+        "transliteration": "fa-uth'butū",
+        "english_meaning": "then be firm",
+        "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمْ فِئَةً فَاثْبُتُوا",
+        "highlighted_word": "فَاثْبُتُوا",
+        "english_translation": "O ye who believe! When ye meet a force, be firm, and call Allah in remembrance much (and often); that ye may prosper:"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 250,
+          "word": 10,
+          "reference": "(2:250:10)"
+        },
+        "transliteration": "wathabbit",
+        "english_meaning": "and make firm",
+        "arabic_text": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا",
+        "highlighted_word": "وَثَبِّتْ",
+        "english_translation": "When they advanced to meet Goliath and his forces, they prayed: \"Our Lord! Pour out constancy on us and make our steps firm: Help us against those that reject faith.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 147,
+          "word": 14,
+          "reference": "(3:147:14)"
+        },
+        "transliteration": "wathabbit",
+        "english_meaning": "and make firm",
+        "arabic_text": "رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا",
+        "highlighted_word": "وَثَبِّتْ",
+        "english_translation": "All that they said was: \"Our Lord! Forgive us our sins and anything We may have done that transgressed our duty: Establish our feet firmly, and help us against those that resist Faith.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 11,
+          "word": 20,
+          "reference": "(8:11:20)"
+        },
+        "transliteration": "wayuthabbita",
+        "english_meaning": "and make firm",
+        "arabic_text": "وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ الْأَقْدَامَ",
+        "highlighted_word": "وَيُثَبِّتَ",
+        "english_translation": "Remember He covered you with a sort of drowsiness, to give you calm as from Himself, and he caused rain to descend on you from heaven, to clean you therewith, to remove from you the stain of Satan, to strengthen your hearts, and to plant your feet firmly therewith."
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 12,
+          "word": 8,
+          "reference": "(8:12:8)"
+        },
+        "transliteration": "fathabbitū",
+        "english_meaning": "so strengthen",
+        "arabic_text": "إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا",
+        "highlighted_word": "فَثَبِّتُوا",
+        "english_translation": "Remember thy Lord inspired the angels (with the message): \"I am with you: give firmness to the Believers: I will instil terror into the hearts of the Unbelievers: smite ye above their necks and smite all their finger-tips off them.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 120,
+          "word": 8,
+          "reference": "(11:120:8)"
+        },
+        "transliteration": "nuthabbitu",
+        "english_meaning": "We may make firm",
+        "arabic_text": "وَكُلًّا نَقُصُّ عَلَيْكَ مِنْ أَنْبَاءِ الرُّسُلِ مَا نُثَبِّتُ بِهِ فُؤَادَكَ",
+        "highlighted_word": "نُثَبِّتُ",
+        "english_translation": "All that we relate to thee of the stories of the messengers,- with it We make firm thy heart: in them there cometh to thee the Truth, as well as an exhortation and a message of remembrance to those who believe."
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 27,
+          "word": 1,
+          "reference": "(14:27:1)"
+        },
+        "transliteration": "yuthabbitu",
+        "english_meaning": "Allah keeps firm",
+        "arabic_text": "يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ",
+        "highlighted_word": "يُثَبِّتُ",
+        "english_translation": "Allah will establish in strength those who believe, with the word that stands firm, in this world and in the Hereafter; but Allah will leave, to stray, those who do wrong: Allah doeth what He willeth."
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 102,
+          "word": 8,
+          "reference": "(16:102:8)"
+        },
+        "transliteration": "liyuthabbita",
+        "english_meaning": "to make firm",
+        "arabic_text": "قُلْ نَزَّلَهُ رُوحُ الْقُدُسِ مِنْ رَبِّكَ بِالْحَقِّ لِيُثَبِّتَ الَّذِينَ آمَنُوا",
+        "highlighted_word": "لِيُثَبِّتَ",
+        "english_translation": "Say, the Holy Spirit has brought the revelation from thy Lord in Truth, in order to strengthen those who believe, and as a Guide and Glad Tidings to Muslims."
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 74,
+          "word": 3,
+          "reference": "(17:74:3)"
+        },
+        "transliteration": "thabbatnāka",
+        "english_meaning": "We (had) strengthened you",
+        "arabic_text": "وَلَوْلَا أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا قَلِيلًا",
+        "highlighted_word": "ثَبَّتْنَاكَ",
+        "english_translation": "And had We not given thee strength, thou wouldst nearly have inclined to them a little."
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 32,
+          "word": 11,
+          "reference": "(25:32:11)"
+        },
+        "transliteration": "linuthabbita",
+        "english_meaning": "that We may strengthen",
+        "arabic_text": "كَذَٰلِكَ لِنُثَبِّتَ بِهِ فُؤَادَكَ وَرَتَّلْنَاهُ تَرْتِيلًا",
+        "highlighted_word": "لِنُثَبِّتَ",
+        "english_translation": "Those who reject Faith say: \"Why is not the Qur'an revealed to him all at once? Thus (is it revealed), that We may strengthen thy heart thereby, and We have rehearsed it to thee in slow, well-arranged stages, gradually."
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 7,
+          "word": 8,
+          "reference": "(47:7:8)"
+        },
+        "transliteration": "wayuthabbit",
+        "english_meaning": "and make firm",
+        "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+        "highlighted_word": "وَيُثَبِّتْ",
+        "english_translation": "O ye who believe! If ye will aid (the cause of) Allah, He will aid you, and plant your feet firmly."
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 30,
+          "word": 6,
+          "reference": "(8:30:6)"
+        },
+        "transliteration": "liyuth'bitūka",
+        "english_meaning": "that they restrain you",
+        "arabic_text": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ",
+        "highlighted_word": "لِيُثْبِتُوكَ",
+        "english_translation": "Remember how the Unbelievers plotted against thee, to keep thee in bonds, or slay thee, or get thee out (of thy home). They plot and plan, and Allah too plans; but the best of planners is Allah."
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 39,
+          "word": 5,
+          "reference": "(13:39:5)"
+        },
+        "transliteration": "wayuth'bitu",
+        "english_meaning": "and confirms",
+        "arabic_text": "يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الْكِتَابِ",
+        "highlighted_word": "وَيُثْبِتُ",
+        "english_translation": "Allah doth blot out or confirm what He pleaseth: with Him is the Mother of the Book."
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 94,
+          "word": 9,
+          "reference": "(16:94:9)"
+        },
+        "transliteration": "thubūtihā",
+        "english_meaning": "it is firmly planted",
+        "arabic_text": "وَلَا تَتَّخِذُوا أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ فَتَزِلَّ قَدَمٌ بَعْدَ ثُبُوتِهَا",
+        "highlighted_word": "ثُبُوتِهَا",
+        "english_translation": "And take not your oaths, to practise deception between yourselves, with the result that someone's foot may slip after it was firmly planted, and ye may have to taste the evil (consequences) of having hindered (men) from the Path of Allah, and a Mighty Wrath descend on you."
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 24,
+          "word": 12,
+          "reference": "(14:24:12)"
+        },
+        "transliteration": "thābitun",
+        "english_meaning": "(is) firm",
+        "arabic_text": "كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ",
+        "highlighted_word": "ثَابِتٌ",
+        "english_translation": "Seest thou not how Allah sets forth a parable? - A goodly word like a goodly tree, whose root is firmly fixed, and its branches (reach) to the heavens,- of its Lord. So Allah sets forth parables for men, in order that they may receive admonition."
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 27,
+          "word": 6,
+          "reference": "(14:27:6)"
+        },
+        "transliteration": "l-thābiti",
+        "english_meaning": "with the firm word",
+        "arabic_text": "يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ",
+        "highlighted_word": "الثَّابِتِ",
+        "english_translation": "Allah will establish in strength those who believe, with the word that stands firm, in this world and in the Hereafter; but Allah will leave, to stray, those who do wrong: Allah doeth what He willeth."
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 265,
+          "word": 8,
+          "reference": "(2:265:8)"
+        },
+        "transliteration": "watathbītan",
+        "english_meaning": "and certainty",
+        "arabic_text": "وَمَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَتَثْبِيتًا مِنْ أَنْفُسِهِمْ كَمَثَلِ جَنَّةٍ بِرَبْوَةٍ",
+        "highlighted_word": "وَتَثْبِيتًا",
+        "english_translation": "And the likeness of those who spend their substance, seeking to please Allah and to strengthen their souls, is as a garden, high and fertile: heavy rain falls on it but makes it yield a double increase of harvest, and if it receives not Heavy rain, light moisture sufficeth it. Allah seeth well whatever ye do."
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 66,
+          "word": 27,
+          "reference": "(4:66:27)"
+        },
+        "transliteration": "tathbītan",
+        "english_meaning": "strengthen(ing)",
+        "arabic_text": "وَلَوْ أَنَّهُمْ فَعَلُوا مَا يُوعَظُونَ بِهِ لَكَانَ خَيْرًا لَهُمْ وَأَشَدَّ تَثْبِيتًا",
+        "highlighted_word": "تَثْبِيتًا",
+        "english_translation": "If We had ordered them to sacrifice their lives or to leave their homes, very few of them would have done it: But if they had done what they were (actually) told, it would have been best for them, and would have gone farthest to strengthen their (faith);"
+      }
+    ],
+    "total_occurrences": 18,
+    "scraped_at": "2025-08-19 17:44:23"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vbr",
+    "keyword_text": "ث ب ر",
+    "description": "The triliteral root thā bā rā (ث ب ر) occurs five times in the Quran, in two derived forms:",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 13,
+          "word": 9,
+          "reference": "(25:13:9)"
+        },
+        "transliteration": "thubūran",
+        "english_meaning": "(for) destruction",
+        "arabic_text": "وَإِذَا أُلْقُوا مِنْهَا مَكَانًا ضَيِّقًا مُقَرَّنِينَ دَعَوْا هُنَالِكَ ثُبُورًا",
+        "highlighted_word": "ثُبُورًا",
+        "english_translation": "And when they are cast, bound together into a constricted place therein, they will plead for destruction there and then!"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 14,
+          "word": 4,
+          "reference": "(25:14:4)"
+        },
+        "transliteration": "thubūran",
+        "english_meaning": "(for) destruction",
+        "arabic_text": "لَا تَدْعُوا الْيَوْمَ ثُبُورًا وَاحِدًا",
+        "highlighted_word": "ثُبُورًا",
+        "english_translation": "\"This day plead not for a single destruction: plead for destruction oft-repeated!\""
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 14,
+          "word": 7,
+          "reference": "(25:14:7)"
+        },
+        "transliteration": "thubūran",
+        "english_meaning": "(for) destructions",
+        "arabic_text": "وَادْعُوا ثُبُورًا كَثِيرًا",
+        "highlighted_word": "ثُبُورًا",
+        "english_translation": "\"This day plead not for a single destruction: plead for destruction oft-repeated!\""
+      },
+      {
+        "verse_reference": {
+          "surah": 84,
+          "verse": 11,
+          "word": 3,
+          "reference": "(84:11:3)"
+        },
+        "transliteration": "thubūran",
+        "english_meaning": "(for) destruction",
+        "arabic_text": "فَسَوْفَ يَدْعُو ثُبُورًا",
+        "highlighted_word": "ثُبُورًا",
+        "english_translation": "Soon will he cry for perdition,"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 102,
+          "word": 15,
+          "reference": "(17:102:15)"
+        },
+        "transliteration": "mathbūran",
+        "english_meaning": "(you are) destroyed",
+        "arabic_text": "وَإِنِّي لَأَظُنُّكَ يَا فِرْعَوْنُ مَثْبُورًا",
+        "highlighted_word": "مَثْبُورًا",
+        "english_translation": "Moses said, \"Thou knowest well that these things have been sent down by none but the Lord of the heavens and the earth as eye-opening evidence: and I consider thee indeed, O Pharaoh, to be one doomed to destruction!\""
+      }
+    ],
+    "total_occurrences": 5,
+    "scraped_at": "2025-08-19 17:44:29"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vbT",
+    "keyword_text": "ث ب ط",
+    "description": "The triliteral root thā bā ṭā (ث ب ط) occurs only once in the Quran, as the form II verb thabbaṭa (ثَبَّطَ). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form II)",
+    "meaning": "to make lag behind",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 46,
+          "word": 11,
+          "reference": "(9:46:11)"
+        },
+        "transliteration": "fathabbaṭahum",
+        "english_meaning": "so He made them lag behind",
+        "arabic_text": "وَلَٰكِنْ كَرِهَ اللَّهُ انْبِعَاثَهُمْ فَثَبَّطَهُمْ",
+        "highlighted_word": "فَثَبَّطَهُمْ",
+        "english_translation": "If they had intended to come out, they would certainly have made some preparation therefor; but Allah was averse to their being sent forth; so He made them lag behind, and they were told, \"Sit ye among those who sit (inactive).\""
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 17:44:33"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vby",
+    "keyword_text": "ث ب ي",
+    "description": "The triliteral root thā bā yā (ث ب ي) occurs only once in the Quran, as the noun thubāt (ثُبَات). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 71,
+          "word": 7,
+          "reference": "(4:71:7)"
+        },
+        "transliteration": "thubātin",
+        "english_meaning": "(in) groups",
+        "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ فَانْفِرُوا ثُبَاتٍ",
+        "highlighted_word": "ثُبَاتٍ",
+        "english_translation": "O ye who believe! Take your precautions, and either go forth in parties or go forth all together."
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 17:44:37"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vjj",
+    "keyword_text": "ث ج ج",
+    "description": "The triliteral root thā jīm jīm (ث ج ج) occurs only once in the Quran, as the adjective thajjāj (ثَجَّاج). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Adjective",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 78,
+          "verse": 14,
+          "word": 5,
+          "reference": "(78:14:5)"
+        },
+        "transliteration": "thajjājan",
+        "english_meaning": "pouring abundantly",
+        "arabic_text": "وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا",
+        "highlighted_word": "ثَجَّاجًا",
+        "english_translation": "And do We not send down from the clouds water in abundance,"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 17:44:40"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vxn",
+    "keyword_text": "ث خ ن",
+    "description": "The triliteral root thā khā nūn (ث خ ن) occurs twice in the Quran as the form IV verb athkhan (أَثْخَن). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form IV)",
+    "meaning": "to battle, to subdue",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 67,
+          "word": 9,
+          "reference": "(8:67:9)"
+        },
+        "transliteration": "yuth'khina",
+        "english_meaning": "he has battled strenuously",
+        "arabic_text": "مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي الْأَرْضِ",
+        "highlighted_word": "يُثْخِنَ",
+        "english_translation": "It is not fitting for a prophet that he should have prisoners of war until he hath thoroughly subdued the land. Ye look for the temporal goods of this world; but Allah looketh to the Hereafter: And Allah is Exalted in might, Wise."
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 4,
+          "word": 9,
+          "reference": "(47:4:9)"
+        },
+        "transliteration": "athkhantumūhum",
+        "english_meaning": "you have subdued them",
+        "arabic_text": "حَتَّىٰ إِذَا أَثْخَنْتُمُوهُمْ فَشُدُّوا الْوَثَاقَ",
+        "highlighted_word": "أَثْخَنْتُمُوهُمْ",
+        "english_translation": "Therefore, when ye meet the Unbelievers (in fight), smite at their necks; At length, when ye have thoroughly subdued them, bind a bond firmly (on them): thereafter (is the time for) either generosity or ransom: Until the war lays down its burdens. Thus (are ye commanded): but if it had been Allah's Will, He could certainly have exacted retribution from them (Himself); but (He lets you fight) in order to test you, some with others. But those who are slain in the Way of Allah,- He will never let their deeds be lost."
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 17:44:44"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vrb",
+    "keyword_text": "ث ر ب",
+    "description": "The triliteral root thā rā bā (ث ر ب) occurs only once in the Quran, as the form II verbal noun tathrīb (تَثْرِيب). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verbal noun (form II)",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 92,
+          "word": 3,
+          "reference": "(12:92:3)"
+        },
+        "transliteration": "tathrība",
+        "english_meaning": "blame",
+        "arabic_text": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللَّهُ لَكُمْ",
+        "highlighted_word": "تَثْرِيبَ",
+        "english_translation": "He said: \"This day let no reproach be (cast) on you: Allah will forgive you, and He is the Most Merciful of those who show mercy!"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 17:44:48"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vry",
+    "keyword_text": "ث ر ي",
+    "description": "The triliteral root thā rā yā (ث ر ي) occurs only once in the Quran, as the noun tharā (ثَّرَىٰ). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 6,
+          "word": 12,
+          "reference": "(20:6:12)"
+        },
+        "transliteration": "l-tharā",
+        "english_meaning": "the soil",
+        "arabic_text": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرَىٰ",
+        "highlighted_word": "الثَّرَىٰ",
+        "english_translation": "To Him belongs what is in the heavens and on earth, and all between them, and all beneath the soil."
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 17:44:52"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vEb",
+    "keyword_text": "ث ع ب",
+    "description": "The triliteral root thā ʿayn bā (ث ع ب) occurs twice in the Quran as the noun thuʿ'bān (ثُعْبَان). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 107,
+          "word": 5,
+          "reference": "(7:107:5)"
+        },
+        "transliteration": "thuʿ'bānun",
+        "english_meaning": "(was) a serpent",
+        "arabic_text": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ",
+        "highlighted_word": "ثُعْبَانٌ",
+        "english_translation": "Then (Moses) threw his rod, and behold! it was a serpent, plain (for all to see)!"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 32,
+          "word": 5,
+          "reference": "(26:32:5)"
+        },
+        "transliteration": "thuʿ'bānun",
+        "english_meaning": "(was) a serpent",
+        "arabic_text": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ",
+        "highlighted_word": "ثُعْبَانٌ",
+        "english_translation": "So (Moses) threw his rod, and behold, it was a serpent, plain (for all to see)!"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 17:44:56"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vqb",
+    "keyword_text": "ث ق ب",
+    "description": "The triliteral root thā qāf bā (ث ق ب) occurs twice in the Quran as the active participle thāqib (ثَاقِب). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Active participle",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 86,
+          "verse": 3,
+          "word": 2,
+          "reference": "(86:3:2)"
+        },
+        "transliteration": "l-thāqibu",
+        "english_meaning": "the piercing",
+        "arabic_text": "النَّجْمُ الثَّاقِبُ",
+        "highlighted_word": "الثَّاقِبُ",
+        "english_translation": "(It is) the Star of piercing brightness;-"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 10,
+          "word": 7,
+          "reference": "(37:10:7)"
+        },
+        "transliteration": "thāqibun",
+        "english_meaning": "piercing",
+        "arabic_text": "إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ",
+        "highlighted_word": "ثَاقِبٌ",
+        "english_translation": "Except such as snatch away something by stealth, and they are pursued by a flaming fire, of piercing brightness."
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 17:45:00"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vqf",
+    "keyword_text": "ث ق ف",
+    "description": "The triliteral root thā qāf fā (ث ق ف) occurs six times in the Quran as the form I verb thuqifu (ثُقِفُ). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form I)",
+    "meaning": "to find, to gain dominance",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 191,
+          "word": 3,
+          "reference": "(2:191:3)"
+        },
+        "transliteration": "thaqif'tumūhum",
+        "english_meaning": "you find them",
+        "arabic_text": "وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ",
+        "highlighted_word": "ثَقِفْتُمُوهُمْ",
+        "english_translation": "And slay them wherever ye catch them, and turn them out from where they have Turned you out; for tumult and oppression are worse than slaughter; but fight them not at the Sacred Mosque, unless they (first) fight you there; but if they fight you, slay them. Such is the reward of those who suppress faith."
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 112,
+          "word": 6,
+          "reference": "(3:112:6)"
+        },
+        "transliteration": "thuqifū",
+        "english_meaning": "they are found",
+        "arabic_text": "ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا إِلَّا بِحَبْلٍ مِنَ اللَّهِ وَحَبْلٍ مِنَ النَّاسِ",
+        "highlighted_word": "ثُقِفُوا",
+        "english_translation": "Shame is pitched over them (Like a tent) wherever they are found, except when under a covenant (of protection) from Allah and from men; they draw on themselves wrath from Allah, and pitched over them is (the tent of) destitution. This because they rejected the Signs of Allah, and slew the prophets in defiance of right; this because they rebelled and transgressed beyond bounds."
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 91,
+          "word": 26,
+          "reference": "(4:91:26)"
+        },
+        "transliteration": "thaqif'tumūhum",
+        "english_meaning": "you find them",
+        "arabic_text": "فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ",
+        "highlighted_word": "ثَقِفْتُمُوهُمْ",
+        "english_translation": "Others you will find that wish to gain your confidence as well as that of their people: Every time they are sent back to temptation, they succumb thereto: if they withdraw not from you nor give you (guarantees) of peace besides restraining their hands, seize them and slay them wherever ye get them: In their case We have provided you with a clear argument against them."
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 57,
+          "word": 2,
+          "reference": "(8:57:2)"
+        },
+        "transliteration": "tathqafannahum",
+        "english_meaning": "you gain dominance over them",
+        "arabic_text": "فَإِمَّا تَثْقَفَنَّهُمْ فِي الْحَرْبِ فَشَرِّدْ بِهِمْ مَنْ خَلْفَهُمْ",
+        "highlighted_word": "تَثْقَفَنَّهُمْ",
+        "english_translation": "If ye gain the mastery over them in war, disperse, with them, those who follow them, that they may remember."
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 61,
+          "word": 3,
+          "reference": "(33:61:3)"
+        },
+        "transliteration": "thuqifū",
+        "english_meaning": "they are found",
+        "arabic_text": "مَلْعُونِينَ أَيْنَمَا ثُقِفُوا أُخِذُوا وَقُتِّلُوا تَقْتِيلًا",
+        "highlighted_word": "ثُقِفُوا",
+        "english_translation": "They shall have a curse on them: whenever they are found, they shall be seized and slain (without mercy)."
+      },
+      {
+        "verse_reference": {
+          "surah": 60,
+          "verse": 2,
+          "word": 2,
+          "reference": "(60:2:2)"
+        },
+        "transliteration": "yathqafūkum",
+        "english_meaning": "they gain dominance over you",
+        "arabic_text": "إِنْ يَثْقَفُوكُمْ يَكُونُوا لَكُمْ أَعْدَاءً",
+        "highlighted_word": "يَثْقَفُوكُمْ",
+        "english_translation": "If they were to get the better of you, they would behave to you as enemies, and stretch forth their hands and their tongues against you for evil: and they desire that ye should reject the Truth."
+      }
+    ],
+    "total_occurrences": 6,
+    "scraped_at": "2025-08-19 17:45:04"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vql",
+    "keyword_text": "ث ق ل",
+    "description": "The triliteral root thā qāf lām (ث ق ل) occurs 28 times in the Quran, in eight derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to be heavy",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 8,
+          "word": 5,
+          "reference": "(7:8:5)"
+        },
+        "transliteration": "thaqulat",
+        "english_meaning": "(will be) heavy",
+        "arabic_text": "وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+        "highlighted_word": "ثَقُلَتْ",
+        "english_translation": "The balance that day will be true (to nicety): those whose scale (of good) will be heavy, will prosper:"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 187,
+          "word": 16,
+          "reference": "(7:187:16)"
+        },
+        "transliteration": "thaqulat",
+        "english_meaning": "It lays heavily",
+        "arabic_text": "ثَقُلَتْ فِي السَّمَاوَاتِ وَالْأَرْضِ لَا تَأْتِيكُمْ إِلَّا بَغْتَةً",
+        "highlighted_word": "ثَقُلَتْ",
+        "english_translation": "They ask thee about the (final) Hour - when will be its appointed time? Say: \"The knowledge thereof is with my Lord (alone): None but He can reveal as to when it will occur. Heavy were its burden through the heavens and the earth. Only, all of a sudden will it come to you.\" They ask thee as if thou Wert eager in search thereof: Say: \"The knowledge thereof is with Allah (alone), but most men know not.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 102,
+          "word": 2,
+          "reference": "(23:102:2)"
+        },
+        "transliteration": "thaqulat",
+        "english_meaning": "(are) heavy",
+        "arabic_text": "فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+        "highlighted_word": "ثَقُلَتْ",
+        "english_translation": "Then those whose balance (of good deeds) is heavy,- they will attain salvation:"
+      },
+      {
+        "verse_reference": {
+          "surah": 101,
+          "verse": 6,
+          "word": 3,
+          "reference": "(101:6:3)"
+        },
+        "transliteration": "thaqulat",
+        "english_meaning": "(are) heavy",
+        "arabic_text": "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ",
+        "highlighted_word": "ثَقُلَتْ",
+        "english_translation": "Then, he whose balance (of good deeds) will be (found) heavy,"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 189,
+          "word": 20,
+          "reference": "(7:189:20)"
+        },
+        "transliteration": "athqalat",
+        "english_meaning": "she grows heavy",
+        "arabic_text": "فَلَمَّا أَثْقَلَتْ دَعَوَا اللَّهَ رَبَّهُمَا لَئِنْ آتَيْتَنَا صَالِحًا لَنَكُونَنَّ مِنَ الشَّاكِرِينَ",
+        "highlighted_word": "أَثْقَلَتْ",
+        "english_translation": "It is He Who created you from a single person, and made his mate of like nature, in order that he might dwell with her (in love). When they are united, she bears a light burden and carries it about (unnoticed). When she grows heavy, they both pray to Allah their Lord, (saying): \"If Thou givest us a goodly child, we vow we shall (ever) be grateful.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 38,
+          "word": 13,
+          "reference": "(9:38:13)"
+        },
+        "transliteration": "ithāqaltum",
+        "english_meaning": "you cling heavily",
+        "arabic_text": "مَا لَكُمْ إِذَا قِيلَ لَكُمُ انْفِرُوا فِي سَبِيلِ اللَّهِ اثَّاقَلْتُمْ إِلَى الْأَرْضِ",
+        "highlighted_word": "اثَّاقَلْتُمْ",
+        "english_translation": "O ye who believe! what is the matter with you, that, when ye are asked to go forth in the cause of Allah, ye cling heavily to the earth? Do ye prefer the life of this world to the Hereafter? But little is the comfort of this life, as compared with the Hereafter."
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 7,
+          "word": 2,
+          "reference": "(16:7:2)"
+        },
+        "transliteration": "athqālakum",
+        "english_meaning": "your loads",
+        "arabic_text": "وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍ لَمْ تَكُونُوا بَالِغِيهِ إِلَّا بِشِقِّ الْأَنْفُسِ",
+        "highlighted_word": "أَثْقَالَكُمْ",
+        "english_translation": "And they carry your heavy loads to lands that ye could not (otherwise) reach except with souls distressed: for your Lord is indeed Most Kind, Most Merciful,"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 13,
+          "word": 2,
+          "reference": "(29:13:2)"
+        },
+        "transliteration": "athqālahum",
+        "english_meaning": "their burdens",
+        "arabic_text": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ",
+        "highlighted_word": "أَثْقَالَهُمْ",
+        "english_translation": "They will bear their own burdens, and (other) burdens along with their own, and on the Day of Judgments they will be called to account for their falsehoods."
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 13,
+          "word": 3,
+          "reference": "(29:13:3)"
+        },
+        "transliteration": "wa-athqālan",
+        "english_meaning": "and burdens",
+        "arabic_text": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَعَ أَثْقَالِهِمْ",
+        "highlighted_word": "وَأَثْقَالًا",
+        "english_translation": "They will bear their own burdens, and (other) burdens along with their own, and on the Day of Judgments they will be called to account for their falsehoods."
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 13,
+          "word": 5,
+          "reference": "(29:13:5)"
+        },
+        "transliteration": "athqālihim",
+        "english_meaning": "their burdens",
+        "arabic_text": "وَأَثْقَالًا مَعَ أَثْقَالِهِمْ",
+        "highlighted_word": "أَثْقَالِهِمْ",
+        "english_translation": "They will bear their own burdens, and (other) burdens along with their own, and on the Day of Judgments they will be called to account for their falsehoods."
+      },
+      {
+        "verse_reference": {
+          "surah": 55,
+          "verse": 31,
+          "word": 4,
+          "reference": "(55:31:4)"
+        },
+        "transliteration": "l-thaqalāni",
+        "english_meaning": "two classes",
+        "arabic_text": "سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ",
+        "highlighted_word": "الثَّقَلَانِ",
+        "english_translation": "Soon shall We settle your affairs, O both ye worlds!"
+      },
+      {
+        "verse_reference": {
+          "surah": 99,
+          "verse": 2,
+          "word": 3,
+          "reference": "(99:2:3)"
+        },
+        "transliteration": "athqālahā",
+        "english_meaning": "its burdens",
+        "arabic_text": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+        "highlighted_word": "أَثْقَالَهَا",
+        "english_translation": "And the earth throws up her burdens (from within),"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 57,
+          "word": 13,
+          "reference": "(7:57:13)"
+        },
+        "transliteration": "thiqālan",
+        "english_meaning": "heavy",
+        "arabic_text": "حَتَّىٰ إِذَا أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَاهُ لِبَلَدٍ مَيِّتٍ",
+        "highlighted_word": "ثِقَالًا",
+        "english_translation": "It is He Who sendeth the winds like heralds of glad tidings, going before His mercy: when they have carried the heavy-laden clouds, We drive them to a land that is dead, make rain to descend thereon, and produce every kind of harvest therewith: thus shall We raise up the dead: perchance ye may remember."
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 12,
+          "word": 9,
+          "reference": "(13:12:9)"
+        },
+        "transliteration": "l-thiqāla",
+        "english_meaning": "the heavy",
+        "arabic_text": "هُوَ الَّذِي يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنْشِئُ السَّحَابَ الثِّقَالَ",
+        "highlighted_word": "الثِّقَالَ",
+        "english_translation": "It is He Who doth show you the lightning, by way both of fear and of hope: It is He Who doth raise up the clouds, heavy with (fertilising) rain!"
+      },
+      {
+        "verse_reference": {
+          "surah": 73,
+          "verse": 5,
+          "word": 5,
+          "reference": "(73:5:5)"
+        },
+        "transliteration": "thaqīlan",
+        "english_meaning": "heavy",
+        "arabic_text": "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا",
+        "highlighted_word": "ثَقِيلًا",
+        "english_translation": "Soon shall We send down to thee a weighty Message."
+      },
+      {
+        "verse_reference": {
+          "surah": 76,
+          "verse": 27,
+          "word": 8,
+          "reference": "(76:27:8)"
+        },
+        "transliteration": "thaqīlan",
+        "english_meaning": "grave",
+        "arabic_text": "إِنَّ هَٰؤُلَاءِ يُحِبُّونَ الْعَاجِلَةَ وَيَذَرُونَ وَرَاءَهُمْ يَوْمًا ثَقِيلًا",
+        "highlighted_word": "ثَقِيلًا",
+        "english_translation": "As to these, they love the fleeting life, and put away behind them a Day (that will be) hard."
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 41,
+          "word": 3,
+          "reference": "(9:41:3)"
+        },
+        "transliteration": "wathiqālan",
+        "english_meaning": "or heavy",
+        "arabic_text": "انْفِرُوا خِفَافًا وَثِقَالًا وَجَاهِدُوا بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ فِي سَبِيلِ اللَّهِ",
+        "highlighted_word": "وَثِقَالًا",
+        "english_translation": "Go ye forth, (whether equipped) lightly or heavily, and strive and struggle, with your goods and your persons, in the cause of Allah. That is best for you, if ye (but) knew."
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 40,
+          "word": 5,
+          "reference": "(4:40:5)"
+        },
+        "transliteration": "mith'qāla",
+        "english_meaning": "(as much as) weight",
+        "arabic_text": "إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ",
+        "highlighted_word": "مِثْقَالَ",
+        "english_translation": "Allah is never unjust in the least degree: If there is any good (done), He doubleth it, and giveth from His own presence a great reward."
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 61,
+          "word": 26,
+          "reference": "(10:61:26)"
+        },
+        "transliteration": "mith'qāli",
+        "english_meaning": "(the) weight",
+        "arabic_text": "وَمَا يَعْزُبُ عَنْ رَبِّكَ مِنْ مِثْقَالِ ذَرَّةٍ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ",
+        "highlighted_word": "مِثْقَالِ",
+        "english_translation": "In whatever business thou mayest be, and whatever portion thou mayest be reciting from the Qur'an,- and whatever deed ye (mankind) may be doing,- We are witnesses thereof when ye are deeply engrossed therein. Nor is hidden from thy Lord (so much as) the weight of an atom on the earth or in heaven. And not the least and not the greatest of these things but are recorded in a clear record."
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 47,
+          "word": 12,
+          "reference": "(21:47:12)"
+        },
+        "transliteration": "mith'qāla",
+        "english_meaning": "weight",
+        "arabic_text": "وَإِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَىٰ بِنَا حَاسِبِينَ",
+        "highlighted_word": "مِثْقَالَ",
+        "english_translation": "We shall set up scales of justice for the Day of Judgment, so that not a soul will be dealt with unjustly in the least, and if there be (no more than) the weight of a mustard seed, We will bring it (to account): and enough are We to take account."
+      },
+      {
+        "verse_reference": {
+          "surah": 31,
+          "verse": 16,
+          "word": 5,
+          "reference": "(31:16:5)"
+        },
+        "transliteration": "mith'qāla",
+        "english_meaning": "(the) weight",
+        "arabic_text": "يَا بُنَيَّ إِنَّهَا إِنْ تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ فَتَكُنْ فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ بِهَا اللَّهُ",
+        "highlighted_word": "مِثْقَالَ",
+        "english_translation": "\"O my son!\" (said Luqman), \"If there be (but) the weight of a mustard-seed and it were (hidden) in a rock, or (anywhere) in the heavens or on earth, Allah will bring it forth: for Allah understands the finest mysteries, (and) is well-acquainted (with them)."
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 3,
+          "word": 16,
+          "reference": "(34:3:16)"
+        },
+        "transliteration": "mith'qālu",
+        "english_meaning": "(the) weight",
+        "arabic_text": "لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ",
+        "highlighted_word": "مِثْقَالُ",
+        "english_translation": "The Unbelievers say, \"Never to us will come the Hour\": Say, \"Nay! but most surely, by my Lord, it will come upon you;- by Him Who knows the unseen,- from Whom is not hidden the least little atom in the heavens or on earth: Nor is there anything less than that, or greater, but is in the Record Perspicuous:"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 22,
+          "word": 10,
+          "reference": "(34:22:10)"
+        },
+        "transliteration": "mith'qāla",
+        "english_meaning": "(the) weight",
+        "arabic_text": "لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ",
+        "highlighted_word": "مِثْقَالَ",
+        "english_translation": "Say: \"Call upon other (gods) whom ye fancy, besides Allah: They have no power,- not the weight of an atom,- in the heavens or on earth: No (sort of) share have they therein, nor is any of them a helper to Allah."
+      },
+      {
+        "verse_reference": {
+          "surah": 99,
+          "verse": 7,
+          "word": 3,
+          "reference": "(99:7:3)"
+        },
+        "transliteration": "mith'qāla",
+        "english_meaning": "(equal to the) weight",
+        "arabic_text": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "highlighted_word": "مِثْقَالَ",
+        "english_translation": "Then shall anyone who has done an atom's weight of good, see it!"
+      },
+      {
+        "verse_reference": {
+          "surah": 99,
+          "verse": 8,
+          "word": 3,
+          "reference": "(99:8:3)"
+        },
+        "transliteration": "mith'qāla",
+        "english_meaning": "(equal to the) weight",
+        "arabic_text": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+        "highlighted_word": "مِثْقَالَ",
+        "english_translation": "And anyone who has done an atom's weight of evil, shall see it."
+      },
+      {
+        "verse_reference": {
+          "surah": 52,
+          "verse": 40,
+          "word": 7,
+          "reference": "(52:40:7)"
+        },
+        "transliteration": "muth'qalūna",
+        "english_meaning": "(are) overburdened",
+        "arabic_text": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ",
+        "highlighted_word": "مُثْقَلُونَ",
+        "english_translation": "Or is it that thou dost ask for a reward, so that they are burdened with a load of debt?-"
+      },
+      {
+        "verse_reference": {
+          "surah": 68,
+          "verse": 46,
+          "word": 7,
+          "reference": "(68:46:7)"
+        },
+        "transliteration": "muth'qalūna",
+        "english_meaning": "(are) burdened",
+        "arabic_text": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ",
+        "highlighted_word": "مُثْقَلُونَ",
+        "english_translation": "Or is it that thou dost ask them for a reward, so that they are burdened with a load of debt?-"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 18,
+          "word": 8,
+          "reference": "(35:18:8)"
+        },
+        "transliteration": "muth'qalatun",
+        "english_meaning": "a heavily laden",
+        "arabic_text": "وَإِنْ تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَيْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰ",
+        "highlighted_word": "مُثْقَلَةٌ",
+        "english_translation": "Nor can a bearer of burdens bear another's burdens if one heavily laden should call another to (bear) his load. Not the least portion of it can be carried (by the other). Even though he be nearly related. Thou canst but admonish such as fear their Lord unseen and establish regular Prayer. And whoever purifies himself does so for the benefit of his own soul; and the destination (of all) is to Allah."
+      }
+    ],
+    "total_occurrences": 28,
+    "scraped_at": "2025-08-19 17:45:08"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vlv",
+    "keyword_text": "ث ل ث",
+    "description": "The triliteral root thā lām thā (ث ل ث) occurs 32 times in the Quran, in six derived forms:",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 73,
+          "word": 7,
+          "reference": "(5:73:7)"
+        },
+        "transliteration": "thālithu",
+        "english_meaning": "(is the) third",
+        "arabic_text": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ",
+        "highlighted_word": "ثَالِثُ",
+        "english_translation": "They do blaspheme who say: Allah is one of three in a Trinity: for there is no god except One Allah. If they desist not from their word (of blasphemy), verily a grievous penalty will befall the blasphemers among them."
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 14,
+          "word": 7,
+          "reference": "(36:14:7)"
+        },
+        "transliteration": "bithālithin",
+        "english_meaning": "with a third",
+        "arabic_text": "إِذْ أَرْسَلْنَا إِلَيْهِمُ اثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ",
+        "highlighted_word": "بِثَالِثٍ",
+        "english_translation": "When We (first) sent to them two messengers, they rejected them: But We strengthened them with a third: they said, \"Truly, we have been sent on a mission to you.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 20,
+          "word": 2,
+          "reference": "(53:20:2)"
+        },
+        "transliteration": "l-thālithata",
+        "english_meaning": "the third",
+        "arabic_text": "وَمَنَاةَ الثَّالِثَةَ الْأُخْرَىٰ",
+        "highlighted_word": "الثَّالِثَةَ",
+        "english_translation": "And another, the third (goddess), Manat?"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 3,
+          "word": 14,
+          "reference": "(4:3:14)"
+        },
+        "transliteration": "wathulātha",
+        "english_meaning": "or three",
+        "arabic_text": "فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ",
+        "highlighted_word": "وَثُلَاثَ",
+        "english_translation": "If ye fear that ye shall not be able to deal justly with the orphans, Marry women of your choice, Two or three or four; but if ye fear that ye shall not be able to deal justly (with them), then only one, or (a captive) that your right hands possess, that will be more suitable, to prevent you from doing injustice."
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 1,
+          "word": 12,
+          "reference": "(35:1:12)"
+        },
+        "transliteration": "wathulātha",
+        "english_meaning": "or three",
+        "arabic_text": "جَاعِلِ الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ",
+        "highlighted_word": "وَثُلَاثَ",
+        "english_translation": "Praise be to Allah, Who created (out of nothing) the heavens and the earth, Who made the angels, messengers with wings,- two, or three, or four (pairs): He adds to Creation as He pleases: for Allah has power over all things."
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 142,
+          "word": 3,
+          "reference": "(7:142:3)"
+        },
+        "transliteration": "thalāthīna",
+        "english_meaning": "thirty",
+        "arabic_text": "وَوَاعَدْنَا مُوسَىٰ ثَلَاثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ",
+        "highlighted_word": "ثَلَاثِينَ",
+        "english_translation": "We appointed for Moses thirty nights, and completed (the period) with ten (more): thus was completed the term (of communion) with his Lord, forty nights. And Moses had charged his brother Aaron (before he went up): \"Act for me amongst my people: Do right, and follow not the way of those who do mischief.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 25,
+          "word": 4,
+          "reference": "(18:25:4)"
+        },
+        "transliteration": "thalātha",
+        "english_meaning": "(for) three",
+        "arabic_text": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
+        "highlighted_word": "ثَلَاثَ",
+        "english_translation": "So they stayed in their Cave three hundred years, and (some) add nine (more)"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 58,
+          "word": 13,
+          "reference": "(24:58:13)"
+        },
+        "transliteration": "thalātha",
+        "english_meaning": "(at) three",
+        "arabic_text": "لِيَسْتَأْذِنْكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنْكُمْ ثَلَاثَ مَرَّاتٍ",
+        "highlighted_word": "ثَلَاثَ",
+        "english_translation": "O ye who believe! let those whom your right hands possess, and the (children) among you who have not come of age ask your permission (before they come to your presence), on three occasions: before morning prayer; the while ye doff your clothes for the noonday heat; and after the late-night prayer: these are your three times of undress: outside those times it is not wrong for you or for them to move about attending to each other: Thus does Allah make clear the Signs to you: for Allah is full of knowledge and wisdom."
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 58,
+          "word": 28,
+          "reference": "(24:58:28)"
+        },
+        "transliteration": "thalāthu",
+        "english_meaning": "(These) three",
+        "arabic_text": "ثَلَاثُ عَوْرَاتٍ لَكُمْ لَيْسَ عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌ بَعْدَهُنَّ",
+        "highlighted_word": "ثَلَاثُ",
+        "english_translation": "O ye who believe! let those whom your right hands possess, and the (children) among you who have not come of age ask your permission (before they come to your presence), on three occasions: before morning prayer; the while ye doff your clothes for the noonday heat; and after the late-night prayer: these are your three times of undress: outside those times it is not wrong for you or for them to move about attending to each other: Thus does Allah make clear the Signs to you: for Allah is full of knowledge and wisdom."
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 6,
+          "word": 25,
+          "reference": "(39:6:25)"
+        },
+        "transliteration": "thalāthin",
+        "english_meaning": "three",
+        "arabic_text": "يَخْلُقُكُمْ فِي بُطُونِ أُمَّهَاتِكُمْ خَلْقًا مِنْ بَعْدِ خَلْقٍ فِي ظُلُمَاتٍ ثَلَاثٍ",
+        "highlighted_word": "ثَلَاثٍ",
+        "english_translation": "He created you (all) from a single person: then created, of like nature, his mate; and he sent down for you eight head of cattle in pairs: He makes you, in the wombs of your mothers, in stages, one after another, in three veils of darkness. such is Allah, your Lord and Cherisher: to Him belongs (all) dominion. There is no god but He: then how are ye turned away (from your true Centre)?"
+      },
+      {
+        "verse_reference": {
+          "surah": 46,
+          "verse": 15,
+          "word": 12,
+          "reference": "(46:15:12)"
+        },
+        "transliteration": "thalāthūna",
+        "english_meaning": "(is) thirty",
+        "arabic_text": "وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا",
+        "highlighted_word": "ثَلَاثُونَ",
+        "english_translation": "We have enjoined on man kindness to his parents: In pain did his mother bear him, and in pain did she give him birth. The carrying of the (child) to his weaning is (a period of) thirty months. At length, when he reaches the age of full strength and attains forty years, he says, \"O my Lord! Grant me that I may be grateful for Thy favour which Thou has bestowed upon me, and upon both my parents, and that I may work righteousness such as Thou mayest approve; and be gracious to me in my issue. Truly have I turned to Thee and truly do I bow (to Thee) in Islam.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 77,
+          "verse": 30,
+          "word": 5,
+          "reference": "(77:30:5)"
+        },
+        "transliteration": "thalāthi",
+        "english_meaning": "three",
+        "arabic_text": "انْطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ",
+        "highlighted_word": "ثَلَاثِ",
+        "english_translation": "\"Depart ye to a Shadow (of smoke ascending) in three columns,"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 10,
+          "word": 11,
+          "reference": "(19:10:11)"
+        },
+        "transliteration": "thalātha",
+        "english_meaning": "(for) three",
+        "arabic_text": "قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ سَوِيًّا",
+        "highlighted_word": "ثَلَاثَ",
+        "english_translation": "(Zakariya) said: \"O my Lord! give me a Sign.\" \"Thy Sign,\" was the answer, \"Shall be that thou shalt speak to no man for three nights, although thou art not dumb.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 196,
+          "word": 49,
+          "reference": "(2:196:49)"
+        },
+        "transliteration": "thalāthati",
+        "english_meaning": "(of) three",
+        "arabic_text": "فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ",
+        "highlighted_word": "ثَلَاثَةِ",
+        "english_translation": "And complete the Hajj or 'umra in the service of Allah. But if ye are prevented (From completing it), send an offering for sacrifice, such as ye may find, and do not shave your heads until the offering reaches the place of sacrifice. And if any of you is ill, or has an ailment in his scalp, (Necessitating shaving), (He should) in compensation either fast, or feed the poor, or offer sacrifice; and when ye are in peaceful conditions (again), if any one wishes to continue the 'umra on to the hajj, He must make an offering, such as he can afford, but if he cannot afford it, He should fast three days during the hajj and seven days on his return, Making ten days in all. This is for those whose household is not in (the precincts of) the Sacred Mosque. And fear Allah, and know that Allah Is strict in punishment."
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 228,
+          "word": 4,
+          "reference": "(2:228:4)"
+        },
+        "transliteration": "thalāthata",
+        "english_meaning": "(for) three",
+        "arabic_text": "وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ",
+        "highlighted_word": "ثَلَاثَةَ",
+        "english_translation": "Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise."
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 124,
+          "word": 9,
+          "reference": "(3:124:9)"
+        },
+        "transliteration": "bithalāthati",
+        "english_meaning": "with three",
+        "arabic_text": "أَلَنْ يَكْفِيَكُمْ أَنْ يُمِدَّكُمْ رَبُّكُمْ بِثَلَاثَةِ آلَافٍ مِنَ الْمَلَائِكَةِ مُنْزَلِينَ",
+        "highlighted_word": "بِثَلَاثَةِ",
+        "english_translation": "Remember thou saidst to the Faithful: \"Is it not enough for you that Allah should help you with three thousand angels (Specially) sent down?"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 171,
+          "word": 31,
+          "reference": "(4:171:31)"
+        },
+        "transliteration": "thalāthatun",
+        "english_meaning": "Three",
+        "arabic_text": "فَآمِنُوا بِاللَّهِ وَرُسُلِهِ وَلَا تَقُولُوا ثَلَاثَةٌ انْتَهُوا خَيْرًا لَكُمْ",
+        "highlighted_word": "ثَلَاثَةٌ",
+        "english_translation": "O People of the Book! Commit no excesses in your religion: Nor say of Allah aught but the truth. Christ Jesus the son of Mary was (no more than) a messenger of Allah, and His Word, which He bestowed on Mary, and a spirit proceeding from Him: so believe in Allah and His messengers. Say not \"Trinity\": desist: it will be better for you: for Allah is one Allah: Glory be to Him: (far exalted is He) above having a son. To Him belong all things in the heavens and on earth. And enough is Allah as a Disposer of affairs."
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 73,
+          "word": 8,
+          "reference": "(5:73:8)"
+        },
+        "transliteration": "thalāthatin",
+        "english_meaning": "(of) three",
+        "arabic_text": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ",
+        "highlighted_word": "ثَلَاثَةٍ",
+        "english_translation": "They do blaspheme who say: Allah is one of three in a Trinity: for there is no god except One Allah. If they desist not from their word (of blasphemy), verily a grievous penalty will befall the blasphemers among them."
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 89,
+          "word": 30,
+          "reference": "(5:89:30)"
+        },
+        "transliteration": "thalāthati",
+        "english_meaning": "(for) three",
+        "arabic_text": "فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ ذَٰلِكَ كَفَّارَةُ أَيْمَانِكُمْ",
+        "highlighted_word": "ثَلَاثَةِ",
+        "english_translation": "Allah will not call you to account for what is futile in your oaths, but He will call you to account for your deliberate oaths: for expiation, feed ten indigent persons, on a scale of the average for the food of your families; or clothe them; or give a slave his freedom. If that is beyond your means, fast for three days. That is the expiation for the oaths ye have sworn. But keep to your oaths. Thus doth Allah make clear to you His signs, that ye may be grateful."
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 118,
+          "word": 2,
+          "reference": "(9:118:2)"
+        },
+        "transliteration": "l-thalāthati",
+        "english_meaning": "the three",
+        "arabic_text": "وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا",
+        "highlighted_word": "الثَّلَاثَةِ",
+        "english_translation": "(He turned in mercy also) to the three who were left behind; (they felt guilty) to such a degree that the earth seemed constrained to them, for all its spaciousness, and their (very) souls seemed straitened to them,- and they perceived that there is no fleeing from Allah (and no refuge) but to Himself. Then He turned to them, that they might repent: for Allah is Oft-Returning, Most Merciful."
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 65,
+          "word": 6,
+          "reference": "(11:65:6)"
+        },
+        "transliteration": "thalāthata",
+        "english_meaning": "(for) three",
+        "arabic_text": "فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ",
+        "highlighted_word": "ثَلَاثَةَ",
+        "english_translation": "But they did ham-string her. So he said: \"Enjoy yourselves in your homes for three days: (Then will be your ruin): (Behold) there a promise not to be belied!\""
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 22,
+          "word": 2,
+          "reference": "(18:22:2)"
+        },
+        "transliteration": "thalāthatun",
+        "english_meaning": "(they were) three",
+        "arabic_text": "سَيَقُولُونَ ثَلَاثَةٌ رَابِعُهُمْ كَلْبُهُمْ",
+        "highlighted_word": "ثَلَاثَةٌ",
+        "english_translation": "(Some) say they were three, the dog being the fourth among them; (others) say they were five, the dog being the sixth,- doubtfully guessing at the unknown; (yet others) say they were seven, the dog being the eighth. Say thou: \"My Lord knoweth best their number; It is but few that know their (real case).\" Enter not, therefore, into controversies concerning them, except on a matter that is clear, nor consult any of them about (the affair of) the Sleepers."
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 7,
+          "word": 3,
+          "reference": "(56:7:3)"
+        },
+        "transliteration": "thalāthatan",
+        "english_meaning": "three",
+        "arabic_text": "وَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً",
+        "highlighted_word": "ثَلَاثَةً",
+        "english_translation": "And ye shall be sorted out into three classes."
+      },
+      {
+        "verse_reference": {
+          "surah": 58,
+          "verse": 7,
+          "word": 16,
+          "reference": "(58:7:16)"
+        },
+        "transliteration": "thalāthatin",
+        "english_meaning": "(of) three",
+        "arabic_text": "مَا يَكُونُ مِنْ نَجْوَىٰ ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ",
+        "highlighted_word": "ثَلَاثَةٍ",
+        "english_translation": "Seest thou not that Allah doth know (all) that is in the heavens and on earth? There is not a secret consultation between three, but He makes the fourth among them, - Nor between five but He makes the sixth,- nor between fewer nor more, but He is in their midst, wheresoever they be: In the end will He tell them the truth of their conduct, on the Day of Judgment. For Allah has full knowledge of all things."
+      },
+      {
+        "verse_reference": {
+          "surah": 65,
+          "verse": 4,
+          "word": 10,
+          "reference": "(65:4:10)"
+        },
+        "transliteration": "thalāthatu",
+        "english_meaning": "(is) three",
+        "arabic_text": "وَاللَّائِي يَئِسْنَ مِنَ الْمَحِيضِ مِنْ نِسَائِكُمْ إِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَاثَةُ أَشْهُرٍ",
+        "highlighted_word": "ثَلَاثَةُ",
+        "english_translation": "Such of your women as have passed the age of monthly courses, for them the prescribed period, if ye have any doubts, is three months, and for those who have no courses (it is the same): for those who carry (life within their wombs), their period is until they deliver their burdens: and for those who fear Allah, He will make their path easy."
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 41,
+          "word": 11,
+          "reference": "(3:41:11)"
+        },
+        "transliteration": "thalāthata",
+        "english_meaning": "(for) three",
+        "arabic_text": "قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَةَ أَيَّامٍ إِلَّا رَمْزًا",
+        "highlighted_word": "ثَلَاثَةَ",
+        "english_translation": "He said: \"O my Lord! Give me a Sign!\" \"Thy Sign,\" was the answer, \"Shall be that thou shalt speak to no man for three days but with signals. Then celebrate the praises of thy Lord again and again, and glorify Him in the evening and in the morning.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 11,
+          "word": 15,
+          "reference": "(4:11:15)"
+        },
+        "transliteration": "thuluthā",
+        "english_meaning": "two thirds",
+        "arabic_text": "فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ",
+        "highlighted_word": "ثُلُثَا",
+        "english_translation": "Allah (thus) directs you as regards your Children's (Inheritance): to the male, a portion equal to that of two females: if only daughters, two or more, their share is two-thirds of the inheritance; if only one, her share is a half. For parents, a sixth share of the inheritance to each, if the deceased left children; if no children, and the parents are the (only) heirs, the mother has a third; if the deceased Left brothers (or sisters) the mother has a sixth. (The distribution in all cases ('s) after the payment of legacies and debts. Ye know not whether your parents or your children are nearest to you in benefit. These are settled portions ordained by Allah; and Allah is All-knowing, Al-wise."
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 11,
+          "word": 42,
+          "reference": "(4:11:42)"
+        },
+        "transliteration": "l-thuluthu",
+        "english_meaning": "(is) one third",
+        "arabic_text": "فَإِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُ أَبَوَاهُ فَلِأُمِّهِ الثُّلُثُ",
+        "highlighted_word": "الثُّلُثُ",
+        "english_translation": "Allah (thus) directs you as regards your Children's (Inheritance): to the male, a portion equal to that of two females: if only daughters, two or more, their share is two-thirds of the inheritance; if only one, her share is a half. For parents, a sixth share of the inheritance to each, if the deceased left children; if no children, and the parents are the (only) heirs, the mother has a third; if the deceased Left brothers (or sisters) the mother has a sixth. (The distribution in all cases ('s) after the payment of legacies and debts. Ye know not whether your parents or your children are nearest to you in benefit. These are settled portions ordained by Allah; and Allah is All-knowing, Al-wise."
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 12,
+          "word": 73,
+          "reference": "(4:12:73)"
+        },
+        "transliteration": "l-thuluthi",
+        "english_meaning": "the third",
+        "arabic_text": "فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ",
+        "highlighted_word": "الثُّلُثِ",
+        "english_translation": "In what your wives leave, your share is a half, if they leave no child; but if they leave a child, ye get a fourth; after payment of legacies and debts. In what ye leave, their share is a fourth, if ye leave no child; but if ye leave a child, they get an eighth; after payment of legacies and debts. If the man or woman whose inheritance is in question, has left neither ascendants nor descendants, but has left a brother or a sister, each one of the two gets a sixth; but if more than two, they share in a third; after payment of legacies and debts; so that no loss is caused (to any one). Thus is it ordained by Allah; and Allah is All-knowing, Most Forbearing."
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 176,
+          "word": 30,
+          "reference": "(4:176:30)"
+        },
+        "transliteration": "l-thuluthāni",
+        "english_meaning": "two thirds",
+        "arabic_text": "فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ",
+        "highlighted_word": "الثُّلُثَانِ",
+        "english_translation": "They ask thee for a legal decision. Say: Allah directs (thus) about those who leave no descendants or ascendants as heirs. If it is a man that dies, leaving a sister but no child, she shall have half the inheritance: If (such a deceased was) a woman, who left no child, Her brother takes her inheritance: If there are two sisters, they shall have two-thirds of the inheritance (between them): if there are brothers and sisters, (they share), the male having twice the share of the female. Thus doth Allah make clear to you (His law), lest ye err. And Allah hath knowledge of all things."
+      },
+      {
+        "verse_reference": {
+          "surah": 73,
+          "verse": 20,
+          "word": 8,
+          "reference": "(73:20:8)"
+        },
+        "transliteration": "thuluthayi",
+        "english_meaning": "two-thirds",
+        "arabic_text": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ",
+        "highlighted_word": "ثُلُثَيِ",
+        "english_translation": "Thy Lord doth know that thou standest forth (to prayer) nigh two-thirds of the night, or half the night, or a third of the night, and so doth a party of those with thee. But Allah doth appoint night and day in due measure He knoweth that ye are unable to keep count thereof. So He hath turned to you (in mercy): read ye, therefore, of the Qur'an as much as may be easy for you. He knoweth that there may be (some) among you in ill-health; others travelling through the land, seeking of Allah's bounty; yet others fighting in Allah's Cause, read ye, therefore, as much of the Qur'an as may be easy (for you); and establish regular Prayer and give regular Charity; and loan to Allah a Beautiful Loan. And whatever good ye send forth for your souls ye shall find it in Allah's Presence,- yea, better and greater, in Reward and seek ye the Grace of Allah: for Allah is Oft-Forgiving, Most Merciful."
+      },
+      {
+        "verse_reference": {
+          "surah": 73,
+          "verse": 20,
+          "word": 11,
+          "reference": "(73:20:11)"
+        },
+        "transliteration": "wathuluthahu",
+        "english_meaning": "and a third of it",
+        "arabic_text": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ",
+        "highlighted_word": "وَثُلُثَهُ",
+        "english_translation": "Thy Lord doth know that thou standest forth (to prayer) nigh two-thirds of the night, or half the night, or a third of the night, and so doth a party of those with thee. But Allah doth appoint night and day in due measure He knoweth that ye are unable to keep count thereof. So He hath turned to you (in mercy): read ye, therefore, of the Qur'an as much as may be easy for you. He knoweth that there may be (some) among you in ill-health; others travelling through the land, seeking of Allah's bounty; yet others fighting in Allah's Cause, read ye, therefore, as much of the Qur'an as may be easy (for you); and establish regular Prayer and give regular Charity; and loan to Allah a Beautiful Loan. And whatever good ye send forth for your souls ye shall find it in Allah's Presence,- yea, better and greater, in Reward and seek ye the Grace of Allah: for Allah is Oft-Forgiving, Most Merciful."
+      }
+    ],
+    "total_occurrences": 32,
+    "scraped_at": "2025-08-19 17:45:13"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vll",
+    "keyword_text": "ث ل ل",
+    "description": "The triliteral root thā lām lām (ث ل ل) occurs three times in the Quran as the noun thullat (ثُلَّة). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 13,
+          "word": 1,
+          "reference": "(56:13:1)"
+        },
+        "transliteration": "thullatun",
+        "english_meaning": "A company",
+        "arabic_text": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
+        "highlighted_word": "ثُلَّةٌ",
+        "english_translation": "A number of people from those of old,"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 39,
+          "word": 1,
+          "reference": "(56:39:1)"
+        },
+        "transliteration": "thullatun",
+        "english_meaning": "A company",
+        "arabic_text": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
+        "highlighted_word": "ثُلَّةٌ",
+        "english_translation": "A (goodly) number from those of old,"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 40,
+          "word": 1,
+          "reference": "(56:40:1)"
+        },
+        "transliteration": "wathullatun",
+        "english_meaning": "And a company",
+        "arabic_text": "وَثُلَّةٌ مِنَ الْآخِرِينَ",
+        "highlighted_word": "وَثُلَّةٌ",
+        "english_translation": "And a (goodly) number from those of later times."
+      }
+    ],
+    "total_occurrences": 3,
+    "scraped_at": "2025-08-19 17:45:19"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vmr",
+    "keyword_text": "ث م ر",
+    "description": "The triliteral root thā mīm rā (ث م ر) occurs 24 times in the Quran, in four derived forms:",
+    "word_type": "Verb (form IV)",
+    "meaning": "to bear fruit",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 99,
+          "word": 37,
+          "reference": "(6:99:37)"
+        },
+        "transliteration": "athmara",
+        "english_meaning": "it bears fruit",
+        "arabic_text": "انْظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ",
+        "highlighted_word": "أَثْمَرَ",
+        "english_translation": "It is He Who sendeth down rain from the skies: with it We produce vegetation of all kinds: from some We produce green (crops), out of which We produce grain, heaped up (at harvest); out of the date-palm and its sheaths (or spathes) (come) clusters of dates hanging low and near: and (then there are) gardens of grapes, and olives, and pomegranates, each similar (in kind) yet different (in variety): when they begin to bear fruit, feast your eyes with the fruit and the ripeness thereof. Behold! in these things there are signs for people who believe."
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 141,
+          "word": 21,
+          "reference": "(6:141:21)"
+        },
+        "transliteration": "athmara",
+        "english_meaning": "it bears fruit",
+        "arabic_text": "كُلُوا مِنْ ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ",
+        "highlighted_word": "أَثْمَرَ",
+        "english_translation": "It is He Who produceth gardens, with trellises and without, and dates, and tilth with produce of all kinds, and olives and pomegranates, similar (in kind) and different (in variety): eat of their fruit in their season, but render the dues that are proper on the day that the harvest is gathered. But waste not by excess: for Allah loveth not the wasters."
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 99,
+          "word": 35,
+          "reference": "(6:99:35)"
+        },
+        "transliteration": "thamarihi",
+        "english_meaning": "its fruit",
+        "arabic_text": "انْظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ",
+        "highlighted_word": "ثَمَرِهِ",
+        "english_translation": "It is He Who sendeth down rain from the skies: with it We produce vegetation of all kinds: from some We produce green (crops), out of which We produce grain, heaped up (at harvest); out of the date-palm and its sheaths (or spathes) (come) clusters of dates hanging low and near: and (then there are) gardens of grapes, and olives, and pomegranates, each similar (in kind) yet different (in variety): when they begin to bear fruit, feast your eyes with the fruit and the ripeness thereof. Behold! in these things there are signs for people who believe."
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 141,
+          "word": 19,
+          "reference": "(6:141:19)"
+        },
+        "transliteration": "thamarihi",
+        "english_meaning": "its fruit",
+        "arabic_text": "كُلُوا مِنْ ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ",
+        "highlighted_word": "ثَمَرِهِ",
+        "english_translation": "It is He Who produceth gardens, with trellises and without, and dates, and tilth with produce of all kinds, and olives and pomegranates, similar (in kind) and different (in variety): eat of their fruit in their season, but render the dues that are proper on the day that the harvest is gathered. But waste not by excess: for Allah loveth not the wasters."
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 34,
+          "word": 3,
+          "reference": "(18:34:3)"
+        },
+        "transliteration": "thamarun",
+        "english_meaning": "fruit",
+        "arabic_text": "وَكَانَ لَهُ ثَمَرٌ",
+        "highlighted_word": "ثَمَرٌ",
+        "english_translation": "(Abundant) was the produce this man had: he said to his companion, in the course of a mutual argument: \"more wealth have I than you, and more honour and power in (my following of) men.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 42,
+          "word": 2,
+          "reference": "(18:42:2)"
+        },
+        "transliteration": "bithamarihi",
+        "english_meaning": "his fruits",
+        "arabic_text": "وَأُحِيطَ بِثَمَرِهِ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَا أَنْفَقَ فِيهَا",
+        "highlighted_word": "بِثَمَرِهِ",
+        "english_translation": "So his fruits (and enjoyment) were encompassed (with ruin), and he remained twisting and turning his hands over what he had spent on his property, which had (now) tumbled to pieces to its very foundations, and he could only say, \"Woe is me! Would I had never ascribed partners to my Lord and Cherisher!\""
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 35,
+          "word": 3,
+          "reference": "(36:35:3)"
+        },
+        "transliteration": "thamarihi",
+        "english_meaning": "its fruit",
+        "arabic_text": "لِيَأْكُلُوا مِنْ ثَمَرِهِ وَمَا عَمِلَتْهُ أَيْدِيهِمْ أَفَلَا يَشْكُرُونَ",
+        "highlighted_word": "ثَمَرِهِ",
+        "english_translation": "That they may enjoy the fruits of this (artistry): It was not their hands that made this: will they not then give thanks?"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 22,
+          "word": 15,
+          "reference": "(2:22:15)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "the fruits",
+        "arabic_text": "وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ",
+        "highlighted_word": "الثَّمَرَاتِ",
+        "english_translation": "Who has made the earth your couch, and the heavens your canopy; and sent down rain from the heavens; and brought forth therewith Fruits for your sustenance; then set not up rivals unto Allah when ye know (the truth)."
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 126,
+          "word": 12,
+          "reference": "(2:126:12)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "fruits",
+        "arabic_text": "رَبِّ اجْعَلْ هَٰذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنَ الثَّمَرَاتِ",
+        "highlighted_word": "الثَّمَرَاتِ",
+        "english_translation": "And remember Abraham said: \"My Lord, make this a City of Peace, and feed its people with fruits,-such of them as believe in Allah and the Last Day.\" He said: \"(Yea), and such as reject Faith,-for a while will I grant them their pleasure, but will soon drive them to the torment of Fire,- an evil destination (indeed)!\""
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 155,
+          "word": 10,
+          "reference": "(2:155:10)"
+        },
+        "transliteration": "wal-thamarāti",
+        "english_meaning": "and [the] fruits",
+        "arabic_text": "وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ",
+        "highlighted_word": "وَالثَّمَرَاتِ",
+        "english_translation": "Be sure we shall test you with something of fear and hunger, some loss in goods or lives or the fruits (of your toil), but give glad tidings to those who patiently persevere,"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 266,
+          "word": 18,
+          "reference": "(2:266:18)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "(of) [the] fruits",
+        "arabic_text": "لَهُ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَأَصَابَهُ الْكِبَرُ وَلَهُ ذُرِّيَّةٌ ضُعَفَاءُ",
+        "highlighted_word": "الثَّمَرَاتِ",
+        "english_translation": "Does any of you wish that he should have a garden with date-palms and vines and streams flowing underneath, and all kinds of fruit, while he is stricken with old age, and his children are not strong (enough to look after themselves)- that it should be caught in a whirlwind, with fire therein, and be burnt up? Thus doth Allah make clear to you (His) Signs; that ye may consider."
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 57,
+          "word": 24,
+          "reference": "(7:57:24)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "(of) fruits",
+        "arabic_text": "فَأَنْزَلْنَا بِهِ الْمَاءَ فَأَخْرَجْنَا بِهِ مِنْ كُلِّ الثَّمَرَاتِ",
+        "highlighted_word": "الثَّمَرَاتِ",
+        "english_translation": "It is He Who sendeth the winds like heralds of glad tidings, going before His mercy: when they have carried the heavy-laden clouds, We drive them to a land that is dead, make rain to descend thereon, and produce every kind of harvest therewith: thus shall We raise up the dead: perchance ye may remember."
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 130,
+          "word": 8,
+          "reference": "(7:130:8)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "[the] fruits",
+        "arabic_text": "وَلَقَدْ أَخَذْنَا آلَ فِرْعَوْنَ بِالسِّنِينَ وَنَقْصٍ مِنَ الثَّمَرَاتِ",
+        "highlighted_word": "الثَّمَرَاتِ",
+        "english_translation": "We punished the people of Pharaoh with years (of droughts) and shortness of crops; that they might receive admonition."
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 3,
+          "word": 11,
+          "reference": "(13:3:11)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "(of) the fruits",
+        "arabic_text": "وَمِنْ كُلِّ الثَّمَرَاتِ جَعَلَ فِيهَا زَوْجَيْنِ اثْنَيْنِ",
+        "highlighted_word": "الثَّمَرَاتِ",
+        "english_translation": "And it is He who spread out the earth, and set thereon mountains standing firm and (flowing) rivers: and fruit of every kind He made in pairs, two and two: He draweth the night as a veil o'er the Day. Behold, verily in these things there are signs for those who consider!"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 32,
+          "word": 13,
+          "reference": "(14:32:13)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "the fruits",
+        "arabic_text": "وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ",
+        "highlighted_word": "الثَّمَرَاتِ",
+        "english_translation": "It is Allah Who hath created the heavens and the earth and sendeth down rain from the skies, and with it bringeth out fruits wherewith to feed you; it is He Who hath made the ships subject to you, that they may sail through the sea by His command; and the rivers (also) hath He made subject to you."
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 37,
+          "word": 24,
+          "reference": "(14:37:24)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "the fruits",
+        "arabic_text": "فَاجْعَلْ أَفْئِدَةً مِنَ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُمْ مِنَ الثَّمَرَاتِ",
+        "highlighted_word": "الثَّمَرَاتِ",
+        "english_translation": "\"O our Lord! I have made some of my offspring to dwell in a valley without cultivation, by Thy Sacred House; in order, O our Lord, that they may establish regular Prayer: so fill the hearts of some among men with love towards them, and feed them with fruits: so that they may give thanks."
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 11,
+          "word": 10,
+          "reference": "(16:11:10)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "(of) fruits",
+        "arabic_text": "يُنْبِتُ لَكُمْ بِهِ الزَّرْعَ وَالزَّيْتُونَ وَالنَّخِيلَ وَالْأَعْنَابَ وَمِنْ كُلِّ الثَّمَرَاتِ",
+        "highlighted_word": "الثَّمَرَاتِ",
+        "english_translation": "With it He produces for you corn, olives, date-palms, grapes and every kind of fruit: verily in this is a sign for those who give thought."
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 67,
+          "word": 2,
+          "reference": "(16:67:2)"
+        },
+        "transliteration": "thamarāti",
+        "english_meaning": "fruits",
+        "arabic_text": "وَمِنْ ثَمَرَاتِ النَّخِيلِ وَالْأَعْنَابِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا",
+        "highlighted_word": "ثَمَرَاتِ",
+        "english_translation": "And from the fruit of the date-palm and the vine, ye get out wholesome drink and food: behold, in this also is a sign for those who are wise."
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 69,
+          "word": 5,
+          "reference": "(16:69:5)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "the fruits",
+        "arabic_text": "ثُمَّ كُلِي مِنْ كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا",
+        "highlighted_word": "الثَّمَرَاتِ",
+        "english_translation": "Then to eat of all the produce (of the earth), and find with skill the spacious paths of its Lord: there issues from within their bodies a drink of varying colours, wherein is healing for men: verily in this is a Sign for those who give thought."
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 57,
+          "word": 16,
+          "reference": "(28:57:16)"
+        },
+        "transliteration": "thamarātu",
+        "english_meaning": "fruits",
+        "arabic_text": "أَوَلَمْ نُمَكِّنْ لَهُمْ حَرَمًا آمِنًا يُجْبَىٰ إِلَيْهِ ثَمَرَاتُ كُلِّ شَيْءٍ",
+        "highlighted_word": "ثَمَرَاتُ",
+        "english_translation": "They say: \"If we were to follow the guidance with thee, we should be snatched away from our land.\" Have We not established for them a secure sanctuary, to which are brought as tribute fruits of all kinds,- a provision from Ourselves? but most of them understand not."
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 27,
+          "word": 11,
+          "reference": "(35:27:11)"
+        },
+        "transliteration": "thamarātin",
+        "english_meaning": "fruits",
+        "arabic_text": "فَأَخْرَجْنَا بِهِ ثَمَرَاتٍ مُخْتَلِفًا أَلْوَانُهَا",
+        "highlighted_word": "ثَمَرَاتٍ",
+        "english_translation": "Seest thou not that Allah sends down rain from the sky? With it We then bring out produce of various colours. And in the mountains are tracts white and red, of various shades of colour, and black intense in hue."
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 47,
+          "word": 8,
+          "reference": "(41:47:8)"
+        },
+        "transliteration": "thamarātin",
+        "english_meaning": "fruits",
+        "arabic_text": "وَمَا تَخْرُجُ مِنْ ثَمَرَاتٍ مِنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنْثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِ",
+        "highlighted_word": "ثَمَرَاتٍ",
+        "english_translation": "To Him is referred the Knowledge of the Hour (of Judgment: He knows all): No date-fruit comes out of its sheath, nor does a female conceive (within her womb) nor bring forth the Day that (Allah) will propound to them the (question), \"Where are the partners (ye attributed to Me?\" They will say, \"We do assure thee not one of us can bear witness!\""
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 15,
+          "word": 31,
+          "reference": "(47:15:31)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "fruits",
+        "arabic_text": "وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ رَبِّهِمْ",
+        "highlighted_word": "الثَّمَرَاتِ",
+        "english_translation": "(Here is) a Parable of the Garden which the righteous are promised: in it are rivers of water incorruptible; rivers of milk of which the taste never changes; rivers of wine, a joy to those who drink; and rivers of honey pure and clear. In it there are for them all kinds of fruits; and Grace from their Lord. (Can those in such Bliss) be compared to such as shall dwell for ever in the Fire, and be given, to drink, boiling water, so that it cuts up their bowels (to pieces)?"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 25,
+          "word": 17,
+          "reference": "(2:25:17)"
+        },
+        "transliteration": "thamaratin",
+        "english_meaning": "fruit",
+        "arabic_text": "كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقًا قَالُوا هَٰذَا الَّذِي رُزِقْنَا مِنْ قَبْلُ",
+        "highlighted_word": "ثَمَرَةٍ",
+        "english_translation": "But give glad tidings to those who believe and work righteousness, that their portion is Gardens, beneath which rivers flow. Every time they are fed with fruits therefrom, they say: \"Why, this is what we were fed with before,\" for they are given things in similitude; and they have therein companions pure (and holy); and they abide therein (for ever)."
+      }
+    ],
+    "total_occurrences": 24,
+    "scraped_at": "2025-08-19 17:45:23"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vmn",
+    "keyword_text": "ث م ن",
+    "description": "The triliteral root thā mīm nūn (ث م ن) occurs 19 times in the Quran, in six derived forms:",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 22,
+          "word": 13,
+          "reference": "(18:22:13)"
+        },
+        "transliteration": "wathāminuhum",
+        "english_meaning": "and the eight of them",
+        "arabic_text": "وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ",
+        "highlighted_word": "وَثَامِنُهُمْ",
+        "english_translation": "(Some) say they were three, the dog being the fourth among them; (others) say they were five, the dog being the sixth,- doubtfully guessing at the unknown; (yet others) say they were seven, the dog being the eighth. Say thou: \"My Lord knoweth best their number; It is but few that know their (real case).\" Enter not, therefore, into controversies concerning them, except on a matter that is clear, nor consult any of them about (the affair of) the Sleepers."
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 27,
+          "word": 12,
+          "reference": "(28:27:12)"
+        },
+        "transliteration": "thamāniya",
+        "english_meaning": "(for) eight",
+        "arabic_text": "عَلَىٰ أَنْ تَأْجُرَنِي ثَمَانِيَ حِجَجٍ",
+        "highlighted_word": "ثَمَانِيَ",
+        "english_translation": "He said: \"I intend to wed one of these my daughters to thee, on condition that thou serve me for eight years; but if thou complete ten years, it will be (grace) from thee. But I intend not to place thee under a difficulty: thou wilt find me, indeed, if Allah wills, one of the righteous.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 4,
+          "word": 10,
+          "reference": "(24:4:10)"
+        },
+        "transliteration": "thamānīna",
+        "english_meaning": "(with) eighty",
+        "arabic_text": "فَاجْلِدُوهُمْ ثَمَانِينَ جَلْدَةً وَلَا تَقْبَلُوا لَهُمْ شَهَادَةً أَبَدًا",
+        "highlighted_word": "ثَمَانِينَ",
+        "english_translation": "And those who launch a charge against chaste women, and produce not four witnesses (to support their allegations),- flog them with eighty stripes; and reject their evidence ever after: for such men are wicked transgressors;-"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 143,
+          "word": 1,
+          "reference": "(6:143:1)"
+        },
+        "transliteration": "thamāniyata",
+        "english_meaning": "Eight",
+        "arabic_text": "ثَمَانِيَةَ أَزْوَاجٍ مِنَ الضَّأْنِ اثْنَيْنِ وَمِنَ الْمَعْزِ اثْنَيْنِ",
+        "highlighted_word": "ثَمَانِيَةَ",
+        "english_translation": "(Take) eight (head of cattle) in (four) pairs: of sheep a pair, and of goats a pair; say, hath He forbidden the two males, or the two females, or (the young) which the wombs of the two females enclose? Tell me with knowledge if ye are truthful:"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 6,
+          "word": 13,
+          "reference": "(39:6:13)"
+        },
+        "transliteration": "thamāniyata",
+        "english_meaning": "eight",
+        "arabic_text": "وَأَنْزَلَ لَكُمْ مِنَ الْأَنْعَامِ ثَمَانِيَةَ أَزْوَاجٍ",
+        "highlighted_word": "ثَمَانِيَةَ",
+        "english_translation": "He created you (all) from a single person: then created, of like nature, his mate; and he sent down for you eight head of cattle in pairs: He makes you, in the wombs of your mothers, in stages, one after another, in three veils of darkness. such is Allah, your Lord and Cherisher: to Him belongs (all) dominion. There is no god but He: then how are ye turned away (from your true Centre)?"
+      },
+      {
+        "verse_reference": {
+          "surah": 69,
+          "verse": 17,
+          "word": 9,
+          "reference": "(69:17:9)"
+        },
+        "transliteration": "thamāniyatun",
+        "english_meaning": "eight",
+        "arabic_text": "وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ",
+        "highlighted_word": "ثَمَانِيَةٌ",
+        "english_translation": "And the angels will be on its sides, and eight will, that Day, bear the Throne of thy Lord above them."
+      },
+      {
+        "verse_reference": {
+          "surah": 69,
+          "verse": 7,
+          "word": 5,
+          "reference": "(69:7:5)"
+        },
+        "transliteration": "wathamāniyata",
+        "english_meaning": "and eight",
+        "arabic_text": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا",
+        "highlighted_word": "وَثَمَانِيَةَ",
+        "english_translation": "He made it rage against them seven nights and eight days in succession: so that thou couldst see the (whole) people lying prostrate in its (path), as they had been roots of hollow palm-trees tumbled down!"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 12,
+          "word": 40,
+          "reference": "(4:12:40)"
+        },
+        "transliteration": "l-thumunu",
+        "english_meaning": "(is) the eighth",
+        "arabic_text": "فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ",
+        "highlighted_word": "الثُّمُنُ",
+        "english_translation": "In what your wives leave, your share is a half, if they leave no child; but if they leave a child, ye get a fourth; after payment of legacies and debts. In what ye leave, their share is a fourth, if ye leave no child; but if ye leave a child, they get an eighth; after payment of legacies and debts. If the man or woman whose inheritance is in question, has left neither ascendants nor descendants, but has left a brother or a sister, each one of the two gets a sixth; but if more than two, they share in a third; after payment of legacies and debts; so that no loss is caused (to any one). Thus is it ordained by Allah; and Allah is All-knowing, Most Forbearing."
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 41,
+          "word": 15,
+          "reference": "(2:41:15)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "a price",
+        "arabic_text": "وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَإِيَّايَ فَاتَّقُونِ",
+        "highlighted_word": "ثَمَنًا",
+        "english_translation": "And believe in what I reveal, confirming the revelation which is with you, and be not the first to reject Faith therein, nor sell My Signs for a small price; and fear Me, and Me alone."
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 79,
+          "word": 14,
+          "reference": "(2:79:14)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a price",
+        "arabic_text": "ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا قَلِيلًا",
+        "highlighted_word": "ثَمَنًا",
+        "english_translation": "Then woe to those who write the Book with their own hands, and then say:\"This is from Allah,\" to traffic with it for miserable price!- Woe to them for what their hands do write, and for the gain they make thereby."
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 174,
+          "word": 11,
+          "reference": "(2:174:11)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "a gain",
+        "arabic_text": "وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيلًا أُولَٰئِكَ مَا يَأْكُلُونَ فِي بُطُونِهِمْ إِلَّا النَّارَ",
+        "highlighted_word": "ثَمَنًا",
+        "english_translation": "Those who conceal Allah's revelations in the Book, and purchase for them a miserable profit,- they swallow into themselves naught but Fire; Allah will not address them on the Day of Resurrection. Nor purify them: Grievous will be their penalty."
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 77,
+          "word": 7,
+          "reference": "(3:77:7)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a price",
+        "arabic_text": "إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلًا أُولَٰئِكَ لَا خَلَاقَ لَهُمْ فِي الْآخِرَةِ",
+        "highlighted_word": "ثَمَنًا",
+        "english_translation": "As for those who sell the faith they owe to Allah and their own plighted word for a small price, they shall have no portion in the Hereafter: Nor will Allah (Deign to) speak to them or look at them on the Day of Judgment, nor will He cleans them (of sin): They shall have a grievous penalty."
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 187,
+          "word": 17,
+          "reference": "(3:187:17)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a price",
+        "arabic_text": "فَنَبَذُوهُ وَرَاءَ ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا",
+        "highlighted_word": "ثَمَنًا",
+        "english_translation": "And remember Allah took a covenant from the People of the Book, to make it known and clear to mankind, and not to hide it; but they threw it away behind their backs, and purchased with it some miserable gain! And vile was the bargain they made!"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 199,
+          "word": 20,
+          "reference": "(3:199:20)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a price",
+        "arabic_text": "لَا يَشْتَرُونَ بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا أُولَٰئِكَ لَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ",
+        "highlighted_word": "ثَمَنًا",
+        "english_translation": "And there are, certainly, among the People of the Book, those who believe in Allah, in the revelation to you, and in the revelation to them, bowing in humility to Allah: They will not sell the Signs of Allah for a miserable gain! For them is a reward with their Lord, and Allah is swift in account."
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 44,
+          "word": 31,
+          "reference": "(5:44:31)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a price",
+        "arabic_text": "وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا",
+        "highlighted_word": "ثَمَنًا",
+        "english_translation": "It was We who revealed the law (to Moses): therein was guidance and light. By its standard have been judged the Jews, by the prophets who bowed (as in Islam) to Allah's will, by the rabbis and the doctors of law: for to them was entrusted the protection of Allah's book, and they were witnesses thereto: therefore fear not men, but fear me, and sell not my signs for a miserable price. If any do fail to judge by (the light of) what Allah hath revealed, they are (no better than) Unbelievers."
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 106,
+          "word": 39,
+          "reference": "(5:106:39)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "a price",
+        "arabic_text": "لَا نَشْتَرِي بِهِ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ شَهَادَةَ اللَّهِ",
+        "highlighted_word": "ثَمَنًا",
+        "english_translation": "O ye who believe! When death approaches any of you, (take) witnesses among yourselves when making bequests,- two just men of your own (brotherhood) or others from outside if ye are journeying through the earth, and the chance of death befalls you (thus). If ye doubt (their truth), detain them both after prayer, and let them both swear by Allah: \"We wish not in this for any worldly gain, even though the (beneficiary) be our near relation: we shall hide not the evidence before Allah: if we do, then behold! the sin be upon us!\""
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 9,
+          "word": 4,
+          "reference": "(9:9:4)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a little price",
+        "arabic_text": "اشْتَرَوْا بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا عَنْ سَبِيلِهِ",
+        "highlighted_word": "ثَمَنًا",
+        "english_translation": "The Signs of Allah have they sold for a miserable price, and (many) have they hindered from His way: evil indeed are the deeds they have done."
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 20,
+          "word": 2,
+          "reference": "(12:20:2)"
+        },
+        "transliteration": "bithamanin",
+        "english_meaning": "for a price",
+        "arabic_text": "وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ",
+        "highlighted_word": "بِثَمَنٍ",
+        "english_translation": "The (Brethren) sold him for a miserable price, for a few dirhams counted out: in such low estimation did they hold him!"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 95,
+          "word": 5,
+          "reference": "(16:95:5)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a price",
+        "arabic_text": "وَلَا تَشْتَرُوا بِعَهْدِ اللَّهِ ثَمَنًا قَلِيلًا",
+        "highlighted_word": "ثَمَنًا",
+        "english_translation": "Nor sell the covenant of Allah for a miserable price: for with Allah is (a prize) far better for you, if ye only knew."
+      }
+    ],
+    "total_occurrences": 19,
+    "scraped_at": "2025-08-19 17:45:28"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vny",
+    "keyword_text": "ث ن ي",
+    "description": "The triliteral root thā nūn yā (ث ن ي) occurs 29 times in the Quran, in seven derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to fold up",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 5,
+          "word": 3,
+          "reference": "(11:5:3)"
+        },
+        "transliteration": "yathnūna",
+        "english_meaning": "fold up",
+        "arabic_text": "أَلَا إِنَّهُمْ يَثْنُونَ صُدُورَهُمْ لِيَسْتَخْفُوا مِنْهُ",
+        "highlighted_word": "يَثْنُونَ",
+        "english_translation": "Behold! they fold up their hearts, that they may lie hid from Him! Ah even when they cover themselves with their garments, He knoweth what they conceal, and what they reveal: for He knoweth well the (inmost secrets) of the hearts."
+      },
+      {
+        "verse_reference": {
+          "surah": 68,
+          "verse": 18,
+          "word": 2,
+          "reference": "(68:18:2)"
+        },
+        "transliteration": "yastathnūna",
+        "english_meaning": "making exception",
+        "arabic_text": "وَلَا يَسْتَثْنُونَ",
+        "highlighted_word": "يَسْتَثْنُونَ",
+        "english_translation": "But made no reservation, (\"If it be Allah's Will\")."
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 60,
+          "word": 11,
+          "reference": "(2:60:11)"
+        },
+        "transliteration": "ith'natā",
+        "english_meaning": "(of)",
+        "arabic_text": "فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا",
+        "highlighted_word": "اثْنَتَا",
+        "english_translation": "And remember Moses prayed for water for his people; We said: \"Strike the rock with thy staff.\" Then gushed forth therefrom twelve springs. Each group knew its own place for water. So eat and drink of the sustenance provided by Allah, and do no evil nor mischief on the (face of the) earth."
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 11,
+          "word": 13,
+          "reference": "(4:11:13)"
+        },
+        "transliteration": "ith'natayni",
+        "english_meaning": "two",
+        "arabic_text": "فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ",
+        "highlighted_word": "اثْنَتَيْنِ",
+        "english_translation": "Allah (thus) directs you as regards your Children's (Inheritance): to the male, a portion equal to that of two females: if only daughters, two or more, their share is two-thirds of the inheritance; if only one, her share is a half. For parents, a sixth share of the inheritance to each, if the deceased left children; if no children, and the parents are the (only) heirs, the mother has a third; if the deceased Left brothers (or sisters) the mother has a sixth. (The distribution in all cases ('s) after the payment of legacies and debts. Ye know not whether your parents or your children are nearest to you in benefit. These are settled portions ordained by Allah; and Allah is All-knowing, Al-wise."
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 176,
+          "word": 28,
+          "reference": "(4:176:28)"
+        },
+        "transliteration": "ith'natayni",
+        "english_meaning": "two females",
+        "arabic_text": "فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ",
+        "highlighted_word": "اثْنَتَيْنِ",
+        "english_translation": "They ask thee for a legal decision. Say: Allah directs (thus) about those who leave no descendants or ascendants as heirs. If it is a man that dies, leaving a sister but no child, she shall have half the inheritance: If (such a deceased was) a woman, who left no child, Her brother takes her inheritance: If there are two sisters, they shall have two-thirds of the inheritance (between them): if there are brothers and sisters, (they share), the male having twice the share of the female. Thus doth Allah make clear to you (His law), lest ye err. And Allah hath knowledge of all things."
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 160,
+          "word": 2,
+          "reference": "(7:160:2)"
+        },
+        "transliteration": "ith'natay",
+        "english_meaning": "(into) two",
+        "arabic_text": "وَقَطَّعْنَاهُمُ اثْنَتَيْ عَشْرَةَ أَسْبَاطًا أُمَمًا",
+        "highlighted_word": "اثْنَتَيْ",
+        "english_translation": "We divided them into twelve tribes or nations. We directed Moses by inspiration, when his (thirsty) people asked him for water: \"Strike the rock with thy staff\": out of it there gushed forth twelve springs: Each group knew its own place for water. We gave them the shade of clouds, and sent down to them manna and quails, (saying): \"Eat of the good things We have provided for you\": (but they rebelled); to Us they did no harm, but they harmed their own souls."
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 160,
+          "word": 18,
+          "reference": "(7:160:18)"
+        },
+        "transliteration": "ith'natā",
+        "english_meaning": "two",
+        "arabic_text": "فَانْبَجَسَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا",
+        "highlighted_word": "اثْنَتَا",
+        "english_translation": "We divided them into twelve tribes or nations. We directed Moses by inspiration, when his (thirsty) people asked him for water: \"Strike the rock with thy staff\": out of it there gushed forth twelve springs: Each group knew its own place for water. We gave them the shade of clouds, and sent down to them manna and quails, (saying): \"Eat of the good things We have provided for you\": (but they rebelled); to Us they did no harm, but they harmed their own souls."
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 11,
+          "word": 4,
+          "reference": "(40:11:4)"
+        },
+        "transliteration": "ith'natayni",
+        "english_meaning": "twice",
+        "arabic_text": "قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ",
+        "highlighted_word": "اثْنَتَيْنِ",
+        "english_translation": "They will say: \"Our Lord! twice hast Thou made us without life, and twice hast Thou given us Life! Now have we recognised our sins: Is there any way out (of this)?\""
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 11,
+          "word": 6,
+          "reference": "(40:11:6)"
+        },
+        "transliteration": "ith'natayni",
+        "english_meaning": "twice",
+        "arabic_text": "وَأَحْيَيْتَنَا اثْنَتَيْنِ",
+        "highlighted_word": "اثْنَتَيْنِ",
+        "english_translation": "They will say: \"Our Lord! twice hast Thou made us without life, and twice hast Thou given us Life! Now have we recognised our sins: Is there any way out (of this)?\""
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 12,
+          "word": 9,
+          "reference": "(5:12:9)"
+        },
+        "transliteration": "ith'nay",
+        "english_meaning": "two",
+        "arabic_text": "وَبَعَثْنَا مِنْهُمُ اثْنَيْ عَشَرَ نَقِيبًا",
+        "highlighted_word": "اثْنَيْ",
+        "english_translation": "Allah did aforetime take a covenant from the Children of Israel, and we appointed twelve captains among them. And Allah said: \"I am with you: if ye (but) establish regular prayers, practise regular charity, believe in my messengers, honour and assist them, and loan to Allah a beautiful loan, verily I will wipe out from you your evils, and admit you to gardens with rivers flowing beneath; but if any of you, after this, resisteth faith, he hath truly wandered from the path or rectitude.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 106,
+          "word": 12,
+          "reference": "(5:106:12)"
+        },
+        "transliteration": "ith'nāni",
+        "english_meaning": "two",
+        "arabic_text": "إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِنْكُمْ",
+        "highlighted_word": "اثْنَانِ",
+        "english_translation": "O ye who believe! When death approaches any of you, (take) witnesses among yourselves when making bequests,- two just men of your own (brotherhood) or others from outside if ye are journeying through the earth, and the chance of death befalls you (thus). If ye doubt (their truth), detain them both after prayer, and let them both swear by Allah: \"We wish not in this for any worldly gain, even though the (beneficiary) be our near relation: we shall hide not the evidence before Allah: if we do, then behold! the sin be upon us!\""
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 143,
+          "word": 5,
+          "reference": "(6:143:5)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "ثَمَانِيَةَ أَزْوَاجٍ مِنَ الضَّأْنِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ",
+        "english_translation": "(Take) eight (head of cattle) in (four) pairs: of sheep a pair, and of goats a pair; say, hath He forbidden the two males, or the two females, or (the young) which the wombs of the two females enclose? Tell me with knowledge if ye are truthful:"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 143,
+          "word": 8,
+          "reference": "(6:143:8)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "وَمِنَ الْمَعْزِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ",
+        "english_translation": "(Take) eight (head of cattle) in (four) pairs: of sheep a pair, and of goats a pair; say, hath He forbidden the two males, or the two females, or (the young) which the wombs of the two females enclose? Tell me with knowledge if ye are truthful:"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 144,
+          "word": 3,
+          "reference": "(6:144:3)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "وَمِنَ الْإِبِلِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ",
+        "english_translation": "Of camels a pair, and oxen a pair; say, hath He forbidden the two males, or the two females, or (the young) which the wombs of the two females enclose? - Were ye present when Allah ordered you such a thing? But who doth more wrong than one who invents a lie against Allah, to lead astray men without knowledge? For Allah guideth not people who do wrong."
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 144,
+          "word": 6,
+          "reference": "(6:144:6)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "وَمِنَ الْبَقَرِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ",
+        "english_translation": "Of camels a pair, and oxen a pair; say, hath He forbidden the two males, or the two females, or (the young) which the wombs of the two females enclose? - Were ye present when Allah ordered you such a thing? But who doth more wrong than one who invents a lie against Allah, to lead astray men without knowledge? For Allah guideth not people who do wrong."
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 36,
+          "word": 6,
+          "reference": "(9:36:6)"
+        },
+        "transliteration": "ith'nā",
+        "english_meaning": "(is) twelve",
+        "arabic_text": "إِنَّ عِدَّةَ الشُّهُورِ عِنْدَ اللَّهِ اثْنَا عَشَرَ شَهْرًا فِي كِتَابِ اللَّهِ",
+        "highlighted_word": "اثْنَا",
+        "english_translation": "The number of months in the sight of Allah is twelve (in a year)- so ordained by Him the day He created the heavens and the earth; of them four are sacred: that is the straight usage. So wrong not yourselves therein, and fight the Pagans all together as they fight you all together. But know that Allah is with those who restrain themselves."
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 40,
+          "word": 11,
+          "reference": "(9:40:11)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "(of) the two",
+        "arabic_text": "إِذْ أَخْرَجَهُ الَّذِينَ كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ",
+        "highlighted_word": "اثْنَيْنِ",
+        "english_translation": "If ye help not (your leader), (it is no matter): for Allah did indeed help him, when the Unbelievers drove him out: he had no more than one companion; they two were in the cave, and he said to his companion, \"Have no fear, for Allah is with us\": then Allah sent down His peace upon him, and strengthened him with forces which ye saw not, and humbled to the depths the word of the Unbelievers. But the word of Allah is exalted to the heights: for Allah is Exalted in might, Wise."
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 40,
+          "word": 13,
+          "reference": "(11:40:13)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "حَتَّىٰ إِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ قُلْنَا احْمِلْ فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ",
+        "english_translation": "At length, behold! there came Our command, and the fountains of the earth gushed forth! We said: \"Embark therein, of each kind two, male and female, and your family - except those against whom the word has already gone forth,- and the Believers.\" but only a few believed with him."
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 3,
+          "word": 15,
+          "reference": "(13:3:15)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "وَمِنْ كُلِّ الثَّمَرَاتِ جَعَلَ فِيهَا زَوْجَيْنِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ",
+        "english_translation": "And it is He who spread out the earth, and set thereon mountains standing firm and (flowing) rivers: and fruit of every kind He made in pairs, two and two: He draweth the night as a veil o'er the Day. Behold, verily in these things there are signs for those who consider!"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 51,
+          "word": 6,
+          "reference": "(16:51:6)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "وَقَالَ اللَّهُ لَا تَتَّخِذُوا إِلَٰهَيْنِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ",
+        "english_translation": "Allah has said: \"Take not (for worship) two gods: for He is just One Allah: then fear Me (and Me alone).\""
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 27,
+          "word": 18,
+          "reference": "(23:27:18)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "فَإِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ فَاسْلُكْ فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ",
+        "english_translation": "So We inspired him (with this message): \"Construct the Ark within Our sight and under Our guidance: then when comes Our Command, and the fountains of the earth gush forth, take thou on board pairs of every species, male and female, and thy family- except those of them against whom the Word has already gone forth: And address Me not in favour of the wrong-doers; for they shall be drowned (in the Flood)."
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 14,
+          "word": 4,
+          "reference": "(36:14:4)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two (Messengers)",
+        "arabic_text": "إِذْ أَرْسَلْنَا إِلَيْهِمُ اثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ",
+        "highlighted_word": "اثْنَيْنِ",
+        "english_translation": "When We (first) sent to them two messengers, they rejected them: But We strengthened them with a third: they said, \"Truly, we have been sent on a mission to you.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 40,
+          "word": 10,
+          "reference": "(9:40:10)"
+        },
+        "transliteration": "thāniya",
+        "english_meaning": "the second",
+        "arabic_text": "إِذْ أَخْرَجَهُ الَّذِينَ كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ",
+        "highlighted_word": "ثَانِيَ",
+        "english_translation": "If ye help not (your leader), (it is no matter): for Allah did indeed help him, when the Unbelievers drove him out: he had no more than one companion; they two were in the cave, and he said to his companion, \"Have no fear, for Allah is with us\": then Allah sent down His peace upon him, and strengthened him with forces which ye saw not, and humbled to the depths the word of the Unbelievers. But the word of Allah is exalted to the heights: for Allah is Exalted in might, Wise."
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 9,
+          "word": 1,
+          "reference": "(22:9:1)"
+        },
+        "transliteration": "thāniya",
+        "english_meaning": "Twisting",
+        "arabic_text": "ثَانِيَ عِطْفِهِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ",
+        "highlighted_word": "ثَانِيَ",
+        "english_translation": "(Disdainfully) bending his side, in order to lead (men) astray from the Path of Allah: for him there is disgrace in this life, and on the Day of Judgment We shall make him taste the Penalty of burning (Fire)."
+      },
+      {
+        "verse_reference": {
+          "surah": 15,
+          "verse": 87,
+          "word": 5,
+          "reference": "(15:87:5)"
+        },
+        "transliteration": "l-mathānī",
+        "english_meaning": "the oft-repeated",
+        "arabic_text": "وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ",
+        "highlighted_word": "الْمَثَانِي",
+        "english_translation": "And We have bestowed upon thee the Seven Oft-repeated (verses) and the Grand Qur'an."
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 23,
+          "word": 7,
+          "reference": "(39:23:7)"
+        },
+        "transliteration": "mathāniya",
+        "english_meaning": "oft-repeated",
+        "arabic_text": "اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا مَثَانِيَ",
+        "highlighted_word": "مَثَانِيَ",
+        "english_translation": "Allah has revealed (from time to time) the most beautiful Message in the form of a Book, consistent with itself, (yet) repeating (its teaching in various aspects): the skins of those who fear their Lord tremble thereat; then their skins and their hearts do soften to the celebration of Allah's praises. Such is the guidance of Allah: He guides therewith whom He pleases, but such as Allah leaves to stray, can have none to guide."
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 3,
+          "word": 13,
+          "reference": "(4:3:13)"
+        },
+        "transliteration": "mathnā",
+        "english_meaning": "two",
+        "arabic_text": "فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ",
+        "highlighted_word": "مَثْنَىٰ",
+        "english_translation": "If ye fear that ye shall not be able to deal justly with the orphans, Marry women of your choice, Two or three or four; but if ye fear that ye shall not be able to deal justly (with them), then only one, or (a captive) that your right hands possess, that will be more suitable, to prevent you from doing injustice."
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 46,
+          "word": 8,
+          "reference": "(34:46:8)"
+        },
+        "transliteration": "mathnā",
+        "english_meaning": "(in) pairs",
+        "arabic_text": "أَنْ تَقُومُوا لِلَّهِ مَثْنَىٰ وَفُرَادَىٰ ثُمَّ تَتَفَكَّرُوا",
+        "highlighted_word": "مَثْنَىٰ",
+        "english_translation": "Say: \"I do admonish you on one point: that ye do stand up before Allah,- (It may be) in pairs, or (it may be) singly,- and reflect (within yourselves): your Companion is not possessed: he is no less than a warner to you, in face of a terrible Penalty.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 1,
+          "word": 11,
+          "reference": "(35:1:11)"
+        },
+        "transliteration": "mathnā",
+        "english_meaning": "two",
+        "arabic_text": "جَاعِلِ الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ",
+        "highlighted_word": "مَثْنَىٰ",
+        "english_translation": "Praise be to Allah, Who created (out of nothing) the heavens and the earth, Who made the angels, messengers with wings,- two, or three, or four (pairs): He adds to Creation as He pleases: for Allah has power over all things."
+      }
+    ],
+    "total_occurrences": 29,
+    "scraped_at": "2025-08-19 17:45:34"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vwb",
+    "keyword_text": "ث و ب",
+    "description": "The triliteral root thā wāw bā (ث و ب) occurs 28 times in the Quran, in six derived forms:",
+    "word_type": "Verb (form II)",
+    "meaning": "to reward",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 83,
+          "verse": 36,
+          "word": 2,
+          "reference": "(83:36:2)"
+        },
+        "transliteration": "thuwwiba",
+        "english_meaning": "been rewarded",
+        "arabic_text": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ",
+        "highlighted_word": "ثُوِّبَ",
+        "english_translation": "Will not the Unbelievers have been paid back for what they did?"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 153,
+          "word": 11,
+          "reference": "(3:153:11)"
+        },
+        "transliteration": "fa-athābakum",
+        "english_meaning": "So (He) repaid you",
+        "arabic_text": "فَأَثَابَكُمْ غَمًّا بِغَمٍّ لِكَيْلَا تَحْزَنُوا عَلَىٰ مَا فَاتَكُمْ وَلَا مَا أَصَابَكُمْ",
+        "highlighted_word": "فَأَثَابَكُمْ",
+        "english_translation": "Behold! ye were climbing up the high ground, without even casting a side glance at any one, and the Messenger in your rear was calling you back. There did Allah give you one distress after another by way of requital, to teach you not to grieve for (the booty) that had escaped you and for (the ill) that had befallen you. For Allah is well aware of all that ye do."
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 85,
+          "word": 1,
+          "reference": "(5:85:1)"
+        },
+        "transliteration": "fa-athābahumu",
+        "english_meaning": "So rewarded them",
+        "arabic_text": "فَأَثَابَهُمُ اللَّهُ بِمَا قَالُوا جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ",
+        "highlighted_word": "فَأَثَابَهُمُ",
+        "english_translation": "And for this their prayer hath Allah rewarded them with gardens, with rivers flowing underneath,- their eternal home. Such is the recompense of those who do good."
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 18,
+          "word": 17,
+          "reference": "(48:18:17)"
+        },
+        "transliteration": "wa-athābahum",
+        "english_meaning": "and rewarded them",
+        "arabic_text": "فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنْزَلَ السَّكِينَةَ عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا",
+        "highlighted_word": "وَأَثَابَهُمْ",
+        "english_translation": "Allah's Good Pleasure was on the Believers when they swore Fealty to thee under the Tree: He knew what was in their hearts, and He sent down Tranquillity to them; and He rewarded them with a speedy Victory;"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 145,
+          "word": 13,
+          "reference": "(3:145:13)"
+        },
+        "transliteration": "thawāba",
+        "english_meaning": "reward",
+        "arabic_text": "وَمَنْ يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا",
+        "highlighted_word": "ثَوَابَ",
+        "english_translation": "Nor can a soul die except by Allah's leave, the term being fixed as by writing. If any do desire a reward in this life, We shall give it to him; and if any do desire a reward in the Hereafter, We shall give it to him. And swiftly shall We reward those that (serve us with) gratitude."
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 145,
+          "word": 19,
+          "reference": "(3:145:19)"
+        },
+        "transliteration": "thawāba",
+        "english_meaning": "reward",
+        "arabic_text": "وَمَنْ يُرِدْ ثَوَابَ الْآخِرَةِ نُؤْتِهِ مِنْهَا",
+        "highlighted_word": "ثَوَابَ",
+        "english_translation": "Nor can a soul die except by Allah's leave, the term being fixed as by writing. If any do desire a reward in this life, We shall give it to him; and if any do desire a reward in the Hereafter, We shall give it to him. And swiftly shall We reward those that (serve us with) gratitude."
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 148,
+          "word": 3,
+          "reference": "(3:148:3)"
+        },
+        "transliteration": "thawāba",
+        "english_meaning": "reward",
+        "arabic_text": "فَآتَاهُمُ اللَّهُ ثَوَابَ الدُّنْيَا",
+        "highlighted_word": "ثَوَابَ",
+        "english_translation": "And Allah gave them a reward in this world, and the excellent reward of the Hereafter. For Allah Loveth those who do good."
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 148,
+          "word": 6,
+          "reference": "(3:148:6)"
+        },
+        "transliteration": "thawābi",
+        "english_meaning": "reward",
+        "arabic_text": "وَحُسْنَ ثَوَابِ الْآخِرَةِ",
+        "highlighted_word": "ثَوَابِ",
+        "english_translation": "And Allah gave them a reward in this world, and the excellent reward of the Hereafter. For Allah Loveth those who do good."
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 195,
+          "word": 36,
+          "reference": "(3:195:36)"
+        },
+        "transliteration": "thawāban",
+        "english_meaning": "a reward",
+        "arabic_text": "وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ثَوَابًا مِنْ عِنْدِ اللَّهِ",
+        "highlighted_word": "ثَوَابًا",
+        "english_translation": "And their Lord hath accepted of them, and answered them: \"Never will I suffer to be lost the work of any of you, be he male or female: Ye are members, one of another: Those who have left their homes, or been driven out therefrom, or suffered harm in My Cause, or fought or been slain,- verily, I will blot out from them their iniquities, and admit them into Gardens with rivers flowing beneath;- A reward from the presence of Allah, and from His presence is the best of rewards.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 195,
+          "word": 43,
+          "reference": "(3:195:43)"
+        },
+        "transliteration": "l-thawābi",
+        "english_meaning": "reward",
+        "arabic_text": "وَاللَّهُ عِنْدَهُ حُسْنُ الثَّوَابِ",
+        "highlighted_word": "الثَّوَابِ",
+        "english_translation": "And their Lord hath accepted of them, and answered them: \"Never will I suffer to be lost the work of any of you, be he male or female: Ye are members, one of another: Those who have left their homes, or been driven out therefrom, or suffered harm in My Cause, or fought or been slain,- verily, I will blot out from them their iniquities, and admit them into Gardens with rivers flowing beneath;- A reward from the presence of Allah, and from His presence is the best of rewards.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 134,
+          "word": 4,
+          "reference": "(4:134:4)"
+        },
+        "transliteration": "thawāba",
+        "english_meaning": "reward",
+        "arabic_text": "مَنْ كَانَ يُرِيدُ ثَوَابَ الدُّنْيَا",
+        "highlighted_word": "ثَوَابَ",
+        "english_translation": "If any one desires a reward in this life, in Allah's (gift) is the reward (both) of this life and of the hereafter: for Allah is He that heareth and seeth (all things)."
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 134,
+          "word": 8,
+          "reference": "(4:134:8)"
+        },
+        "transliteration": "thawābu",
+        "english_meaning": "(is the) reward",
+        "arabic_text": "فَعِنْدَ اللَّهِ ثَوَابُ الدُّنْيَا وَالْآخِرَةِ",
+        "highlighted_word": "ثَوَابُ",
+        "english_translation": "If any one desires a reward in this life, in Allah's (gift) is the reward (both) of this life and of the hereafter: for Allah is He that heareth and seeth (all things)."
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 31,
+          "word": 26,
+          "reference": "(18:31:26)"
+        },
+        "transliteration": "l-thawābu",
+        "english_meaning": "(is) the reward",
+        "arabic_text": "مُتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ نِعْمَ الثَّوَابُ وَحَسُنَتْ مُرْتَفَقًا",
+        "highlighted_word": "الثَّوَابُ",
+        "english_translation": "For them will be Gardens of Eternity; beneath them rivers will flow; they will be adorned therein with bracelets of gold, and they will wear green garments of fine silk and heavy brocade: They will recline therein on raised thrones. How good the recompense! How beautiful a couch to recline on!"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 44,
+          "word": 7,
+          "reference": "(18:44:7)"
+        },
+        "transliteration": "thawāban",
+        "english_meaning": "(to) reward",
+        "arabic_text": "هُنَالِكَ الْوَلَايَةُ لِلَّهِ الْحَقِّ هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقْبًا",
+        "highlighted_word": "ثَوَابًا",
+        "english_translation": "There, the (only) protection comes from Allah, the True One. He is the Best to reward, and the Best to give success."
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 46,
+          "word": 11,
+          "reference": "(18:46:11)"
+        },
+        "transliteration": "thawāban",
+        "english_meaning": "(for) reward",
+        "arabic_text": "وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا",
+        "highlighted_word": "ثَوَابًا",
+        "english_translation": "Wealth and sons are allurements of the life of this world: But the things that endure, good deeds, are best in the sight of thy Lord, as rewards, and best as (the foundation for) hopes."
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 76,
+          "word": 11,
+          "reference": "(19:76:11)"
+        },
+        "transliteration": "thawāban",
+        "english_meaning": "(for) reward",
+        "arabic_text": "وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ مَرَدًّا",
+        "highlighted_word": "ثَوَابًا",
+        "english_translation": "\"And Allah doth advance in guidance those who seek guidance: and the things that endure, Good Deeds, are best in the sight of thy Lord, as rewards, and best in respect of (their) eventual return.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 80,
+          "word": 6,
+          "reference": "(28:80:6)"
+        },
+        "transliteration": "thawābu",
+        "english_meaning": "(The) reward",
+        "arabic_text": "وَيْلَكُمْ ثَوَابُ اللَّهِ خَيْرٌ لِمَنْ آمَنَ وَعَمِلَ صَالِحًا",
+        "highlighted_word": "ثَوَابُ",
+        "english_translation": "But those who had been granted (true) knowledge said: \"Alas for you! The reward of Allah (in the Hereafter) is best for those who believe and work righteousness: but this none shall attain, save those who steadfastly persevere (in good).\""
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 5,
+          "word": 10,
+          "reference": "(11:5:10)"
+        },
+        "transliteration": "thiyābahum",
+        "english_meaning": "(with) their garments",
+        "arabic_text": "أَلَا حِينَ يَسْتَغْشُونَ ثِيَابَهُمْ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+        "highlighted_word": "ثِيَابَهُمْ",
+        "english_translation": "Behold! they fold up their hearts, that they may lie hid from Him! Ah even when they cover themselves with their garments, He knoweth what they conceal, and what they reveal: for He knoweth well the (inmost secrets) of the hearts."
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 31,
+          "word": 16,
+          "reference": "(18:31:16)"
+        },
+        "transliteration": "thiyāban",
+        "english_meaning": "garments",
+        "arabic_text": "وَيَلْبَسُونَ ثِيَابًا خُضْرًا مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ",
+        "highlighted_word": "ثِيَابًا",
+        "english_translation": "For them will be Gardens of Eternity; beneath them rivers will flow; they will be adorned therein with bracelets of gold, and they will wear green garments of fine silk and heavy brocade: They will recline therein on raised thrones. How good the recompense! How beautiful a couch to recline on!"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 19,
+          "word": 10,
+          "reference": "(22:19:10)"
+        },
+        "transliteration": "thiyābun",
+        "english_meaning": "garments",
+        "arabic_text": "فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ",
+        "highlighted_word": "ثِيَابٌ",
+        "english_translation": "These two antagonists dispute with each other about their Lord: But those who deny (their Lord),- for them will be cut out a garment of Fire: over their heads will be poured out boiling water."
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 58,
+          "word": 21,
+          "reference": "(24:58:21)"
+        },
+        "transliteration": "thiyābakum",
+        "english_meaning": "your garments",
+        "arabic_text": "مِنْ قَبْلِ صَلَاةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُمْ مِنَ الظَّهِيرَةِ",
+        "highlighted_word": "ثِيَابَكُمْ",
+        "english_translation": "O ye who believe! let those whom your right hands possess, and the (children) among you who have not come of age ask your permission (before they come to your presence), on three occasions: before morning prayer; the while ye doff your clothes for the noonday heat; and after the late-night prayer: these are your three times of undress: outside those times it is not wrong for you or for them to move about attending to each other: Thus does Allah make clear the Signs to you: for Allah is full of knowledge and wisdom."
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 60,
+          "word": 13,
+          "reference": "(24:60:13)"
+        },
+        "transliteration": "thiyābahunna",
+        "english_meaning": "their (outer) garments",
+        "arabic_text": "فَلَيْسَ عَلَيْهِنَّ جُنَاحٌ أَنْ يَضَعْنَ ثِيَابَهُنَّ",
+        "highlighted_word": "ثِيَابَهُنَّ",
+        "english_translation": "Such elderly women as are past the prospect of marriage,- there is no blame on them if they lay aside their (outer) garments, provided they make not a wanton display of their beauty: but it is best for them to be modest: and Allah is One Who sees and knows all things."
+      },
+      {
+        "verse_reference": {
+          "surah": 71,
+          "verse": 7,
+          "word": 11,
+          "reference": "(71:7:11)"
+        },
+        "transliteration": "thiyābahum",
+        "english_meaning": "(with) their garments",
+        "arabic_text": "جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ",
+        "highlighted_word": "ثِيَابَهُمْ",
+        "english_translation": "\"And every time I have called to them, that Thou mightest forgive them, they have (only) thrust their fingers into their ears, covered themselves up with their garments, grown obstinate, and given themselves up to arrogance."
+      },
+      {
+        "verse_reference": {
+          "surah": 74,
+          "verse": 4,
+          "word": 1,
+          "reference": "(74:4:1)"
+        },
+        "transliteration": "wathiyābaka",
+        "english_meaning": "And your clothing",
+        "arabic_text": "وَثِيَابَكَ فَطَهِّرْ",
+        "highlighted_word": "وَثِيَابَكَ",
+        "english_translation": "And thy garments keep free from stain!"
+      },
+      {
+        "verse_reference": {
+          "surah": 76,
+          "verse": 21,
+          "word": 2,
+          "reference": "(76:21:2)"
+        },
+        "transliteration": "thiyābu",
+        "english_meaning": "(will be) garments",
+        "arabic_text": "عَالِيَهُمْ ثِيَابُ سُنْدُسٍ خُضْرٌ وَإِسْتَبْرَقٌ",
+        "highlighted_word": "ثِيَابُ",
+        "english_translation": "Upon them will be green Garments of fine silk and heavy brocade, and they will be adorned with Bracelets of silver; and their Lord will give to them to drink of a Wine Pure and Holy."
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 125,
+          "word": 4,
+          "reference": "(2:125:4)"
+        },
+        "transliteration": "mathābatan",
+        "english_meaning": "a place of return",
+        "arabic_text": "وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا",
+        "highlighted_word": "مَثَابَةً",
+        "english_translation": "Remember We made the House a place of assembly for men and a place of safety; and take ye the station of Abraham as a place of prayer; and We covenanted with Abraham and Isma'il, that they should sanctify My House for those who compass it round, or use it as a retreat, or bow, or prostrate themselves (therein in prayer)."
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 103,
+          "word": 5,
+          "reference": "(2:103:5)"
+        },
+        "transliteration": "lamathūbatun",
+        "english_meaning": "surely (the) reward",
+        "arabic_text": "وَلَوْ أَنَّهُمْ آمَنُوا وَاتَّقَوْا لَمَثُوبَةٌ مِنْ عِنْدِ اللَّهِ خَيْرٌ",
+        "highlighted_word": "لَمَثُوبَةٌ",
+        "english_translation": "If they had kept their Faith and guarded themselves from evil, far better had been the reward from their Lord, if they but knew!"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 60,
+          "word": 7,
+          "reference": "(5:60:7)"
+        },
+        "transliteration": "mathūbatan",
+        "english_meaning": "(as) recompense",
+        "arabic_text": "قُلْ هَلْ أُنَبِّئُكُمْ بِشَرٍّ مِنْ ذَٰلِكَ مَثُوبَةً عِنْدَ اللَّهِ",
+        "highlighted_word": "مَثُوبَةً",
+        "english_translation": "Say: \"Shall I point out to you something much worse than this, (as judged) by the treatment it received from Allah? those who incurred the curse of Allah and His wrath, those of whom some He transformed into apes and swine, those who worshipped evil;- these are (many times) worse in rank, and far more astray from the even path!\""
+      }
+    ],
+    "total_occurrences": 28,
+    "scraped_at": "2025-08-19 17:45:40"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vwr",
+    "keyword_text": "ث و ر",
+    "description": "The triliteral root thā wāw rā (ث و ر) occurs five times in the Quran as the form IV verb athāru (أَثَارُ). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form IV)",
+    "meaning": "to raise, to plough",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 71,
+          "word": 8,
+          "reference": "(2:71:8)"
+        },
+        "transliteration": "tuthīru",
+        "english_meaning": "to plough",
+        "arabic_text": "إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا ذَلُولٌ تُثِيرُ الْأَرْضَ وَلَا تَسْقِي الْحَرْثَ",
+        "highlighted_word": "تُثِيرُ",
+        "english_translation": "He said: \"He says: A heifer not trained to till the soil or water the fields; sound and without blemish.\" They said: \"Now hast thou brought the truth.\" Then they offered her in sacrifice, but not with good-will."
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 9,
+          "word": 16,
+          "reference": "(30:9:16)"
+        },
+        "transliteration": "wa-athārū",
+        "english_meaning": "and they dug",
+        "arabic_text": "كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا الْأَرْضَ وَعَمَرُوهَا",
+        "highlighted_word": "وَأَثَارُوا",
+        "english_translation": "Do they not travel through the earth, and see what was the end of those before them? They were superior to them in strength: they tilled the soil and populated it in greater numbers than these have done: there came to them their messengers with Clear (Signs). (Which they rejected, to their own destruction): It was not Allah Who wronged them, but they wronged their own souls."
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 48,
+          "word": 5,
+          "reference": "(30:48:5)"
+        },
+        "transliteration": "fatuthīru",
+        "english_meaning": "so they raise",
+        "arabic_text": "اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا",
+        "highlighted_word": "فَتُثِيرُ",
+        "english_translation": "It is Allah Who sends the Winds, and they raise the Clouds: then does He spread them in the sky as He wills, and break them into fragments, until thou seest rain-drops issue from the midst thereof: then when He has made them reach such of his servants as He wills behold, they do rejoice!-"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 9,
+          "word": 5,
+          "reference": "(35:9:5)"
+        },
+        "transliteration": "fatuthīru",
+        "english_meaning": "so that they raise",
+        "arabic_text": "وَاللَّهُ الَّذِي أَرْسَلَ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَسُقْنَاهُ إِلَىٰ بَلَدٍ مَيِّتٍ",
+        "highlighted_word": "فَتُثِيرُ",
+        "english_translation": "It is Allah Who sends forth the Winds, so that they raise up the Clouds, and We drive them to a land that is dead, and revive the earth therewith after its death: even so (will be) the Resurrection!"
+      },
+      {
+        "verse_reference": {
+          "surah": 100,
+          "verse": 4,
+          "word": 1,
+          "reference": "(100:4:1)"
+        },
+        "transliteration": "fa-atharna",
+        "english_meaning": "Then raise",
+        "arabic_text": "فَأَثَرْنَ بِهِ نَقْعًا",
+        "highlighted_word": "فَأَثَرْنَ",
+        "english_translation": "And raise the dust in clouds the while,"
+      }
+    ],
+    "total_occurrences": 5,
+    "scraped_at": "2025-08-19 17:45:45"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vwy",
+    "keyword_text": "ث و ي",
+    "description": "The triliteral root thā wāw yā (ث و ي) occurs 14 times in the Quran, in two derived forms:",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 151,
+          "word": 18,
+          "reference": "(3:151:18)"
+        },
+        "transliteration": "mathwā",
+        "english_meaning": "(is the) abode",
+        "arabic_text": "وَمَأْوَاهُمُ النَّارُ وَبِئْسَ مَثْوَى الظَّالِمِينَ",
+        "highlighted_word": "مَثْوَى",
+        "english_translation": "Soon shall We cast terror into the hearts of the Unbelievers, for that they joined companions with Allah, for which He had sent no authority: their abode will be the Fire: And evil is the home of the wrong-doers!"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 128,
+          "word": 25,
+          "reference": "(6:128:25)"
+        },
+        "transliteration": "mathwākum",
+        "english_meaning": "(is) your abode",
+        "arabic_text": "قَالَ النَّارُ مَثْوَاكُمْ خَالِدِينَ فِيهَا إِلَّا مَا شَاءَ اللَّهُ",
+        "highlighted_word": "مَثْوَاكُمْ",
+        "english_translation": "One day will He gather them all together, (and say): \"O ye assembly of Jinns! Much (toll) did ye take of men.\" Their friends amongst men will say: \"Our Lord! we made profit from each other: but (alas!) we reached our term - which thou didst appoint for us.\" He will say: \"The Fire be your dwelling-place: you will dwell therein for ever, except as Allah willeth.\" for thy Lord is full of wisdom and knowledge."
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 21,
+          "word": 8,
+          "reference": "(12:21:8)"
+        },
+        "transliteration": "mathwāhu",
+        "english_meaning": "his stay",
+        "arabic_text": "وَقَالَ الَّذِي اشْتَرَاهُ مِنْ مِصْرَ لِامْرَأَتِهِ أَكْرِمِي مَثْوَاهُ",
+        "highlighted_word": "مَثْوَاهُ",
+        "english_translation": "The man in Egypt who bought him, said to his wife: \"Make his stay (among us) honourable: may be he will bring us much good, or we shall adopt him as a son.\" Thus did We establish Joseph in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not."
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 23,
+          "word": 19,
+          "reference": "(12:23:19)"
+        },
+        "transliteration": "mathwāya",
+        "english_meaning": "my stay",
+        "arabic_text": "قَالَ مَعَاذَ اللَّهِ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ",
+        "highlighted_word": "مَثْوَايَ",
+        "english_translation": "But she in whose house he was, sought to seduce him from his (true) self: she fastened the doors, and said: \"Now come, thou (dear one)!\" He said: \"Allah forbid! truly (thy husband) is my lord! he made my sojourn agreeable! truly to no good come those who do wrong!\""
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 29,
+          "word": 7,
+          "reference": "(16:29:7)"
+        },
+        "transliteration": "mathwā",
+        "english_meaning": "(is the) abode",
+        "arabic_text": "فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ",
+        "highlighted_word": "مَثْوَى",
+        "english_translation": "\"So enter the gates of Hell, to dwell therein. Thus evil indeed is the abode of the arrogant.\""
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 68,
+          "word": 16,
+          "reference": "(29:68:16)"
+        },
+        "transliteration": "mathwan",
+        "english_meaning": "an abode",
+        "arabic_text": "أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْكَافِرِينَ",
+        "highlighted_word": "مَثْوًى",
+        "english_translation": "And who does more wrong than he who invents a lie against Allah or rejects the Truth when it reaches him? Is there not a home in Hell for those who reject Faith?"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 32,
+          "word": 14,
+          "reference": "(39:32:14)"
+        },
+        "transliteration": "mathwan",
+        "english_meaning": "an abode",
+        "arabic_text": "أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْكَافِرِينَ",
+        "highlighted_word": "مَثْوًى",
+        "english_translation": "Who, then, doth more wrong than one who utters a lie concerning Allah, and rejects the Truth when it comes to him; is there not in Hell an abode for blasphemers?"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 60,
+          "word": 13,
+          "reference": "(39:60:13)"
+        },
+        "transliteration": "mathwan",
+        "english_meaning": "an abode",
+        "arabic_text": "أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْمُتَكَبِّرِينَ",
+        "highlighted_word": "مَثْوًى",
+        "english_translation": "On the Day of Judgment wilt thou see those who told lies against Allah;- their faces will be turned black; Is there not in Hell an abode for the Haughty?"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 72,
+          "word": 8,
+          "reference": "(39:72:8)"
+        },
+        "transliteration": "mathwā",
+        "english_meaning": "(the) abode",
+        "arabic_text": "قِيلَ ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ",
+        "highlighted_word": "مَثْوَى",
+        "english_translation": "(To them) will be said: \"Enter ye the gates of Hell, to dwell therein: and evil is (this) Abode of the Arrogant!\""
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 76,
+          "word": 7,
+          "reference": "(40:76:7)"
+        },
+        "transliteration": "mathwā",
+        "english_meaning": "(the) abode",
+        "arabic_text": "ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ",
+        "highlighted_word": "مَثْوَى",
+        "english_translation": "\"Enter ye the gates of Hell, to dwell therein: and evil is (this) abode of the arrogant!\""
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 24,
+          "word": 4,
+          "reference": "(41:24:4)"
+        },
+        "transliteration": "mathwan",
+        "english_meaning": "(is) an abode",
+        "arabic_text": "فَإِنْ يَصْبِرُوا فَالنَّارُ مَثْوًى لَهُمْ",
+        "highlighted_word": "مَثْوًى",
+        "english_translation": "If, then, they have patience, the Fire will be a home for them! and if they beg to be received into favour, into favour will they not (then) be received."
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 12,
+          "word": 21,
+          "reference": "(47:12:21)"
+        },
+        "transliteration": "mathwan",
+        "english_meaning": "(will be) an abode",
+        "arabic_text": "يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ الْأَنْعَامُ وَالنَّارُ مَثْوًى لَهُمْ",
+        "highlighted_word": "مَثْوًى",
+        "english_translation": "Verily Allah will admit those who believe and do righteous deeds, to Gardens beneath which rivers flow; while those who reject Allah will enjoy (this world) and eat as cattle eat; and the Fire will be their abode."
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 19,
+          "word": 14,
+          "reference": "(47:19:14)"
+        },
+        "transliteration": "wamathwākum",
+        "english_meaning": "and your resting places",
+        "arabic_text": "وَاللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَاكُمْ",
+        "highlighted_word": "وَمَثْوَاكُمْ",
+        "english_translation": "Know, therefore, that there is no god but Allah, and ask forgiveness for thy fault, and for the men and women who believe: for Allah knows how ye move about and how ye dwell in your homes."
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 45,
+          "word": 9,
+          "reference": "(28:45:9)"
+        },
+        "transliteration": "thāwiyan",
+        "english_meaning": "a dweller",
+        "arabic_text": "وَمَا كُنْتَ ثَاوِيًا فِي أَهْلِ مَدْيَنَ تَتْلُو عَلَيْهِمْ آيَاتِنَا وَلَٰكِنَّا كُنَّا مُرْسِلِينَ",
+        "highlighted_word": "ثَاوِيًا",
+        "english_translation": "But We raised up (new) generations, and long were the ages that passed over them; but thou wast not a dweller among the people of Madyan, rehearsing Our Signs to them; but it is We Who send messengers (with inspiration)."
+      }
+    ],
+    "total_occurrences": 14,
+    "scraped_at": "2025-08-19 17:45:50"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vyb",
+    "keyword_text": "ث ي ب",
+    "description": "The triliteral root thā yā bā (ث ي ب) occurs only once in the Quran, as the adjective thayyibāt (ثَيِّبَٰت). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Adjective",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 66,
+          "verse": 5,
+          "word": 16,
+          "reference": "(66:5:16)"
+        },
+        "transliteration": "thayyibātin",
+        "english_meaning": "previously married",
+        "arabic_text": "تَائِبَاتٍ عَابِدَاتٍ سَائِحَاتٍ ثَيِّبَاتٍ وَأَبْكَارًا",
+        "highlighted_word": "ثَيِّبَاتٍ",
+        "english_translation": "It may be, if he divorced you (all), that Allah will give him in exchange consorts better than you,- who submit (their wills), who believe, who are devout, who turn to Allah in repentance, who worship (in humility), who travel (for Faith) and fast,- previously married or virgins."
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 17:45:54"
+  }
+]

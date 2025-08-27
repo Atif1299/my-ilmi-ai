@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Islamic Keywords Dictionary</title>
+    <link rel="stylesheet" href="/static/common.css">
+    <link rel="stylesheet" href="/static/keywords.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="/" class="nav-brand">Islamic Knowledge Explorer ☪</a>
+            <div class="nav-links">
+                <a href="/" class="nav-link">Home</a>
+                <a href="/keywords" class="nav-link active">Keywords</a>
+                <!-- <a href="/quran_search" class="nav-link">Quran Search</a> -->
+                <a href="/analysis" class="nav-link">Analysis</a>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="keywords-container">
+        <header class="keywords-header">
+            <div class="header-content">
+                <h1><i class="fas fa-book-open"></i> Islamic Keywords Dictionary</h1>
+                <p>Explore Islamic terminology in English, Arabic, and Urdu</p>
+            </div>
+            
+            <div class="search-section">
+                <div class="search-container">
+                    <input type="text" id="search-input" placeholder="Search keywords..." autocomplete="off">
+                    <button id="search-btn"><i class="fas fa-search"></i></button>
+                </div>
+                <div class="filter-options">
+                    <select id="language-filter">
+                        <option value="all">All Languages</option>
+                        <option value="english">English</option>
+                        <option value="arabic">Arabic</option>
+                        <option value="urdu">Urdu</option>
+                    </select>
+                    <button id="clear-search"><i class="fas fa-times"></i> Clear</button>
+                </div>
+            </div>
+        </header>
+
+        <div class="stats-bar">
+            <div class="stat-item">
+                <span class="stat-number" id="total-keywords">0</span>
+                <span class="stat-label">Total Keywords</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" id="english-count">0</span>
+                <span class="stat-label">English</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" id="arabic-count">0</span>
+                <span class="stat-label">Arabic</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" id="urdu-count">0</span>
+                <span class="stat-label">Urdu</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" id="visible-count">0</span>
+                <span class="stat-label">Visible</span>
+            </div>
+        </div>
+
+        <div class="keywords-content">
+            <div class="loading-spinner" id="loading-spinner">
+                <i class="fas fa-spinner fa-spin"></i>
+                <p>Loading keywords...</p>
+            </div>
+            
+            <div class="keywords-grid" id="keywords-grid" style="display: none;">
+                <!-- Headers for all three columns -->
+                <div class="columns-header">
+                    <div class="column-header english-header">
+                        <i class="fas fa-flag"></i>
+                        <h2>English</h2>
+                        <span class="column-count" id="english-visible">0</span>
+                    </div>
+                    <div class="column-header arabic-header">
+                        <i class="fas fa-flag"></i>
+                        <h2>العربية</h2>
+                        <span class="column-count" id="arabic-visible">0</span>
+                    </div>
+                    <div class="column-header urdu-header">
+                        <i class="fas fa-flag"></i>
+                        <h2>اردو</h2>
+                        <span class="column-count" id="urdu-visible">0</span>
+                    </div>
+                </div>
+                
+                <!-- Synchronized scrollable content -->
+                <div class="keywords-scrollable-container">
+                    <div class="keywords-rows" id="keywords-rows">
+                        <!-- Keyword rows will be populated here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="error-message" id="error-message" style="display: none;">
+            <i class="fas fa-exclamation-triangle"></i>
+            <p>Failed to load keywords. Please try again.</p>
+            <button id="retry-btn">Retry</button>
+        </div>
+
+        <footer class="keywords-footer">
+            <p>Developed with ❤ by NexusBerry Training & Solutions</p>
+            <div class="footer-actions">
+                <button id="export-btn"><i class="fas fa-download"></i> Export Data</button>
+                <button id="print-btn"><i class="fas fa-print"></i> Print</button>
+            </div>
+        </footer>
+    </div>
+
+    <script src="/static/keywords.js"></script>
+</body>
+</html>

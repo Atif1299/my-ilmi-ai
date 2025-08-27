@@ -1,0 +1,2930 @@
+[
+  {
+    "letter": "v",
+    "keyword_value": "vbt",
+    "keyword_text": "ث ب ت",
+    "description": "The triliteral root thā bā tā (ث ب ت) occurs 18 times in the Quran, in six derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to be firm",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 45,
+          "word": 7,
+          "reference": "(8:45:7)"
+        },
+        "transliteration": "fa-uth'butū",
+        "english_meaning": "then be firm",
+        "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمْ فِئَةً فَاثْبُتُوا",
+        "highlighted_word": "فَاثْبُتُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 250,
+          "word": 10,
+          "reference": "(2:250:10)"
+        },
+        "transliteration": "wathabbit",
+        "english_meaning": "and make firm",
+        "arabic_text": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا",
+        "highlighted_word": "وَثَبِّتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 147,
+          "word": 14,
+          "reference": "(3:147:14)"
+        },
+        "transliteration": "wathabbit",
+        "english_meaning": "and make firm",
+        "arabic_text": "رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا",
+        "highlighted_word": "وَثَبِّتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 11,
+          "word": 20,
+          "reference": "(8:11:20)"
+        },
+        "transliteration": "wayuthabbita",
+        "english_meaning": "and make firm",
+        "arabic_text": "وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ الْأَقْدَامَ",
+        "highlighted_word": "وَيُثَبِّتَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 12,
+          "word": 8,
+          "reference": "(8:12:8)"
+        },
+        "transliteration": "fathabbitū",
+        "english_meaning": "so strengthen",
+        "arabic_text": "إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا",
+        "highlighted_word": "فَثَبِّتُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 120,
+          "word": 8,
+          "reference": "(11:120:8)"
+        },
+        "transliteration": "nuthabbitu",
+        "english_meaning": "We may make firm",
+        "arabic_text": "وَكُلًّا نَقُصُّ عَلَيْكَ مِنْ أَنْبَاءِ الرُّسُلِ مَا نُثَبِّتُ بِهِ فُؤَادَكَ",
+        "highlighted_word": "نُثَبِّتُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 27,
+          "word": 1,
+          "reference": "(14:27:1)"
+        },
+        "transliteration": "yuthabbitu",
+        "english_meaning": "Allah keeps firm",
+        "arabic_text": "يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ",
+        "highlighted_word": "يُثَبِّتُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 102,
+          "word": 8,
+          "reference": "(16:102:8)"
+        },
+        "transliteration": "liyuthabbita",
+        "english_meaning": "to make firm",
+        "arabic_text": "قُلْ نَزَّلَهُ رُوحُ الْقُدُسِ مِنْ رَبِّكَ بِالْحَقِّ لِيُثَبِّتَ الَّذِينَ آمَنُوا",
+        "highlighted_word": "لِيُثَبِّتَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 74,
+          "word": 3,
+          "reference": "(17:74:3)"
+        },
+        "transliteration": "thabbatnāka",
+        "english_meaning": "We (had) strengthened you",
+        "arabic_text": "وَلَوْلَا أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا قَلِيلًا",
+        "highlighted_word": "ثَبَّتْنَاكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 32,
+          "word": 11,
+          "reference": "(25:32:11)"
+        },
+        "transliteration": "linuthabbita",
+        "english_meaning": "that We may strengthen",
+        "arabic_text": "كَذَٰلِكَ لِنُثَبِّتَ بِهِ فُؤَادَكَ وَرَتَّلْنَاهُ تَرْتِيلًا",
+        "highlighted_word": "لِنُثَبِّتَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 7,
+          "word": 8,
+          "reference": "(47:7:8)"
+        },
+        "transliteration": "wayuthabbit",
+        "english_meaning": "and make firm",
+        "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+        "highlighted_word": "وَيُثَبِّتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 30,
+          "word": 6,
+          "reference": "(8:30:6)"
+        },
+        "transliteration": "liyuth'bitūka",
+        "english_meaning": "that they restrain you",
+        "arabic_text": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ",
+        "highlighted_word": "لِيُثْبِتُوكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 39,
+          "word": 5,
+          "reference": "(13:39:5)"
+        },
+        "transliteration": "wayuth'bitu",
+        "english_meaning": "and confirms",
+        "arabic_text": "يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الْكِتَابِ",
+        "highlighted_word": "وَيُثْبِتُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 94,
+          "word": 9,
+          "reference": "(16:94:9)"
+        },
+        "transliteration": "thubūtihā",
+        "english_meaning": "it is firmly planted",
+        "arabic_text": "وَلَا تَتَّخِذُوا أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ فَتَزِلَّ قَدَمٌ بَعْدَ ثُبُوتِهَا",
+        "highlighted_word": "ثُبُوتِهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 24,
+          "word": 12,
+          "reference": "(14:24:12)"
+        },
+        "transliteration": "thābitun",
+        "english_meaning": "(is) firm",
+        "arabic_text": "كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ",
+        "highlighted_word": "ثَابِتٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 27,
+          "word": 6,
+          "reference": "(14:27:6)"
+        },
+        "transliteration": "l-thābiti",
+        "english_meaning": "with the firm word",
+        "arabic_text": "يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ",
+        "highlighted_word": "الثَّابِتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 265,
+          "word": 8,
+          "reference": "(2:265:8)"
+        },
+        "transliteration": "watathbītan",
+        "english_meaning": "and certainty",
+        "arabic_text": "وَمَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَتَثْبِيتًا مِنْ أَنْفُسِهِمْ كَمَثَلِ جَنَّةٍ بِرَبْوَةٍ",
+        "highlighted_word": "وَتَثْبِيتًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 66,
+          "word": 27,
+          "reference": "(4:66:27)"
+        },
+        "transliteration": "tathbītan",
+        "english_meaning": "strengthen(ing)",
+        "arabic_text": "وَلَوْ أَنَّهُمْ فَعَلُوا مَا يُوعَظُونَ بِهِ لَكَانَ خَيْرًا لَهُمْ وَأَشَدَّ تَثْبِيتًا",
+        "highlighted_word": "تَثْبِيتًا"
+      }
+    ],
+    "total_occurrences": 18,
+    "scraped_at": "2025-08-19 17:44:23"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vbr",
+    "keyword_text": "ث ب ر",
+    "description": "The triliteral root thā bā rā (ث ب ر) occurs five times in the Quran, in two derived forms:",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 13,
+          "word": 9,
+          "reference": "(25:13:9)"
+        },
+        "transliteration": "thubūran",
+        "english_meaning": "(for) destruction",
+        "arabic_text": "وَإِذَا أُلْقُوا مِنْهَا مَكَانًا ضَيِّقًا مُقَرَّنِينَ دَعَوْا هُنَالِكَ ثُبُورًا",
+        "highlighted_word": "ثُبُورًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 14,
+          "word": 4,
+          "reference": "(25:14:4)"
+        },
+        "transliteration": "thubūran",
+        "english_meaning": "(for) destruction",
+        "arabic_text": "لَا تَدْعُوا الْيَوْمَ ثُبُورًا وَاحِدًا",
+        "highlighted_word": "ثُبُورًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 14,
+          "word": 7,
+          "reference": "(25:14:7)"
+        },
+        "transliteration": "thubūran",
+        "english_meaning": "(for) destructions",
+        "arabic_text": "وَادْعُوا ثُبُورًا كَثِيرًا",
+        "highlighted_word": "ثُبُورًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 84,
+          "verse": 11,
+          "word": 3,
+          "reference": "(84:11:3)"
+        },
+        "transliteration": "thubūran",
+        "english_meaning": "(for) destruction",
+        "arabic_text": "فَسَوْفَ يَدْعُو ثُبُورًا",
+        "highlighted_word": "ثُبُورًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 102,
+          "word": 15,
+          "reference": "(17:102:15)"
+        },
+        "transliteration": "mathbūran",
+        "english_meaning": "(you are) destroyed",
+        "arabic_text": "وَإِنِّي لَأَظُنُّكَ يَا فِرْعَوْنُ مَثْبُورًا",
+        "highlighted_word": "مَثْبُورًا"
+      }
+    ],
+    "total_occurrences": 5,
+    "scraped_at": "2025-08-19 17:44:29"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vbT",
+    "keyword_text": "ث ب ط",
+    "description": "The triliteral root thā bā ṭā (ث ب ط) occurs only once in the Quran, as the form II verb thabbaṭa (ثَبَّطَ). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form II)",
+    "meaning": "to make lag behind",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 46,
+          "word": 11,
+          "reference": "(9:46:11)"
+        },
+        "transliteration": "fathabbaṭahum",
+        "english_meaning": "so He made them lag behind",
+        "arabic_text": "وَلَٰكِنْ كَرِهَ اللَّهُ انْبِعَاثَهُمْ فَثَبَّطَهُمْ",
+        "highlighted_word": "فَثَبَّطَهُمْ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 17:44:33"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vby",
+    "keyword_text": "ث ب ي",
+    "description": "The triliteral root thā bā yā (ث ب ي) occurs only once in the Quran, as the noun thubāt (ثُبَات). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 71,
+          "word": 7,
+          "reference": "(4:71:7)"
+        },
+        "transliteration": "thubātin",
+        "english_meaning": "(in) groups",
+        "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ فَانْفِرُوا ثُبَاتٍ",
+        "highlighted_word": "ثُبَاتٍ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 17:44:37"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vjj",
+    "keyword_text": "ث ج ج",
+    "description": "The triliteral root thā jīm jīm (ث ج ج) occurs only once in the Quran, as the adjective thajjāj (ثَجَّاج). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Adjective",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 78,
+          "verse": 14,
+          "word": 5,
+          "reference": "(78:14:5)"
+        },
+        "transliteration": "thajjājan",
+        "english_meaning": "pouring abundantly",
+        "arabic_text": "وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا",
+        "highlighted_word": "ثَجَّاجًا"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 17:44:40"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vxn",
+    "keyword_text": "ث خ ن",
+    "description": "The triliteral root thā khā nūn (ث خ ن) occurs twice in the Quran as the form IV verb athkhan (أَثْخَن). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form IV)",
+    "meaning": "to battle, to subdue",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 67,
+          "word": 9,
+          "reference": "(8:67:9)"
+        },
+        "transliteration": "yuth'khina",
+        "english_meaning": "he has battled strenuously",
+        "arabic_text": "مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي الْأَرْضِ",
+        "highlighted_word": "يُثْخِنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 4,
+          "word": 9,
+          "reference": "(47:4:9)"
+        },
+        "transliteration": "athkhantumūhum",
+        "english_meaning": "you have subdued them",
+        "arabic_text": "حَتَّىٰ إِذَا أَثْخَنْتُمُوهُمْ فَشُدُّوا الْوَثَاقَ",
+        "highlighted_word": "أَثْخَنْتُمُوهُمْ"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 17:44:44"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vrb",
+    "keyword_text": "ث ر ب",
+    "description": "The triliteral root thā rā bā (ث ر ب) occurs only once in the Quran, as the form II verbal noun tathrīb (تَثْرِيب). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verbal noun (form II)",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 92,
+          "word": 3,
+          "reference": "(12:92:3)"
+        },
+        "transliteration": "tathrība",
+        "english_meaning": "blame",
+        "arabic_text": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللَّهُ لَكُمْ",
+        "highlighted_word": "تَثْرِيبَ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 17:44:48"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vry",
+    "keyword_text": "ث ر ي",
+    "description": "The triliteral root thā rā yā (ث ر ي) occurs only once in the Quran, as the noun tharā (ثَّرَىٰ). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 6,
+          "word": 12,
+          "reference": "(20:6:12)"
+        },
+        "transliteration": "l-tharā",
+        "english_meaning": "the soil",
+        "arabic_text": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرَىٰ",
+        "highlighted_word": "الثَّرَىٰ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 17:44:52"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vEb",
+    "keyword_text": "ث ع ب",
+    "description": "The triliteral root thā ʿayn bā (ث ع ب) occurs twice in the Quran as the noun thuʿ'bān (ثُعْبَان). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 107,
+          "word": 5,
+          "reference": "(7:107:5)"
+        },
+        "transliteration": "thuʿ'bānun",
+        "english_meaning": "(was) a serpent",
+        "arabic_text": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ",
+        "highlighted_word": "ثُعْبَانٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 32,
+          "word": 5,
+          "reference": "(26:32:5)"
+        },
+        "transliteration": "thuʿ'bānun",
+        "english_meaning": "(was) a serpent",
+        "arabic_text": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ",
+        "highlighted_word": "ثُعْبَانٌ"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 17:44:56"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vqb",
+    "keyword_text": "ث ق ب",
+    "description": "The triliteral root thā qāf bā (ث ق ب) occurs twice in the Quran as the active participle thāqib (ثَاقِب). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Active participle",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 86,
+          "verse": 3,
+          "word": 2,
+          "reference": "(86:3:2)"
+        },
+        "transliteration": "l-thāqibu",
+        "english_meaning": "the piercing",
+        "arabic_text": "النَّجْمُ الثَّاقِبُ",
+        "highlighted_word": "الثَّاقِبُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 10,
+          "word": 7,
+          "reference": "(37:10:7)"
+        },
+        "transliteration": "thāqibun",
+        "english_meaning": "piercing",
+        "arabic_text": "إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ",
+        "highlighted_word": "ثَاقِبٌ"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 17:45:00"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vqf",
+    "keyword_text": "ث ق ف",
+    "description": "The triliteral root thā qāf fā (ث ق ف) occurs six times in the Quran as the form I verb thuqifu (ثُقِفُ). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form I)",
+    "meaning": "to find, to gain dominance",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 191,
+          "word": 3,
+          "reference": "(2:191:3)"
+        },
+        "transliteration": "thaqif'tumūhum",
+        "english_meaning": "you find them",
+        "arabic_text": "وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ",
+        "highlighted_word": "ثَقِفْتُمُوهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 112,
+          "word": 6,
+          "reference": "(3:112:6)"
+        },
+        "transliteration": "thuqifū",
+        "english_meaning": "they are found",
+        "arabic_text": "ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا إِلَّا بِحَبْلٍ مِنَ اللَّهِ وَحَبْلٍ مِنَ النَّاسِ",
+        "highlighted_word": "ثُقِفُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 91,
+          "word": 26,
+          "reference": "(4:91:26)"
+        },
+        "transliteration": "thaqif'tumūhum",
+        "english_meaning": "you find them",
+        "arabic_text": "فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ",
+        "highlighted_word": "ثَقِفْتُمُوهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 57,
+          "word": 2,
+          "reference": "(8:57:2)"
+        },
+        "transliteration": "tathqafannahum",
+        "english_meaning": "you gain dominance over them",
+        "arabic_text": "فَإِمَّا تَثْقَفَنَّهُمْ فِي الْحَرْبِ فَشَرِّدْ بِهِمْ مَنْ خَلْفَهُمْ",
+        "highlighted_word": "تَثْقَفَنَّهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 61,
+          "word": 3,
+          "reference": "(33:61:3)"
+        },
+        "transliteration": "thuqifū",
+        "english_meaning": "they are found",
+        "arabic_text": "مَلْعُونِينَ أَيْنَمَا ثُقِفُوا أُخِذُوا وَقُتِّلُوا تَقْتِيلًا",
+        "highlighted_word": "ثُقِفُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 60,
+          "verse": 2,
+          "word": 2,
+          "reference": "(60:2:2)"
+        },
+        "transliteration": "yathqafūkum",
+        "english_meaning": "they gain dominance over you",
+        "arabic_text": "إِنْ يَثْقَفُوكُمْ يَكُونُوا لَكُمْ أَعْدَاءً",
+        "highlighted_word": "يَثْقَفُوكُمْ"
+      }
+    ],
+    "total_occurrences": 6,
+    "scraped_at": "2025-08-19 17:45:04"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vql",
+    "keyword_text": "ث ق ل",
+    "description": "The triliteral root thā qāf lām (ث ق ل) occurs 28 times in the Quran, in eight derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to be heavy",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 8,
+          "word": 5,
+          "reference": "(7:8:5)"
+        },
+        "transliteration": "thaqulat",
+        "english_meaning": "(will be) heavy",
+        "arabic_text": "وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+        "highlighted_word": "ثَقُلَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 187,
+          "word": 16,
+          "reference": "(7:187:16)"
+        },
+        "transliteration": "thaqulat",
+        "english_meaning": "It lays heavily",
+        "arabic_text": "ثَقُلَتْ فِي السَّمَاوَاتِ وَالْأَرْضِ لَا تَأْتِيكُمْ إِلَّا بَغْتَةً",
+        "highlighted_word": "ثَقُلَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 102,
+          "word": 2,
+          "reference": "(23:102:2)"
+        },
+        "transliteration": "thaqulat",
+        "english_meaning": "(are) heavy",
+        "arabic_text": "فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+        "highlighted_word": "ثَقُلَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 101,
+          "verse": 6,
+          "word": 3,
+          "reference": "(101:6:3)"
+        },
+        "transliteration": "thaqulat",
+        "english_meaning": "(are) heavy",
+        "arabic_text": "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ",
+        "highlighted_word": "ثَقُلَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 189,
+          "word": 20,
+          "reference": "(7:189:20)"
+        },
+        "transliteration": "athqalat",
+        "english_meaning": "she grows heavy",
+        "arabic_text": "فَلَمَّا أَثْقَلَتْ دَعَوَا اللَّهَ رَبَّهُمَا لَئِنْ آتَيْتَنَا صَالِحًا لَنَكُونَنَّ مِنَ الشَّاكِرِينَ",
+        "highlighted_word": "أَثْقَلَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 38,
+          "word": 13,
+          "reference": "(9:38:13)"
+        },
+        "transliteration": "ithāqaltum",
+        "english_meaning": "you cling heavily",
+        "arabic_text": "مَا لَكُمْ إِذَا قِيلَ لَكُمُ انْفِرُوا فِي سَبِيلِ اللَّهِ اثَّاقَلْتُمْ إِلَى الْأَرْضِ",
+        "highlighted_word": "اثَّاقَلْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 7,
+          "word": 2,
+          "reference": "(16:7:2)"
+        },
+        "transliteration": "athqālakum",
+        "english_meaning": "your loads",
+        "arabic_text": "وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍ لَمْ تَكُونُوا بَالِغِيهِ إِلَّا بِشِقِّ الْأَنْفُسِ",
+        "highlighted_word": "أَثْقَالَكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 13,
+          "word": 2,
+          "reference": "(29:13:2)"
+        },
+        "transliteration": "athqālahum",
+        "english_meaning": "their burdens",
+        "arabic_text": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ",
+        "highlighted_word": "أَثْقَالَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 13,
+          "word": 3,
+          "reference": "(29:13:3)"
+        },
+        "transliteration": "wa-athqālan",
+        "english_meaning": "and burdens",
+        "arabic_text": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَعَ أَثْقَالِهِمْ",
+        "highlighted_word": "وَأَثْقَالًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 13,
+          "word": 5,
+          "reference": "(29:13:5)"
+        },
+        "transliteration": "athqālihim",
+        "english_meaning": "their burdens",
+        "arabic_text": "وَأَثْقَالًا مَعَ أَثْقَالِهِمْ",
+        "highlighted_word": "أَثْقَالِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 55,
+          "verse": 31,
+          "word": 4,
+          "reference": "(55:31:4)"
+        },
+        "transliteration": "l-thaqalāni",
+        "english_meaning": "two classes",
+        "arabic_text": "سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ",
+        "highlighted_word": "الثَّقَلَانِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 99,
+          "verse": 2,
+          "word": 3,
+          "reference": "(99:2:3)"
+        },
+        "transliteration": "athqālahā",
+        "english_meaning": "its burdens",
+        "arabic_text": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+        "highlighted_word": "أَثْقَالَهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 57,
+          "word": 13,
+          "reference": "(7:57:13)"
+        },
+        "transliteration": "thiqālan",
+        "english_meaning": "heavy",
+        "arabic_text": "حَتَّىٰ إِذَا أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَاهُ لِبَلَدٍ مَيِّتٍ",
+        "highlighted_word": "ثِقَالًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 12,
+          "word": 9,
+          "reference": "(13:12:9)"
+        },
+        "transliteration": "l-thiqāla",
+        "english_meaning": "the heavy",
+        "arabic_text": "هُوَ الَّذِي يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنْشِئُ السَّحَابَ الثِّقَالَ",
+        "highlighted_word": "الثِّقَالَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 73,
+          "verse": 5,
+          "word": 5,
+          "reference": "(73:5:5)"
+        },
+        "transliteration": "thaqīlan",
+        "english_meaning": "heavy",
+        "arabic_text": "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا",
+        "highlighted_word": "ثَقِيلًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 76,
+          "verse": 27,
+          "word": 8,
+          "reference": "(76:27:8)"
+        },
+        "transliteration": "thaqīlan",
+        "english_meaning": "grave",
+        "arabic_text": "إِنَّ هَٰؤُلَاءِ يُحِبُّونَ الْعَاجِلَةَ وَيَذَرُونَ وَرَاءَهُمْ يَوْمًا ثَقِيلًا",
+        "highlighted_word": "ثَقِيلًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 41,
+          "word": 3,
+          "reference": "(9:41:3)"
+        },
+        "transliteration": "wathiqālan",
+        "english_meaning": "or heavy",
+        "arabic_text": "انْفِرُوا خِفَافًا وَثِقَالًا وَجَاهِدُوا بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ فِي سَبِيلِ اللَّهِ",
+        "highlighted_word": "وَثِقَالًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 40,
+          "word": 5,
+          "reference": "(4:40:5)"
+        },
+        "transliteration": "mith'qāla",
+        "english_meaning": "(as much as) weight",
+        "arabic_text": "إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ",
+        "highlighted_word": "مِثْقَالَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 61,
+          "word": 26,
+          "reference": "(10:61:26)"
+        },
+        "transliteration": "mith'qāli",
+        "english_meaning": "(the) weight",
+        "arabic_text": "وَمَا يَعْزُبُ عَنْ رَبِّكَ مِنْ مِثْقَالِ ذَرَّةٍ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ",
+        "highlighted_word": "مِثْقَالِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 47,
+          "word": 12,
+          "reference": "(21:47:12)"
+        },
+        "transliteration": "mith'qāla",
+        "english_meaning": "weight",
+        "arabic_text": "وَإِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَىٰ بِنَا حَاسِبِينَ",
+        "highlighted_word": "مِثْقَالَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 31,
+          "verse": 16,
+          "word": 5,
+          "reference": "(31:16:5)"
+        },
+        "transliteration": "mith'qāla",
+        "english_meaning": "(the) weight",
+        "arabic_text": "يَا بُنَيَّ إِنَّهَا إِنْ تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ فَتَكُنْ فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ بِهَا اللَّهُ",
+        "highlighted_word": "مِثْقَالَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 3,
+          "word": 16,
+          "reference": "(34:3:16)"
+        },
+        "transliteration": "mith'qālu",
+        "english_meaning": "(the) weight",
+        "arabic_text": "لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ",
+        "highlighted_word": "مِثْقَالُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 22,
+          "word": 10,
+          "reference": "(34:22:10)"
+        },
+        "transliteration": "mith'qāla",
+        "english_meaning": "(the) weight",
+        "arabic_text": "لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ",
+        "highlighted_word": "مِثْقَالَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 99,
+          "verse": 7,
+          "word": 3,
+          "reference": "(99:7:3)"
+        },
+        "transliteration": "mith'qāla",
+        "english_meaning": "(equal to the) weight",
+        "arabic_text": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "highlighted_word": "مِثْقَالَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 99,
+          "verse": 8,
+          "word": 3,
+          "reference": "(99:8:3)"
+        },
+        "transliteration": "mith'qāla",
+        "english_meaning": "(equal to the) weight",
+        "arabic_text": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+        "highlighted_word": "مِثْقَالَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 52,
+          "verse": 40,
+          "word": 7,
+          "reference": "(52:40:7)"
+        },
+        "transliteration": "muth'qalūna",
+        "english_meaning": "(are) overburdened",
+        "arabic_text": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ",
+        "highlighted_word": "مُثْقَلُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 68,
+          "verse": 46,
+          "word": 7,
+          "reference": "(68:46:7)"
+        },
+        "transliteration": "muth'qalūna",
+        "english_meaning": "(are) burdened",
+        "arabic_text": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ",
+        "highlighted_word": "مُثْقَلُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 18,
+          "word": 8,
+          "reference": "(35:18:8)"
+        },
+        "transliteration": "muth'qalatun",
+        "english_meaning": "a heavily laden",
+        "arabic_text": "وَإِنْ تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَيْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰ",
+        "highlighted_word": "مُثْقَلَةٌ"
+      }
+    ],
+    "total_occurrences": 28,
+    "scraped_at": "2025-08-19 17:45:08"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vlv",
+    "keyword_text": "ث ل ث",
+    "description": "The triliteral root thā lām thā (ث ل ث) occurs 32 times in the Quran, in six derived forms:",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 73,
+          "word": 7,
+          "reference": "(5:73:7)"
+        },
+        "transliteration": "thālithu",
+        "english_meaning": "(is the) third",
+        "arabic_text": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ",
+        "highlighted_word": "ثَالِثُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 14,
+          "word": 7,
+          "reference": "(36:14:7)"
+        },
+        "transliteration": "bithālithin",
+        "english_meaning": "with a third",
+        "arabic_text": "إِذْ أَرْسَلْنَا إِلَيْهِمُ اثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ",
+        "highlighted_word": "بِثَالِثٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 20,
+          "word": 2,
+          "reference": "(53:20:2)"
+        },
+        "transliteration": "l-thālithata",
+        "english_meaning": "the third",
+        "arabic_text": "وَمَنَاةَ الثَّالِثَةَ الْأُخْرَىٰ",
+        "highlighted_word": "الثَّالِثَةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 3,
+          "word": 14,
+          "reference": "(4:3:14)"
+        },
+        "transliteration": "wathulātha",
+        "english_meaning": "or three",
+        "arabic_text": "فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ",
+        "highlighted_word": "وَثُلَاثَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 1,
+          "word": 12,
+          "reference": "(35:1:12)"
+        },
+        "transliteration": "wathulātha",
+        "english_meaning": "or three",
+        "arabic_text": "جَاعِلِ الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ",
+        "highlighted_word": "وَثُلَاثَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 142,
+          "word": 3,
+          "reference": "(7:142:3)"
+        },
+        "transliteration": "thalāthīna",
+        "english_meaning": "thirty",
+        "arabic_text": "وَوَاعَدْنَا مُوسَىٰ ثَلَاثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ",
+        "highlighted_word": "ثَلَاثِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 25,
+          "word": 4,
+          "reference": "(18:25:4)"
+        },
+        "transliteration": "thalātha",
+        "english_meaning": "(for) three",
+        "arabic_text": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
+        "highlighted_word": "ثَلَاثَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 58,
+          "word": 13,
+          "reference": "(24:58:13)"
+        },
+        "transliteration": "thalātha",
+        "english_meaning": "(at) three",
+        "arabic_text": "لِيَسْتَأْذِنْكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنْكُمْ ثَلَاثَ مَرَّاتٍ",
+        "highlighted_word": "ثَلَاثَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 58,
+          "word": 28,
+          "reference": "(24:58:28)"
+        },
+        "transliteration": "thalāthu",
+        "english_meaning": "(These) three",
+        "arabic_text": "ثَلَاثُ عَوْرَاتٍ لَكُمْ لَيْسَ عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌ بَعْدَهُنَّ",
+        "highlighted_word": "ثَلَاثُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 6,
+          "word": 25,
+          "reference": "(39:6:25)"
+        },
+        "transliteration": "thalāthin",
+        "english_meaning": "three",
+        "arabic_text": "يَخْلُقُكُمْ فِي بُطُونِ أُمَّهَاتِكُمْ خَلْقًا مِنْ بَعْدِ خَلْقٍ فِي ظُلُمَاتٍ ثَلَاثٍ",
+        "highlighted_word": "ثَلَاثٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 46,
+          "verse": 15,
+          "word": 12,
+          "reference": "(46:15:12)"
+        },
+        "transliteration": "thalāthūna",
+        "english_meaning": "(is) thirty",
+        "arabic_text": "وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا",
+        "highlighted_word": "ثَلَاثُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 77,
+          "verse": 30,
+          "word": 5,
+          "reference": "(77:30:5)"
+        },
+        "transliteration": "thalāthi",
+        "english_meaning": "three",
+        "arabic_text": "انْطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ",
+        "highlighted_word": "ثَلَاثِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 10,
+          "word": 11,
+          "reference": "(19:10:11)"
+        },
+        "transliteration": "thalātha",
+        "english_meaning": "(for) three",
+        "arabic_text": "قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ سَوِيًّا",
+        "highlighted_word": "ثَلَاثَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 196,
+          "word": 49,
+          "reference": "(2:196:49)"
+        },
+        "transliteration": "thalāthati",
+        "english_meaning": "(of) three",
+        "arabic_text": "فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ",
+        "highlighted_word": "ثَلَاثَةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 228,
+          "word": 4,
+          "reference": "(2:228:4)"
+        },
+        "transliteration": "thalāthata",
+        "english_meaning": "(for) three",
+        "arabic_text": "وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ",
+        "highlighted_word": "ثَلَاثَةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 124,
+          "word": 9,
+          "reference": "(3:124:9)"
+        },
+        "transliteration": "bithalāthati",
+        "english_meaning": "with three",
+        "arabic_text": "أَلَنْ يَكْفِيَكُمْ أَنْ يُمِدَّكُمْ رَبُّكُمْ بِثَلَاثَةِ آلَافٍ مِنَ الْمَلَائِكَةِ مُنْزَلِينَ",
+        "highlighted_word": "بِثَلَاثَةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 171,
+          "word": 31,
+          "reference": "(4:171:31)"
+        },
+        "transliteration": "thalāthatun",
+        "english_meaning": "Three",
+        "arabic_text": "فَآمِنُوا بِاللَّهِ وَرُسُلِهِ وَلَا تَقُولُوا ثَلَاثَةٌ انْتَهُوا خَيْرًا لَكُمْ",
+        "highlighted_word": "ثَلَاثَةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 73,
+          "word": 8,
+          "reference": "(5:73:8)"
+        },
+        "transliteration": "thalāthatin",
+        "english_meaning": "(of) three",
+        "arabic_text": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ",
+        "highlighted_word": "ثَلَاثَةٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 89,
+          "word": 30,
+          "reference": "(5:89:30)"
+        },
+        "transliteration": "thalāthati",
+        "english_meaning": "(for) three",
+        "arabic_text": "فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ ذَٰلِكَ كَفَّارَةُ أَيْمَانِكُمْ",
+        "highlighted_word": "ثَلَاثَةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 118,
+          "word": 2,
+          "reference": "(9:118:2)"
+        },
+        "transliteration": "l-thalāthati",
+        "english_meaning": "the three",
+        "arabic_text": "وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا",
+        "highlighted_word": "الثَّلَاثَةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 65,
+          "word": 6,
+          "reference": "(11:65:6)"
+        },
+        "transliteration": "thalāthata",
+        "english_meaning": "(for) three",
+        "arabic_text": "فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ",
+        "highlighted_word": "ثَلَاثَةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 22,
+          "word": 2,
+          "reference": "(18:22:2)"
+        },
+        "transliteration": "thalāthatun",
+        "english_meaning": "(they were) three",
+        "arabic_text": "سَيَقُولُونَ ثَلَاثَةٌ رَابِعُهُمْ كَلْبُهُمْ",
+        "highlighted_word": "ثَلَاثَةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 7,
+          "word": 3,
+          "reference": "(56:7:3)"
+        },
+        "transliteration": "thalāthatan",
+        "english_meaning": "three",
+        "arabic_text": "وَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً",
+        "highlighted_word": "ثَلَاثَةً"
+      },
+      {
+        "verse_reference": {
+          "surah": 58,
+          "verse": 7,
+          "word": 16,
+          "reference": "(58:7:16)"
+        },
+        "transliteration": "thalāthatin",
+        "english_meaning": "(of) three",
+        "arabic_text": "مَا يَكُونُ مِنْ نَجْوَىٰ ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ",
+        "highlighted_word": "ثَلَاثَةٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 65,
+          "verse": 4,
+          "word": 10,
+          "reference": "(65:4:10)"
+        },
+        "transliteration": "thalāthatu",
+        "english_meaning": "(is) three",
+        "arabic_text": "وَاللَّائِي يَئِسْنَ مِنَ الْمَحِيضِ مِنْ نِسَائِكُمْ إِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَاثَةُ أَشْهُرٍ",
+        "highlighted_word": "ثَلَاثَةُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 41,
+          "word": 11,
+          "reference": "(3:41:11)"
+        },
+        "transliteration": "thalāthata",
+        "english_meaning": "(for) three",
+        "arabic_text": "قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَةَ أَيَّامٍ إِلَّا رَمْزًا",
+        "highlighted_word": "ثَلَاثَةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 11,
+          "word": 15,
+          "reference": "(4:11:15)"
+        },
+        "transliteration": "thuluthā",
+        "english_meaning": "two thirds",
+        "arabic_text": "فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ",
+        "highlighted_word": "ثُلُثَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 11,
+          "word": 42,
+          "reference": "(4:11:42)"
+        },
+        "transliteration": "l-thuluthu",
+        "english_meaning": "(is) one third",
+        "arabic_text": "فَإِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُ أَبَوَاهُ فَلِأُمِّهِ الثُّلُثُ",
+        "highlighted_word": "الثُّلُثُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 12,
+          "word": 73,
+          "reference": "(4:12:73)"
+        },
+        "transliteration": "l-thuluthi",
+        "english_meaning": "the third",
+        "arabic_text": "فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ",
+        "highlighted_word": "الثُّلُثِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 176,
+          "word": 30,
+          "reference": "(4:176:30)"
+        },
+        "transliteration": "l-thuluthāni",
+        "english_meaning": "two thirds",
+        "arabic_text": "فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ",
+        "highlighted_word": "الثُّلُثَانِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 73,
+          "verse": 20,
+          "word": 8,
+          "reference": "(73:20:8)"
+        },
+        "transliteration": "thuluthayi",
+        "english_meaning": "two-thirds",
+        "arabic_text": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ",
+        "highlighted_word": "ثُلُثَيِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 73,
+          "verse": 20,
+          "word": 11,
+          "reference": "(73:20:11)"
+        },
+        "transliteration": "wathuluthahu",
+        "english_meaning": "and a third of it",
+        "arabic_text": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ",
+        "highlighted_word": "وَثُلُثَهُ"
+      }
+    ],
+    "total_occurrences": 32,
+    "scraped_at": "2025-08-19 17:45:13"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vll",
+    "keyword_text": "ث ل ل",
+    "description": "The triliteral root thā lām lām (ث ل ل) occurs three times in the Quran as the noun thullat (ثُلَّة). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 13,
+          "word": 1,
+          "reference": "(56:13:1)"
+        },
+        "transliteration": "thullatun",
+        "english_meaning": "A company",
+        "arabic_text": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
+        "highlighted_word": "ثُلَّةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 39,
+          "word": 1,
+          "reference": "(56:39:1)"
+        },
+        "transliteration": "thullatun",
+        "english_meaning": "A company",
+        "arabic_text": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
+        "highlighted_word": "ثُلَّةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 40,
+          "word": 1,
+          "reference": "(56:40:1)"
+        },
+        "transliteration": "wathullatun",
+        "english_meaning": "And a company",
+        "arabic_text": "وَثُلَّةٌ مِنَ الْآخِرِينَ",
+        "highlighted_word": "وَثُلَّةٌ"
+      }
+    ],
+    "total_occurrences": 3,
+    "scraped_at": "2025-08-19 17:45:19"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vmr",
+    "keyword_text": "ث م ر",
+    "description": "The triliteral root thā mīm rā (ث م ر) occurs 24 times in the Quran, in four derived forms:",
+    "word_type": "Verb (form IV)",
+    "meaning": "to bear fruit",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 99,
+          "word": 37,
+          "reference": "(6:99:37)"
+        },
+        "transliteration": "athmara",
+        "english_meaning": "it bears fruit",
+        "arabic_text": "انْظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ",
+        "highlighted_word": "أَثْمَرَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 141,
+          "word": 21,
+          "reference": "(6:141:21)"
+        },
+        "transliteration": "athmara",
+        "english_meaning": "it bears fruit",
+        "arabic_text": "كُلُوا مِنْ ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ",
+        "highlighted_word": "أَثْمَرَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 99,
+          "word": 35,
+          "reference": "(6:99:35)"
+        },
+        "transliteration": "thamarihi",
+        "english_meaning": "its fruit",
+        "arabic_text": "انْظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ",
+        "highlighted_word": "ثَمَرِهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 141,
+          "word": 19,
+          "reference": "(6:141:19)"
+        },
+        "transliteration": "thamarihi",
+        "english_meaning": "its fruit",
+        "arabic_text": "كُلُوا مِنْ ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ",
+        "highlighted_word": "ثَمَرِهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 34,
+          "word": 3,
+          "reference": "(18:34:3)"
+        },
+        "transliteration": "thamarun",
+        "english_meaning": "fruit",
+        "arabic_text": "وَكَانَ لَهُ ثَمَرٌ",
+        "highlighted_word": "ثَمَرٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 42,
+          "word": 2,
+          "reference": "(18:42:2)"
+        },
+        "transliteration": "bithamarihi",
+        "english_meaning": "his fruits",
+        "arabic_text": "وَأُحِيطَ بِثَمَرِهِ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَا أَنْفَقَ فِيهَا",
+        "highlighted_word": "بِثَمَرِهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 35,
+          "word": 3,
+          "reference": "(36:35:3)"
+        },
+        "transliteration": "thamarihi",
+        "english_meaning": "its fruit",
+        "arabic_text": "لِيَأْكُلُوا مِنْ ثَمَرِهِ وَمَا عَمِلَتْهُ أَيْدِيهِمْ أَفَلَا يَشْكُرُونَ",
+        "highlighted_word": "ثَمَرِهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 22,
+          "word": 15,
+          "reference": "(2:22:15)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "the fruits",
+        "arabic_text": "وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ",
+        "highlighted_word": "الثَّمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 126,
+          "word": 12,
+          "reference": "(2:126:12)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "fruits",
+        "arabic_text": "رَبِّ اجْعَلْ هَٰذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنَ الثَّمَرَاتِ",
+        "highlighted_word": "الثَّمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 155,
+          "word": 10,
+          "reference": "(2:155:10)"
+        },
+        "transliteration": "wal-thamarāti",
+        "english_meaning": "and [the] fruits",
+        "arabic_text": "وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ",
+        "highlighted_word": "وَالثَّمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 266,
+          "word": 18,
+          "reference": "(2:266:18)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "(of) [the] fruits",
+        "arabic_text": "لَهُ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَأَصَابَهُ الْكِبَرُ وَلَهُ ذُرِّيَّةٌ ضُعَفَاءُ",
+        "highlighted_word": "الثَّمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 57,
+          "word": 24,
+          "reference": "(7:57:24)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "(of) fruits",
+        "arabic_text": "فَأَنْزَلْنَا بِهِ الْمَاءَ فَأَخْرَجْنَا بِهِ مِنْ كُلِّ الثَّمَرَاتِ",
+        "highlighted_word": "الثَّمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 130,
+          "word": 8,
+          "reference": "(7:130:8)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "[the] fruits",
+        "arabic_text": "وَلَقَدْ أَخَذْنَا آلَ فِرْعَوْنَ بِالسِّنِينَ وَنَقْصٍ مِنَ الثَّمَرَاتِ",
+        "highlighted_word": "الثَّمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 3,
+          "word": 11,
+          "reference": "(13:3:11)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "(of) the fruits",
+        "arabic_text": "وَمِنْ كُلِّ الثَّمَرَاتِ جَعَلَ فِيهَا زَوْجَيْنِ اثْنَيْنِ",
+        "highlighted_word": "الثَّمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 32,
+          "word": 13,
+          "reference": "(14:32:13)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "the fruits",
+        "arabic_text": "وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ",
+        "highlighted_word": "الثَّمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 37,
+          "word": 24,
+          "reference": "(14:37:24)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "the fruits",
+        "arabic_text": "فَاجْعَلْ أَفْئِدَةً مِنَ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُمْ مِنَ الثَّمَرَاتِ",
+        "highlighted_word": "الثَّمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 11,
+          "word": 10,
+          "reference": "(16:11:10)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "(of) fruits",
+        "arabic_text": "يُنْبِتُ لَكُمْ بِهِ الزَّرْعَ وَالزَّيْتُونَ وَالنَّخِيلَ وَالْأَعْنَابَ وَمِنْ كُلِّ الثَّمَرَاتِ",
+        "highlighted_word": "الثَّمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 67,
+          "word": 2,
+          "reference": "(16:67:2)"
+        },
+        "transliteration": "thamarāti",
+        "english_meaning": "fruits",
+        "arabic_text": "وَمِنْ ثَمَرَاتِ النَّخِيلِ وَالْأَعْنَابِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا",
+        "highlighted_word": "ثَمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 69,
+          "word": 5,
+          "reference": "(16:69:5)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "the fruits",
+        "arabic_text": "ثُمَّ كُلِي مِنْ كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا",
+        "highlighted_word": "الثَّمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 57,
+          "word": 16,
+          "reference": "(28:57:16)"
+        },
+        "transliteration": "thamarātu",
+        "english_meaning": "fruits",
+        "arabic_text": "أَوَلَمْ نُمَكِّنْ لَهُمْ حَرَمًا آمِنًا يُجْبَىٰ إِلَيْهِ ثَمَرَاتُ كُلِّ شَيْءٍ",
+        "highlighted_word": "ثَمَرَاتُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 27,
+          "word": 11,
+          "reference": "(35:27:11)"
+        },
+        "transliteration": "thamarātin",
+        "english_meaning": "fruits",
+        "arabic_text": "فَأَخْرَجْنَا بِهِ ثَمَرَاتٍ مُخْتَلِفًا أَلْوَانُهَا",
+        "highlighted_word": "ثَمَرَاتٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 47,
+          "word": 8,
+          "reference": "(41:47:8)"
+        },
+        "transliteration": "thamarātin",
+        "english_meaning": "fruits",
+        "arabic_text": "وَمَا تَخْرُجُ مِنْ ثَمَرَاتٍ مِنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنْثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِ",
+        "highlighted_word": "ثَمَرَاتٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 15,
+          "word": 31,
+          "reference": "(47:15:31)"
+        },
+        "transliteration": "l-thamarāti",
+        "english_meaning": "fruits",
+        "arabic_text": "وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ رَبِّهِمْ",
+        "highlighted_word": "الثَّمَرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 25,
+          "word": 17,
+          "reference": "(2:25:17)"
+        },
+        "transliteration": "thamaratin",
+        "english_meaning": "fruit",
+        "arabic_text": "كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقًا قَالُوا هَٰذَا الَّذِي رُزِقْنَا مِنْ قَبْلُ",
+        "highlighted_word": "ثَمَرَةٍ"
+      }
+    ],
+    "total_occurrences": 24,
+    "scraped_at": "2025-08-19 17:45:23"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vmn",
+    "keyword_text": "ث م ن",
+    "description": "The triliteral root thā mīm nūn (ث م ن) occurs 19 times in the Quran, in six derived forms:",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 22,
+          "word": 13,
+          "reference": "(18:22:13)"
+        },
+        "transliteration": "wathāminuhum",
+        "english_meaning": "and the eight of them",
+        "arabic_text": "وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ",
+        "highlighted_word": "وَثَامِنُهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 27,
+          "word": 12,
+          "reference": "(28:27:12)"
+        },
+        "transliteration": "thamāniya",
+        "english_meaning": "(for) eight",
+        "arabic_text": "عَلَىٰ أَنْ تَأْجُرَنِي ثَمَانِيَ حِجَجٍ",
+        "highlighted_word": "ثَمَانِيَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 4,
+          "word": 10,
+          "reference": "(24:4:10)"
+        },
+        "transliteration": "thamānīna",
+        "english_meaning": "(with) eighty",
+        "arabic_text": "فَاجْلِدُوهُمْ ثَمَانِينَ جَلْدَةً وَلَا تَقْبَلُوا لَهُمْ شَهَادَةً أَبَدًا",
+        "highlighted_word": "ثَمَانِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 143,
+          "word": 1,
+          "reference": "(6:143:1)"
+        },
+        "transliteration": "thamāniyata",
+        "english_meaning": "Eight",
+        "arabic_text": "ثَمَانِيَةَ أَزْوَاجٍ مِنَ الضَّأْنِ اثْنَيْنِ وَمِنَ الْمَعْزِ اثْنَيْنِ",
+        "highlighted_word": "ثَمَانِيَةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 6,
+          "word": 13,
+          "reference": "(39:6:13)"
+        },
+        "transliteration": "thamāniyata",
+        "english_meaning": "eight",
+        "arabic_text": "وَأَنْزَلَ لَكُمْ مِنَ الْأَنْعَامِ ثَمَانِيَةَ أَزْوَاجٍ",
+        "highlighted_word": "ثَمَانِيَةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 69,
+          "verse": 17,
+          "word": 9,
+          "reference": "(69:17:9)"
+        },
+        "transliteration": "thamāniyatun",
+        "english_meaning": "eight",
+        "arabic_text": "وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ",
+        "highlighted_word": "ثَمَانِيَةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 69,
+          "verse": 7,
+          "word": 5,
+          "reference": "(69:7:5)"
+        },
+        "transliteration": "wathamāniyata",
+        "english_meaning": "and eight",
+        "arabic_text": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا",
+        "highlighted_word": "وَثَمَانِيَةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 12,
+          "word": 40,
+          "reference": "(4:12:40)"
+        },
+        "transliteration": "l-thumunu",
+        "english_meaning": "(is) the eighth",
+        "arabic_text": "فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ",
+        "highlighted_word": "الثُّمُنُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 41,
+          "word": 15,
+          "reference": "(2:41:15)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "a price",
+        "arabic_text": "وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَإِيَّايَ فَاتَّقُونِ",
+        "highlighted_word": "ثَمَنًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 79,
+          "word": 14,
+          "reference": "(2:79:14)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a price",
+        "arabic_text": "ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا قَلِيلًا",
+        "highlighted_word": "ثَمَنًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 174,
+          "word": 11,
+          "reference": "(2:174:11)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "a gain",
+        "arabic_text": "وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيلًا أُولَٰئِكَ مَا يَأْكُلُونَ فِي بُطُونِهِمْ إِلَّا النَّارَ",
+        "highlighted_word": "ثَمَنًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 77,
+          "word": 7,
+          "reference": "(3:77:7)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a price",
+        "arabic_text": "إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلًا أُولَٰئِكَ لَا خَلَاقَ لَهُمْ فِي الْآخِرَةِ",
+        "highlighted_word": "ثَمَنًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 187,
+          "word": 17,
+          "reference": "(3:187:17)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a price",
+        "arabic_text": "فَنَبَذُوهُ وَرَاءَ ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا",
+        "highlighted_word": "ثَمَنًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 199,
+          "word": 20,
+          "reference": "(3:199:20)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a price",
+        "arabic_text": "لَا يَشْتَرُونَ بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا أُولَٰئِكَ لَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ",
+        "highlighted_word": "ثَمَنًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 44,
+          "word": 31,
+          "reference": "(5:44:31)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a price",
+        "arabic_text": "وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا",
+        "highlighted_word": "ثَمَنًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 106,
+          "word": 39,
+          "reference": "(5:106:39)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "a price",
+        "arabic_text": "لَا نَشْتَرِي بِهِ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ شَهَادَةَ اللَّهِ",
+        "highlighted_word": "ثَمَنًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 9,
+          "word": 4,
+          "reference": "(9:9:4)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a little price",
+        "arabic_text": "اشْتَرَوْا بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا عَنْ سَبِيلِهِ",
+        "highlighted_word": "ثَمَنًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 20,
+          "word": 2,
+          "reference": "(12:20:2)"
+        },
+        "transliteration": "bithamanin",
+        "english_meaning": "for a price",
+        "arabic_text": "وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ",
+        "highlighted_word": "بِثَمَنٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 95,
+          "word": 5,
+          "reference": "(16:95:5)"
+        },
+        "transliteration": "thamanan",
+        "english_meaning": "(for) a price",
+        "arabic_text": "وَلَا تَشْتَرُوا بِعَهْدِ اللَّهِ ثَمَنًا قَلِيلًا",
+        "highlighted_word": "ثَمَنًا"
+      }
+    ],
+    "total_occurrences": 19,
+    "scraped_at": "2025-08-19 17:45:28"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vny",
+    "keyword_text": "ث ن ي",
+    "description": "The triliteral root thā nūn yā (ث ن ي) occurs 29 times in the Quran, in seven derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to fold up",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 5,
+          "word": 3,
+          "reference": "(11:5:3)"
+        },
+        "transliteration": "yathnūna",
+        "english_meaning": "fold up",
+        "arabic_text": "أَلَا إِنَّهُمْ يَثْنُونَ صُدُورَهُمْ لِيَسْتَخْفُوا مِنْهُ",
+        "highlighted_word": "يَثْنُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 68,
+          "verse": 18,
+          "word": 2,
+          "reference": "(68:18:2)"
+        },
+        "transliteration": "yastathnūna",
+        "english_meaning": "making exception",
+        "arabic_text": "وَلَا يَسْتَثْنُونَ",
+        "highlighted_word": "يَسْتَثْنُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 60,
+          "word": 11,
+          "reference": "(2:60:11)"
+        },
+        "transliteration": "ith'natā",
+        "english_meaning": "(of)",
+        "arabic_text": "فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا",
+        "highlighted_word": "اثْنَتَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 11,
+          "word": 13,
+          "reference": "(4:11:13)"
+        },
+        "transliteration": "ith'natayni",
+        "english_meaning": "two",
+        "arabic_text": "فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ",
+        "highlighted_word": "اثْنَتَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 176,
+          "word": 28,
+          "reference": "(4:176:28)"
+        },
+        "transliteration": "ith'natayni",
+        "english_meaning": "two females",
+        "arabic_text": "فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ",
+        "highlighted_word": "اثْنَتَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 160,
+          "word": 2,
+          "reference": "(7:160:2)"
+        },
+        "transliteration": "ith'natay",
+        "english_meaning": "(into) two",
+        "arabic_text": "وَقَطَّعْنَاهُمُ اثْنَتَيْ عَشْرَةَ أَسْبَاطًا أُمَمًا",
+        "highlighted_word": "اثْنَتَيْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 160,
+          "word": 18,
+          "reference": "(7:160:18)"
+        },
+        "transliteration": "ith'natā",
+        "english_meaning": "two",
+        "arabic_text": "فَانْبَجَسَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا",
+        "highlighted_word": "اثْنَتَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 11,
+          "word": 4,
+          "reference": "(40:11:4)"
+        },
+        "transliteration": "ith'natayni",
+        "english_meaning": "twice",
+        "arabic_text": "قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ",
+        "highlighted_word": "اثْنَتَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 11,
+          "word": 6,
+          "reference": "(40:11:6)"
+        },
+        "transliteration": "ith'natayni",
+        "english_meaning": "twice",
+        "arabic_text": "وَأَحْيَيْتَنَا اثْنَتَيْنِ",
+        "highlighted_word": "اثْنَتَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 12,
+          "word": 9,
+          "reference": "(5:12:9)"
+        },
+        "transliteration": "ith'nay",
+        "english_meaning": "two",
+        "arabic_text": "وَبَعَثْنَا مِنْهُمُ اثْنَيْ عَشَرَ نَقِيبًا",
+        "highlighted_word": "اثْنَيْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 106,
+          "word": 12,
+          "reference": "(5:106:12)"
+        },
+        "transliteration": "ith'nāni",
+        "english_meaning": "two",
+        "arabic_text": "إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِنْكُمْ",
+        "highlighted_word": "اثْنَانِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 143,
+          "word": 5,
+          "reference": "(6:143:5)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "ثَمَانِيَةَ أَزْوَاجٍ مِنَ الضَّأْنِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 143,
+          "word": 8,
+          "reference": "(6:143:8)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "وَمِنَ الْمَعْزِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 144,
+          "word": 3,
+          "reference": "(6:144:3)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "وَمِنَ الْإِبِلِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 144,
+          "word": 6,
+          "reference": "(6:144:6)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "وَمِنَ الْبَقَرِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 36,
+          "word": 6,
+          "reference": "(9:36:6)"
+        },
+        "transliteration": "ith'nā",
+        "english_meaning": "(is) twelve",
+        "arabic_text": "إِنَّ عِدَّةَ الشُّهُورِ عِنْدَ اللَّهِ اثْنَا عَشَرَ شَهْرًا فِي كِتَابِ اللَّهِ",
+        "highlighted_word": "اثْنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 40,
+          "word": 11,
+          "reference": "(9:40:11)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "(of) the two",
+        "arabic_text": "إِذْ أَخْرَجَهُ الَّذِينَ كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ",
+        "highlighted_word": "اثْنَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 40,
+          "word": 13,
+          "reference": "(11:40:13)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "حَتَّىٰ إِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ قُلْنَا احْمِلْ فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 3,
+          "word": 15,
+          "reference": "(13:3:15)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "وَمِنْ كُلِّ الثَّمَرَاتِ جَعَلَ فِيهَا زَوْجَيْنِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 51,
+          "word": 6,
+          "reference": "(16:51:6)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "وَقَالَ اللَّهُ لَا تَتَّخِذُوا إِلَٰهَيْنِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 27,
+          "word": 18,
+          "reference": "(23:27:18)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two",
+        "arabic_text": "فَإِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ فَاسْلُكْ فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ",
+        "highlighted_word": "اثْنَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 14,
+          "word": 4,
+          "reference": "(36:14:4)"
+        },
+        "transliteration": "ith'nayni",
+        "english_meaning": "two (Messengers)",
+        "arabic_text": "إِذْ أَرْسَلْنَا إِلَيْهِمُ اثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ",
+        "highlighted_word": "اثْنَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 40,
+          "word": 10,
+          "reference": "(9:40:10)"
+        },
+        "transliteration": "thāniya",
+        "english_meaning": "the second",
+        "arabic_text": "إِذْ أَخْرَجَهُ الَّذِينَ كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ",
+        "highlighted_word": "ثَانِيَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 9,
+          "word": 1,
+          "reference": "(22:9:1)"
+        },
+        "transliteration": "thāniya",
+        "english_meaning": "Twisting",
+        "arabic_text": "ثَانِيَ عِطْفِهِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ",
+        "highlighted_word": "ثَانِيَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 15,
+          "verse": 87,
+          "word": 5,
+          "reference": "(15:87:5)"
+        },
+        "transliteration": "l-mathānī",
+        "english_meaning": "the oft-repeated",
+        "arabic_text": "وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ",
+        "highlighted_word": "الْمَثَانِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 23,
+          "word": 7,
+          "reference": "(39:23:7)"
+        },
+        "transliteration": "mathāniya",
+        "english_meaning": "oft-repeated",
+        "arabic_text": "اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا مَثَانِيَ",
+        "highlighted_word": "مَثَانِيَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 3,
+          "word": 13,
+          "reference": "(4:3:13)"
+        },
+        "transliteration": "mathnā",
+        "english_meaning": "two",
+        "arabic_text": "فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ",
+        "highlighted_word": "مَثْنَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 46,
+          "word": 8,
+          "reference": "(34:46:8)"
+        },
+        "transliteration": "mathnā",
+        "english_meaning": "(in) pairs",
+        "arabic_text": "أَنْ تَقُومُوا لِلَّهِ مَثْنَىٰ وَفُرَادَىٰ ثُمَّ تَتَفَكَّرُوا",
+        "highlighted_word": "مَثْنَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 1,
+          "word": 11,
+          "reference": "(35:1:11)"
+        },
+        "transliteration": "mathnā",
+        "english_meaning": "two",
+        "arabic_text": "جَاعِلِ الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ",
+        "highlighted_word": "مَثْنَىٰ"
+      }
+    ],
+    "total_occurrences": 29,
+    "scraped_at": "2025-08-19 17:45:34"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vwb",
+    "keyword_text": "ث و ب",
+    "description": "The triliteral root thā wāw bā (ث و ب) occurs 28 times in the Quran, in six derived forms:",
+    "word_type": "Verb (form II)",
+    "meaning": "to reward",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 83,
+          "verse": 36,
+          "word": 2,
+          "reference": "(83:36:2)"
+        },
+        "transliteration": "thuwwiba",
+        "english_meaning": "been rewarded",
+        "arabic_text": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ",
+        "highlighted_word": "ثُوِّبَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 153,
+          "word": 11,
+          "reference": "(3:153:11)"
+        },
+        "transliteration": "fa-athābakum",
+        "english_meaning": "So (He) repaid you",
+        "arabic_text": "فَأَثَابَكُمْ غَمًّا بِغَمٍّ لِكَيْلَا تَحْزَنُوا عَلَىٰ مَا فَاتَكُمْ وَلَا مَا أَصَابَكُمْ",
+        "highlighted_word": "فَأَثَابَكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 85,
+          "word": 1,
+          "reference": "(5:85:1)"
+        },
+        "transliteration": "fa-athābahumu",
+        "english_meaning": "So rewarded them",
+        "arabic_text": "فَأَثَابَهُمُ اللَّهُ بِمَا قَالُوا جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ",
+        "highlighted_word": "فَأَثَابَهُمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 18,
+          "word": 17,
+          "reference": "(48:18:17)"
+        },
+        "transliteration": "wa-athābahum",
+        "english_meaning": "and rewarded them",
+        "arabic_text": "فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنْزَلَ السَّكِينَةَ عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا",
+        "highlighted_word": "وَأَثَابَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 145,
+          "word": 13,
+          "reference": "(3:145:13)"
+        },
+        "transliteration": "thawāba",
+        "english_meaning": "reward",
+        "arabic_text": "وَمَنْ يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا",
+        "highlighted_word": "ثَوَابَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 145,
+          "word": 19,
+          "reference": "(3:145:19)"
+        },
+        "transliteration": "thawāba",
+        "english_meaning": "reward",
+        "arabic_text": "وَمَنْ يُرِدْ ثَوَابَ الْآخِرَةِ نُؤْتِهِ مِنْهَا",
+        "highlighted_word": "ثَوَابَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 148,
+          "word": 3,
+          "reference": "(3:148:3)"
+        },
+        "transliteration": "thawāba",
+        "english_meaning": "reward",
+        "arabic_text": "فَآتَاهُمُ اللَّهُ ثَوَابَ الدُّنْيَا",
+        "highlighted_word": "ثَوَابَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 148,
+          "word": 6,
+          "reference": "(3:148:6)"
+        },
+        "transliteration": "thawābi",
+        "english_meaning": "reward",
+        "arabic_text": "وَحُسْنَ ثَوَابِ الْآخِرَةِ",
+        "highlighted_word": "ثَوَابِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 195,
+          "word": 36,
+          "reference": "(3:195:36)"
+        },
+        "transliteration": "thawāban",
+        "english_meaning": "a reward",
+        "arabic_text": "وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ثَوَابًا مِنْ عِنْدِ اللَّهِ",
+        "highlighted_word": "ثَوَابًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 195,
+          "word": 43,
+          "reference": "(3:195:43)"
+        },
+        "transliteration": "l-thawābi",
+        "english_meaning": "reward",
+        "arabic_text": "وَاللَّهُ عِنْدَهُ حُسْنُ الثَّوَابِ",
+        "highlighted_word": "الثَّوَابِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 134,
+          "word": 4,
+          "reference": "(4:134:4)"
+        },
+        "transliteration": "thawāba",
+        "english_meaning": "reward",
+        "arabic_text": "مَنْ كَانَ يُرِيدُ ثَوَابَ الدُّنْيَا",
+        "highlighted_word": "ثَوَابَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 134,
+          "word": 8,
+          "reference": "(4:134:8)"
+        },
+        "transliteration": "thawābu",
+        "english_meaning": "(is the) reward",
+        "arabic_text": "فَعِنْدَ اللَّهِ ثَوَابُ الدُّنْيَا وَالْآخِرَةِ",
+        "highlighted_word": "ثَوَابُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 31,
+          "word": 26,
+          "reference": "(18:31:26)"
+        },
+        "transliteration": "l-thawābu",
+        "english_meaning": "(is) the reward",
+        "arabic_text": "مُتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ نِعْمَ الثَّوَابُ وَحَسُنَتْ مُرْتَفَقًا",
+        "highlighted_word": "الثَّوَابُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 44,
+          "word": 7,
+          "reference": "(18:44:7)"
+        },
+        "transliteration": "thawāban",
+        "english_meaning": "(to) reward",
+        "arabic_text": "هُنَالِكَ الْوَلَايَةُ لِلَّهِ الْحَقِّ هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقْبًا",
+        "highlighted_word": "ثَوَابًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 46,
+          "word": 11,
+          "reference": "(18:46:11)"
+        },
+        "transliteration": "thawāban",
+        "english_meaning": "(for) reward",
+        "arabic_text": "وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا",
+        "highlighted_word": "ثَوَابًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 76,
+          "word": 11,
+          "reference": "(19:76:11)"
+        },
+        "transliteration": "thawāban",
+        "english_meaning": "(for) reward",
+        "arabic_text": "وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ مَرَدًّا",
+        "highlighted_word": "ثَوَابًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 80,
+          "word": 6,
+          "reference": "(28:80:6)"
+        },
+        "transliteration": "thawābu",
+        "english_meaning": "(The) reward",
+        "arabic_text": "وَيْلَكُمْ ثَوَابُ اللَّهِ خَيْرٌ لِمَنْ آمَنَ وَعَمِلَ صَالِحًا",
+        "highlighted_word": "ثَوَابُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 5,
+          "word": 10,
+          "reference": "(11:5:10)"
+        },
+        "transliteration": "thiyābahum",
+        "english_meaning": "(with) their garments",
+        "arabic_text": "أَلَا حِينَ يَسْتَغْشُونَ ثِيَابَهُمْ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+        "highlighted_word": "ثِيَابَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 31,
+          "word": 16,
+          "reference": "(18:31:16)"
+        },
+        "transliteration": "thiyāban",
+        "english_meaning": "garments",
+        "arabic_text": "وَيَلْبَسُونَ ثِيَابًا خُضْرًا مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ",
+        "highlighted_word": "ثِيَابًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 19,
+          "word": 10,
+          "reference": "(22:19:10)"
+        },
+        "transliteration": "thiyābun",
+        "english_meaning": "garments",
+        "arabic_text": "فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ",
+        "highlighted_word": "ثِيَابٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 58,
+          "word": 21,
+          "reference": "(24:58:21)"
+        },
+        "transliteration": "thiyābakum",
+        "english_meaning": "your garments",
+        "arabic_text": "مِنْ قَبْلِ صَلَاةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُمْ مِنَ الظَّهِيرَةِ",
+        "highlighted_word": "ثِيَابَكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 60,
+          "word": 13,
+          "reference": "(24:60:13)"
+        },
+        "transliteration": "thiyābahunna",
+        "english_meaning": "their (outer) garments",
+        "arabic_text": "فَلَيْسَ عَلَيْهِنَّ جُنَاحٌ أَنْ يَضَعْنَ ثِيَابَهُنَّ",
+        "highlighted_word": "ثِيَابَهُنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 71,
+          "verse": 7,
+          "word": 11,
+          "reference": "(71:7:11)"
+        },
+        "transliteration": "thiyābahum",
+        "english_meaning": "(with) their garments",
+        "arabic_text": "جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ",
+        "highlighted_word": "ثِيَابَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 74,
+          "verse": 4,
+          "word": 1,
+          "reference": "(74:4:1)"
+        },
+        "transliteration": "wathiyābaka",
+        "english_meaning": "And your clothing",
+        "arabic_text": "وَثِيَابَكَ فَطَهِّرْ",
+        "highlighted_word": "وَثِيَابَكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 76,
+          "verse": 21,
+          "word": 2,
+          "reference": "(76:21:2)"
+        },
+        "transliteration": "thiyābu",
+        "english_meaning": "(will be) garments",
+        "arabic_text": "عَالِيَهُمْ ثِيَابُ سُنْدُسٍ خُضْرٌ وَإِسْتَبْرَقٌ",
+        "highlighted_word": "ثِيَابُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 125,
+          "word": 4,
+          "reference": "(2:125:4)"
+        },
+        "transliteration": "mathābatan",
+        "english_meaning": "a place of return",
+        "arabic_text": "وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا",
+        "highlighted_word": "مَثَابَةً"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 103,
+          "word": 5,
+          "reference": "(2:103:5)"
+        },
+        "transliteration": "lamathūbatun",
+        "english_meaning": "surely (the) reward",
+        "arabic_text": "وَلَوْ أَنَّهُمْ آمَنُوا وَاتَّقَوْا لَمَثُوبَةٌ مِنْ عِنْدِ اللَّهِ خَيْرٌ",
+        "highlighted_word": "لَمَثُوبَةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 60,
+          "word": 7,
+          "reference": "(5:60:7)"
+        },
+        "transliteration": "mathūbatan",
+        "english_meaning": "(as) recompense",
+        "arabic_text": "قُلْ هَلْ أُنَبِّئُكُمْ بِشَرٍّ مِنْ ذَٰلِكَ مَثُوبَةً عِنْدَ اللَّهِ",
+        "highlighted_word": "مَثُوبَةً"
+      }
+    ],
+    "total_occurrences": 28,
+    "scraped_at": "2025-08-19 17:45:40"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vwr",
+    "keyword_text": "ث و ر",
+    "description": "The triliteral root thā wāw rā (ث و ر) occurs five times in the Quran as the form IV verb athāru (أَثَارُ). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form IV)",
+    "meaning": "to raise, to plough",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 71,
+          "word": 8,
+          "reference": "(2:71:8)"
+        },
+        "transliteration": "tuthīru",
+        "english_meaning": "to plough",
+        "arabic_text": "إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا ذَلُولٌ تُثِيرُ الْأَرْضَ وَلَا تَسْقِي الْحَرْثَ",
+        "highlighted_word": "تُثِيرُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 9,
+          "word": 16,
+          "reference": "(30:9:16)"
+        },
+        "transliteration": "wa-athārū",
+        "english_meaning": "and they dug",
+        "arabic_text": "كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا الْأَرْضَ وَعَمَرُوهَا",
+        "highlighted_word": "وَأَثَارُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 48,
+          "word": 5,
+          "reference": "(30:48:5)"
+        },
+        "transliteration": "fatuthīru",
+        "english_meaning": "so they raise",
+        "arabic_text": "اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا",
+        "highlighted_word": "فَتُثِيرُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 9,
+          "word": 5,
+          "reference": "(35:9:5)"
+        },
+        "transliteration": "fatuthīru",
+        "english_meaning": "so that they raise",
+        "arabic_text": "وَاللَّهُ الَّذِي أَرْسَلَ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَسُقْنَاهُ إِلَىٰ بَلَدٍ مَيِّتٍ",
+        "highlighted_word": "فَتُثِيرُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 100,
+          "verse": 4,
+          "word": 1,
+          "reference": "(100:4:1)"
+        },
+        "transliteration": "fa-atharna",
+        "english_meaning": "Then raise",
+        "arabic_text": "فَأَثَرْنَ بِهِ نَقْعًا",
+        "highlighted_word": "فَأَثَرْنَ"
+      }
+    ],
+    "total_occurrences": 5,
+    "scraped_at": "2025-08-19 17:45:45"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vwy",
+    "keyword_text": "ث و ي",
+    "description": "The triliteral root thā wāw yā (ث و ي) occurs 14 times in the Quran, in two derived forms:",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 151,
+          "word": 18,
+          "reference": "(3:151:18)"
+        },
+        "transliteration": "mathwā",
+        "english_meaning": "(is the) abode",
+        "arabic_text": "وَمَأْوَاهُمُ النَّارُ وَبِئْسَ مَثْوَى الظَّالِمِينَ",
+        "highlighted_word": "مَثْوَى"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 128,
+          "word": 25,
+          "reference": "(6:128:25)"
+        },
+        "transliteration": "mathwākum",
+        "english_meaning": "(is) your abode",
+        "arabic_text": "قَالَ النَّارُ مَثْوَاكُمْ خَالِدِينَ فِيهَا إِلَّا مَا شَاءَ اللَّهُ",
+        "highlighted_word": "مَثْوَاكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 21,
+          "word": 8,
+          "reference": "(12:21:8)"
+        },
+        "transliteration": "mathwāhu",
+        "english_meaning": "his stay",
+        "arabic_text": "وَقَالَ الَّذِي اشْتَرَاهُ مِنْ مِصْرَ لِامْرَأَتِهِ أَكْرِمِي مَثْوَاهُ",
+        "highlighted_word": "مَثْوَاهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 23,
+          "word": 19,
+          "reference": "(12:23:19)"
+        },
+        "transliteration": "mathwāya",
+        "english_meaning": "my stay",
+        "arabic_text": "قَالَ مَعَاذَ اللَّهِ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ",
+        "highlighted_word": "مَثْوَايَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 29,
+          "word": 7,
+          "reference": "(16:29:7)"
+        },
+        "transliteration": "mathwā",
+        "english_meaning": "(is the) abode",
+        "arabic_text": "فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ",
+        "highlighted_word": "مَثْوَى"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 68,
+          "word": 16,
+          "reference": "(29:68:16)"
+        },
+        "transliteration": "mathwan",
+        "english_meaning": "an abode",
+        "arabic_text": "أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْكَافِرِينَ",
+        "highlighted_word": "مَثْوًى"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 32,
+          "word": 14,
+          "reference": "(39:32:14)"
+        },
+        "transliteration": "mathwan",
+        "english_meaning": "an abode",
+        "arabic_text": "أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْكَافِرِينَ",
+        "highlighted_word": "مَثْوًى"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 60,
+          "word": 13,
+          "reference": "(39:60:13)"
+        },
+        "transliteration": "mathwan",
+        "english_meaning": "an abode",
+        "arabic_text": "أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْمُتَكَبِّرِينَ",
+        "highlighted_word": "مَثْوًى"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 72,
+          "word": 8,
+          "reference": "(39:72:8)"
+        },
+        "transliteration": "mathwā",
+        "english_meaning": "(the) abode",
+        "arabic_text": "قِيلَ ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ",
+        "highlighted_word": "مَثْوَى"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 76,
+          "word": 7,
+          "reference": "(40:76:7)"
+        },
+        "transliteration": "mathwā",
+        "english_meaning": "(the) abode",
+        "arabic_text": "ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ",
+        "highlighted_word": "مَثْوَى"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 24,
+          "word": 4,
+          "reference": "(41:24:4)"
+        },
+        "transliteration": "mathwan",
+        "english_meaning": "(is) an abode",
+        "arabic_text": "فَإِنْ يَصْبِرُوا فَالنَّارُ مَثْوًى لَهُمْ",
+        "highlighted_word": "مَثْوًى"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 12,
+          "word": 21,
+          "reference": "(47:12:21)"
+        },
+        "transliteration": "mathwan",
+        "english_meaning": "(will be) an abode",
+        "arabic_text": "يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ الْأَنْعَامُ وَالنَّارُ مَثْوًى لَهُمْ",
+        "highlighted_word": "مَثْوًى"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 19,
+          "word": 14,
+          "reference": "(47:19:14)"
+        },
+        "transliteration": "wamathwākum",
+        "english_meaning": "and your resting places",
+        "arabic_text": "وَاللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَاكُمْ",
+        "highlighted_word": "وَمَثْوَاكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 45,
+          "word": 9,
+          "reference": "(28:45:9)"
+        },
+        "transliteration": "thāwiyan",
+        "english_meaning": "a dweller",
+        "arabic_text": "وَمَا كُنْتَ ثَاوِيًا فِي أَهْلِ مَدْيَنَ تَتْلُو عَلَيْهِمْ آيَاتِنَا وَلَٰكِنَّا كُنَّا مُرْسِلِينَ",
+        "highlighted_word": "ثَاوِيًا"
+      }
+    ],
+    "total_occurrences": 14,
+    "scraped_at": "2025-08-19 17:45:50"
+  },
+  {
+    "letter": "v",
+    "keyword_value": "vyb",
+    "keyword_text": "ث ي ب",
+    "description": "The triliteral root thā yā bā (ث ي ب) occurs only once in the Quran, as the adjective thayyibāt (ثَيِّبَٰت). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Adjective",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 66,
+          "verse": 5,
+          "word": 16,
+          "reference": "(66:5:16)"
+        },
+        "transliteration": "thayyibātin",
+        "english_meaning": "previously married",
+        "arabic_text": "تَائِبَاتٍ عَابِدَاتٍ سَائِحَاتٍ ثَيِّبَاتٍ وَأَبْكَارًا",
+        "highlighted_word": "ثَيِّبَاتٍ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 17:45:54"
+  }
+]

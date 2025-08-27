@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quran Keyword Search</title>
+    <link rel="stylesheet" href="/static/common.css?v=1.1">
+    <link rel="stylesheet" href="/static/quran_search.css?v=1.1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="/" class="nav-brand">Islamic Knowledge Explorer ☪</a>
+            <div class="nav-links">
+                <a href="/" class="nav-link">Home</a>
+                <a href="/keywords" class="nav-link">Keywords</a>
+                <a href="/quran_search" class="nav-link">Quran Search</a>
+                <a href="/analysis" class="nav-link">Analysis</a>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <header>
+            <p>Search for Quranic Ayahs by Keyword</p>
+        </header>
+        <main>
+            <div class="input-section">
+                <input type="text" id="keyword-input" placeholder="Enter an English meaning (e.g., 'to be humble')">
+            </div>
+            <div class="actions">
+                <div class="buttons-container">
+                    <div class="buttons-row">
+                        <button id="search-button"><i class="fas fa-search"></i> Search Ayahs</button>
+                    </div>
+                </div>
+            </div>
+            <div id="results-section" class="results-section" style="display: none;">
+                <!-- Results will be displayed here -->
+            </div>
+        </main>
+        <footer>
+            <p>Developed with ❤ by NexusBerry Training & Solutions</p>
+        </footer>
+    </div>
+    <script src="/static/quran_search.js"></script>
+</body>
+</html>

@@ -1,0 +1,116 @@
+/* General styles for the analysis page */
+.container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+/* Text area and button styling */
+#hadith-input {
+    width: 100%;
+    height: 150px;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    resize: vertical;
+}
+
+#analyze-button {
+    display: block;
+    width: 100%;
+    padding: 1rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#analyze-button:hover {
+    background-color: #0056b3;
+}
+
+/* Results section styling */
+#results-section {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.result-block {
+    margin-bottom: 2rem;
+}
+
+.result-block h3 {
+    color: #0056b3;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.keyword-result, .ayah-item {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background-color: #fff;
+    border-left: 4px solid #007bff;
+}
+
+.ayah-arabic {
+    font-size: 1.2rem;
+    text-align: right;
+    margin-bottom: 0.5rem;
+}
+
+.ayah-english {
+    font-style: italic;
+    color: #444;
+}
+
+.pagination-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.pagination-controls button {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+.pagination-controls button:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+.occurrences-container {
+    height: 450px; /* Fixed height for the container */
+    overflow-y: auto; /* Enable vertical scrolling */
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 1rem;
+    margin-top: 1rem;
+    background-color: #f9f9f9;
+}

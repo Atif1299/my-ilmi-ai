@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from ..models.query import QueryRequest, QueryResponse , HadithOnlyResponse, HadithAndNaratorsResponse , NaratorsResponse, KeywordHighlightResponse, HadithCompleteInfoResponse, AyahResult
+from ..models.query import CompleteAnalysisAiAndManual, QueryRequest, QueryResponse , HadithOnlyResponse, HadithAndNaratorsResponse , NaratorsResponse, KeywordHighlightResponse, HadithCompleteInfoResponse, AyahResult
 import os
 from ..services.quran_services import validate_hadith
 from ..rag.narators_hadith import extract_narrators_chain_with_llm
@@ -8,6 +8,14 @@ import string
 import json
 import re
 router = APIRouter()
+import json
+
+# Load JSON file
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+NARRATORS_PATH = os.path.join(BASE_DIR, "..", "..", "Storage", "narrators.json")
+
+with open(NARRATORS_PATH, "r", encoding="utf-8") as f:
+    narratorsobj = json.load(f)
 
 def highlight_keywords_in_text(text: str, keywords: list, highlight_tag: str = "**") -> str:
     """Highlight keywords in text using the specified highlight tag"""
@@ -87,17 +95,43 @@ async def search_ayahs(request: QueryRequest):
 async def extract_narators(request: QueryRequest):
     try:
         narators, _ = extract_narrators_chain_with_llm(request.query)
+        
+        existing_narrators_db = [obj["nameEnglish"] for obj in narratorsobj]
+        existing_narrators = [n for n in narators if n in existing_narrators_db]
+        missing_narrators = [n for n in narators if n not in existing_narrators_db]
+        
+        if missing_narrators:
+            print(f"Missing narrators found: {missing_narrators}")
+
         if not narators or len(narators) == 0 or narators == []:
             # LLM didn't work, use manual extraction
             narators, _ = extract_narrators_manually(request.query)
-        return {"narrators": narators}
+            existing_narrators = [n for n in narators if n in existing_narrators_db]
+            missing_narrators = [n for n in narators if n not in existing_narrators_db]
+            
+        return {
+            "narrators": narators,
+            "existing_narrators": existing_narrators,
+            "missing_narrators": missing_narrators
+        }
     except Exception as e:
         # Fallback to manual extraction
         try:
             narators, _ = extract_narrators_manually(request.query)
-            return {"narrators": narators}
+            existing_narrators_db = [obj["nameEnglish"] for obj in narratorsobj]
+            existing_narrators = [n for n in narators if n in existing_narrators_db]
+            missing_narrators = [n for n in narators if n not in existing_narrators_db]
+            return {
+                "narrators": narators,
+                "existing_narrators": existing_narrators,
+                "missing_narrators": missing_narrators
+            }
         except:
-            return {"narrators": []}
+            return {
+                "narrators": [],
+                "existing_narrators": [],
+                "missing_narrators": []
+            }
 
 
 @router.post('/get_hadith_content', response_model=HadithOnlyResponse)
@@ -108,7 +142,6 @@ async def extract_hadith_content(request: QueryRequest):
             # LLM didn't work, use manual extraction
             _, content = extract_narrators_manually(request.query)
         return {"hadith_content": content}
-    
     except Exception as e:
         # Fallback to manual extraction
         try:
@@ -250,6 +283,14 @@ async def get_hadith_complete_info(request: QueryRequest):
         except:
             narrators, content = extract_narrators_manually(request.query)
 
+    # Find Narrators that are not present in DB...
+    existing_narrators_db = [obj["nameEnglish"] for obj in narratorsobj]
+    existing_narrators = [n for n in narrators if n in existing_narrators_db]
+    missing_narrators = [n for n in narrators if n not in existing_narrators_db]
+    
+    if missing_narrators:
+        print(f"Missing narrators found in complete info: {missing_narrators}")
+
     # Step 2: Find related ayahs using extracted content
     try:
         search_request = QueryRequest(query=content if content != request.query else request.query)
@@ -305,6 +346,8 @@ async def get_hadith_complete_info(request: QueryRequest):
     return {
         "hadith_content": content,
         "narrators": narrators,
+        "existing_narrators": existing_narrators,
+        "missing_narrators": missing_narrators,
         "related_ayahs": highlighted_ayahs,
         "keywords": {
             "found_keywords": all_found_keywords,

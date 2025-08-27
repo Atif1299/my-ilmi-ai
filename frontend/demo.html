@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Interface Demo</title>
+    <link rel="stylesheet" href="/static/common.css">
+    <link rel="stylesheet" href="/static/home.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="/" class="nav-brand">Islamic Knowledge Explorer ☪</a>
+            <div class="nav-links">
+                <a href="/" class="nav-link">Home</a>
+                <a href="/keywords" class="nav-link">Keywords</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <main>
+            <header>
+                <h1>Islamic Knowledge Explorer</h1>
+                <p>Analyze Hadith texts using advanced AI-powered tools for comprehensive Islamic studies</p>
+            </header>
+
+            <div class="input-section">
+                <textarea id="hadith-input" placeholder="Enter your Hadith text here..." readonly>Yahya related to me from Malik that Safwan ibn Sulaym heard that the Prophet, may Allah bless him and grant him peace, said, "I and the one who guards the orphan, whether for himself or for someone else, will be like these two in the Garden, when he has taqwa," indicating his middle and index fingers.</textarea>
+            </div>
+
+            <div class="actions">
+                <h3>Select an Analysis to Perform:</h3>
+                <div class="buttons">
+                    <button><i class="fas fa-chart-line"></i> Complete Analysis</button>
+                    <button><i class="fas fa-book-open"></i> Find Related Ayahs</button>
+                    <button><i class="fas fa-users"></i> Extract Narrators</button>
+                    <button><i class="fas fa-file-text"></i> Extract Content</button>
+                    <button><i class="fas fa-key"></i> Analyze Keywords</button>
+                    <button><i class="fas fa-highlighter"></i> Highlight Keywords</button>
+                </div>
+            </div>
+
+            <div class="results-section" style="display: block;">
+                <h2>📖 Related Quranic Ayahs</h2>
+                
+                <!-- Sample Ayah Card -->
+                <div class="ayah-item">
+                    <div class="ayah-header">
+                        <div class="ayah-reference">
+                            <i class="fas fa-book-open"></i>
+                            Surah Al-Baqarah - Ayah 220
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 12px;">
+                            <div class="ayah-score">Score: 0.85</div>
+                            <i class="fas fa-chevron-down expand-icon"></i>
+                        </div>
+                    </div>
+                    <div class="ayah-content">
+                        <div class="ayah-arabic">فِي الدُّنْيَا وَالْآخِرَةِ ۗ وَيَسْأَلُونَكَ عَنِ الْيَتَامَىٰ ۖ قُلْ إِصْلَاحٌ لَّهُمْ خَيْرٌ ۖ وَإِن تُخَالِطُوهُمْ فَإِخْوَانُكُمْ</div>
+                        <div class="ayah-english">And they ask you about <span class="highlighted-word">orphans</span>. Say, "Improvement for them is best. And if you mix your affairs with theirs - they are your <span class="highlighted-word">brothers</span>."</div>
+                    </div>
+                </div>
+
+                <!-- Another Sample Ayah Card -->
+                <div class="ayah-item">
+                    <div class="ayah-header">
+                        <div class="ayah-reference">
+                            <i class="fas fa-book-open"></i>
+                            Surah An-Nisa - Ayah 127
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 12px;">
+                            <div class="ayah-score">Score: 0.82</div>
+                            <i class="fas fa-chevron-down expand-icon"></i>
+                        </div>
+                    </div>
+                    <div class="ayah-content">
+                        <div class="ayah-arabic">وَيَسْتَفْتُونَكَ فِي النِّسَاءِ ۖ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِي الْكِتَابِ فِي يَتَامَى النِّسَاءِ</div>
+                        <div class="ayah-english">And they seek your ruling concerning women. Say, "Allah gives you a ruling about them and what has been recited to you in the Book concerning the <span class="highlighted-word">orphaned</span> <span class="highlighted-word">girls</span>."</div>
+                    </div>
+                </div>
+
+                <!-- Sample Highlighted Text Section -->
+                <div class="result-item" style="margin-top: 2rem;">
+                    <h3>Text with Highlighted Keywords:</h3>
+                    <p>Yahya related to me from Malik that Safwan ibn Sulaym heard that the Prophet, may Allah bless him and grant him peace, said, "I and the one who guards the <span class="highlighted-word">orphan</span>, whether for himself or for someone else, <span class="highlighted-word">will</span> be like these two in the Garden, when he has taqwa," indicating his middle and index fingers.</p>
+                </div>
+
+                <!-- Sample Keywords Section -->
+                <div class="result-item">
+                    <h3>🔑 Keywords Found in Ayahs</h3>
+                    <p>Found 3 unique keywords:</p>
+                    <div style="margin-top: 0.75rem;">
+                        <span class="keyword">orphan</span>
+                        <span class="keyword">guardianship</span>
+                        <span class="keyword">taqwa</span>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // Simple demo functionality for expanding/collapsing ayahs
+        document.querySelectorAll('.ayah-header').forEach(header => {
+            header.addEventListener('click', () => {
+                const content = header.nextElementSibling;
+                const icon = header.querySelector('.expand-icon');
+                
+                if (content.classList.contains('expanded')) {
+                    content.classList.remove('expanded');
+                    icon.classList.remove('rotated');
+                } else {
+                    content.classList.add('expanded');
+                    icon.classList.add('rotated');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

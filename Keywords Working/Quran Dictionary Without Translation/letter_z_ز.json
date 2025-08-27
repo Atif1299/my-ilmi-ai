@@ -1,0 +1,5306 @@
+[
+  {
+    "letter": "z",
+    "keyword_value": "zbd",
+    "keyword_text": "ز ب د",
+    "description": "The triliteral root zāy bā dāl (ز ب د) occurs three times in the Quran as the noun zabad (زَبَد). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 17,
+          "word": 10,
+          "reference": "(13:17:10)"
+        },
+        "transliteration": "zabadan",
+        "english_meaning": "a foam",
+        "arabic_text": "فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا فَاحْتَمَلَ السَّيْلُ زَبَدًا رَابِيًا",
+        "highlighted_word": "زَبَدًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 17,
+          "word": 21,
+          "reference": "(13:17:21)"
+        },
+        "transliteration": "zabadun",
+        "english_meaning": "a foam",
+        "arabic_text": "وَمِمَّا يُوقِدُونَ عَلَيْهِ فِي النَّارِ ابْتِغَاءَ حِلْيَةٍ أَوْ مَتَاعٍ زَبَدٌ مِثْلُهُ",
+        "highlighted_word": "زَبَدٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 17,
+          "word": 29,
+          "reference": "(13:17:29)"
+        },
+        "transliteration": "l-zabadu",
+        "english_meaning": "the foam",
+        "arabic_text": "فَأَمَّا الزَّبَدُ فَيَذْهَبُ جُفَاءً",
+        "highlighted_word": "الزَّبَدُ"
+      }
+    ],
+    "total_occurrences": 3,
+    "scraped_at": "2025-08-19 18:19:47"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zbr",
+    "keyword_text": "ز ب ر",
+    "description": "The triliteral root zāy bā rā (ز ب ر) occurs 11 times in the Quran, in three derived forms:",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 184,
+          "word": 10,
+          "reference": "(3:184:10)"
+        },
+        "transliteration": "wal-zuburi",
+        "english_meaning": "and the Scriptures",
+        "arabic_text": "جَاءُوا بِالْبَيِّنَاتِ وَالزُّبُرِ وَالْكِتَابِ الْمُنِيرِ",
+        "highlighted_word": "وَالزُّبُرِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 44,
+          "word": 2,
+          "reference": "(16:44:2)"
+        },
+        "transliteration": "wal-zuburi",
+        "english_meaning": "and the Books",
+        "arabic_text": "بِالْبَيِّنَاتِ وَالزُّبُرِ",
+        "highlighted_word": "وَالزُّبُرِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 53,
+          "word": 4,
+          "reference": "(23:53:4)"
+        },
+        "transliteration": "zuburan",
+        "english_meaning": "(into) sects",
+        "arabic_text": "فَتَقَطَّعُوا أَمْرَهُمْ بَيْنَهُمْ زُبُرًا",
+        "highlighted_word": "زُبُرًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 196,
+          "word": 3,
+          "reference": "(26:196:3)"
+        },
+        "transliteration": "zuburi",
+        "english_meaning": "(the) Scriptures",
+        "arabic_text": "وَإِنَّهُ لَفِي زُبُرِ الْأَوَّلِينَ",
+        "highlighted_word": "زُبُرِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 25,
+          "word": 11,
+          "reference": "(35:25:11)"
+        },
+        "transliteration": "wabil-zuburi",
+        "english_meaning": "and with Scriptures",
+        "arabic_text": "جَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ وَبِالزُّبُرِ وَبِالْكِتَابِ الْمُنِيرِ",
+        "highlighted_word": "وَبِالزُّبُرِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 54,
+          "verse": 43,
+          "word": 9,
+          "reference": "(54:43:9)"
+        },
+        "transliteration": "l-zuburi",
+        "english_meaning": "the Scriptures",
+        "arabic_text": "أَكُفَّارُكُمْ خَيْرٌ مِنْ أُولَٰئِكُمْ أَمْ لَكُمْ بَرَاءَةٌ فِي الزُّبُرِ",
+        "highlighted_word": "الزُّبُرِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 54,
+          "verse": 52,
+          "word": 5,
+          "reference": "(54:52:5)"
+        },
+        "transliteration": "l-zuburi",
+        "english_meaning": "the written records",
+        "arabic_text": "وَكُلُّ شَيْءٍ فَعَلُوهُ فِي الزُّبُرِ",
+        "highlighted_word": "الزُّبُرِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 96,
+          "word": 2,
+          "reference": "(18:96:2)"
+        },
+        "transliteration": "zubara",
+        "english_meaning": "sheets",
+        "arabic_text": "آتُونِي زُبَرَ الْحَدِيدِ حَتَّىٰ إِذَا سَاوَىٰ بَيْنَ الصَّدَفَيْنِ قَالَ انْفُخُوا",
+        "highlighted_word": "زُبَرَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 163,
+          "word": 25,
+          "reference": "(4:163:25)"
+        },
+        "transliteration": "zabūran",
+        "english_meaning": "the Zaboor",
+        "arabic_text": "وَآتَيْنَا دَاوُودَ زَبُورًا",
+        "highlighted_word": "زَبُورًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 55,
+          "word": 15,
+          "reference": "(17:55:15)"
+        },
+        "transliteration": "zabūran",
+        "english_meaning": "Zaboor",
+        "arabic_text": "وَلَقَدْ فَضَّلْنَا بَعْضَ النَّبِيِّينَ عَلَىٰ بَعْضٍ وَآتَيْنَا دَاوُودَ زَبُورًا",
+        "highlighted_word": "زَبُورًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 105,
+          "word": 4,
+          "reference": "(21:105:4)"
+        },
+        "transliteration": "l-zabūri",
+        "english_meaning": "the Scripture",
+        "arabic_text": "وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ",
+        "highlighted_word": "الزَّبُورِ"
+      }
+    ],
+    "total_occurrences": 11,
+    "scraped_at": "2025-08-19 18:19:51"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zbn",
+    "keyword_text": "ز ب ن",
+    "description": "The triliteral root zāy bā nūn (ز ب ن) occurs only once in the Quran, as the noun zabāniyat (زَّبَانِيَة). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 96,
+          "verse": 18,
+          "word": 2,
+          "reference": "(96:18:2)"
+        },
+        "transliteration": "l-zabāniyata",
+        "english_meaning": "the Angels of Hell",
+        "arabic_text": "سَنَدْعُ الزَّبَانِيَةَ",
+        "highlighted_word": "الزَّبَانِيَةَ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:19:55"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zjj",
+    "keyword_text": "ز ج ج",
+    "description": "The triliteral root zāy jīm jīm (ز ج ج) occurs twice in the Quran as the noun zujājat (زُجَاجَة). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 35,
+          "word": 12,
+          "reference": "(24:35:12)"
+        },
+        "transliteration": "zujājatin",
+        "english_meaning": "a glass",
+        "arabic_text": "مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ",
+        "highlighted_word": "زُجَاجَةٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 35,
+          "word": 13,
+          "reference": "(24:35:13)"
+        },
+        "transliteration": "l-zujājatu",
+        "english_meaning": "the glass",
+        "arabic_text": "الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ",
+        "highlighted_word": "الزُّجَاجَةُ"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 18:19:58"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zjr",
+    "keyword_text": "ز ج ر",
+    "description": "The triliteral root zāy jīm rā (ز ج ر) occurs six times in the Quran, in five derived forms:",
+    "word_type": "Verb (form VIII)",
+    "meaning": "to repell",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 54,
+          "verse": 9,
+          "word": 9,
+          "reference": "(54:9:9)"
+        },
+        "transliteration": "wa-uz'dujira",
+        "english_meaning": "and he was repelled",
+        "arabic_text": "فَكَذَّبُوا عَبْدَنَا وَقَالُوا مَجْنُونٌ وَازْدُجِرَ",
+        "highlighted_word": "وَازْدُجِرَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 19,
+          "word": 3,
+          "reference": "(37:19:3)"
+        },
+        "transliteration": "zajratun",
+        "english_meaning": "(will be) a cry",
+        "arabic_text": "فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ يَنْظُرُونَ",
+        "highlighted_word": "زَجْرَةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 79,
+          "verse": 13,
+          "word": 3,
+          "reference": "(79:13:3)"
+        },
+        "transliteration": "zajratun",
+        "english_meaning": "(will be) a shout",
+        "arabic_text": "فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ",
+        "highlighted_word": "زَجْرَةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 2,
+          "word": 2,
+          "reference": "(37:2:2)"
+        },
+        "transliteration": "zajran",
+        "english_meaning": "strongly",
+        "arabic_text": "فَالزَّاجِرَاتِ زَجْرًا",
+        "highlighted_word": "زَجْرًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 2,
+          "word": 1,
+          "reference": "(37:2:1)"
+        },
+        "transliteration": "fal-zājirāti",
+        "english_meaning": "And those who drive",
+        "arabic_text": "فَالزَّاجِرَاتِ زَجْرًا",
+        "highlighted_word": "فَالزَّاجِرَاتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 54,
+          "verse": 4,
+          "word": 7,
+          "reference": "(54:4:7)"
+        },
+        "transliteration": "muz'dajarun",
+        "english_meaning": "(is) deterrence",
+        "arabic_text": "وَلَقَدْ جَاءَهُمْ مِنَ الْأَنْبَاءِ مَا فِيهِ مُزْدَجَرٌ",
+        "highlighted_word": "مُزْدَجَرٌ"
+      }
+    ],
+    "total_occurrences": 6,
+    "scraped_at": "2025-08-19 18:20:02"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zjw",
+    "keyword_text": "ز ج و",
+    "description": "The triliteral root zāy jīm wāw (ز ج و) occurs three times in the Quran, in two derived forms:",
+    "word_type": "Verb (form IV)",
+    "meaning": "to drive",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 66,
+          "word": 3,
+          "reference": "(17:66:3)"
+        },
+        "transliteration": "yuz'jī",
+        "english_meaning": "drives",
+        "arabic_text": "رَبُّكُمُ الَّذِي يُزْجِي لَكُمُ الْفُلْكَ فِي الْبَحْرِ لِتَبْتَغُوا مِنْ فَضْلِهِ",
+        "highlighted_word": "يُزْجِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 43,
+          "word": 5,
+          "reference": "(24:43:5)"
+        },
+        "transliteration": "yuz'jī",
+        "english_meaning": "drives",
+        "arabic_text": "أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُ ثُمَّ يَجْعَلُهُ رُكَامًا",
+        "highlighted_word": "يُزْجِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 88,
+          "word": 12,
+          "reference": "(12:88:12)"
+        },
+        "transliteration": "muz'jātin",
+        "english_meaning": "(of) little value",
+        "arabic_text": "يَا أَيُّهَا الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُزْجَاةٍ",
+        "highlighted_word": "مُزْجَاةٍ"
+      }
+    ],
+    "total_occurrences": 3,
+    "scraped_at": "2025-08-19 18:20:05"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zHzH",
+    "keyword_text": "ز ح ز ح",
+    "description": "The quadriliteral root zāy ḥā zāy ḥā (ز ح ز ح) occurs twice in the Quran, in two derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to draw away",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 185,
+          "word": 11,
+          "reference": "(3:185:11)"
+        },
+        "transliteration": "zuḥ'ziḥa",
+        "english_meaning": "is drawn away",
+        "arabic_text": "فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ",
+        "highlighted_word": "زُحْزِحَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 96,
+          "word": 17,
+          "reference": "(2:96:17)"
+        },
+        "transliteration": "bimuzaḥziḥihi",
+        "english_meaning": "(will) remove him",
+        "arabic_text": "وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَنْ يُعَمَّرَ",
+        "highlighted_word": "بِمُزَحْزِحِهِ"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 18:20:09"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zHf",
+    "keyword_text": "ز ح ف",
+    "description": "The triliteral root zāy ḥā fā (ز ح ف) occurs only once in the Quran, as the noun zaḥf (زَحْف). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 15,
+          "word": 8,
+          "reference": "(8:15:8)"
+        },
+        "transliteration": "zaḥfan",
+        "english_meaning": "advancing",
+        "arabic_text": "إِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا زَحْفًا فَلَا تُوَلُّوهُمُ الْأَدْبَارَ",
+        "highlighted_word": "زَحْفًا"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:20:13"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zxrf",
+    "keyword_text": "ز خ ر ف",
+    "description": "The quadriliteral root zāy khā rā fā (ز خ ر ف) occurs four times in the Quran as the noun zukh'ruf (زُخْرُف). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 112,
+          "word": 13,
+          "reference": "(6:112:13)"
+        },
+        "transliteration": "zukh'rufa",
+        "english_meaning": "(with) decorative",
+        "arabic_text": "يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا",
+        "highlighted_word": "زُخْرُفَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 24,
+          "word": 21,
+          "reference": "(10:24:21)"
+        },
+        "transliteration": "zukh'rufahā",
+        "english_meaning": "its adornment",
+        "arabic_text": "حَتَّىٰ إِذَا أَخَذَتِ الْأَرْضُ زُخْرُفَهَا وَازَّيَّنَتْ وَظَنَّ أَهْلُهَا أَنَّهُمْ قَادِرُونَ عَلَيْهَا أَتَاهَا أَمْرُنَا لَيْلًا أَوْ نَهَارًا",
+        "highlighted_word": "زُخْرُفَهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 93,
+          "word": 6,
+          "reference": "(17:93:6)"
+        },
+        "transliteration": "zukh'rufin",
+        "english_meaning": "ornament",
+        "arabic_text": "أَوْ يَكُونَ لَكَ بَيْتٌ مِنْ زُخْرُفٍ أَوْ تَرْقَىٰ فِي السَّمَاءِ",
+        "highlighted_word": "زُخْرُفٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 35,
+          "word": 1,
+          "reference": "(43:35:1)"
+        },
+        "transliteration": "wazukh'rufan",
+        "english_meaning": "And ornaments of gold",
+        "arabic_text": "وَزُخْرُفًا",
+        "highlighted_word": "وَزُخْرُفًا"
+      }
+    ],
+    "total_occurrences": 4,
+    "scraped_at": "2025-08-19 18:20:16"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zrE",
+    "keyword_text": "ز ر ع",
+    "description": "The triliteral root zāy rā ʿayn (ز ر ع) occurs 14 times in the Quran, in four derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to plant, to sow",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 47,
+          "word": 2,
+          "reference": "(12:47:2)"
+        },
+        "transliteration": "tazraʿūna",
+        "english_meaning": "You will sow",
+        "arabic_text": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا",
+        "highlighted_word": "تَزْرَعُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 64,
+          "word": 2,
+          "reference": "(56:64:2)"
+        },
+        "transliteration": "tazraʿūnahu",
+        "english_meaning": "cause it to grow",
+        "arabic_text": "أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ",
+        "highlighted_word": "تَزْرَعُونَهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 29,
+          "word": 41,
+          "reference": "(48:29:41)"
+        },
+        "transliteration": "l-zurāʿa",
+        "english_meaning": "the sowers",
+        "arabic_text": "فَاسْتَوَىٰ عَلَىٰ سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ بِهِمُ الْكُفَّارَ",
+        "highlighted_word": "الزُّرَّاعَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 141,
+          "word": 9,
+          "reference": "(6:141:9)"
+        },
+        "transliteration": "wal-zarʿa",
+        "english_meaning": "and the crops",
+        "arabic_text": "وَهُوَ الَّذِي أَنْشَأَ جَنَّاتٍ مَعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍ وَالنَّخْلَ وَالزَّرْعَ مُخْتَلِفًا أُكُلُهُ",
+        "highlighted_word": "وَالزَّرْعَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 4,
+          "word": 8,
+          "reference": "(13:4:8)"
+        },
+        "transliteration": "wazarʿun",
+        "english_meaning": "and crops",
+        "arabic_text": "وَفِي الْأَرْضِ قِطَعٌ مُتَجَاوِرَاتٌ وَجَنَّاتٌ مِنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ",
+        "highlighted_word": "وَزَرْعٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 37,
+          "word": 9,
+          "reference": "(14:37:9)"
+        },
+        "transliteration": "zarʿin",
+        "english_meaning": "cultivation",
+        "arabic_text": "رَبَّنَا إِنِّي أَسْكَنْتُ مِنْ ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ",
+        "highlighted_word": "زَرْعٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 11,
+          "word": 4,
+          "reference": "(16:11:4)"
+        },
+        "transliteration": "l-zarʿa",
+        "english_meaning": "the crops",
+        "arabic_text": "يُنْبِتُ لَكُمْ بِهِ الزَّرْعَ وَالزَّيْتُونَ وَالنَّخِيلَ وَالْأَعْنَابَ",
+        "highlighted_word": "الزَّرْعَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 32,
+          "word": 14,
+          "reference": "(18:32:14)"
+        },
+        "transliteration": "zarʿan",
+        "english_meaning": "crops",
+        "arabic_text": "وَحَفَفْنَاهُمَا بِنَخْلٍ وَجَعَلْنَا بَيْنَهُمَا زَرْعًا",
+        "highlighted_word": "زَرْعًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 148,
+          "word": 1,
+          "reference": "(26:148:1)"
+        },
+        "transliteration": "wazurūʿin",
+        "english_meaning": "And cornfields",
+        "arabic_text": "وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ",
+        "highlighted_word": "وَزُرُوعٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 32,
+          "verse": 27,
+          "word": 11,
+          "reference": "(32:27:11)"
+        },
+        "transliteration": "zarʿan",
+        "english_meaning": "crops",
+        "arabic_text": "أَوَلَمْ يَرَوْا أَنَّا نَسُوقُ الْمَاءَ إِلَى الْأَرْضِ الْجُرُزِ فَنُخْرِجُ بِهِ زَرْعًا",
+        "highlighted_word": "زَرْعًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 21,
+          "word": 16,
+          "reference": "(39:21:16)"
+        },
+        "transliteration": "zarʿan",
+        "english_meaning": "crops",
+        "arabic_text": "ثُمَّ يُخْرِجُ بِهِ زَرْعًا مُخْتَلِفًا أَلْوَانُهُ ثُمَّ يَهِيجُ فَتَرَاهُ مُصْفَرًّا",
+        "highlighted_word": "زَرْعًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 44,
+          "verse": 26,
+          "word": 1,
+          "reference": "(44:26:1)"
+        },
+        "transliteration": "wazurūʿin",
+        "english_meaning": "And cornfields",
+        "arabic_text": "وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ",
+        "highlighted_word": "وَزُرُوعٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 29,
+          "word": 32,
+          "reference": "(48:29:32)"
+        },
+        "transliteration": "kazarʿin",
+        "english_meaning": "(is) like a seed",
+        "arabic_text": "وَمَثَلُهُمْ فِي الْإِنْجِيلِ كَزَرْعٍ أَخْرَجَ شَطْأَهُ",
+        "highlighted_word": "كَزَرْعٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 64,
+          "word": 5,
+          "reference": "(56:64:5)"
+        },
+        "transliteration": "l-zāriʿūna",
+        "english_meaning": "the Ones Who grow",
+        "arabic_text": "أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ",
+        "highlighted_word": "الزَّارِعُونَ"
+      }
+    ],
+    "total_occurrences": 14,
+    "scraped_at": "2025-08-19 18:20:20"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zrq",
+    "keyword_text": "ز ر ق",
+    "description": "The triliteral root zāy rā qāf (ز ر ق) occurs only once in the Quran, as the noun zur'q (زُرْق). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 102,
+          "word": 8,
+          "reference": "(20:102:8)"
+        },
+        "transliteration": "zur'qan",
+        "english_meaning": "blue-eyed",
+        "arabic_text": "يَوْمَ يُنْفَخُ فِي الصُّورِ وَنَحْشُرُ الْمُجْرِمِينَ يَوْمَئِذٍ زُرْقًا",
+        "highlighted_word": "زُرْقًا"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:20:24"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zry",
+    "keyword_text": "ز ر ي",
+    "description": "The triliteral root zāy rā yā (ز ر ي) occurs only once in the Quran, as the form VIII verb tazdarī (تَزْدَرِىٓ). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form VIII)",
+    "meaning": "to look down",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 31,
+          "word": 17,
+          "reference": "(11:31:17)"
+        },
+        "transliteration": "tazdarī",
+        "english_meaning": "look down upon",
+        "arabic_text": "وَلَا أَقُولُ لِلَّذِينَ تَزْدَرِي أَعْيُنُكُمْ لَنْ يُؤْتِيَهُمُ اللَّهُ خَيْرًا",
+        "highlighted_word": "تَزْدَرِي"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:20:27"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zEm",
+    "keyword_text": "ز ع م",
+    "description": "The triliteral root zāy ʿayn mīm (ز ع م) occurs 17 times in the Quran, in three derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to claim",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 60,
+          "word": 5,
+          "reference": "(4:60:5)"
+        },
+        "transliteration": "yazʿumūna",
+        "english_meaning": "claim",
+        "arabic_text": "أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنْزِلَ إِلَيْكَ",
+        "highlighted_word": "يَزْعُمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 22,
+          "word": 12,
+          "reference": "(6:22:12)"
+        },
+        "transliteration": "tazʿumūna",
+        "english_meaning": "claim",
+        "arabic_text": "أَيْنَ شُرَكَاؤُكُمُ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
+        "highlighted_word": "تَزْعُمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 94,
+          "word": 18,
+          "reference": "(6:94:18)"
+        },
+        "transliteration": "zaʿamtum",
+        "english_meaning": "you claimed",
+        "arabic_text": "وَمَا نَرَىٰ مَعَكُمْ شُفَعَاءَكُمُ الَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَاءُ",
+        "highlighted_word": "زَعَمْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 94,
+          "word": 29,
+          "reference": "(6:94:29)"
+        },
+        "transliteration": "tazʿumūna",
+        "english_meaning": "claim",
+        "arabic_text": "لَقَدْ تَقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنْكُمْ مَا كُنْتُمْ تَزْعُمُونَ",
+        "highlighted_word": "تَزْعُمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 56,
+          "word": 4,
+          "reference": "(17:56:4)"
+        },
+        "transliteration": "zaʿamtum",
+        "english_meaning": "you claimed",
+        "arabic_text": "قُلِ ادْعُوا الَّذِينَ زَعَمْتُمْ مِنْ دُونِهِ فَلَا يَمْلِكُونَ كَشْفَ الضُّرِّ عَنْكُمْ وَلَا تَحْوِيلًا",
+        "highlighted_word": "زَعَمْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 92,
+          "word": 5,
+          "reference": "(17:92:5)"
+        },
+        "transliteration": "zaʿamta",
+        "english_meaning": "you have claimed",
+        "arabic_text": "أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا",
+        "highlighted_word": "زَعَمْتَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 48,
+          "word": 12,
+          "reference": "(18:48:12)"
+        },
+        "transliteration": "zaʿamtum",
+        "english_meaning": "you claimed",
+        "arabic_text": "بَلْ زَعَمْتُمْ أَلَّنْ نَجْعَلَ لَكُمْ مَوْعِدًا",
+        "highlighted_word": "زَعَمْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 52,
+          "word": 6,
+          "reference": "(18:52:6)"
+        },
+        "transliteration": "zaʿamtum",
+        "english_meaning": "you claimed",
+        "arabic_text": "وَيَوْمَ يَقُولُ نَادُوا شُرَكَائِيَ الَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ",
+        "highlighted_word": "زَعَمْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 62,
+          "word": 8,
+          "reference": "(28:62:8)"
+        },
+        "transliteration": "tazʿumūna",
+        "english_meaning": "claim",
+        "arabic_text": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
+        "highlighted_word": "تَزْعُمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 74,
+          "word": 8,
+          "reference": "(28:74:8)"
+        },
+        "transliteration": "tazʿumūna",
+        "english_meaning": "claim",
+        "arabic_text": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
+        "highlighted_word": "تَزْعُمُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 22,
+          "word": 4,
+          "reference": "(34:22:4)"
+        },
+        "transliteration": "zaʿamtum",
+        "english_meaning": "you claim",
+        "arabic_text": "قُلِ ادْعُوا الَّذِينَ زَعَمْتُمْ مِنْ دُونِ اللَّهِ",
+        "highlighted_word": "زَعَمْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 62,
+          "verse": 6,
+          "word": 6,
+          "reference": "(62:6:6)"
+        },
+        "transliteration": "zaʿamtum",
+        "english_meaning": "you claim",
+        "arabic_text": "إِنْ زَعَمْتُمْ أَنَّكُمْ أَوْلِيَاءُ لِلَّهِ مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ",
+        "highlighted_word": "زَعَمْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 64,
+          "verse": 7,
+          "word": 1,
+          "reference": "(64:7:1)"
+        },
+        "transliteration": "zaʿama",
+        "english_meaning": "Claim",
+        "arabic_text": "زَعَمَ الَّذِينَ كَفَرُوا أَنْ لَنْ يُبْعَثُوا قُلْ بَلَىٰ وَرَبِّي لَتُبْعَثُنَّ",
+        "highlighted_word": "زَعَمَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 136,
+          "word": 12,
+          "reference": "(6:136:12)"
+        },
+        "transliteration": "bizaʿmihim",
+        "english_meaning": "by their claim",
+        "arabic_text": "فَقَالُوا هَٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَائِنَا",
+        "highlighted_word": "بِزَعْمِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 138,
+          "word": 11,
+          "reference": "(6:138:11)"
+        },
+        "transliteration": "bizaʿmihim",
+        "english_meaning": "by their claim",
+        "arabic_text": "وَقَالُوا هَٰذِهِ أَنْعَامٌ وَحَرْثٌ حِجْرٌ لَا يَطْعَمُهَا إِلَّا مَنْ نَشَاءُ بِزَعْمِهِمْ",
+        "highlighted_word": "بِزَعْمِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 72,
+          "word": 12,
+          "reference": "(12:72:12)"
+        },
+        "transliteration": "zaʿīmun",
+        "english_meaning": "(is) responsible",
+        "arabic_text": "قَالُوا نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَنْ جَاءَ بِهِ حِمْلُ بَعِيرٍ وَأَنَا بِهِ زَعِيمٌ",
+        "highlighted_word": "زَعِيمٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 68,
+          "verse": 40,
+          "word": 4,
+          "reference": "(68:40:4)"
+        },
+        "transliteration": "zaʿīmun",
+        "english_meaning": "(is) responsible",
+        "arabic_text": "سَلْهُمْ أَيُّهُمْ بِذَٰلِكَ زَعِيمٌ",
+        "highlighted_word": "زَعِيمٌ"
+      }
+    ],
+    "total_occurrences": 17,
+    "scraped_at": "2025-08-19 18:20:31"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zfr",
+    "keyword_text": "ز ف ر",
+    "description": "The triliteral root zāy fā rā (ز ف ر) occurs three times in the Quran as the noun zafīr (زَفِير). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 106,
+          "word": 8,
+          "reference": "(11:106:8)"
+        },
+        "transliteration": "zafīrun",
+        "english_meaning": "(is) sighing",
+        "arabic_text": "فَأَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ لَهُمْ فِيهَا زَفِيرٌ وَشَهِيقٌ",
+        "highlighted_word": "زَفِيرٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 100,
+          "word": 3,
+          "reference": "(21:100:3)"
+        },
+        "transliteration": "zafīrun",
+        "english_meaning": "(is) sighing",
+        "arabic_text": "لَهُمْ فِيهَا زَفِيرٌ وَهُمْ فِيهَا لَا يَسْمَعُونَ",
+        "highlighted_word": "زَفِيرٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 12,
+          "word": 9,
+          "reference": "(25:12:9)"
+        },
+        "transliteration": "wazafīran",
+        "english_meaning": "and roaring",
+        "arabic_text": "إِذَا رَأَتْهُمْ مِنْ مَكَانٍ بَعِيدٍ سَمِعُوا لَهَا تَغَيُّظًا وَزَفِيرًا",
+        "highlighted_word": "وَزَفِيرًا"
+      }
+    ],
+    "total_occurrences": 3,
+    "scraped_at": "2025-08-19 18:20:35"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zff",
+    "keyword_text": "ز ف ف",
+    "description": "The triliteral root zāy fā fā (ز ف ف) occurs only once in the Quran, as the form I verb yaziffu (يَزِفُّ). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Verb (form I)",
+    "meaning": "to hasten",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 94,
+          "word": 3,
+          "reference": "(37:94:3)"
+        },
+        "transliteration": "yaziffūna",
+        "english_meaning": "hastening",
+        "arabic_text": "فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ",
+        "highlighted_word": "يَزِفُّونَ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:20:38"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zqm",
+    "keyword_text": "ز ق م",
+    "description": "The triliteral root zāy qāf mīm (ز ق م) occurs three times in the Quran as the proper noun zaqqūm (زَقُّوم). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Proper noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 62,
+          "word": 6,
+          "reference": "(37:62:6)"
+        },
+        "transliteration": "l-zaqūmi",
+        "english_meaning": "(of) Zaqqum",
+        "arabic_text": "أَذَٰلِكَ خَيْرٌ نُزُلًا أَمْ شَجَرَةُ الزَّقُّومِ",
+        "highlighted_word": "الزَّقُّومِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 44,
+          "verse": 43,
+          "word": 3,
+          "reference": "(44:43:3)"
+        },
+        "transliteration": "l-zaqūmi",
+        "english_meaning": "(of) Zaqqum",
+        "arabic_text": "إِنَّ شَجَرَتَ الزَّقُّومِ",
+        "highlighted_word": "الزَّقُّومِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 52,
+          "word": 5,
+          "reference": "(56:52:5)"
+        },
+        "transliteration": "zaqqūmin",
+        "english_meaning": "Zaqqum",
+        "arabic_text": "لَآكِلُونَ مِنْ شَجَرٍ مِنْ زَقُّومٍ",
+        "highlighted_word": "زَقُّومٍ"
+      }
+    ],
+    "total_occurrences": 3,
+    "scraped_at": "2025-08-19 18:20:42"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zkw",
+    "keyword_text": "ز ك و",
+    "description": "The triliteral root zāy kāf wāw (ز ك و) occurs 59 times in the Quran, in seven derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to purify",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 21,
+          "word": 22,
+          "reference": "(24:21:22)"
+        },
+        "transliteration": "zakā",
+        "english_meaning": "(would) have been pure",
+        "arabic_text": "وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ مَا زَكَىٰ مِنْكُمْ مِنْ أَحَدٍ أَبَدًا",
+        "highlighted_word": "زَكَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 129,
+          "word": 12,
+          "reference": "(2:129:12)"
+        },
+        "transliteration": "wayuzakkīhim",
+        "english_meaning": "and purify them",
+        "arabic_text": "يَتْلُو عَلَيْهِمْ آيَاتِكَ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُزَكِّيهِمْ",
+        "highlighted_word": "وَيُزَكِّيهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 151,
+          "word": 9,
+          "reference": "(2:151:9)"
+        },
+        "transliteration": "wayuzakkīkum",
+        "english_meaning": "and purifies you",
+        "arabic_text": "كَمَا أَرْسَلْنَا فِيكُمْ رَسُولًا مِنْكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ",
+        "highlighted_word": "وَيُزَكِّيكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 174,
+          "word": 26,
+          "reference": "(2:174:26)"
+        },
+        "transliteration": "yuzakkīhim",
+        "english_meaning": "will He purify them",
+        "arabic_text": "وَلَا يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+        "highlighted_word": "يُزَكِّيهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 77,
+          "word": 24,
+          "reference": "(3:77:24)"
+        },
+        "transliteration": "yuzakkīhim",
+        "english_meaning": "purify them",
+        "arabic_text": "وَلَا يُكَلِّمُهُمُ اللَّهُ وَلَا يَنْظُرُ إِلَيْهِمْ يَوْمَ الْقِيَامَةِ وَلَا يُزَكِّيهِمْ",
+        "highlighted_word": "يُزَكِّيهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 164,
+          "word": 15,
+          "reference": "(3:164:15)"
+        },
+        "transliteration": "wayuzakkīhim",
+        "english_meaning": "and purifying them",
+        "arabic_text": "يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ",
+        "highlighted_word": "وَيُزَكِّيهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 49,
+          "word": 5,
+          "reference": "(4:49:5)"
+        },
+        "transliteration": "yuzakkūna",
+        "english_meaning": "claim purity",
+        "arabic_text": "أَلَمْ تَرَ إِلَى الَّذِينَ يُزَكُّونَ أَنْفُسَهُمْ",
+        "highlighted_word": "يُزَكُّونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 49,
+          "word": 9,
+          "reference": "(4:49:9)"
+        },
+        "transliteration": "yuzakkī",
+        "english_meaning": "He purifies",
+        "arabic_text": "بَلِ اللَّهُ يُزَكِّي مَنْ يَشَاءُ وَلَا يُظْلَمُونَ فَتِيلًا",
+        "highlighted_word": "يُزَكِّي"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 103,
+          "word": 6,
+          "reference": "(9:103:6)"
+        },
+        "transliteration": "watuzakkīhim",
+        "english_meaning": "and cause them increase",
+        "arabic_text": "خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا وَصَلِّ عَلَيْهِمْ",
+        "highlighted_word": "وَتُزَكِّيهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 21,
+          "word": 29,
+          "reference": "(24:21:29)"
+        },
+        "transliteration": "yuzakkī",
+        "english_meaning": "purifies",
+        "arabic_text": "وَلَٰكِنَّ اللَّهَ يُزَكِّي مَنْ يَشَاءُ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+        "highlighted_word": "يُزَكِّي"
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 32,
+          "word": 26,
+          "reference": "(53:32:26)"
+        },
+        "transliteration": "tuzakkū",
+        "english_meaning": "ascribe purity",
+        "arabic_text": "فَلَا تُزَكُّوا أَنْفُسَكُمْ هُوَ أَعْلَمُ بِمَنِ اتَّقَىٰ",
+        "highlighted_word": "تُزَكُّوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 62,
+          "verse": 2,
+          "word": 11,
+          "reference": "(62:2:11)"
+        },
+        "transliteration": "wayuzakkīhim",
+        "english_meaning": "and purifying them",
+        "arabic_text": "يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ",
+        "highlighted_word": "وَيُزَكِّيهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 91,
+          "verse": 9,
+          "word": 4,
+          "reference": "(91:9:4)"
+        },
+        "transliteration": "zakkāhā",
+        "english_meaning": "purifies it",
+        "arabic_text": "قَدْ أَفْلَحَ مَنْ زَكَّاهَا",
+        "highlighted_word": "زَكَّاهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 76,
+          "word": 12,
+          "reference": "(20:76:12)"
+        },
+        "transliteration": "tazakkā",
+        "english_meaning": "purifies himself",
+        "arabic_text": "خَالِدِينَ فِيهَا وَذَٰلِكَ جَزَاءُ مَنْ تَزَكَّىٰ",
+        "highlighted_word": "تَزَكَّىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 18,
+          "word": 28,
+          "reference": "(35:18:28)"
+        },
+        "transliteration": "tazakkā",
+        "english_meaning": "purifies himself",
+        "arabic_text": "وَمَنْ تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِ وَإِلَى اللَّهِ الْمَصِيرُ",
+        "highlighted_word": "تَزَكَّىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 18,
+          "word": 30,
+          "reference": "(35:18:30)"
+        },
+        "transliteration": "yatazakkā",
+        "english_meaning": "he purifies",
+        "arabic_text": "وَمَنْ تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِ وَإِلَى اللَّهِ الْمَصِيرُ",
+        "highlighted_word": "يَتَزَكَّىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 79,
+          "verse": 18,
+          "word": 6,
+          "reference": "(79:18:6)"
+        },
+        "transliteration": "tazakkā",
+        "english_meaning": "purify yourself",
+        "arabic_text": "فَقُلْ هَلْ لَكَ إِلَىٰ أَنْ تَزَكَّىٰ",
+        "highlighted_word": "تَزَكَّىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 80,
+          "verse": 3,
+          "word": 4,
+          "reference": "(80:3:4)"
+        },
+        "transliteration": "yazzakkā",
+        "english_meaning": "purify himself",
+        "arabic_text": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ",
+        "highlighted_word": "يَزَّكَّىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 80,
+          "verse": 7,
+          "word": 4,
+          "reference": "(80:7:4)"
+        },
+        "transliteration": "yazzakkā",
+        "english_meaning": "he purifies himself",
+        "arabic_text": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+        "highlighted_word": "يَزَّكَّىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 87,
+          "verse": 14,
+          "word": 4,
+          "reference": "(87:14:4)"
+        },
+        "transliteration": "tazakkā",
+        "english_meaning": "purifies (himself)",
+        "arabic_text": "قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ",
+        "highlighted_word": "تَزَكَّىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 92,
+          "verse": 18,
+          "word": 4,
+          "reference": "(92:18:4)"
+        },
+        "transliteration": "yatazakkā",
+        "english_meaning": "(to) purify himself",
+        "arabic_text": "الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ",
+        "highlighted_word": "يَتَزَكَّىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 232,
+          "word": 26,
+          "reference": "(2:232:26)"
+        },
+        "transliteration": "azkā",
+        "english_meaning": "(is) more virtuous",
+        "arabic_text": "ذَٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+        "highlighted_word": "أَزْكَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 19,
+          "word": 29,
+          "reference": "(18:19:29)"
+        },
+        "transliteration": "azkā",
+        "english_meaning": "the purest",
+        "arabic_text": "فَلْيَنْظُرْ أَيُّهَا أَزْكَىٰ طَعَامًا فَلْيَأْتِكُمْ بِرِزْقٍ مِنْهُ",
+        "highlighted_word": "أَزْكَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 28,
+          "word": 17,
+          "reference": "(24:28:17)"
+        },
+        "transliteration": "azkā",
+        "english_meaning": "(is) purer",
+        "arabic_text": "وَإِنْ قِيلَ لَكُمُ ارْجِعُوا فَارْجِعُوا هُوَ أَزْكَىٰ لَكُمْ",
+        "highlighted_word": "أَزْكَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 30,
+          "word": 9,
+          "reference": "(24:30:9)"
+        },
+        "transliteration": "azkā",
+        "english_meaning": "(is) purer",
+        "arabic_text": "وَيَحْفَظُوا فُرُوجَهُمْ ذَٰلِكَ أَزْكَىٰ لَهُمْ",
+        "highlighted_word": "أَزْكَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 43,
+          "word": 4,
+          "reference": "(2:43:4)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "zakah",
+        "arabic_text": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 83,
+          "word": 22,
+          "reference": "(2:83:22)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "وَقُولُوا لِلنَّاسِ حُسْنًا وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 110,
+          "word": 4,
+          "reference": "(2:110:4)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "[the] zakah",
+        "arabic_text": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 177,
+          "word": 35,
+          "reference": "(2:177:35)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 277,
+          "word": 9,
+          "reference": "(2:277:9)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "وَأَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ لَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 77,
+          "word": 12,
+          "reference": "(4:77:12)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "أَلَمْ تَرَ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 162,
+          "word": 18,
+          "reference": "(4:162:18)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "وَالْمُقِيمِينَ الصَّلَاةَ وَالْمُؤْتُونَ الزَّكَاةَ وَالْمُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ أُولَٰئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 12,
+          "word": 20,
+          "reference": "(5:12:20)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "لَئِنْ أَقَمْتُمُ الصَّلَاةَ وَآتَيْتُمُ الزَّكَاةَ وَآمَنْتُمْ بِرُسُلِي وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ اللَّهَ قَرْضًا حَسَنًا لَأُكَفِّرَنَّ عَنْكُمْ سَيِّئَاتِكُمْ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 55,
+          "word": 11,
+          "reference": "(5:55:11)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "zakah",
+        "arabic_text": "الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 156,
+          "word": 26,
+          "reference": "(7:156:26)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "zakah",
+        "arabic_text": "فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ الزَّكَاةَ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 5,
+          "word": 20,
+          "reference": "(9:5:20)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "فَإِنْ تَابُوا وَأَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ فَخَلُّوا سَبِيلَهُمْ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 11,
+          "word": 6,
+          "reference": "(9:11:6)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "فَإِنْ تَابُوا وَأَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ فَإِخْوَانُكُمْ فِي الدِّينِ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 18,
+          "word": 13,
+          "reference": "(9:18:13)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 71,
+          "word": 14,
+          "reference": "(9:71:14)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "وَيُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَيُطِيعُونَ اللَّهَ وَرَسُولَهُ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 81,
+          "word": 7,
+          "reference": "(18:81:7)"
+        },
+        "transliteration": "zakatan",
+        "english_meaning": "(in) purity",
+        "arabic_text": "فَأَرَدْنَا أَنْ يُبْدِلَهُمَا رَبُّهُمَا خَيْرًا مِنْهُ زَكَاةً وَأَقْرَبَ رُحْمًا",
+        "highlighted_word": "زَكَاةً"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 13,
+          "word": 4,
+          "reference": "(19:13:4)"
+        },
+        "transliteration": "wazakatan",
+        "english_meaning": "and purity",
+        "arabic_text": "وَحَنَانًا مِنْ لَدُنَّا وَزَكَاةً وَكَانَ تَقِيًّا",
+        "highlighted_word": "وَزَكَاةً"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 31,
+          "word": 8,
+          "reference": "(19:31:8)"
+        },
+        "transliteration": "wal-zakati",
+        "english_meaning": "and zakah",
+        "arabic_text": "وَأَوْصَانِي بِالصَّلَاةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا",
+        "highlighted_word": "وَالزَّكَاةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 55,
+          "word": 5,
+          "reference": "(19:55:5)"
+        },
+        "transliteration": "wal-zakati",
+        "english_meaning": "and zakah",
+        "arabic_text": "وَكَانَ يَأْمُرُ أَهْلَهُ بِالصَّلَاةِ وَالزَّكَاةِ وَكَانَ عِنْدَ رَبِّهِ مَرْضِيًّا",
+        "highlighted_word": "وَالزَّكَاةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 73,
+          "word": 12,
+          "reference": "(21:73:12)"
+        },
+        "transliteration": "l-zakati",
+        "english_meaning": "(of) zakah",
+        "arabic_text": "وَأَوْحَيْنَا إِلَيْهِمْ فِعْلَ الْخَيْرَاتِ وَإِقَامَ الصَّلَاةِ وَإِيتَاءَ الزَّكَاةِ",
+        "highlighted_word": "الزَّكَاةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 41,
+          "word": 9,
+          "reference": "(22:41:9)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "zakah",
+        "arabic_text": "الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 78,
+          "word": 36,
+          "reference": "(22:78:36)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "zakah",
+        "arabic_text": "فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَاعْتَصِمُوا بِاللَّهِ هُوَ مَوْلَاكُمْ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 4,
+          "word": 3,
+          "reference": "(23:4:3)"
+        },
+        "transliteration": "lilzzakati",
+        "english_meaning": "of purification works",
+        "arabic_text": "وَالَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ",
+        "highlighted_word": "لِلزَّكَاةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 37,
+          "word": 13,
+          "reference": "(24:37:13)"
+        },
+        "transliteration": "l-zakati",
+        "english_meaning": "zakah",
+        "arabic_text": "رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ",
+        "highlighted_word": "الزَّكَاةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 56,
+          "word": 4,
+          "reference": "(24:56:4)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "zakah",
+        "arabic_text": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَطِيعُوا الرَّسُولَ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 3,
+          "word": 5,
+          "reference": "(27:3:5)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "zakah",
+        "arabic_text": "الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ يُوقِنُونَ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 39,
+          "word": 16,
+          "reference": "(30:39:16)"
+        },
+        "transliteration": "zakatin",
+        "english_meaning": "zakah",
+        "arabic_text": "وَمَا آتَيْتُمْ مِنْ زَكَاةٍ تُرِيدُونَ وَجْهَ اللَّهِ فَأُولَٰئِكَ هُمُ الْمُضْعِفُونَ",
+        "highlighted_word": "زَكَاةٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 31,
+          "verse": 4,
+          "word": 5,
+          "reference": "(31:4:5)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "zakah",
+        "arabic_text": "الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ يُوقِنُونَ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 33,
+          "word": 12,
+          "reference": "(33:33:12)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "zakah",
+        "arabic_text": "وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ وَرَسُولَهُ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 7,
+          "word": 4,
+          "reference": "(41:7:4)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "الَّذِينَ لَا يُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 58,
+          "verse": 13,
+          "word": 17,
+          "reference": "(58:13:17)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "فَإِذْ لَمْ تَفْعَلُوا وَتَابَ اللَّهُ عَلَيْكُمْ فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 73,
+          "verse": 20,
+          "word": 56,
+          "reference": "(73:20:56)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 98,
+          "verse": 5,
+          "word": 13,
+          "reference": "(98:5:13)"
+        },
+        "transliteration": "l-zakata",
+        "english_meaning": "the zakah",
+        "arabic_text": "وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ وَذَٰلِكَ دِينُ الْقَيِّمَةِ",
+        "highlighted_word": "الزَّكَاةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 19,
+          "word": 9,
+          "reference": "(19:19:9)"
+        },
+        "transliteration": "zakiyyan",
+        "english_meaning": "pure",
+        "arabic_text": "قَالَ إِنَّمَا أَنَا رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَامًا زَكِيًّا",
+        "highlighted_word": "زَكِيًّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 74,
+          "word": 10,
+          "reference": "(18:74:10)"
+        },
+        "transliteration": "zakiyyatan",
+        "english_meaning": "pure",
+        "arabic_text": "قَالَ أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَقَدْ جِئْتَ شَيْئًا نُكْرًا",
+        "highlighted_word": "زَكِيَّةً"
+      }
+    ],
+    "total_occurrences": 59,
+    "scraped_at": "2025-08-19 18:20:46"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zlzl",
+    "keyword_text": "ز ل ز ل",
+    "description": "The quadriliteral root zāy lām zāy lām (ز ل ز ل) occurs six times in the Quran, in three derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to shake",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 214,
+          "word": 16,
+          "reference": "(2:214:16)"
+        },
+        "transliteration": "wazul'zilū",
+        "english_meaning": "and they were shaken",
+        "arabic_text": "مَسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا",
+        "highlighted_word": "وَزُلْزِلُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 11,
+          "word": 4,
+          "reference": "(33:11:4)"
+        },
+        "transliteration": "wazul'zilū",
+        "english_meaning": "and shaken",
+        "arabic_text": "هُنَالِكَ ابْتُلِيَ الْمُؤْمِنُونَ وَزُلْزِلُوا",
+        "highlighted_word": "وَزُلْزِلُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 99,
+          "verse": 1,
+          "word": 2,
+          "reference": "(99:1:2)"
+        },
+        "transliteration": "zul'zilati",
+        "english_meaning": "is shaken",
+        "arabic_text": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+        "highlighted_word": "زُلْزِلَتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 11,
+          "word": 5,
+          "reference": "(33:11:5)"
+        },
+        "transliteration": "zil'zālan",
+        "english_meaning": "(with a) shake",
+        "arabic_text": "زِلْزَالًا شَدِيدًا",
+        "highlighted_word": "زِلْزَالًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 99,
+          "verse": 1,
+          "word": 4,
+          "reference": "(99:1:4)"
+        },
+        "transliteration": "zil'zālahā",
+        "english_meaning": "(with) its earthquake",
+        "arabic_text": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+        "highlighted_word": "زِلْزَالَهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 1,
+          "word": 6,
+          "reference": "(22:1:6)"
+        },
+        "transliteration": "zalzalata",
+        "english_meaning": "(the) convulsion",
+        "arabic_text": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ",
+        "highlighted_word": "زَلْزَلَةَ"
+      }
+    ],
+    "total_occurrences": 6,
+    "scraped_at": "2025-08-19 18:20:52"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zlf",
+    "keyword_text": "ز ل ف",
+    "description": "The triliteral root zāy lām fā (ز ل ف) occurs 10 times in the Quran, in three derived forms:",
+    "word_type": "Verb (form IV)",
+    "meaning": "to bring near",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 64,
+          "word": 1,
+          "reference": "(26:64:1)"
+        },
+        "transliteration": "wa-azlafnā",
+        "english_meaning": "And We brought near",
+        "arabic_text": "وَأَزْلَفْنَا ثَمَّ الْآخَرِينَ",
+        "highlighted_word": "وَأَزْلَفْنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 90,
+          "word": 1,
+          "reference": "(26:90:1)"
+        },
+        "transliteration": "wa-uz'lifati",
+        "english_meaning": "And (will be) brought near",
+        "arabic_text": "وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ",
+        "highlighted_word": "وَأُزْلِفَتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 50,
+          "verse": 31,
+          "word": 1,
+          "reference": "(50:31:1)"
+        },
+        "transliteration": "wa-uz'lifati",
+        "english_meaning": "And will be brought near",
+        "arabic_text": "وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ",
+        "highlighted_word": "وَأُزْلِفَتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 81,
+          "verse": 13,
+          "word": 3,
+          "reference": "(81:13:3)"
+        },
+        "transliteration": "uz'lifat",
+        "english_meaning": "is brought near",
+        "arabic_text": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+        "highlighted_word": "أُزْلِفَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 37,
+          "word": 8,
+          "reference": "(34:37:8)"
+        },
+        "transliteration": "zul'fā",
+        "english_meaning": "(in) position",
+        "arabic_text": "وَمَا أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ بِالَّتِي تُقَرِّبُكُمْ عِنْدَنَا زُلْفَىٰ",
+        "highlighted_word": "زُلْفَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 25,
+          "word": 7,
+          "reference": "(38:25:7)"
+        },
+        "transliteration": "lazul'fā",
+        "english_meaning": "surely is a near access",
+        "arabic_text": "فَغَفَرْنَا لَهُ ذَٰلِكَ وَإِنَّ لَهُ عِنْدَنَا لَزُلْفَىٰ وَحُسْنَ مَآبٍ",
+        "highlighted_word": "لَزُلْفَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 40,
+          "word": 4,
+          "reference": "(38:40:4)"
+        },
+        "transliteration": "lazul'fā",
+        "english_meaning": "surely is a near access",
+        "arabic_text": "وَإِنَّ لَهُ عِنْدَنَا لَزُلْفَىٰ وَحُسْنَ مَآبٍ",
+        "highlighted_word": "لَزُلْفَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 3,
+          "word": 16,
+          "reference": "(39:3:16)"
+        },
+        "transliteration": "zul'fā",
+        "english_meaning": "(in) nearness",
+        "arabic_text": "مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَىٰ",
+        "highlighted_word": "زُلْفَىٰ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 114,
+          "word": 5,
+          "reference": "(11:114:5)"
+        },
+        "transliteration": "wazulafan",
+        "english_meaning": "and (at) the approach",
+        "arabic_text": "وَأَقِمِ الصَّلَاةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِنَ اللَّيْلِ",
+        "highlighted_word": "وَزُلَفًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 67,
+          "verse": 27,
+          "word": 3,
+          "reference": "(67:27:3)"
+        },
+        "transliteration": "zul'fatan",
+        "english_meaning": "approaching",
+        "arabic_text": "فَلَمَّا رَأَوْهُ زُلْفَةً سِيئَتْ وُجُوهُ الَّذِينَ كَفَرُوا",
+        "highlighted_word": "زُلْفَةً"
+      }
+    ],
+    "total_occurrences": 10,
+    "scraped_at": "2025-08-19 18:20:56"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zlq",
+    "keyword_text": "ز ل ق",
+    "description": "The triliteral root zāy lām qāf (ز ل ق) occurs twice in the Quran, in two derived forms:",
+    "word_type": "Verb (form IV)",
+    "meaning": "to make slip",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 68,
+          "verse": 51,
+          "word": 5,
+          "reference": "(68:51:5)"
+        },
+        "transliteration": "layuz'liqūnaka",
+        "english_meaning": "surely make you slip",
+        "arabic_text": "وَإِنْ يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ",
+        "highlighted_word": "لَيُزْلِقُونَكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 40,
+          "word": 15,
+          "reference": "(18:40:15)"
+        },
+        "transliteration": "zalaqan",
+        "english_meaning": "slippery",
+        "arabic_text": "وَيُرْسِلَ عَلَيْهَا حُسْبَانًا مِنَ السَّمَاءِ فَتُصْبِحَ صَعِيدًا زَلَقًا",
+        "highlighted_word": "زَلَقًا"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 18:20:59"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zll",
+    "keyword_text": "ز ل ل",
+    "description": "The triliteral root zāy lām lām (ز ل ل) occurs four times in the Quran, in three derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to slip",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 209,
+          "word": 2,
+          "reference": "(2:209:2)"
+        },
+        "transliteration": "zalaltum",
+        "english_meaning": "you slip",
+        "arabic_text": "فَإِنْ زَلَلْتُمْ مِنْ بَعْدِ مَا جَاءَتْكُمُ الْبَيِّنَاتُ فَاعْلَمُوا أَنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+        "highlighted_word": "زَلَلْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 94,
+          "word": 6,
+          "reference": "(16:94:6)"
+        },
+        "transliteration": "fatazilla",
+        "english_meaning": "lest, should slip",
+        "arabic_text": "وَلَا تَتَّخِذُوا أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ فَتَزِلَّ قَدَمٌ بَعْدَ ثُبُوتِهَا",
+        "highlighted_word": "فَتَزِلَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 36,
+          "word": 1,
+          "reference": "(2:36:1)"
+        },
+        "transliteration": "fa-azallahumā",
+        "english_meaning": "Then made [both of] them slip",
+        "arabic_text": "فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ",
+        "highlighted_word": "فَأَزَلَّهُمَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 155,
+          "word": 9,
+          "reference": "(3:155:9)"
+        },
+        "transliteration": "is'tazallahumu",
+        "english_meaning": "made them slip",
+        "arabic_text": "إِنَّمَا اسْتَزَلَّهُمُ الشَّيْطَانُ بِبَعْضِ مَا كَسَبُوا",
+        "highlighted_word": "اسْتَزَلَّهُمُ"
+      }
+    ],
+    "total_occurrences": 4,
+    "scraped_at": "2025-08-19 18:21:03"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zlm",
+    "keyword_text": "ز ل م",
+    "description": "The triliteral root zāy lām mīm (ز ل م) occurs twice in the Quran as the noun azlām (أَزْلَٰم). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 3,
+          "word": 28,
+          "reference": "(5:3:28)"
+        },
+        "transliteration": "bil-azlāmi",
+        "english_meaning": "by divining arrows",
+        "arabic_text": "وَأَنْ تَسْتَقْسِمُوا بِالْأَزْلَامِ ذَٰلِكُمْ فِسْقٌ",
+        "highlighted_word": "بِالْأَزْلَامِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 90,
+          "word": 8,
+          "reference": "(5:90:8)"
+        },
+        "transliteration": "wal-azlāmu",
+        "english_meaning": "and divining arrows",
+        "arabic_text": "إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ",
+        "highlighted_word": "وَالْأَزْلَامُ"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 18:21:06"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zmr",
+    "keyword_text": "ز م ر",
+    "description": "The triliteral root zāy mīm rā (ز م ر) occurs twice in the Quran as the noun zumar (زُمَر). The translations below are brief glosses intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on a word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 71,
+          "word": 6,
+          "reference": "(39:71:6)"
+        },
+        "transliteration": "zumaran",
+        "english_meaning": "(in) groups",
+        "arabic_text": "وَسِيقَ الَّذِينَ كَفَرُوا إِلَىٰ جَهَنَّمَ زُمَرًا",
+        "highlighted_word": "زُمَرًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 73,
+          "word": 7,
+          "reference": "(39:73:7)"
+        },
+        "transliteration": "zumaran",
+        "english_meaning": "(in) groups",
+        "arabic_text": "وَسِيقَ الَّذِينَ اتَّقَوْا رَبَّهُمْ إِلَى الْجَنَّةِ زُمَرًا",
+        "highlighted_word": "زُمَرًا"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 18:21:10"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zml",
+    "keyword_text": "ز م ل",
+    "description": "The triliteral root zāy mīm lām (ز م ل) occurs only once in the Quran, as the form V active participle muzzammil (مُزَّمِّل). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Active participle (form V)",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 73,
+          "verse": 1,
+          "word": 2,
+          "reference": "(73:1:2)"
+        },
+        "transliteration": "l-muzamilu",
+        "english_meaning": "who wraps himself",
+        "arabic_text": "يَا أَيُّهَا الْمُزَّمِّلُ",
+        "highlighted_word": "الْمُزَّمِّلُ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:21:14"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zmhr",
+    "keyword_text": "ز م ه ر",
+    "description": "The quadriliteral root zāy mīm hā rā (ز م ه ر) occurs only once in the Quran, as the noun zamharīr (زَمْهَرِير). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 76,
+          "verse": 13,
+          "word": 10,
+          "reference": "(76:13:10)"
+        },
+        "transliteration": "zamharīran",
+        "english_meaning": "freezing cold",
+        "arabic_text": "مُتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا",
+        "highlighted_word": "زَمْهَرِيرًا"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:21:17"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "znm",
+    "keyword_text": "ز ن م",
+    "description": "The triliteral root zāy nūn mīm (ز ن م) occurs only once in the Quran, as the noun zanīm (زَنِيم). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 68,
+          "verse": 13,
+          "word": 4,
+          "reference": "(68:13:4)"
+        },
+        "transliteration": "zanīmin",
+        "english_meaning": "utterly useless",
+        "arabic_text": "عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ",
+        "highlighted_word": "زَنِيمٍ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:21:21"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zny",
+    "keyword_text": "ز ن ي",
+    "description": "The triliteral root zāy nūn yā (ز ن ي) occurs nine times in the Quran, in four derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to commit adultery",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 68,
+          "word": 17,
+          "reference": "(25:68:17)"
+        },
+        "transliteration": "yaznūna",
+        "english_meaning": "commit unlawful sexual intercourse",
+        "arabic_text": "وَلَا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ وَلَا يَزْنُونَ",
+        "highlighted_word": "يَزْنُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 60,
+          "verse": 12,
+          "word": 16,
+          "reference": "(60:12:16)"
+        },
+        "transliteration": "yaznīna",
+        "english_meaning": "they will commit adultery",
+        "arabic_text": "يُبَايِعْنَكَ عَلَىٰ أَنْ لَا يُشْرِكْنَ بِاللَّهِ شَيْئًا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ",
+        "highlighted_word": "يَزْنِينَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 32,
+          "word": 3,
+          "reference": "(17:32:3)"
+        },
+        "transliteration": "l-zinā",
+        "english_meaning": "adultery",
+        "arabic_text": "وَلَا تَقْرَبُوا الزِّنَا إِنَّهُ كَانَ فَاحِشَةً وَسَاءَ سَبِيلًا",
+        "highlighted_word": "الزِّنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 2,
+          "word": 2,
+          "reference": "(24:2:2)"
+        },
+        "transliteration": "wal-zānī",
+        "english_meaning": "and the fornicator",
+        "arabic_text": "الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ جَلْدَةٍ",
+        "highlighted_word": "وَالزَّانِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 3,
+          "word": 1,
+          "reference": "(24:3:1)"
+        },
+        "transliteration": "al-zānī",
+        "english_meaning": "The fornicator",
+        "arabic_text": "الزَّانِي لَا يَنْكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةً",
+        "highlighted_word": "الزَّانِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 3,
+          "word": 12,
+          "reference": "(24:3:12)"
+        },
+        "transliteration": "zānin",
+        "english_meaning": "a fornicator",
+        "arabic_text": "وَالزَّانِيَةُ لَا يَنْكِحُهَا إِلَّا زَانٍ أَوْ مُشْرِكٌ",
+        "highlighted_word": "زَانٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 2,
+          "word": 1,
+          "reference": "(24:2:1)"
+        },
+        "transliteration": "al-zāniyatu",
+        "english_meaning": "The fornicatress",
+        "arabic_text": "الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ جَلْدَةٍ",
+        "highlighted_word": "الزَّانِيَةُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 3,
+          "word": 5,
+          "reference": "(24:3:5)"
+        },
+        "transliteration": "zāniyatan",
+        "english_meaning": "a fornicatress",
+        "arabic_text": "الزَّانِي لَا يَنْكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةً",
+        "highlighted_word": "زَانِيَةً"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 3,
+          "word": 8,
+          "reference": "(24:3:8)"
+        },
+        "transliteration": "wal-zāniyatu",
+        "english_meaning": "and the fornicatress",
+        "arabic_text": "وَالزَّانِيَةُ لَا يَنْكِحُهَا إِلَّا زَانٍ أَوْ مُشْرِكٌ",
+        "highlighted_word": "وَالزَّانِيَةُ"
+      }
+    ],
+    "total_occurrences": 9,
+    "scraped_at": "2025-08-19 18:21:24"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zhd",
+    "keyword_text": "ز ه د",
+    "description": "The triliteral root zāy hā dāl (ز ه د) occurs only once in the Quran, as the active participle zāhidīn (زَّٰهِدِين). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Active participle",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 20,
+          "word": 9,
+          "reference": "(12:20:9)"
+        },
+        "transliteration": "l-zāhidīna",
+        "english_meaning": "those keen to give up",
+        "arabic_text": "وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ",
+        "highlighted_word": "الزَّاهِدِينَ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:21:28"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zhr",
+    "keyword_text": "ز ه ر",
+    "description": "The triliteral root zāy hā rā (ز ه ر) occurs only once in the Quran, as the noun zahrat (زَهْرَة). The translation below is a brief gloss intended as a guide to meaning. An Arabic word may have a range of meanings depending on context. Click on the word for more linguistic information, or to suggestion a correction.",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 131,
+          "word": 10,
+          "reference": "(20:131:10)"
+        },
+        "transliteration": "zahrata",
+        "english_meaning": "(the) splendor",
+        "arabic_text": "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا",
+        "highlighted_word": "زَهْرَةَ"
+      }
+    ],
+    "total_occurrences": 1,
+    "scraped_at": "2025-08-19 18:21:32"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zhq",
+    "keyword_text": "ز ه ق",
+    "description": "The triliteral root zāy hā qāf (ز ه ق) occurs five times in the Quran, in three derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to depart, to perish",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 55,
+          "word": 14,
+          "reference": "(9:55:14)"
+        },
+        "transliteration": "watazhaqa",
+        "english_meaning": "and should depart",
+        "arabic_text": "إِنَّمَا يُرِيدُ اللَّهُ لِيُعَذِّبَهُمْ بِهَا فِي الْحَيَاةِ الدُّنْيَا وَتَزْهَقَ أَنْفُسُهُمْ",
+        "highlighted_word": "وَتَزْهَقَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 85,
+          "word": 13,
+          "reference": "(9:85:13)"
+        },
+        "transliteration": "watazhaqa",
+        "english_meaning": "and will depart",
+        "arabic_text": "إِنَّمَا يُرِيدُ اللَّهُ أَنْ يُعَذِّبَهُمْ بِهَا فِي الدُّنْيَا وَتَزْهَقَ أَنْفُسُهُمْ",
+        "highlighted_word": "وَتَزْهَقَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 81,
+          "word": 4,
+          "reference": "(17:81:4)"
+        },
+        "transliteration": "wazahaqa",
+        "english_meaning": "and perished",
+        "arabic_text": "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا",
+        "highlighted_word": "وَزَهَقَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 81,
+          "word": 9,
+          "reference": "(17:81:9)"
+        },
+        "transliteration": "zahūqan",
+        "english_meaning": "(bound) to perish",
+        "arabic_text": "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا",
+        "highlighted_word": "زَهُوقًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 18,
+          "word": 9,
+          "reference": "(21:18:9)"
+        },
+        "transliteration": "zāhiqun",
+        "english_meaning": "vanishing",
+        "arabic_text": "بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ",
+        "highlighted_word": "زَاهِقٌ"
+      }
+    ],
+    "total_occurrences": 5,
+    "scraped_at": "2025-08-19 18:21:35"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zwj",
+    "keyword_text": "ز و ج",
+    "description": "The triliteral root zāy wāw jīm (ز و ج) occurs 81 times in the Quran, in two derived forms:",
+    "word_type": "Verb (form II)",
+    "meaning": "to marry, to be paired",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 37,
+          "word": 31,
+          "reference": "(33:37:31)"
+        },
+        "transliteration": "zawwajnākahā",
+        "english_meaning": "We married her to you",
+        "arabic_text": "فَلَمَّا قَضَىٰ زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا",
+        "highlighted_word": "زَوَّجْنَاكَهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 50,
+          "word": 2,
+          "reference": "(42:50:2)"
+        },
+        "transliteration": "yuzawwijuhum",
+        "english_meaning": "He grants them",
+        "arabic_text": "أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَاثًا وَيَجْعَلُ مَنْ يَشَاءُ عَقِيمًا",
+        "highlighted_word": "يُزَوِّجُهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 44,
+          "verse": 54,
+          "word": 2,
+          "reference": "(44:54:2)"
+        },
+        "transliteration": "wazawwajnāhum",
+        "english_meaning": "And We will marry them",
+        "arabic_text": "كَذَٰلِكَ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ",
+        "highlighted_word": "وَزَوَّجْنَاهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 52,
+          "verse": 20,
+          "word": 5,
+          "reference": "(52:20:5)"
+        },
+        "transliteration": "wazawwajnāhum",
+        "english_meaning": "and We will marry them",
+        "arabic_text": "مُتَّكِئِينَ عَلَىٰ سُرُرٍ مَصْفُوفَةٍ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ",
+        "highlighted_word": "وَزَوَّجْنَاهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 81,
+          "verse": 7,
+          "word": 3,
+          "reference": "(81:7:3)"
+        },
+        "transliteration": "zuwwijat",
+        "english_meaning": "are paired",
+        "arabic_text": "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+        "highlighted_word": "زُوِّجَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 25,
+          "word": 30,
+          "reference": "(2:25:30)"
+        },
+        "transliteration": "azwājun",
+        "english_meaning": "spouses",
+        "arabic_text": "وَلَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ وَهُمْ فِيهَا خَالِدُونَ",
+        "highlighted_word": "أَزْوَاجٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 35,
+          "word": 5,
+          "reference": "(2:35:5)"
+        },
+        "transliteration": "wazawjuka",
+        "english_meaning": "and your spouse",
+        "arabic_text": "وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا",
+        "highlighted_word": "وَزَوْجُكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 102,
+          "word": 42,
+          "reference": "(2:102:42)"
+        },
+        "transliteration": "wazawjihi",
+        "english_meaning": "and his spouse",
+        "arabic_text": "فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ",
+        "highlighted_word": "وَزَوْجِهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 230,
+          "word": 10,
+          "reference": "(2:230:10)"
+        },
+        "transliteration": "zawjan",
+        "english_meaning": "a spouse",
+        "arabic_text": "فَإِنْ طَلَّقَهَا فَلَا تَحِلُّ لَهُ مِنْ بَعْدُ حَتَّىٰ تَنْكِحَ زَوْجًا غَيْرَهُ",
+        "highlighted_word": "زَوْجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 232,
+          "word": 10,
+          "reference": "(2:232:10)"
+        },
+        "transliteration": "azwājahunna",
+        "english_meaning": "their husbands",
+        "arabic_text": "فَلَا تَعْضُلُوهُنَّ أَنْ يَنْكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْا بَيْنَهُمْ بِالْمَعْرُوفِ",
+        "highlighted_word": "أَزْوَاجَهُنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 234,
+          "word": 5,
+          "reference": "(2:234:5)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "wives",
+        "arabic_text": "وَالَّذِينَ يُتَوَفَّوْنَ مِنْكُمْ وَيَذَرُونَ أَزْوَاجًا يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 240,
+          "word": 5,
+          "reference": "(2:240:5)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "(their) wives",
+        "arabic_text": "وَالَّذِينَ يُتَوَفَّوْنَ مِنْكُمْ وَيَذَرُونَ أَزْوَاجًا وَصِيَّةً لِأَزْوَاجِهِمْ",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 240,
+          "word": 7,
+          "reference": "(2:240:7)"
+        },
+        "transliteration": "li-azwājihim",
+        "english_meaning": "for their wives",
+        "arabic_text": "وَصِيَّةً لِأَزْوَاجِهِمْ مَتَاعًا إِلَى الْحَوْلِ غَيْرَ إِخْرَاجٍ",
+        "highlighted_word": "لِأَزْوَاجِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 15,
+          "word": 17,
+          "reference": "(3:15:17)"
+        },
+        "transliteration": "wa-azwājun",
+        "english_meaning": "and spouses",
+        "arabic_text": "وَأَزْوَاجٌ مُطَهَّرَةٌ وَرِضْوَانٌ مِنَ اللَّهِ وَاللَّهُ بَصِيرٌ بِالْعِبَادِ",
+        "highlighted_word": "وَأَزْوَاجٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 1,
+          "word": 12,
+          "reference": "(4:1:12)"
+        },
+        "transliteration": "zawjahā",
+        "english_meaning": "its mate",
+        "arabic_text": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا",
+        "highlighted_word": "زَوْجَهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 12,
+          "word": 5,
+          "reference": "(4:12:5)"
+        },
+        "transliteration": "azwājukum",
+        "english_meaning": "by your wives",
+        "arabic_text": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌ",
+        "highlighted_word": "أَزْوَاجُكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 20,
+          "word": 4,
+          "reference": "(4:20:4)"
+        },
+        "transliteration": "zawjin",
+        "english_meaning": "a wife",
+        "arabic_text": "وَإِنْ أَرَدْتُمُ اسْتِبْدَالَ زَوْجٍ",
+        "highlighted_word": "زَوْجٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 20,
+          "word": 6,
+          "reference": "(4:20:6)"
+        },
+        "transliteration": "zawjin",
+        "english_meaning": "(of) a wife",
+        "arabic_text": "مَكَانَ زَوْجٍ وَآتَيْتُمْ إِحْدَاهُنَّ قِنْطَارًا فَلَا تَأْخُذُوا مِنْهُ شَيْئًا",
+        "highlighted_word": "زَوْجٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 57,
+          "word": 16,
+          "reference": "(4:57:16)"
+        },
+        "transliteration": "azwājun",
+        "english_meaning": "(are) spouses",
+        "arabic_text": "لَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا",
+        "highlighted_word": "أَزْوَاجٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 139,
+          "word": 11,
+          "reference": "(6:139:11)"
+        },
+        "transliteration": "azwājinā",
+        "english_meaning": "our spouses",
+        "arabic_text": "خَالِصَةٌ لِذُكُورِنَا وَمُحَرَّمٌ عَلَىٰ أَزْوَاجِنَا",
+        "highlighted_word": "أَزْوَاجِنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 143,
+          "word": 2,
+          "reference": "(6:143:2)"
+        },
+        "transliteration": "azwājin",
+        "english_meaning": "pairs",
+        "arabic_text": "ثَمَانِيَةَ أَزْوَاجٍ مِنَ الضَّأْنِ اثْنَيْنِ وَمِنَ الْمَعْزِ اثْنَيْنِ",
+        "highlighted_word": "أَزْوَاجٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 19,
+          "word": 4,
+          "reference": "(7:19:4)"
+        },
+        "transliteration": "wazawjuka",
+        "english_meaning": "and your wife",
+        "arabic_text": "وَيَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا",
+        "highlighted_word": "وَزَوْجُكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 189,
+          "word": 9,
+          "reference": "(7:189:9)"
+        },
+        "transliteration": "zawjahā",
+        "english_meaning": "its mate",
+        "arabic_text": "هُوَ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا",
+        "highlighted_word": "زَوْجَهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 24,
+          "word": 7,
+          "reference": "(9:24:7)"
+        },
+        "transliteration": "wa-azwājukum",
+        "english_meaning": "and your spouses",
+        "arabic_text": "وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا",
+        "highlighted_word": "وَأَزْوَاجُكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 40,
+          "word": 12,
+          "reference": "(11:40:12)"
+        },
+        "transliteration": "zawjayni",
+        "english_meaning": "a pair",
+        "arabic_text": "قُلْنَا احْمِلْ فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ",
+        "highlighted_word": "زَوْجَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 3,
+          "word": 14,
+          "reference": "(13:3:14)"
+        },
+        "transliteration": "zawjayni",
+        "english_meaning": "pairs",
+        "arabic_text": "وَمِنْ كُلِّ الثَّمَرَاتِ جَعَلَ فِيهَا زَوْجَيْنِ اثْنَيْنِ",
+        "highlighted_word": "زَوْجَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 23,
+          "word": 8,
+          "reference": "(13:23:8)"
+        },
+        "transliteration": "wa-azwājihim",
+        "english_meaning": "and their spouses",
+        "arabic_text": "جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ",
+        "highlighted_word": "وَأَزْوَاجِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 38,
+          "word": 8,
+          "reference": "(13:38:8)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "wives",
+        "arabic_text": "وَلَقَدْ أَرْسَلْنَا رُسُلًا مِنْ قَبْلِكَ وَجَعَلْنَا لَهُمْ أَزْوَاجًا وَذُرِّيَّةً",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 15,
+          "verse": 88,
+          "word": 8,
+          "reference": "(15:88:8)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "(to) categories",
+        "arabic_text": "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِنْهُمْ",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 72,
+          "word": 6,
+          "reference": "(16:72:6)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "spouses",
+        "arabic_text": "وَاللَّهُ جَعَلَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 72,
+          "word": 10,
+          "reference": "(16:72:10)"
+        },
+        "transliteration": "azwājikum",
+        "english_meaning": "your spouses",
+        "arabic_text": "وَجَعَلَ لَكُمْ مِنْ أَزْوَاجِكُمْ بَنِينَ وَحَفَدَةً",
+        "highlighted_word": "أَزْوَاجِكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 53,
+          "word": 16,
+          "reference": "(20:53:16)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "pairs",
+        "arabic_text": "وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ أَزْوَاجًا مِنْ نَبَاتٍ شَتَّىٰ",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 117,
+          "word": 7,
+          "reference": "(20:117:7)"
+        },
+        "transliteration": "walizawjika",
+        "english_meaning": "and to your wife",
+        "arabic_text": "فَقُلْنَا يَا آدَمُ إِنَّ هَٰذَا عَدُوٌّ لَكَ وَلِزَوْجِكَ",
+        "highlighted_word": "وَلِزَوْجِكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 131,
+          "word": 8,
+          "reference": "(20:131:8)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "pairs",
+        "arabic_text": "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 90,
+          "word": 8,
+          "reference": "(21:90:8)"
+        },
+        "transliteration": "zawjahu",
+        "english_meaning": "his wife",
+        "arabic_text": "فَاسْتَجَبْنَا لَهُ وَوَهَبْنَا لَهُ يَحْيَىٰ وَأَصْلَحْنَا لَهُ زَوْجَهُ",
+        "highlighted_word": "زَوْجَهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 5,
+          "word": 68,
+          "reference": "(22:5:68)"
+        },
+        "transliteration": "zawjin",
+        "english_meaning": "kind",
+        "arabic_text": "اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِنْ كُلِّ زَوْجٍ بَهِيجٍ",
+        "highlighted_word": "زَوْجٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 6,
+          "word": 3,
+          "reference": "(23:6:3)"
+        },
+        "transliteration": "azwājihim",
+        "english_meaning": "their spouses",
+        "arabic_text": "إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+        "highlighted_word": "أَزْوَاجِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 23,
+          "verse": 27,
+          "word": 17,
+          "reference": "(23:27:17)"
+        },
+        "transliteration": "zawjayni",
+        "english_meaning": "(of) mates",
+        "arabic_text": "فَإِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ فَاسْلُكْ فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ",
+        "highlighted_word": "زَوْجَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 6,
+          "word": 3,
+          "reference": "(24:6:3)"
+        },
+        "transliteration": "azwājahum",
+        "english_meaning": "their spouses",
+        "arabic_text": "وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ وَلَمْ يَكُنْ لَهُمْ شُهَدَاءُ إِلَّا أَنْفُسُهُمْ فَشَهَادَةُ أَحَدِهِمْ أَرْبَعُ شَهَادَاتٍ بِاللَّهِ إِنَّهُ لَمِنَ الصَّادِقِينَ",
+        "highlighted_word": "أَزْوَاجَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 74,
+          "word": 7,
+          "reference": "(25:74:7)"
+        },
+        "transliteration": "azwājinā",
+        "english_meaning": "our spouses",
+        "arabic_text": "هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ",
+        "highlighted_word": "أَزْوَاجِنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 7,
+          "word": 10,
+          "reference": "(26:7:10)"
+        },
+        "transliteration": "zawjin",
+        "english_meaning": "kind",
+        "arabic_text": "أَوَلَمْ يَرَوْا إِلَى الْأَرْضِ كَمْ أَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ كَرِيمٍ",
+        "highlighted_word": "زَوْجٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 26,
+          "verse": 166,
+          "word": 7,
+          "reference": "(26:166:7)"
+        },
+        "transliteration": "azwājikum",
+        "english_meaning": "your mates",
+        "arabic_text": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُمْ مِنْ أَزْوَاجِكُمْ",
+        "highlighted_word": "أَزْوَاجِكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 30,
+          "verse": 21,
+          "word": 8,
+          "reference": "(30:21:8)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "mates",
+        "arabic_text": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا لِتَسْكُنُوا إِلَيْهَا",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 31,
+          "verse": 10,
+          "word": 26,
+          "reference": "(31:10:26)"
+        },
+        "transliteration": "zawjin",
+        "english_meaning": "kind",
+        "arabic_text": "وَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ كَرِيمٍ",
+        "highlighted_word": "زَوْجٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 4,
+          "word": 11,
+          "reference": "(33:4:11)"
+        },
+        "transliteration": "azwājakumu",
+        "english_meaning": "your wives",
+        "arabic_text": "وَمَا جَعَلَ أَزْوَاجَكُمُ اللَّائِي تُظَاهِرُونَ مِنْهُنَّ أُمَّهَاتِكُمْ",
+        "highlighted_word": "أَزْوَاجَكُمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 6,
+          "word": 6,
+          "reference": "(33:6:6)"
+        },
+        "transliteration": "wa-azwājuhu",
+        "english_meaning": "and his wives",
+        "arabic_text": "النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ وَأَزْوَاجُهُ أُمَّهَاتُهُمْ",
+        "highlighted_word": "وَأَزْوَاجُهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 28,
+          "word": 4,
+          "reference": "(33:28:4)"
+        },
+        "transliteration": "li-azwājika",
+        "english_meaning": "to your wives",
+        "arabic_text": "يَا أَيُّهَا النَّبِيُّ قُلْ لِأَزْوَاجِكَ إِنْ كُنْتُنَّ تُرِدْنَ الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ",
+        "highlighted_word": "لِأَزْوَاجِكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 37,
+          "word": 11,
+          "reference": "(33:37:11)"
+        },
+        "transliteration": "zawjaka",
+        "english_meaning": "your wife",
+        "arabic_text": "أَمْسِكْ عَلَيْكَ زَوْجَكَ وَاتَّقِ اللَّهَ",
+        "highlighted_word": "زَوْجَكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 37,
+          "word": 39,
+          "reference": "(33:37:39)"
+        },
+        "transliteration": "azwāji",
+        "english_meaning": "the wives",
+        "arabic_text": "لِكَيْ لَا يَكُونَ عَلَى الْمُؤْمِنِينَ حَرَجٌ فِي أَزْوَاجِ أَدْعِيَائِهِمْ",
+        "highlighted_word": "أَزْوَاجِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 50,
+          "word": 6,
+          "reference": "(33:50:6)"
+        },
+        "transliteration": "azwājaka",
+        "english_meaning": "your wives",
+        "arabic_text": "يَا أَيُّهَا النَّبِيُّ إِنَّا أَحْلَلْنَا لَكَ أَزْوَاجَكَ اللَّاتِي آتَيْتَ أُجُورَهُنَّ",
+        "highlighted_word": "أَزْوَاجَكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 50,
+          "word": 50,
+          "reference": "(33:50:50)"
+        },
+        "transliteration": "azwājihim",
+        "english_meaning": "their wives",
+        "arabic_text": "قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِي أَزْوَاجِهِمْ",
+        "highlighted_word": "أَزْوَاجِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 52,
+          "word": 12,
+          "reference": "(33:52:12)"
+        },
+        "transliteration": "azwājin",
+        "english_meaning": "(other) wives",
+        "arabic_text": "لَا يَحِلُّ لَكَ النِّسَاءُ مِنْ بَعْدُ وَلَا أَنْ تَبَدَّلَ بِهِنَّ مِنْ أَزْوَاجٍ",
+        "highlighted_word": "أَزْوَاجٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 53,
+          "word": 60,
+          "reference": "(33:53:60)"
+        },
+        "transliteration": "azwājahu",
+        "english_meaning": "his wives",
+        "arabic_text": "وَلَا أَنْ تَنْكِحُوا أَزْوَاجَهُ مِنْ بَعْدِهِ أَبَدًا",
+        "highlighted_word": "أَزْوَاجَهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 59,
+          "word": 4,
+          "reference": "(33:59:4)"
+        },
+        "transliteration": "li-azwājika",
+        "english_meaning": "to your wives",
+        "arabic_text": "يَا أَيُّهَا النَّبِيُّ قُلْ لِأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِنْ جَلَابِيبِهِنَّ",
+        "highlighted_word": "لِأَزْوَاجِكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 11,
+          "word": 10,
+          "reference": "(35:11:10)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "pairs",
+        "arabic_text": "وَاللَّهُ خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَاجًا",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 36,
+          "word": 4,
+          "reference": "(36:36:4)"
+        },
+        "transliteration": "l-azwāja",
+        "english_meaning": "(in) pairs",
+        "arabic_text": "سُبْحَانَ الَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا مِمَّا تُنْبِتُ الْأَرْضُ",
+        "highlighted_word": "الْأَزْوَاجَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 36,
+          "verse": 56,
+          "word": 2,
+          "reference": "(36:56:2)"
+        },
+        "transliteration": "wa-azwājuhum",
+        "english_meaning": "and their spouses",
+        "arabic_text": "هُمْ وَأَزْوَاجُهُمْ فِي ظِلَالٍ عَلَى الْأَرَائِكِ مُتَّكِئُونَ",
+        "highlighted_word": "وَأَزْوَاجُهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 22,
+          "word": 4,
+          "reference": "(37:22:4)"
+        },
+        "transliteration": "wa-azwājahum",
+        "english_meaning": "and their kinds",
+        "arabic_text": "احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ",
+        "highlighted_word": "وَأَزْوَاجَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 58,
+          "word": 4,
+          "reference": "(38:58:4)"
+        },
+        "transliteration": "azwājun",
+        "english_meaning": "(of various) kinds",
+        "arabic_text": "وَآخَرُ مِنْ شَكْلِهِ أَزْوَاجٌ",
+        "highlighted_word": "أَزْوَاجٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 6,
+          "word": 8,
+          "reference": "(39:6:8)"
+        },
+        "transliteration": "zawjahā",
+        "english_meaning": "its mate",
+        "arabic_text": "خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا",
+        "highlighted_word": "زَوْجَهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 39,
+          "verse": 6,
+          "word": 14,
+          "reference": "(39:6:14)"
+        },
+        "transliteration": "azwājin",
+        "english_meaning": "kinds",
+        "arabic_text": "ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنْزَلَ لَكُمْ مِنَ الْأَنْعَامِ ثَمَانِيَةَ أَزْوَاجٍ",
+        "highlighted_word": "أَزْوَاجٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 8,
+          "word": 11,
+          "reference": "(40:8:11)"
+        },
+        "transliteration": "wa-azwājihim",
+        "english_meaning": "and their spouses",
+        "arabic_text": "وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ",
+        "highlighted_word": "وَأَزْوَاجِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 11,
+          "word": 8,
+          "reference": "(42:11:8)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "mates",
+        "arabic_text": "فَاطِرُ السَّمَاوَاتِ وَالْأَرْضِ جَعَلَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 11,
+          "word": 11,
+          "reference": "(42:11:11)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "mates",
+        "arabic_text": "وَمِنَ الْأَنْعَامِ أَزْوَاجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِ شَيْءٌ",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 12,
+          "word": 3,
+          "reference": "(43:12:3)"
+        },
+        "transliteration": "l-azwāja",
+        "english_meaning": "the pairs",
+        "arabic_text": "وَالَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا وَجَعَلَ لَكُمْ مِنَ الْفُلْكِ وَالْأَنْعَامِ مَا تَرْكَبُونَ",
+        "highlighted_word": "الْأَزْوَاجَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 43,
+          "verse": 70,
+          "word": 4,
+          "reference": "(43:70:4)"
+        },
+        "transliteration": "wa-azwājukum",
+        "english_meaning": "and your spouses",
+        "arabic_text": "ادْخُلُوا الْجَنَّةَ أَنْتُمْ وَأَزْوَاجُكُمْ تُحْبَرُونَ",
+        "highlighted_word": "وَأَزْوَاجُكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 50,
+          "verse": 7,
+          "word": 10,
+          "reference": "(50:7:10)"
+        },
+        "transliteration": "zawjin",
+        "english_meaning": "kind",
+        "arabic_text": "وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ بَهِيجٍ",
+        "highlighted_word": "زَوْجٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 51,
+          "verse": 49,
+          "word": 5,
+          "reference": "(51:49:5)"
+        },
+        "transliteration": "zawjayni",
+        "english_meaning": "pairs",
+        "arabic_text": "وَمِنْ كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ",
+        "highlighted_word": "زَوْجَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 45,
+          "word": 3,
+          "reference": "(53:45:3)"
+        },
+        "transliteration": "l-zawjayni",
+        "english_meaning": "the pairs",
+        "arabic_text": "وَأَنَّهُ خَلَقَ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَىٰ",
+        "highlighted_word": "الزَّوْجَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 55,
+          "verse": 52,
+          "word": 5,
+          "reference": "(55:52:5)"
+        },
+        "transliteration": "zawjāni",
+        "english_meaning": "(in) pairs",
+        "arabic_text": "فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِ",
+        "highlighted_word": "زَوْجَانِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 56,
+          "verse": 7,
+          "word": 2,
+          "reference": "(56:7:2)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "kinds",
+        "arabic_text": "وَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 58,
+          "verse": 1,
+          "word": 8,
+          "reference": "(58:1:8)"
+        },
+        "transliteration": "zawjihā",
+        "english_meaning": "her husband",
+        "arabic_text": "قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا",
+        "highlighted_word": "زَوْجِهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 60,
+          "verse": 11,
+          "word": 5,
+          "reference": "(60:11:5)"
+        },
+        "transliteration": "azwājikum",
+        "english_meaning": "your wives",
+        "arabic_text": "وَإِنْ فَاتَكُمْ شَيْءٌ مِنْ أَزْوَاجِكُمْ إِلَى الْكُفَّارِ فَعَاقَبْتُمْ فَآتُوا الَّذِينَ ذَهَبَتْ أَزْوَاجُهُمْ مِثْلَ مَا أَنْفَقُوا",
+        "highlighted_word": "أَزْوَاجِكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 60,
+          "verse": 11,
+          "word": 12,
+          "reference": "(60:11:12)"
+        },
+        "transliteration": "azwājuhum",
+        "english_meaning": "their wives",
+        "arabic_text": "فَآتُوا الَّذِينَ ذَهَبَتْ أَزْوَاجُهُمْ مِثْلَ مَا أَنْفَقُوا",
+        "highlighted_word": "أَزْوَاجُهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 64,
+          "verse": 14,
+          "word": 6,
+          "reference": "(64:14:6)"
+        },
+        "transliteration": "azwājikum",
+        "english_meaning": "your spouses",
+        "arabic_text": "إِنَّ مِنْ أَزْوَاجِكُمْ وَأَوْلَادِكُمْ عَدُوًّا لَكُمْ فَاحْذَرُوهُمْ",
+        "highlighted_word": "أَزْوَاجِكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 66,
+          "verse": 1,
+          "word": 11,
+          "reference": "(66:1:11)"
+        },
+        "transliteration": "azwājika",
+        "english_meaning": "your wives",
+        "arabic_text": "يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ تَبْتَغِي مَرْضَاتَ أَزْوَاجِكَ",
+        "highlighted_word": "أَزْوَاجِكَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 66,
+          "verse": 3,
+          "word": 6,
+          "reference": "(66:3:6)"
+        },
+        "transliteration": "azwājihi",
+        "english_meaning": "(of) his wives",
+        "arabic_text": "وَإِذْ أَسَرَّ النَّبِيُّ إِلَىٰ بَعْضِ أَزْوَاجِهِ حَدِيثًا",
+        "highlighted_word": "أَزْوَاجِهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 66,
+          "verse": 5,
+          "word": 7,
+          "reference": "(66:5:7)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "wives",
+        "arabic_text": "عَسَىٰ رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ",
+        "highlighted_word": "أَزْوَاجًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 70,
+          "verse": 30,
+          "word": 3,
+          "reference": "(70:30:3)"
+        },
+        "transliteration": "azwājihim",
+        "english_meaning": "their spouses",
+        "arabic_text": "إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+        "highlighted_word": "أَزْوَاجِهِمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 75,
+          "verse": 39,
+          "word": 3,
+          "reference": "(75:39:3)"
+        },
+        "transliteration": "l-zawjayni",
+        "english_meaning": "two kinds",
+        "arabic_text": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَىٰ",
+        "highlighted_word": "الزَّوْجَيْنِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 78,
+          "verse": 8,
+          "word": 2,
+          "reference": "(78:8:2)"
+        },
+        "transliteration": "azwājan",
+        "english_meaning": "(in) pairs",
+        "arabic_text": "وَخَلَقْنَاكُمْ أَزْوَاجًا",
+        "highlighted_word": "أَزْوَاجًا"
+      }
+    ],
+    "total_occurrences": 81,
+    "scraped_at": "2025-08-19 18:21:39"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zwd",
+    "keyword_text": "ز و د",
+    "description": "The triliteral root zāy wāw dāl (ز و د) occurs twice in the Quran, in two derived forms:",
+    "word_type": "Verb (form V)",
+    "meaning": "to take provision",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 197,
+          "word": 22,
+          "reference": "(2:197:22)"
+        },
+        "transliteration": "watazawwadū",
+        "english_meaning": "And take provision",
+        "arabic_text": "وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ وَتَزَوَّدُوا",
+        "highlighted_word": "وَتَزَوَّدُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 197,
+          "word": 25,
+          "reference": "(2:197:25)"
+        },
+        "transliteration": "l-zādi",
+        "english_meaning": "provision",
+        "arabic_text": "فَإِنَّ خَيْرَ الزَّادِ التَّقْوَىٰ",
+        "highlighted_word": "الزَّادِ"
+      }
+    ],
+    "total_occurrences": 2,
+    "scraped_at": "2025-08-19 18:21:47"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zwr",
+    "keyword_text": "ز و ر",
+    "description": "The triliteral root zāy wāw rā (ز و ر) occurs six times in the Quran, in three derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to visit",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 102,
+          "verse": 2,
+          "word": 2,
+          "reference": "(102:2:2)"
+        },
+        "transliteration": "zur'tumu",
+        "english_meaning": "you visit",
+        "arabic_text": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ",
+        "highlighted_word": "زُرْتُمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 17,
+          "word": 5,
+          "reference": "(18:17:5)"
+        },
+        "transliteration": "tazāwaru",
+        "english_meaning": "inclining away",
+        "arabic_text": "وَتَرَى الشَّمْسَ إِذَا طَلَعَتْ تَزَاوَرُ عَنْ كَهْفِهِمْ ذَاتَ الْيَمِينِ",
+        "highlighted_word": "تَزَاوَرُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 30,
+          "word": 24,
+          "reference": "(22:30:24)"
+        },
+        "transliteration": "l-zūri",
+        "english_meaning": "false",
+        "arabic_text": "فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ وَاجْتَنِبُوا قَوْلَ الزُّورِ",
+        "highlighted_word": "الزُّورِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 4,
+          "word": 16,
+          "reference": "(25:4:16)"
+        },
+        "transliteration": "wazūran",
+        "english_meaning": "and a lie",
+        "arabic_text": "وَأَعَانَهُ عَلَيْهِ قَوْمٌ آخَرُونَ فَقَدْ جَاءُوا ظُلْمًا وَزُورًا",
+        "highlighted_word": "وَزُورًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 72,
+          "word": 4,
+          "reference": "(25:72:4)"
+        },
+        "transliteration": "l-zūra",
+        "english_meaning": "(to) the falsehood",
+        "arabic_text": "وَالَّذِينَ لَا يَشْهَدُونَ الزُّورَ وَإِذَا مَرُّوا بِاللَّغْوِ مَرُّوا كِرَامًا",
+        "highlighted_word": "الزُّورَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 58,
+          "verse": 2,
+          "word": 19,
+          "reference": "(58:2:19)"
+        },
+        "transliteration": "wazūran",
+        "english_meaning": "and a lie",
+        "arabic_text": "وَإِنَّهُمْ لَيَقُولُونَ مُنْكَرًا مِنَ الْقَوْلِ وَزُورًا",
+        "highlighted_word": "وَزُورًا"
+      }
+    ],
+    "total_occurrences": 6,
+    "scraped_at": "2025-08-19 18:21:51"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zwl",
+    "keyword_text": "ز و ل",
+    "description": "The triliteral root zāy wāw lām (ز و ل) occurs four times in the Quran, in two derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to cease",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 46,
+          "word": 10,
+          "reference": "(14:46:10)"
+        },
+        "transliteration": "litazūla",
+        "english_meaning": "that should be moved",
+        "arabic_text": "وَإِنْ كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ الْجِبَالُ",
+        "highlighted_word": "لِتَزُولَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 41,
+          "word": 7,
+          "reference": "(35:41:7)"
+        },
+        "transliteration": "tazūlā",
+        "english_meaning": "they cease",
+        "arabic_text": "إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا",
+        "highlighted_word": "تَزُولَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 41,
+          "word": 9,
+          "reference": "(35:41:9)"
+        },
+        "transliteration": "zālatā",
+        "english_meaning": "they should cease",
+        "arabic_text": "وَلَئِنْ زَالَتَا إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِنْ بَعْدِهِ",
+        "highlighted_word": "زَالَتَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 44,
+          "word": 26,
+          "reference": "(14:44:26)"
+        },
+        "transliteration": "zawālin",
+        "english_meaning": "end",
+        "arabic_text": "أَوَلَمْ تَكُونُوا أَقْسَمْتُمْ مِنْ قَبْلُ مَا لَكُمْ مِنْ زَوَالٍ",
+        "highlighted_word": "زَوَالٍ"
+      }
+    ],
+    "total_occurrences": 4,
+    "scraped_at": "2025-08-19 18:21:54"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zyt",
+    "keyword_text": "ز ي ت",
+    "description": "The triliteral root zāy yā tā (ز ي ت) occurs seven times in the Quran, in three derived forms:",
+    "word_type": "Noun",
+    "meaning": "",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 35,
+          "word": 27,
+          "reference": "(24:35:27)"
+        },
+        "transliteration": "zaytuhā",
+        "english_meaning": "its oil",
+        "arabic_text": "يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ",
+        "highlighted_word": "زَيْتُهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 99,
+          "word": 28,
+          "reference": "(6:99:28)"
+        },
+        "transliteration": "wal-zaytūna",
+        "english_meaning": "and the olives",
+        "arabic_text": "وَجَنَّاتٍ مِنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ",
+        "highlighted_word": "وَالزَّيْتُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 141,
+          "word": 12,
+          "reference": "(6:141:12)"
+        },
+        "transliteration": "wal-zaytūna",
+        "english_meaning": "and the olives",
+        "arabic_text": "وَالنَّخْلَ وَالزَّرْعَ مُخْتَلِفًا أُكُلُهُ وَالزَّيْتُونَ وَالرُّمَّانَ",
+        "highlighted_word": "وَالزَّيْتُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 11,
+          "word": 5,
+          "reference": "(16:11:5)"
+        },
+        "transliteration": "wal-zaytūna",
+        "english_meaning": "and the olives",
+        "arabic_text": "يُنْبِتُ لَكُمْ بِهِ الزَّرْعَ وَالزَّيْتُونَ وَالنَّخِيلَ وَالْأَعْنَابَ",
+        "highlighted_word": "وَالزَّيْتُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 80,
+          "verse": 29,
+          "word": 1,
+          "reference": "(80:29:1)"
+        },
+        "transliteration": "wazaytūnan",
+        "english_meaning": "And olive",
+        "arabic_text": "وَزَيْتُونًا وَنَخْلًا",
+        "highlighted_word": "وَزَيْتُونًا"
+      },
+      {
+        "verse_reference": {
+          "surah": 95,
+          "verse": 1,
+          "word": 2,
+          "reference": "(95:1:2)"
+        },
+        "transliteration": "wal-zaytūni",
+        "english_meaning": "and the olive",
+        "arabic_text": "وَالتِّينِ وَالزَّيْتُونِ",
+        "highlighted_word": "وَالزَّيْتُونِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 35,
+          "word": 21,
+          "reference": "(24:35:21)"
+        },
+        "transliteration": "zaytūnatin",
+        "english_meaning": "an olive",
+        "arabic_text": "يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ لَا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ",
+        "highlighted_word": "زَيْتُونَةٍ"
+      }
+    ],
+    "total_occurrences": 7,
+    "scraped_at": "2025-08-19 18:21:58"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zyd",
+    "keyword_text": "ز ي د",
+    "description": "The triliteral root zāy yā dāl (ز ي د) occurs 61 times in the Quran, in four derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to increase",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 10,
+          "word": 4,
+          "reference": "(2:10:4)"
+        },
+        "transliteration": "fazādahumu",
+        "english_meaning": "so has increased them",
+        "arabic_text": "فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا",
+        "highlighted_word": "فَزَادَهُمُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 58,
+          "word": 19,
+          "reference": "(2:58:19)"
+        },
+        "transliteration": "wasanazīdu",
+        "english_meaning": "And We will increase",
+        "arabic_text": "وَقُولُوا حِطَّةٌ نَغْفِرْ لَكُمْ خَطَايَاكُمْ وَسَنَزِيدُ الْمُحْسِنِينَ",
+        "highlighted_word": "وَسَنَزِيدُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 247,
+          "word": 31,
+          "reference": "(2:247:31)"
+        },
+        "transliteration": "wazādahu",
+        "english_meaning": "and increased him",
+        "arabic_text": "وَزَادَهُ بَسْطَةً فِي الْعِلْمِ وَالْجِسْمِ",
+        "highlighted_word": "وَزَادَهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 173,
+          "word": 11,
+          "reference": "(3:173:11)"
+        },
+        "transliteration": "fazādahum",
+        "english_meaning": "But it increased them",
+        "arabic_text": "إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا",
+        "highlighted_word": "فَزَادَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 173,
+          "word": 8,
+          "reference": "(4:173:8)"
+        },
+        "transliteration": "wayazīduhum",
+        "english_meaning": "and give them more",
+        "arabic_text": "فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُمْ مِنْ فَضْلِهِ",
+        "highlighted_word": "وَيَزِيدُهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 64,
+          "word": 17,
+          "reference": "(5:64:17)"
+        },
+        "transliteration": "walayazīdanna",
+        "english_meaning": "And surely increase",
+        "arabic_text": "وَلَيَزِيدَنَّ كَثِيرًا مِنْهُمْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ طُغْيَانًا وَكُفْرًا",
+        "highlighted_word": "وَلَيَزِيدَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 68,
+          "word": 16,
+          "reference": "(5:68:16)"
+        },
+        "transliteration": "walayazīdanna",
+        "english_meaning": "And surely increase",
+        "arabic_text": "وَلَيَزِيدَنَّ كَثِيرًا مِنْهُمْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ طُغْيَانًا وَكُفْرًا",
+        "highlighted_word": "وَلَيَزِيدَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 69,
+          "word": 19,
+          "reference": "(7:69:19)"
+        },
+        "transliteration": "wazādakum",
+        "english_meaning": "and increased you",
+        "arabic_text": "وَزَادَكُمْ فِي الْخَلْقِ بَسْطَةً",
+        "highlighted_word": "وَزَادَكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 161,
+          "word": 19,
+          "reference": "(7:161:19)"
+        },
+        "transliteration": "sanazīdu",
+        "english_meaning": "We will increase (reward)",
+        "arabic_text": "وَادْخُلُوا الْبَابَ سُجَّدًا نَغْفِرْ لَكُمْ خَطِيئَاتِكُمْ سَنَزِيدُ الْمُحْسِنِينَ",
+        "highlighted_word": "سَنَزِيدُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 2,
+          "word": 13,
+          "reference": "(8:2:13)"
+        },
+        "transliteration": "zādathum",
+        "english_meaning": "they increase them",
+        "arabic_text": "وَإِذَا تُلِيَتْ عَلَيْهِمْ آيَاتُهُ زَادَتْهُمْ إِيمَانًا",
+        "highlighted_word": "زَادَتْهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 47,
+          "word": 5,
+          "reference": "(9:47:5)"
+        },
+        "transliteration": "zādūkum",
+        "english_meaning": "they (would) have increased you",
+        "arabic_text": "لَوْ خَرَجُوا فِيكُمْ مَا زَادُوكُمْ إِلَّا خَبَالًا",
+        "highlighted_word": "زَادُوكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 124,
+          "word": 9,
+          "reference": "(9:124:9)"
+        },
+        "transliteration": "zādathu",
+        "english_meaning": "(has) increased [it]",
+        "arabic_text": "فَمِنْهُمْ مَنْ يَقُولُ أَيُّكُمْ زَادَتْهُ هَٰذِهِ إِيمَانًا",
+        "highlighted_word": "زَادَتْهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 124,
+          "word": 15,
+          "reference": "(9:124:15)"
+        },
+        "transliteration": "fazādathum",
+        "english_meaning": "then it has increased them",
+        "arabic_text": "فَأَمَّا الَّذِينَ آمَنُوا فَزَادَتْهُمْ إِيمَانًا وَهُمْ يَسْتَبْشِرُونَ",
+        "highlighted_word": "فَزَادَتْهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 125,
+          "word": 6,
+          "reference": "(9:125:6)"
+        },
+        "transliteration": "fazādathum",
+        "english_meaning": "(it) increases them",
+        "arabic_text": "وَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ",
+        "highlighted_word": "فَزَادَتْهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 52,
+          "word": 11,
+          "reference": "(11:52:11)"
+        },
+        "transliteration": "wayazid'kum",
+        "english_meaning": "and increase you",
+        "arabic_text": "يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ",
+        "highlighted_word": "وَيَزِدْكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 63,
+          "word": 20,
+          "reference": "(11:63:20)"
+        },
+        "transliteration": "tazīdūnanī",
+        "english_meaning": "you would increase me",
+        "arabic_text": "فَمَنْ يَنْصُرُنِي مِنَ اللَّهِ إِنْ عَصَيْتُهُ فَمَا تَزِيدُونَنِي غَيْرَ تَخْسِيرٍ",
+        "highlighted_word": "تَزِيدُونَنِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 101,
+          "word": 22,
+          "reference": "(11:101:22)"
+        },
+        "transliteration": "zādūhum",
+        "english_meaning": "they increased them",
+        "arabic_text": "وَمَا زَادُوهُمْ غَيْرَ تَتْبِيبٍ",
+        "highlighted_word": "زَادُوهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 14,
+          "verse": 7,
+          "word": 6,
+          "reference": "(14:7:6)"
+        },
+        "transliteration": "la-azīdannakum",
+        "english_meaning": "surely I will increase you",
+        "arabic_text": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+        "highlighted_word": "لَأَزِيدَنَّكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 88,
+          "word": 7,
+          "reference": "(16:88:7)"
+        },
+        "transliteration": "zid'nāhum",
+        "english_meaning": "We will increase them",
+        "arabic_text": "زِدْنَاهُمْ عَذَابًا فَوْقَ الْعَذَابِ بِمَا كَانُوا يُفْسِدُونَ",
+        "highlighted_word": "زِدْنَاهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 41,
+          "word": 8,
+          "reference": "(17:41:8)"
+        },
+        "transliteration": "yazīduhum",
+        "english_meaning": "it increases them",
+        "arabic_text": "وَلَقَدْ صَرَّفْنَا فِي هَٰذَا الْقُرْآنِ لِيَذَّكَّرُوا وَمَا يَزِيدُهُمْ إِلَّا نُفُورًا",
+        "highlighted_word": "يَزِيدُهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 60,
+          "word": 22,
+          "reference": "(17:60:22)"
+        },
+        "transliteration": "yazīduhum",
+        "english_meaning": "it increases them",
+        "arabic_text": "وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَانًا كَبِيرًا",
+        "highlighted_word": "يَزِيدُهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 82,
+          "word": 10,
+          "reference": "(17:82:10)"
+        },
+        "transliteration": "yazīdu",
+        "english_meaning": "it increases",
+        "arabic_text": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا",
+        "highlighted_word": "يَزِيدُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 97,
+          "word": 26,
+          "reference": "(17:97:26)"
+        },
+        "transliteration": "zid'nāhum",
+        "english_meaning": "We (will) increase (for) them",
+        "arabic_text": "مَأْوَاهُمْ جَهَنَّمُ كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا",
+        "highlighted_word": "زِدْنَاهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 17,
+          "verse": 109,
+          "word": 4,
+          "reference": "(17:109:4)"
+        },
+        "transliteration": "wayazīduhum",
+        "english_meaning": "and it increases them",
+        "arabic_text": "وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا",
+        "highlighted_word": "وَيَزِيدُهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 13,
+          "word": 10,
+          "reference": "(18:13:10)"
+        },
+        "transliteration": "wazid'nāhum",
+        "english_meaning": "and We increased them",
+        "arabic_text": "إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى",
+        "highlighted_word": "وَزِدْنَاهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 19,
+          "verse": 76,
+          "word": 1,
+          "reference": "(19:76:1)"
+        },
+        "transliteration": "wayazīdu",
+        "english_meaning": "And Allah increases",
+        "arabic_text": "وَيَزِيدُ اللَّهُ الَّذِينَ اهْتَدَوْا هُدًى",
+        "highlighted_word": "وَيَزِيدُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 114,
+          "word": 16,
+          "reference": "(20:114:16)"
+        },
+        "transliteration": "zid'nī",
+        "english_meaning": "Increase me",
+        "arabic_text": "وَقُلْ رَبِّ زِدْنِي عِلْمًا",
+        "highlighted_word": "زِدْنِي"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 38,
+          "word": 6,
+          "reference": "(24:38:6)"
+        },
+        "transliteration": "wayazīdahum",
+        "english_meaning": "and increase them",
+        "arabic_text": "لِيَجْزِيَهُمُ اللَّهُ أَحْسَنَ مَا عَمِلُوا وَيَزِيدَهُمْ مِنْ فَضْلِهِ",
+        "highlighted_word": "وَيَزِيدَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 25,
+          "verse": 60,
+          "word": 12,
+          "reference": "(25:60:12)"
+        },
+        "transliteration": "wazādahum",
+        "english_meaning": "And it increases them",
+        "arabic_text": "قَالُوا وَمَا الرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًا",
+        "highlighted_word": "وَزَادَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 22,
+          "word": 15,
+          "reference": "(33:22:15)"
+        },
+        "transliteration": "zādahum",
+        "english_meaning": "it increased them",
+        "arabic_text": "وَصَدَقَ اللَّهُ وَرَسُولُهُ وَمَا زَادَهُمْ إِلَّا إِيمَانًا وَتَسْلِيمًا",
+        "highlighted_word": "زَادَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 1,
+          "word": 14,
+          "reference": "(35:1:14)"
+        },
+        "transliteration": "yazīdu",
+        "english_meaning": "He increases",
+        "arabic_text": "يَزِيدُ فِي الْخَلْقِ مَا يَشَاءُ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "highlighted_word": "يَزِيدُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 30,
+          "word": 3,
+          "reference": "(35:30:3)"
+        },
+        "transliteration": "wayazīdahum",
+        "english_meaning": "and increase for them",
+        "arabic_text": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُمْ مِنْ فَضْلِهِ",
+        "highlighted_word": "وَيَزِيدَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 39,
+          "word": 12,
+          "reference": "(35:39:12)"
+        },
+        "transliteration": "yazīdu",
+        "english_meaning": "increase",
+        "arabic_text": "وَلَا يَزِيدُ الْكَافِرِينَ كُفْرُهُمْ عِنْدَ رَبِّهِمْ إِلَّا مَقْتًا",
+        "highlighted_word": "يَزِيدُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 39,
+          "word": 20,
+          "reference": "(35:39:20)"
+        },
+        "transliteration": "yazīdu",
+        "english_meaning": "increase",
+        "arabic_text": "وَلَا يَزِيدُ الْكَافِرِينَ كُفْرُهُمْ إِلَّا خَسَارًا",
+        "highlighted_word": "يَزِيدُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 42,
+          "word": 17,
+          "reference": "(35:42:17)"
+        },
+        "transliteration": "zādahum",
+        "english_meaning": "it increased them",
+        "arabic_text": "فَلَمَّا جَاءَهُمْ نَذِيرٌ مَا زَادَهُمْ إِلَّا نُفُورًا",
+        "highlighted_word": "زَادَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 147,
+          "word": 6,
+          "reference": "(37:147:6)"
+        },
+        "transliteration": "yazīdūna",
+        "english_meaning": "more",
+        "arabic_text": "وَأَرْسَلْنَاهُ إِلَىٰ مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+        "highlighted_word": "يَزِيدُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 61,
+          "word": 7,
+          "reference": "(38:61:7)"
+        },
+        "transliteration": "fazid'hu",
+        "english_meaning": "increase for him",
+        "arabic_text": "قَالُوا رَبَّنَا مَنْ قَدَّمَ لَنَا هَٰذَا فَزِدْهُ عَذَابًا ضِعْفًا فِي النَّارِ",
+        "highlighted_word": "فَزِدْهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 20,
+          "word": 6,
+          "reference": "(42:20:6)"
+        },
+        "transliteration": "nazid",
+        "english_meaning": "We increase",
+        "arabic_text": "مَنْ كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ",
+        "highlighted_word": "نَزِدْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 23,
+          "word": 22,
+          "reference": "(42:23:22)"
+        },
+        "transliteration": "nazid",
+        "english_meaning": "We increase",
+        "arabic_text": "وَمَنْ يَقْتَرِفْ حَسَنَةً نَزِدْ لَهُ فِيهَا حُسْنًا",
+        "highlighted_word": "نَزِدْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 42,
+          "verse": 26,
+          "word": 6,
+          "reference": "(42:26:6)"
+        },
+        "transliteration": "wayazīduhum",
+        "english_meaning": "and increases (for) them",
+        "arabic_text": "وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَيَزِيدُهُمْ مِنْ فَضْلِهِ",
+        "highlighted_word": "وَيَزِيدُهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 17,
+          "word": 3,
+          "reference": "(47:17:3)"
+        },
+        "transliteration": "zādahum",
+        "english_meaning": "He increases them",
+        "arabic_text": "وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدًى وَآتَاهُمْ تَقْوَاهُمْ",
+        "highlighted_word": "زَادَهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 71,
+          "verse": 6,
+          "word": 2,
+          "reference": "(71:6:2)"
+        },
+        "transliteration": "yazid'hum",
+        "english_meaning": "increased them",
+        "arabic_text": "فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا",
+        "highlighted_word": "يَزِدْهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 71,
+          "verse": 21,
+          "word": 9,
+          "reference": "(71:21:9)"
+        },
+        "transliteration": "yazid'hu",
+        "english_meaning": "increase him",
+        "arabic_text": "وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا",
+        "highlighted_word": "يَزِدْهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 71,
+          "verse": 24,
+          "word": 5,
+          "reference": "(71:24:5)"
+        },
+        "transliteration": "tazidi",
+        "english_meaning": "increase",
+        "arabic_text": "وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا",
+        "highlighted_word": "تَزِدِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 71,
+          "verse": 28,
+          "word": 12,
+          "reference": "(71:28:12)"
+        },
+        "transliteration": "tazidi",
+        "english_meaning": "increase",
+        "arabic_text": "وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+        "highlighted_word": "تَزِدِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 72,
+          "verse": 6,
+          "word": 10,
+          "reference": "(72:6:10)"
+        },
+        "transliteration": "fazādūhum",
+        "english_meaning": "so they increased them",
+        "arabic_text": "وَأَنَّهُ كَانَ رِجَالٌ مِنَ الْإِنْسِ يَعُوذُونَ بِرِجَالٍ مِنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا",
+        "highlighted_word": "فَزَادُوهُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 73,
+          "verse": 4,
+          "word": 2,
+          "reference": "(73:4:2)"
+        },
+        "transliteration": "zid",
+        "english_meaning": "add",
+        "arabic_text": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+        "highlighted_word": "زِدْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 74,
+          "verse": 15,
+          "word": 4,
+          "reference": "(74:15:4)"
+        },
+        "transliteration": "azīda",
+        "english_meaning": "I (should) add more",
+        "arabic_text": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+        "highlighted_word": "أَزِيدَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 78,
+          "verse": 30,
+          "word": 3,
+          "reference": "(78:30:3)"
+        },
+        "transliteration": "nazīdakum",
+        "english_meaning": "We will increase you",
+        "arabic_text": "فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا",
+        "highlighted_word": "نَزِيدَكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 90,
+          "word": 7,
+          "reference": "(3:90:7)"
+        },
+        "transliteration": "iz'dādū",
+        "english_meaning": "they increased",
+        "arabic_text": "إِنَّ الَّذِينَ كَفَرُوا بَعْدَ إِيمَانِهِمْ ثُمَّ ازْدَادُوا كُفْرًا لَنْ تُقْبَلَ تَوْبَتُهُمْ",
+        "highlighted_word": "ازْدَادُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 178,
+          "word": 13,
+          "reference": "(3:178:13)"
+        },
+        "transliteration": "liyazdādū",
+        "english_meaning": "so that they may increase",
+        "arabic_text": "إِنَّمَا نُمْلِي لَهُمْ لِيَزْدَادُوا إِثْمًا وَلَهُمْ عَذَابٌ مُهِينٌ",
+        "highlighted_word": "لِيَزْدَادُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 4,
+          "verse": 137,
+          "word": 11,
+          "reference": "(4:137:11)"
+        },
+        "transliteration": "iz'dādū",
+        "english_meaning": "increased",
+        "arabic_text": "إِنَّ الَّذِينَ آمَنُوا ثُمَّ كَفَرُوا ثُمَّ آمَنُوا ثُمَّ كَفَرُوا ثُمَّ ازْدَادُوا كُفْرًا لَمْ يَكُنِ اللَّهُ لِيَغْفِرَ لَهُمْ",
+        "highlighted_word": "ازْدَادُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 12,
+          "verse": 65,
+          "word": 20,
+          "reference": "(12:65:20)"
+        },
+        "transliteration": "wanazdādu",
+        "english_meaning": "and get an increase",
+        "arabic_text": "وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ",
+        "highlighted_word": "وَنَزْدَادُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 8,
+          "word": 11,
+          "reference": "(13:8:11)"
+        },
+        "transliteration": "tazdādu",
+        "english_meaning": "they exceed",
+        "arabic_text": "اللَّهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ أُنْثَىٰ وَمَا تَغِيضُ الْأَرْحَامُ وَمَا تَزْدَادُ",
+        "highlighted_word": "تَزْدَادُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 25,
+          "word": 7,
+          "reference": "(18:25:7)"
+        },
+        "transliteration": "wa-iz'dādū",
+        "english_meaning": "and add",
+        "arabic_text": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
+        "highlighted_word": "وَازْدَادُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 4,
+          "word": 8,
+          "reference": "(48:4:8)"
+        },
+        "transliteration": "liyazdādū",
+        "english_meaning": "that they may increase",
+        "arabic_text": "هُوَ الَّذِي أَنْزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوا إِيمَانًا",
+        "highlighted_word": "لِيَزْدَادُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 74,
+          "verse": 31,
+          "word": 18,
+          "reference": "(74:31:18)"
+        },
+        "transliteration": "wayazdāda",
+        "english_meaning": "and may increase",
+        "arabic_text": "لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا",
+        "highlighted_word": "وَيَزْدَادَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 37,
+          "word": 3,
+          "reference": "(9:37:3)"
+        },
+        "transliteration": "ziyādatun",
+        "english_meaning": "(is) an increase",
+        "arabic_text": "إِنَّمَا النَّسِيءُ زِيَادَةٌ فِي الْكُفْرِ يُضَلُّ بِهِ الَّذِينَ كَفَرُوا",
+        "highlighted_word": "زِيَادَةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 26,
+          "word": 4,
+          "reference": "(10:26:4)"
+        },
+        "transliteration": "waziyādatun",
+        "english_meaning": "and more",
+        "arabic_text": "لِلَّذِينَ أَحْسَنُوا الْحُسْنَىٰ وَزِيَادَةٌ",
+        "highlighted_word": "وَزِيَادَةٌ"
+      },
+      {
+        "verse_reference": {
+          "surah": 50,
+          "verse": 30,
+          "word": 9,
+          "reference": "(50:30:9)"
+        },
+        "transliteration": "mazīdin",
+        "english_meaning": "more",
+        "arabic_text": "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ امْتَلَأْتِ وَتَقُولُ هَلْ مِنْ مَزِيدٍ",
+        "highlighted_word": "مَزِيدٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 50,
+          "verse": 35,
+          "word": 6,
+          "reference": "(50:35:6)"
+        },
+        "transliteration": "mazīdun",
+        "english_meaning": "(is) more",
+        "arabic_text": "لَهُمْ مَا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ",
+        "highlighted_word": "مَزِيدٌ"
+      }
+    ],
+    "total_occurrences": 61,
+    "scraped_at": "2025-08-19 18:22:02"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zyg",
+    "keyword_text": "ز ي غ",
+    "description": "The triliteral root zāy yā ghayn (ز ي غ) occurs nine times in the Quran, in three derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to deviate, to turn away, to swerve",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 117,
+          "word": 17,
+          "reference": "(9:117:17)"
+        },
+        "transliteration": "yazīghu",
+        "english_meaning": "deviated",
+        "arabic_text": "مِنْ بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِيقٍ مِنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ",
+        "highlighted_word": "يَزِيغُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 10,
+          "word": 9,
+          "reference": "(33:10:9)"
+        },
+        "transliteration": "zāghati",
+        "english_meaning": "grew wild",
+        "arabic_text": "إِذْ جَاءُوكُمْ مِنْ فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنْكُمْ وَإِذْ زَاغَتِ الْأَبْصَارُ",
+        "highlighted_word": "زَاغَتِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 34,
+          "verse": 12,
+          "word": 20,
+          "reference": "(34:12:20)"
+        },
+        "transliteration": "yazigh",
+        "english_meaning": "deviated",
+        "arabic_text": "وَمَنْ يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ السَّعِيرِ",
+        "highlighted_word": "يَزِغْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 38,
+          "verse": 63,
+          "word": 4,
+          "reference": "(38:63:4)"
+        },
+        "transliteration": "zāghat",
+        "english_meaning": "has turned away",
+        "arabic_text": "أَتَّخَذْنَاهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ الْأَبْصَارُ",
+        "highlighted_word": "زَاغَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 53,
+          "verse": 17,
+          "word": 2,
+          "reference": "(53:17:2)"
+        },
+        "transliteration": "zāgha",
+        "english_meaning": "swerved",
+        "arabic_text": "مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ",
+        "highlighted_word": "زَاغَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 61,
+          "verse": 5,
+          "word": 15,
+          "reference": "(61:5:15)"
+        },
+        "transliteration": "zāghū",
+        "english_meaning": "they deviated",
+        "arabic_text": "فَلَمَّا زَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ",
+        "highlighted_word": "زَاغُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 8,
+          "word": 3,
+          "reference": "(3:8:3)"
+        },
+        "transliteration": "tuzigh",
+        "english_meaning": "deviate",
+        "arabic_text": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا",
+        "highlighted_word": "تُزِغْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 61,
+          "verse": 5,
+          "word": 16,
+          "reference": "(61:5:16)"
+        },
+        "transliteration": "azāgha",
+        "english_meaning": "(was caused to) deviate",
+        "arabic_text": "فَلَمَّا زَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ",
+        "highlighted_word": "أَزَاغَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 7,
+          "word": 18,
+          "reference": "(3:7:18)"
+        },
+        "transliteration": "zayghun",
+        "english_meaning": "(is) perversity",
+        "arabic_text": "فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ",
+        "highlighted_word": "زَيْغٌ"
+      }
+    ],
+    "total_occurrences": 9,
+    "scraped_at": "2025-08-19 18:22:08"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zyl",
+    "keyword_text": "ز ي ل",
+    "description": "The triliteral root zāy yā lām (ز ي ل) occurs 10 times in the Quran, in three derived forms:",
+    "word_type": "Verb (form I)",
+    "meaning": "to cease",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 217,
+          "word": 30,
+          "reference": "(2:217:30)"
+        },
+        "transliteration": "yazālūna",
+        "english_meaning": "they will cease",
+        "arabic_text": "وَلَا يَزَالُونَ يُقَاتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَنْ دِينِكُمْ إِنِ اسْتَطَاعُوا",
+        "highlighted_word": "يَزَالُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 5,
+          "verse": 13,
+          "word": 18,
+          "reference": "(5:13:18)"
+        },
+        "transliteration": "tazālu",
+        "english_meaning": "will you cease",
+        "arabic_text": "وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَائِنَةٍ مِنْهُمْ إِلَّا قَلِيلًا مِنْهُمْ",
+        "highlighted_word": "تَزَالُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 110,
+          "word": 2,
+          "reference": "(9:110:2)"
+        },
+        "transliteration": "yazālu",
+        "english_meaning": "(will) cease",
+        "arabic_text": "لَا يَزَالُ بُنْيَانُهُمُ الَّذِي بَنَوْا رِيبَةً فِي قُلُوبِهِمْ",
+        "highlighted_word": "يَزَالُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 118,
+          "word": 9,
+          "reference": "(11:118:9)"
+        },
+        "transliteration": "yazālūna",
+        "english_meaning": "they will cease",
+        "arabic_text": "وَلَوْ شَاءَ رَبُّكَ لَجَعَلَ النَّاسَ أُمَّةً وَاحِدَةً وَلَا يَزَالُونَ مُخْتَلِفِينَ",
+        "highlighted_word": "يَزَالُونَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 31,
+          "word": 31,
+          "reference": "(13:31:31)"
+        },
+        "transliteration": "yazālu",
+        "english_meaning": "will cease",
+        "arabic_text": "وَلَا يَزَالُ الَّذِينَ كَفَرُوا تُصِيبُهُمْ بِمَا صَنَعُوا قَارِعَةٌ",
+        "highlighted_word": "يَزَالُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 21,
+          "verse": 15,
+          "word": 2,
+          "reference": "(21:15:2)"
+        },
+        "transliteration": "zālat",
+        "english_meaning": "ceased",
+        "arabic_text": "فَمَا زَالَتْ تِلْكَ دَعْوَاهُمْ حَتَّىٰ جَعَلْنَاهُمْ حَصِيدًا خَامِدِينَ",
+        "highlighted_word": "زَالَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 22,
+          "verse": 55,
+          "word": 2,
+          "reference": "(22:55:2)"
+        },
+        "transliteration": "yazālu",
+        "english_meaning": "will cease",
+        "arabic_text": "وَلَا يَزَالُ الَّذِينَ كَفَرُوا فِي مِرْيَةٍ مِنْهُ حَتَّىٰ تَأْتِيَهُمُ السَّاعَةُ",
+        "highlighted_word": "يَزَالُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 34,
+          "word": 8,
+          "reference": "(40:34:8)"
+        },
+        "transliteration": "zil'tum",
+        "english_meaning": "you ceased",
+        "arabic_text": "وَلَقَدْ جَاءَكُمْ يُوسُفُ مِنْ قَبْلُ بِالْبَيِّنَاتِ فَمَا زِلْتُمْ فِي شَكٍّ مِمَّا جَاءَكُمْ بِهِ",
+        "highlighted_word": "زِلْتُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 28,
+          "word": 11,
+          "reference": "(10:28:11)"
+        },
+        "transliteration": "fazayyalnā",
+        "english_meaning": "Then We will separate",
+        "arabic_text": "فَزَيَّلْنَا بَيْنَهُمْ وَقَالَ شُرَكَاؤُهُمْ مَا كُنْتُمْ إِيَّانَا تَعْبُدُونَ",
+        "highlighted_word": "فَزَيَّلْنَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 25,
+          "word": 34,
+          "reference": "(48:25:34)"
+        },
+        "transliteration": "tazayyalū",
+        "english_meaning": "they had been apart",
+        "arabic_text": "لَوْ تَزَيَّلُوا لَعَذَّبْنَا الَّذِينَ كَفَرُوا مِنْهُمْ عَذَابًا أَلِيمًا",
+        "highlighted_word": "تَزَيَّلُوا"
+      }
+    ],
+    "total_occurrences": 10,
+    "scraped_at": "2025-08-19 18:22:12"
+  },
+  {
+    "letter": "z",
+    "keyword_value": "zyn",
+    "keyword_text": "ز ي ن",
+    "description": "The triliteral root zāy yā nūn (ز ي ن) occurs 46 times in the Quran, in three derived forms:",
+    "word_type": "Verb (form II)",
+    "meaning": "to make fair-seeming",
+    "occurrences": [
+      {
+        "verse_reference": {
+          "surah": 2,
+          "verse": 212,
+          "word": 1,
+          "reference": "(2:212:1)"
+        },
+        "transliteration": "zuyyina",
+        "english_meaning": "Beautified",
+        "arabic_text": "زُيِّنَ لِلَّذِينَ كَفَرُوا الْحَيَاةُ الدُّنْيَا",
+        "highlighted_word": "زُيِّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 3,
+          "verse": 14,
+          "word": 1,
+          "reference": "(3:14:1)"
+        },
+        "transliteration": "zuyyina",
+        "english_meaning": "Beautified",
+        "arabic_text": "زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاءِ وَالْبَنِينَ",
+        "highlighted_word": "زُيِّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 43,
+          "word": 9,
+          "reference": "(6:43:9)"
+        },
+        "transliteration": "wazayyana",
+        "english_meaning": "and made fair-seeming",
+        "arabic_text": "وَلَٰكِنْ قَسَتْ قُلُوبُهُمْ وَزَيَّنَ لَهُمُ الشَّيْطَانُ مَا كَانُوا يَعْمَلُونَ",
+        "highlighted_word": "وَزَيَّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 108,
+          "word": 14,
+          "reference": "(6:108:14)"
+        },
+        "transliteration": "zayyannā",
+        "english_meaning": "We have made fair-seeming",
+        "arabic_text": "كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِمْ مَرْجِعُهُمْ",
+        "highlighted_word": "زَيَّنَّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 122,
+          "word": 20,
+          "reference": "(6:122:20)"
+        },
+        "transliteration": "zuyyina",
+        "english_meaning": "is made fair-seeming",
+        "arabic_text": "كَذَٰلِكَ زُيِّنَ لِلْكَافِرِينَ مَا كَانُوا يَعْمَلُونَ",
+        "highlighted_word": "زُيِّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 6,
+          "verse": 137,
+          "word": 2,
+          "reference": "(6:137:2)"
+        },
+        "transliteration": "zayyana",
+        "english_meaning": "made pleasing",
+        "arabic_text": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِنَ الْمُشْرِكِينَ قَتْلَ أَوْلَادِهِمْ شُرَكَاؤُهُمْ",
+        "highlighted_word": "زَيَّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 8,
+          "verse": 48,
+          "word": 2,
+          "reference": "(8:48:2)"
+        },
+        "transliteration": "zayyana",
+        "english_meaning": "made fair-seeming",
+        "arabic_text": "وَإِذْ زَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ الْيَوْمَ مِنَ النَّاسِ",
+        "highlighted_word": "زَيَّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 9,
+          "verse": 37,
+          "word": 23,
+          "reference": "(9:37:23)"
+        },
+        "transliteration": "zuyyina",
+        "english_meaning": "Is made fair-seeming",
+        "arabic_text": "فَيُحِلُّوا مَا حَرَّمَ اللَّهُ زُيِّنَ لَهُمْ سُوءُ أَعْمَالِهِمْ",
+        "highlighted_word": "زُيِّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 12,
+          "word": 23,
+          "reference": "(10:12:23)"
+        },
+        "transliteration": "zuyyina",
+        "english_meaning": "(it) is made fair seeming",
+        "arabic_text": "كَذَٰلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا كَانُوا يَعْمَلُونَ",
+        "highlighted_word": "زُيِّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 13,
+          "verse": 33,
+          "word": 26,
+          "reference": "(13:33:26)"
+        },
+        "transliteration": "zuyyina",
+        "english_meaning": "(is) made fair-seeming",
+        "arabic_text": "بَلْ زُيِّنَ لِلَّذِينَ كَفَرُوا مَكْرُهُمْ وَصُدُّوا عَنِ السَّبِيلِ",
+        "highlighted_word": "زُيِّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 15,
+          "verse": 16,
+          "word": 6,
+          "reference": "(15:16:6)"
+        },
+        "transliteration": "wazayyannāhā",
+        "english_meaning": "and We have beautified it",
+        "arabic_text": "وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِرِينَ",
+        "highlighted_word": "وَزَيَّنَّاهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 15,
+          "verse": 39,
+          "word": 5,
+          "reference": "(15:39:5)"
+        },
+        "transliteration": "la-uzayyinanna",
+        "english_meaning": "surely, I will make (evil) fair-seeming",
+        "arabic_text": "قَالَ رَبِّ بِمَا أَغْوَيْتَنِي لَأُزَيِّنَنَّ لَهُمْ فِي الْأَرْضِ",
+        "highlighted_word": "لَأُزَيِّنَنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 63,
+          "word": 8,
+          "reference": "(16:63:8)"
+        },
+        "transliteration": "fazayyana",
+        "english_meaning": "but made fair-seeming",
+        "arabic_text": "تَاللَّهِ لَقَدْ أَرْسَلْنَا إِلَىٰ أُمَمٍ مِنْ قَبْلِكَ فَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ",
+        "highlighted_word": "فَزَيَّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 4,
+          "word": 6,
+          "reference": "(27:4:6)"
+        },
+        "transliteration": "zayyannā",
+        "english_meaning": "We have made fair-seeming",
+        "arabic_text": "إِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ زَيَّنَّا لَهُمْ أَعْمَالَهُمْ",
+        "highlighted_word": "زَيَّنَّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 27,
+          "verse": 24,
+          "word": 8,
+          "reference": "(27:24:8)"
+        },
+        "transliteration": "wazayyana",
+        "english_meaning": "and has made fair-seeming",
+        "arabic_text": "وَجَدْتُهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِنْ دُونِ اللَّهِ وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ",
+        "highlighted_word": "وَزَيَّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 29,
+          "verse": 38,
+          "word": 8,
+          "reference": "(29:38:8)"
+        },
+        "transliteration": "wazayyana",
+        "english_meaning": "And made fair-seeming",
+        "arabic_text": "وَعَادًا وَثَمُودَ وَقَدْ تَبَيَّنَ لَكُمْ مِنْ مَسَاكِنِهِمْ وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ",
+        "highlighted_word": "وَزَيَّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 35,
+          "verse": 8,
+          "word": 2,
+          "reference": "(35:8:2)"
+        },
+        "transliteration": "zuyyina",
+        "english_meaning": "is made fair-seeming",
+        "arabic_text": "أَفَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِهِ فَرَآهُ حَسَنًا فَإِنَّ اللَّهَ يُضِلُّ مَنْ يَشَاءُ",
+        "highlighted_word": "زُيِّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 6,
+          "word": 2,
+          "reference": "(37:6:2)"
+        },
+        "transliteration": "zayyannā",
+        "english_meaning": "[We] adorned",
+        "arabic_text": "إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ",
+        "highlighted_word": "زَيَّنَّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 40,
+          "verse": 37,
+          "word": 11,
+          "reference": "(40:37:11)"
+        },
+        "transliteration": "zuyyina",
+        "english_meaning": "was made fair-seeming",
+        "arabic_text": "وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوءُ عَمَلِهِ وَصُدَّ عَنِ السَّبِيلِ",
+        "highlighted_word": "زُيِّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 12,
+          "word": 11,
+          "reference": "(41:12:11)"
+        },
+        "transliteration": "wazayyannā",
+        "english_meaning": "And We adorned",
+        "arabic_text": "وَزَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَحِفْظًا",
+        "highlighted_word": "وَزَيَّنَّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 41,
+          "verse": 25,
+          "word": 4,
+          "reference": "(41:25:4)"
+        },
+        "transliteration": "fazayyanū",
+        "english_meaning": "(who) made fair-seeming",
+        "arabic_text": "وَقَيَّضْنَا لَهُمْ قُرَنَاءَ فَزَيَّنُوا لَهُمْ مَا بَيْنَ أَيْدِيهِمْ",
+        "highlighted_word": "فَزَيَّنُوا"
+      },
+      {
+        "verse_reference": {
+          "surah": 47,
+          "verse": 14,
+          "word": 8,
+          "reference": "(47:14:8)"
+        },
+        "transliteration": "zuyyina",
+        "english_meaning": "is made attractive",
+        "arabic_text": "أَفَمَنْ كَانَ عَلَىٰ بَيِّنَةٍ مِنْ رَبِّهِ كَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِهِ",
+        "highlighted_word": "زُيِّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 48,
+          "verse": 12,
+          "word": 11,
+          "reference": "(48:12:11)"
+        },
+        "transliteration": "wazuyyina",
+        "english_meaning": "that was made fair-seeming",
+        "arabic_text": "وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمْ وَظَنَنْتُمْ ظَنَّ السَّوْءِ",
+        "highlighted_word": "وَزُيِّنَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 49,
+          "verse": 7,
+          "word": 18,
+          "reference": "(49:7:18)"
+        },
+        "transliteration": "wazayyanahu",
+        "english_meaning": "and has made it pleasing",
+        "arabic_text": "وَلَٰكِنَّ اللَّهَ حَبَّبَ إِلَيْكُمُ الْإِيمَانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ",
+        "highlighted_word": "وَزَيَّنَهُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 50,
+          "verse": 6,
+          "word": 8,
+          "reference": "(50:6:8)"
+        },
+        "transliteration": "wazayyannāhā",
+        "english_meaning": "and adorned it",
+        "arabic_text": "أَفَلَمْ يَنْظُرُوا إِلَى السَّمَاءِ فَوْقَهُمْ كَيْفَ بَنَيْنَاهَا وَزَيَّنَّاهَا",
+        "highlighted_word": "وَزَيَّنَّاهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 67,
+          "verse": 5,
+          "word": 2,
+          "reference": "(67:5:2)"
+        },
+        "transliteration": "zayyannā",
+        "english_meaning": "We have beautified",
+        "arabic_text": "وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُجُومًا لِلشَّيَاطِينِ",
+        "highlighted_word": "زَيَّنَّا"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 24,
+          "word": 22,
+          "reference": "(10:24:22)"
+        },
+        "transliteration": "wa-izzayyanat",
+        "english_meaning": "and is beautified",
+        "arabic_text": "حَتَّىٰ إِذَا أَخَذَتِ الْأَرْضُ زُخْرُفَهَا وَازَّيَّنَتْ وَظَنَّ أَهْلُهَا أَنَّهُمْ قَادِرُونَ عَلَيْهَا أَتَاهَا أَمْرُنَا",
+        "highlighted_word": "وَازَّيَّنَتْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 31,
+          "word": 4,
+          "reference": "(7:31:4)"
+        },
+        "transliteration": "zīnatakum",
+        "english_meaning": "your adornment",
+        "arabic_text": "يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ",
+        "highlighted_word": "زِينَتَكُمْ"
+      },
+      {
+        "verse_reference": {
+          "surah": 7,
+          "verse": 32,
+          "word": 4,
+          "reference": "(7:32:4)"
+        },
+        "transliteration": "zīnata",
+        "english_meaning": "(the) adornment",
+        "arabic_text": "قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبَادِهِ وَالطَّيِّبَاتِ مِنَ الرِّزْقِ",
+        "highlighted_word": "زِينَةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 10,
+          "verse": 88,
+          "word": 8,
+          "reference": "(10:88:8)"
+        },
+        "transliteration": "zīnatan",
+        "english_meaning": "splendor",
+        "arabic_text": "وَقَالَ مُوسَىٰ رَبَّنَا إِنَّكَ آتَيْتَ فِرْعَوْنَ وَمَلَأَهُ زِينَةً",
+        "highlighted_word": "زِينَةً"
+      },
+      {
+        "verse_reference": {
+          "surah": 11,
+          "verse": 15,
+          "word": 6,
+          "reference": "(11:15:6)"
+        },
+        "transliteration": "wazīnatahā",
+        "english_meaning": "and its adornments",
+        "arabic_text": "مَنْ كَانَ يُرِيدُ الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا نُوَفِّ إِلَيْهِمْ أَعْمَالَهُمْ فِيهَا",
+        "highlighted_word": "وَزِينَتَهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 16,
+          "verse": 8,
+          "word": 5,
+          "reference": "(16:8:5)"
+        },
+        "transliteration": "wazīnatan",
+        "english_meaning": "and (as) adornment",
+        "arabic_text": "وَالْخَيْلَ وَالْبِغَالَ وَالْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً",
+        "highlighted_word": "وَزِينَةً"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 7,
+          "word": 6,
+          "reference": "(18:7:6)"
+        },
+        "transliteration": "zīnatan",
+        "english_meaning": "adornment",
+        "arabic_text": "إِنَّا جَعَلْنَا مَا عَلَى الْأَرْضِ زِينَةً لَهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًا",
+        "highlighted_word": "زِينَةً"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 28,
+          "word": 16,
+          "reference": "(18:28:16)"
+        },
+        "transliteration": "zīnata",
+        "english_meaning": "adornment",
+        "arabic_text": "وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ الْحَيَاةِ الدُّنْيَا",
+        "highlighted_word": "زِينَةَ"
+      },
+      {
+        "verse_reference": {
+          "surah": 18,
+          "verse": 46,
+          "word": 3,
+          "reference": "(18:46:3)"
+        },
+        "transliteration": "zīnatu",
+        "english_meaning": "(are) adornment",
+        "arabic_text": "الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا",
+        "highlighted_word": "زِينَةُ"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 59,
+          "word": 4,
+          "reference": "(20:59:4)"
+        },
+        "transliteration": "l-zīnati",
+        "english_meaning": "(of) the festival",
+        "arabic_text": "قَالَ مَوْعِدُكُمْ يَوْمُ الزِّينَةِ وَأَنْ يُحْشَرَ النَّاسُ ضُحًى",
+        "highlighted_word": "الزِّينَةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 20,
+          "verse": 87,
+          "word": 10,
+          "reference": "(20:87:10)"
+        },
+        "transliteration": "zīnati",
+        "english_meaning": "ornaments",
+        "arabic_text": "وَلَٰكِنَّا حُمِّلْنَا أَوْزَارًا مِنْ زِينَةِ الْقَوْمِ فَقَذَفْنَاهَا",
+        "highlighted_word": "زِينَةِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 31,
+          "word": 10,
+          "reference": "(24:31:10)"
+        },
+        "transliteration": "zīnatahunna",
+        "english_meaning": "their adornment",
+        "arabic_text": "وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا",
+        "highlighted_word": "زِينَتَهُنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 31,
+          "word": 21,
+          "reference": "(24:31:21)"
+        },
+        "transliteration": "zīnatahunna",
+        "english_meaning": "their adornment",
+        "arabic_text": "وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ آبَائِهِنَّ",
+        "highlighted_word": "زِينَتَهُنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 31,
+          "word": 70,
+          "reference": "(24:31:70)"
+        },
+        "transliteration": "zīnatihinna",
+        "english_meaning": "their adornment",
+        "arabic_text": "وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِنْ زِينَتِهِنَّ",
+        "highlighted_word": "زِينَتِهِنَّ"
+      },
+      {
+        "verse_reference": {
+          "surah": 24,
+          "verse": 60,
+          "word": 16,
+          "reference": "(24:60:16)"
+        },
+        "transliteration": "bizīnatin",
+        "english_meaning": "their adornment",
+        "arabic_text": "فَلَيْسَ عَلَيْهِنَّ جُنَاحٌ أَنْ يَضَعْنَ ثِيَابَهُنَّ غَيْرَ مُتَبَرِّجَاتٍ بِزِينَةٍ",
+        "highlighted_word": "بِزِينَةٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 60,
+          "word": 8,
+          "reference": "(28:60:8)"
+        },
+        "transliteration": "wazīnatuhā",
+        "english_meaning": "and its adornment",
+        "arabic_text": "وَمَا أُوتِيتُمْ مِنْ شَيْءٍ فَمَتَاعُ الْحَيَاةِ الدُّنْيَا وَزِينَتُهَا",
+        "highlighted_word": "وَزِينَتُهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 28,
+          "verse": 79,
+          "word": 5,
+          "reference": "(28:79:5)"
+        },
+        "transliteration": "zīnatihi",
+        "english_meaning": "his adornment",
+        "arabic_text": "فَخَرَجَ عَلَىٰ قَوْمِهِ فِي زِينَتِهِ",
+        "highlighted_word": "زِينَتِهِ"
+      },
+      {
+        "verse_reference": {
+          "surah": 33,
+          "verse": 28,
+          "word": 10,
+          "reference": "(33:28:10)"
+        },
+        "transliteration": "wazīnatahā",
+        "english_meaning": "and its adornment",
+        "arabic_text": "إِنْ كُنْتُنَّ تُرِدْنَ الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ",
+        "highlighted_word": "وَزِينَتَهَا"
+      },
+      {
+        "verse_reference": {
+          "surah": 37,
+          "verse": 6,
+          "word": 5,
+          "reference": "(37:6:5)"
+        },
+        "transliteration": "bizīnatin",
+        "english_meaning": "with an adornment",
+        "arabic_text": "إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ",
+        "highlighted_word": "بِزِينَةٍ"
+      },
+      {
+        "verse_reference": {
+          "surah": 57,
+          "verse": 20,
+          "word": 7,
+          "reference": "(57:20:7)"
+        },
+        "transliteration": "wazīnatun",
+        "english_meaning": "and adornment",
+        "arabic_text": "اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ",
+        "highlighted_word": "وَزِينَةٌ"
+      }
+    ],
+    "total_occurrences": 46,
+    "scraped_at": "2025-08-19 18:22:16"
+  }
+]
